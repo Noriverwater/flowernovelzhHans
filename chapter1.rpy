@@ -16,7 +16,7 @@ translate chinese prologue_3af24308:
 translate chinese prologue_255a3efa:
 
     # "흔히 추억이라 불리는, 그런 조각들 말이다. "
-    "那些被称为回忆的碎片。"
+    "那些碎片，通常被称为回忆。"
 
 # game/chapter1.rpy:28
 translate chinese prologue_06bfe242:
