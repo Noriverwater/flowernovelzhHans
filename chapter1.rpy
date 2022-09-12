@@ -1770,7 +1770,7 @@ translate chinese ecg2_label_37ed45b5:
     # voice ""
     # 나 "“내 이름은 세…….”"
     voice ""
-    나 "“我叫……”"
+    나 "“我叫世……”"
 
 # game/chapter1.rpy:961
 translate chinese ecg2_label_2a73001e:

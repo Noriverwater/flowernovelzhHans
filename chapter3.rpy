@@ -7500,7 +7500,7 @@ translate chinese ecg5_label_e6b84d37:
     # voice "voices/hc25.ogg"
     # 현지 "“앞으로는 ‘신경 쓰지 마’라는 말, 하기 없기예요.”"
     voice "voices/hc25.ogg"
-    현지 "““别担心”这样的话，以后别再说了。”"
+    현지 "“‘别担心’这样的话，以后别再说了。”"
 
 # game/chapter3.rpy:3110
 translate chinese ecg5_label_2a1ca89e:

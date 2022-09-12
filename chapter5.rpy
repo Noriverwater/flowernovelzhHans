@@ -2214,7 +2214,7 @@ translate chinese chapter5_1b93e21f:
 translate chinese chapter5_79438209:
 
     # shnvl_me "텔레이도스코프를 설치할 만한 장소를 찾은 것 같아"
-    shnvl_me "好像已经找到了一个用来安装远华镜地方。"
+    shnvl_me "好像已经找到了一个用来安装远华镜的地方。"
 
 # game/chapter5.rpy:888
 translate chinese chapter5_1f15abd2:
@@ -6576,7 +6576,7 @@ translate chinese ecg11_label_05e373be:
 translate chinese ecg11_label_b8bca98f:
 
     # "그리고 내 위로 라이터를 떨어트리려는 찰나, 나는 그 녀석의 등 뒤에서 붉은색 빛을 보았다. "
-    "在打火机掉到我身上的前一刹那，我在那家伙的背后看到了红色的光芒。"
+    "然后想要把打火机扔到我身上的瞬间，我在那家伙的背后看到了红色的光芒。"
 
 # game/chapter5.rpy:2922
 translate chinese ecg11_label_6a387c27:
