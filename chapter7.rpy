@@ -7428,7 +7428,7 @@ translate chinese chapter7_lastwish_log_55e9ba5b:
 translate chinese chapter7_lastwish_log_13a437ab:
 
     # narl "여름의 끝에 피어난 수십 발의 꽃들. "
-    narl "夏末盛开的数十朵花。"
+    narl "夏末盛开的数十发花。"
 
 # game/chapter7.rpy:3309
 translate chinese chapter7_lastwish_log_df6442fc:
@@ -7714,7 +7714,7 @@ translate chinese chapter7_1_e40ffc30:
 translate chinese chapter7_1_a667e18d:
 
     # "허탈하리만큼 쉽게, 그리고 간단히. "
-    "简单得让人空虚。"
+    "简单得让人失望，和空虚。"
 
 # game/chapter7.rpy:3411
 translate chinese chapter7_1_477a0b23:
@@ -9960,7 +9960,7 @@ translate chinese chapter7_2_89d1ee66:
     # voice "voices/gh39.ogg"
     # 가연o "“…… 마음 내키면.”"
     voice "voices/gh39.ogg"
-    가연o "“……如果愿意的话……”"
+    가연o "“……心情好的话。”"
 
 # game/chapter7.rpy:4293
 translate chinese chapter7_2_2a23b68d:
@@ -9974,7 +9974,7 @@ translate chinese chapter7_2_2a23b68d:
 translate chinese chapter7_2_e3ccc722:
 
     # naro "가연의 반응은 그런 걸 왜 보러 가냐고 대답하리라 생각했던 내 예상을 벗어난 것이었다. "
-    naro "佳妍的反应超出了我的预想。"
+    naro "佳妍的反应超出了我的预想，我以为她会回答为什么要去看那个之类的话。"
 
 # game/chapter7.rpy:4297
 translate chinese chapter7_2_4a4839fa:
@@ -12474,7 +12474,7 @@ translate chinese chapter7_3_1c45dc01:
 translate chinese chapter7_3_469e8e4f:
 
     # "다만 원한을 잔뜩 머금어, 미련을 잔뜩 머금어 사라지지 못하고 차안{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}(此岸){/font}{/size}을 떠도는 두 원귀가 이곳에 있다는 것만이 우리가 알 수 있는 사실이었다. "
-    "但我们只能知道，头顶着光环，怀着怨恨和迷恋无法消失，在{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}漂浮的两只冤魂就在这里。"
+    "但我们只能知道，头顶着光环，怀着怨恨和迷恋无法消失，在{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}流浪的两只冤魂就在这里。"
 
 # game/chapter7.rpy:5257
 translate chinese chapter7_3_cbf7cd1f:
@@ -12486,7 +12486,7 @@ translate chinese chapter7_3_cbf7cd1f:
 translate chinese chapter7_3_cd3a91d2:
 
     # "사라지지 못한 채 존재한다는 것이, 서로에게 어떤 결과를 가져다줄지는 꿈에도 예상하지 못한 채 말이다. "
-    "我们做梦也没有想到，无法消失却依然存在会给彼此带来什么后果。"
+    "我们做梦也没有想到，在无法消失的情况下存在会给彼此带来什么后果。"
 
 # game/chapter7.rpy:5261
 translate chinese chapter7_3_5f0a9741:
