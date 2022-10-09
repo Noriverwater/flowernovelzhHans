@@ -6417,7 +6417,7 @@ translate chinese ecg5_label_acdec395:
     "正如预期的那样，贤智的短信和任何时候看都很难适应的表情符号\n一起出现在了平板电脑内。"
 
 # game/chapter3.rpy:2725
-translate chinese ecg5_label_2c4362b6:
+translate chinese ecg5_label_68c3fc11:
 
     # shnvl_hy "선배! 혹시 지금까지 알아낸 거 있어요？ (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})？？"
     shnvl_hy "前辈。到现在为止有什么发现吗？(　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}{font=fonts/GothicA1-Regular.ttf}д{/font}{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})？？"
