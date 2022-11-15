@@ -28,19 +28,19 @@ translate chinese prologue_06bfe242:
 translate chinese prologue_b463473e:
 
     # "몇 광년은 족히 떨어져 있을 두 별처럼 아득하면서도, 한쪽에서 손을 뻗으면 금세 닿을 것만 같은 그 추억의 조각들이. "
-    "从一端触手可及的记忆碎片，却仿佛两颗相距几光年的星星一样渺远。"
+    "如同两颗相距几光年的星星一样渺远的那些回忆碎片，却好像从一端伸出手就能马上触碰到。"
 
 # game/chapter1.rpy:33
 translate chinese prologue_3149fd0c:
 
     # "내 안에서, 빛을 발하고 있었다. "
-    "在我的内心，散发着光芒。"
+    "在我心中，散发着光芒。"
 
 # game/chapter1.rpy:58
 translate chinese chapter1_747e0d0e:
 
     # "본격적으로 무더위가 시작되려는지, 그날의 하굣길은 유난스럽게도 더웠다."
-    "或许酷暑即将开始，那一天的上学路上异常炎热。"
+    "或许酷暑即将正式开始，那一天的上学路上异常炎热。"
 
 # game/chapter1.rpy:73
 translate chinese chapter1_23cbc7b9:
@@ -48,7 +48,7 @@ translate chinese chapter1_23cbc7b9:
     # voice "voices/ya1.ogg"
     # whoyumi "“맛있다아아아~~”"
     voice "voices/ya1.ogg"
-    whoyumi "“好好吃啊～～”"
+    whoyumi "“好好吃啊啊啊～～”"
 
 # game/chapter1.rpy:78
 translate chinese chapter1_053a25a3:
@@ -56,19 +56,19 @@ translate chinese chapter1_053a25a3:
     # voice ""
     # "한 손으로 이마에 맺힌 땀방울을 닦아내려는데, 옆에서는 무더위 따위는 잊은 듯한 달콤한 목소리가 들려왔다."
     voice ""
-    "我正想用一只手拭去额头上的汗水，却听到旁边传来一个甜美的声音，这让我暂时忘记了炎热。"
+    "用一只手拭去额头上凝结的汗水，旁边传来甜美的声音，好像让我忘记了炎热。"
 
 # game/chapter1.rpy:81
 translate chinese chapter1_106f18a8:
 
     # "이 순간만큼은 세상 누구보다 행복해 보이는 그 목소리의 주인공은 다름 아닌 내 클래스메이트 유미. "
-    "这个声音的主人听上去似乎比世界上任何人都幸福，她正是我的同学优美。"
+    "这一瞬间，看起来比世界上任何人都幸福的，那个声音的主人公，只能是我的同班同学优美。"
 
 # game/chapter1.rpy:83
 translate chinese chapter1_a24ff55f:
 
     # "언제나 활기가 가득하다 못해 넘쳐버릴 것 같은 그녀는 날아갈 듯한 얼굴로 방금 산 크레페를 크게 한 입 베어 문 뒤였다. "
-    "总是充满活力，精力过剩的她，神采飞扬地咬着刚买来的可丽饼。"
+    "总是充满朝气，像是快要溢出来的她，神采飞扬地咬了一大口刚买来的可丽饼。"
 
 # game/chapter1.rpy:88
 translate chinese chapter1_db5ad915:
@@ -76,7 +76,7 @@ translate chinese chapter1_db5ad915:
     # voice "voices/ya2.ogg"
     # 유미 "“있지, 여기서 파는 크레페는 특히 더 맛있는 것 같아. 그렇지 않아？”"
     voice "voices/ya2.ogg"
-    유미 "“嘿嘿，这里卖的可丽饼特别好吃。不是吗？”"
+    유미 "“你知道的，这里卖的可丽饼特别好吃。不是吗？”"
 
 # game/chapter1.rpy:90
 translate chinese chapter1_2bc5057f:
@@ -84,13 +84,13 @@ translate chinese chapter1_2bc5057f:
     # voice ""
     # "나에게 긍정을 강요하는 듯한 단정적인 목소리. "
     voice ""
-    "认真的语气让我不得不赞同。"
+    "明确的话音，好像让我不得不赞同。"
 
 # game/chapter1.rpy:97
 translate chinese chapter1_06eb322d:
 
     # 나 "“으응, 그러게. 맛있는 것 같아.”"
-    나 "“是啊。看上去很好吃。”"
+    나 "“嗯，是啊。好像很好吃。”"
 
 # game/chapter1.rpy:99
 translate chinese chapter1_c0ef8d8c:
@@ -108,25 +108,25 @@ translate chinese chapter1_70981df4:
 translate chinese chapter1_837d8d84:
 
     # "너무나도 진짜 같아서 오히려 인공적인 느낌이 물씬 드는 맛. "
-    "这些人工合成的汁液过于像真的了，反倒显得不真实。"
+    "因为味道像是逼真过头了，反倒有浓烈的人工制造感。"
 
 # game/chapter1.rpy:105
 translate chinese chapter1_b1e62e10:
 
     # "역시 맛있으니 된 걸까, 라고 생각하며 나는 크레페를 한 입 더 베어 물었다. "
-    "果真是这样好吃吗？我一边想着，又咬了一口可丽饼。"
+    "果然，只要好吃就行了吗，我这样想。又咬了一口可丽饼。"
 
 # game/chapter1.rpy:110
 translate chinese chapter1_159c03f6:
 
     # "맛있다. "
-    "很好。"
+    "好吃。"
 
 # game/chapter1.rpy:111
 translate chinese chapter1_decf4a5d:
 
     # "오랜만에 크레페를 맛보는 내 뇌가 내린 결론이었다. "
-    "这是我久违地尝到可丽饼的大脑下的结论。"
+    "这是我时隔许久才尝到可丽饼的头脑下的结论。"
 
 # game/chapter1.rpy:118
 translate chinese chapter1_a24b0652:
@@ -134,7 +134,7 @@ translate chinese chapter1_a24b0652:
     # voice "voices/ya3.ogg"
     # 유미 "“게다가 오랜만에 먹어서 그런가, 더 맛있는 것 같아.” "
     voice "voices/ya3.ogg"
-    유미 "“另外，我想是因为很久没吃了吧，所以味道更好。”"
+    유미 "“而且，是因为很久没吃了吗，好像味道更好。”"
 
 # game/chapter1.rpy:121
 translate chinese chapter1_434bb5aa:
@@ -142,7 +142,7 @@ translate chinese chapter1_434bb5aa:
     # voice "voices/ya4.ogg"
     # 유미 "“하아아…… 크레페라면 안 질리고 매일매일 먹을 수 있는데…….”"
     voice "voices/ya4.ogg"
-    유미 "“哈哈哈……我永远不会厌倦可丽饼，要是每天都可以吃它的话……”"
+    유미 "“哈啊啊……可丽饼的话不会腻，要是每天都能吃它……”"
 
 # game/chapter1.rpy:124
 translate chinese chapter1_2b772b5b:
@@ -150,7 +150,7 @@ translate chinese chapter1_2b772b5b:
     # voice ""
     # 나 "“그러고 보니 같이 디저트 가게 들른 것도 오랜만이네. 무슨 일이라도 있었어？”"
     voice ""
-    나 "“顺便一提，我们已经有一段时间没有一起去甜品店了。发生什么事了吗？”"
+    나 "“这样看来，好久没有一起去甜品店了。发生什么事了吗？”"
 
 # game/chapter1.rpy:133
 translate chinese chapter1_9e7b27b7:
@@ -158,7 +158,7 @@ translate chinese chapter1_9e7b27b7:
     # voice "voices/ya5.ogg"
     # 유미 "“아, 하하…… 그게…….”"
     voice "voices/ya5.ogg"
-    유미 "“啊，哈哈……”"
+    유미 "“啊，哈哈……那个……”"
 
 # game/chapter1.rpy:135
 translate chinese chapter1_511d1fcb:
@@ -166,19 +166,19 @@ translate chinese chapter1_511d1fcb:
     # voice ""
     # "머쓱한 웃음을 지어 보이는 유미. "
     voice ""
-    "优美害羞地笑了笑。"
+    "优美尴尬地笑了笑。"
 
 # game/chapter1.rpy:137
 translate chinese chapter1_b779eaa0:
 
     # "뭐지？ 나한테 미처 이야기 못한 일이라도 있었던 건가？ "
-    "什么啊。有什么事没来得及跟我说吗。"
+    "什么呀？有什么事没来得及跟我说吗？"
 
 # game/chapter1.rpy:142
 translate chinese chapter1_7473df72:
 
     # "나는 유미의 당황스러워 하는 보기 드문 모습을 바라보며 크레페를 한 입 베어 물려던 참이었다. "
-    "我正要咬一口可丽饼，看着优美露出了罕见的困惑表情。"
+    "我正要咬一口可丽饼时，看见优美罕见地露出了惊慌失措的样子。"
 
 # game/chapter1.rpy:147
 translate chinese chapter1_49d83cb6:
@@ -186,7 +186,7 @@ translate chinese chapter1_49d83cb6:
     # voice "voices/ya6.ogg"
     # 유미 "“있지, 나 요즘 살 조금 찐 거 같지 않아？”"
     voice "voices/ya6.ogg"
-    유미 "“喂，你不觉得我这几天胖了一点吗？”"
+    유미 "“我说，我最近这几天是不是胖了一点？”"
 
 # game/chapter1.rpy:153
 translate chinese chapter1_71ff5baa:
@@ -194,13 +194,13 @@ translate chinese chapter1_71ff5baa:
     # voice ""
     # 나 "“쿠흡, 켁, 쿨럭……. 뭐야, 그런 걸 나한테 갑자기 왜 물어？”"
     voice ""
-    나 "“噗哈，咳咳咳咳……什么啊，为什么突然这么问我啊？”"
+    나 "“咕嗝，咳，咕噜……什么呀，为什么突然这么问？”"
 
 # game/chapter1.rpy:162
 translate chinese chapter1_c7016411:
 
     # "하마터면 체할 뻔 했다. "
-    "我假装差点呛到。"
+    "差点儿噎着。"
 
 # game/chapter1.rpy:163
 translate chinese chapter1_2a40cc6c:
@@ -214,7 +214,7 @@ translate chinese chapter1_9fa40807:
     # voice "voices/ya7.ogg"
     # 유미 "“으응？ 그거야 당연히, 지금은 너 말곤 대답해줄 사람이 없잖아？”"
     voice "voices/ya7.ogg"
-    유미 "“嗯？显然，现在除了你没有人能回答问题吧？”"
+    유미 "“嗯？那显然，现在除了你没有人应答过吧？”"
 
 # game/chapter1.rpy:174
 translate chinese chapter1_99efd78b:
@@ -222,37 +222,37 @@ translate chinese chapter1_99efd78b:
     # voice ""
     # 나 "“아니…… 그게 아니라…….”"
     voice ""
-    나 "“不……不对。”"
+    나 "“不……不是那样……”"
 
 # game/chapter1.rpy:181
 translate chinese chapter1_6e4baed8:
 
     # "얼굴에 난감한 티를 잔뜩 묻힌 채, 나는 쭈뼛쭈뼛 유미를 훑어보았다."
-    "我偷偷瞥了一眼优美，她的脸上充满了不满。"
+    "脸上沾满了难堪, 我怯生生地打量着优美。"
 
 # game/chapter1.rpy:186
 translate chinese chapter1_4131eeff:
 
     # "몇 달 전에도 이런 함정 질문에 걸려서 ‘그러게. 조금 찐 것 같아.’라고 생각 없이 대답했다가 며칠 동안 시달렸었지."
-    "几个月前我也领教了这种陷阱提问。\n“好像是有点胖了”当时我毫无顾忌地回答。"
+    "几个月前我也领教了这种陷阱提问。\n“好像是有点胖了”我当时毫无顾忌地回答，结果煎熬地度过了好几天。"
 
 # game/chapter1.rpy:188
 translate chinese chapter1_66763075:
 
     # "그렇다고 마땅한 대답이 떠오르는 건 아니었기에, 나는 유미를 멀뚱멀뚱 바라보고만 있었다."
-    "但现在我并没有想到合适的答案，因此我直愣愣地看着优美。"
+    "但现在并没有想起合适的回答，因此我直愣愣地望着优美。"
 
 # game/chapter1.rpy:189
 translate chinese chapter1_1cfe1e52:
 
     # "지금이라도 좋으니 이 이야기는 없던 걸로 하지 않을래, 라는 의미였지만."
-    "要装作没听清的样子吗？"
+    "就算是现在也好，我也不会把这句话当成耳旁风，虽然是这么个意思。"
 
 # game/chapter1.rpy:195
 translate chinese chapter1_4e8e27cd:
 
     # "질문을 철회해달라는 무언의 요구는 역시나 씨알도 먹히지 않는 듯해 보였다."
-    "就算是这么做也晚了。"
+    "但期望撤回质疑这一无言的请求似乎还是没有被接受。"
 
 # game/chapter1.rpy:202
 translate chinese chapter1_02199567:
@@ -264,25 +264,25 @@ translate chinese chapter1_02199567:
 translate chinese chapter1_a594a36b:
 
     # "혀끝을 벗어난 언어의 조각이 나도 모르는 사이에 그녀를 향해 날아간다."
-    "离开舌尖的破碎言语不知不觉地朝她飞去。"
+    "离开舌尖的语言碎片不知不觉地朝她飞去。"
 
 # game/chapter1.rpy:206
 translate chinese chapter1_2b8112a3:
 
     # 나 "“나, 나는 오히려 살 조금 찐 쪽이 더 예뻐 보이는데.”"
-    나 "“我觉得胖一点的人更漂亮。”"
+    나 "“我，我反倒觉得胖一点更漂亮。”"
 
 # game/chapter1.rpy:212
 translate chinese chapter1_9d7d52fa:
 
     # "…… 뭐라는 거야."
-    "……我在说啥呢。"
+    "……说什么呢。"
 
 # game/chapter1.rpy:219
 translate chinese chapter1_3b2532f8:
 
     # "황급히 고개를 반대편으로 틀려는데, 옆에서 당황스러움의 농도가 한층 더 짙어진 유미의 목소리가 들려왔다."
-    "急忙把头别过一边，从旁边传来了优美惊慌的声音。"
+    "慌忙把头转过去，旁边传来了惊慌程度进一步加剧的优美的声音。"
 
 # game/chapter1.rpy:223
 translate chinese chapter1_4599686c:
@@ -290,7 +290,7 @@ translate chinese chapter1_4599686c:
     # voice "voices/ya8.ogg"
     # 유미 "“지, 지금 네 취향 물어본 게 아니잖아？!”"
     voice "voices/ya8.ogg"
-    유미 "“现在不是在问你的喜好吧？”"
+    유미 "“现，现在不是在问你的喜好吧？！”"
 
 # game/chapter1.rpy:233
 translate chinese chapter1_a3363289:
@@ -298,13 +298,13 @@ translate chinese chapter1_a3363289:
     # voice ""
     # "생각 없이 내뱉은 한 마디였는데, 의외로 효과만점이었다."
     voice ""
-    "这是无意中说出的一句话，意外地效果满分。"
+    "只是无意中说出的一句话，意外地效果却很好。"
 
 # game/chapter1.rpy:235
 translate chinese chapter1_a0d6e019:
 
     # "자신의 늘어난 몸무게에 대해 잠깐 투정을 부리던 유미는 곧바로 다른 화제로 방향을 돌렸다."
-    "一直抱怨自己体重增加的优美，立刻转向了另一个话题。"
+    "因自己体重增加而一时发牢骚的优美，立刻转向了别的话题。"
 
 # game/chapter1.rpy:239
 translate chinese chapter1_83b8c446:
@@ -312,7 +312,7 @@ translate chinese chapter1_83b8c446:
     # voice "voices/ya9.ogg"
     # 유미 "“그나저나, 곧 여름 방학이잖아.”"
     voice "voices/ya9.ogg"
-    유미 "“对了，马上就是暑假了。”"
+    유미 "“话说回来，马上就放暑假了。”"
 
 # game/chapter1.rpy:241
 translate chinese chapter1_f897d660:
@@ -348,13 +348,13 @@ translate chinese chapter1_4ebc3349:
     # voice ""
     # 나 "“글쎄……. 아직 생각해 둔 건 없는데.”"
     voice ""
-    나 "“啊……我还没有想好。”"
+    나 "“这个嘛……还没有想好。”"
 
 # game/chapter1.rpy:274
 translate chinese chapter1_93fb2b34:
 
     # "지난 방학땐 정말 여러모로 바빴었는데. "
-    "上个暑假，我真的很忙。"
+    "上次放假的时候真的很忙。"
 
 # game/chapter1.rpy:275
 translate chinese chapter1_847de1a6:
@@ -374,7 +374,7 @@ translate chinese chapter1_ea44d195:
     # voice "voices/ya11.ogg"
     # 유미 "“난 이번 여름 방학은 후배들 멘토링이나 봉사활동 쪽으로 계획을 잡고 있어. 아 참, 그리고 방학 끝나고 있을 학예제 준비도 해야 하고.”"
     voice "voices/ya11.ogg"
-    유미 "“我这个暑假打算在辅导后辈和志愿活动方面下功夫。对了，还要准备假期末尾的学艺祭。”"
+    유미 "“我这个暑假打算在辅导后辈和志愿活动方面下功夫。对了，还要准备假期结束后的学艺祭。”"
 
 # game/chapter1.rpy:292
 translate chinese chapter1_99aebb68:
@@ -382,13 +382,13 @@ translate chinese chapter1_99aebb68:
     # voice ""
     # 나 "“너 다운 계획이네.”"
     voice ""
-    나 "“真像你的计划啊。”"
+    나 "“不愧是你的计划啊。”"
 
 # game/chapter1.rpy:297
 translate chinese chapter1_2a86744b:
 
     # "하긴, 유미라면 분명 계획이 있을 거라 생각했다. "
-    "嗯，我想优美一定是有计划的。"
+    "也是，优美的话肯定是有计划的。"
 
 # game/chapter1.rpy:301
 translate chinese chapter1_9744524d:
@@ -396,7 +396,7 @@ translate chinese chapter1_9744524d:
     # voice "voices/ya12.ogg"
     # 유미 "“이번 여름 방학이 아니면 이젠 봉사활동 할 시간도 없을 것 같아서.”"
     voice "voices/ya12.ogg"
-    유미 "“如果今年暑假还不行动，我想就没有时间做志愿者了。”"
+    유미 "“如果没有现在这个暑假，好像就没有时间去做志愿活动了。”"
 
 # game/chapter1.rpy:303
 translate chinese chapter1_7c2e0c12:
@@ -410,13 +410,13 @@ translate chinese chapter1_7c2e0c12:
 translate chinese chapter1_c9fdb66e:
 
     # "정말 유미답다고 할 수 있는 미래 지향적인 계획이다. "
-    "这是一个面向未来的计划，可以说是相当地符合优美的作风。"
+    "真的，面向未来的计划，可以说是相当地像优美的作风。"
 
 # game/chapter1.rpy:307
 translate chinese chapter1_001993c5:
 
     # "크레페를 한 입 더 베어 물었다. "
-    "我又咬了一口可丽饼。"
+    "又咬了一口可丽饼。"
 
 # game/chapter1.rpy:309
 translate chinese chapter1_c98022d3:
@@ -428,7 +428,7 @@ translate chinese chapter1_c98022d3:
 translate chinese chapter1_c73ba93f:
 
     # "생각에 잠기게 하는, 진한 달콤함이다. "
-    "这是一种深沉的、发人深省的甜蜜。"
+    "让人陷入沉思的，浓浓的甜蜜。"
 
 # game/chapter1.rpy:311
 translate chinese chapter1_b03c9f7f:
@@ -440,13 +440,13 @@ translate chinese chapter1_b03c9f7f:
 translate chinese chapter1_63d69fa6:
 
     # 나 "‘…… 어려운 고민이네.’"
-    나 "……这是一个难题。"
+    나 "……是难以解决的苦闷啊。"
 
 # game/chapter1.rpy:315
 translate chinese chapter1_793c38d5:
 
     # "아마 이 세상 그 누구도 이런 고민은 해 본 적 없겠지. "
-    "也许这个世界上没有人有过这样的烦恼吧。"
+    "也许这个世界上没有人有过这样的苦闷吧。"
 
 # game/chapter1.rpy:319
 translate chinese chapter1_82b1aea9:
@@ -478,7 +478,7 @@ translate chinese chapter1_ed21b4fa:
     # voice ""
     # 나 "“하긴, 그것도 그렇지.”"
     voice ""
-    나 "“是啊，没错。”"
+    나 "“是的，那倒也是。”"
 
 # game/chapter1.rpy:347
 translate chinese chapter1_152ce618:
@@ -486,7 +486,7 @@ translate chinese chapter1_152ce618:
     # voice "voices/ya15.ogg"
     # 유미 "“너, 너무 안일하게 생각하는 거 아냐？”"
     voice "voices/ya15.ogg"
-    유미 "“你是不是过于安逸了？”"
+    유미 "“你，你是不是太过于安逸了？”"
 
 # game/chapter1.rpy:355
 translate chinese chapter1_c48bef63:
@@ -494,31 +494,31 @@ translate chinese chapter1_c48bef63:
     # voice ""
     # "유미와 이야기를 하다 보면, 항상 그녀가 나를 미래로 인도하는 듯한 기분이 든다. "
     voice ""
-    "和优美谈话时，总觉得她在引导我走向未来。"
+    "和优美谈话时，总有一种她好像把我引向未来的感觉。"
 
 # game/chapter1.rpy:357
 translate chinese chapter1_bc628210:
 
     # "유미는 멍하니 생각에 잠겨있는 나를 의아한 표정으로 바라보고 있었다. "
-    "优美呆呆地看着陷入沉思的我。"
+    "优美呆呆地望着陷入沉思的我，露出诧异的表情。"
 
 # game/chapter1.rpy:358
 translate chinese chapter1_d1384bdc:
 
     # "속으로 긴 한숨을 내쉬었다. "
-    "我在心里长长地叹了口气。"
+    "心里长长地叹了口气。"
 
 # game/chapter1.rpy:361
 translate chinese chapter1_ef4f53ca:
 
     # "솔직히, 아직도 잘 모르겠다. "
-    "说实话，现在还不太清楚。"
+    "说实话，还不太清楚。"
 
 # game/chapter1.rpy:362
 translate chinese chapter1_a4dd55c6:
 
     # "이젠 발걸음을 떼어야 하는 시간인걸까. "
-    "现在是时候该采取行动了吗？"
+    "现在是到了迈开脚步的时间了吗？"
 
 # game/chapter1.rpy:366
 translate chinese chapter1_0d9c380d:
@@ -542,7 +542,7 @@ translate chinese chapter1_d3942b3d:
     # voice "voices/ya17.ogg"
     # 유미 "“결과는？ 어떻게 나왔어？”"
     voice "voices/ya17.ogg"
-    유미 "“怎么样啊？”"
+    유미 "“结果呢？怎么样啊？”"
 
 # game/chapter1.rpy:382
 translate chinese chapter1_1edd50e4:
@@ -550,7 +550,7 @@ translate chinese chapter1_1edd50e4:
     # voice ""
     # 나 "“50등 정도였나…….”"
     voice ""
-    나 "“50名左右吧？”"
+    나 "“50名左右吧……”"
 
 # game/chapter1.rpy:385
 translate chinese chapter1_140ca0de:
@@ -558,7 +558,7 @@ translate chinese chapter1_140ca0de:
     # voice "voices/ya18.ogg"
     # 유미 "“와, 정말？ 많이 올렸네. 작년 2학기까지만 해도 아슬아슬하게 두 자리 등수였잖아.”"
     voice "voices/ya18.ogg"
-    유미 "“哇，真的么？要知道上学期你才勉强达到两位数。”"
+    유미 "“哇，真的么？进步很大。到去年第二学期为止还差一点到两位数啊。”"
 
 # game/chapter1.rpy:387
 translate chinese chapter1_a21b28f4:
@@ -574,7 +574,7 @@ translate chinese chapter1_1669d1e6:
     # voice "voices/ya19.ogg"
     # 유미 "“하긴, 그렇지？!”"
     voice "voices/ya19.ogg"
-    유미 "“喂，不是吗？”"
+    유미 "“喂，不是吗？！”"
 
 # game/chapter1.rpy:400
 translate chinese chapter1_0a2065a4:
@@ -582,7 +582,7 @@ translate chinese chapter1_0a2065a4:
     # voice ""
     # "빈말은 아니었지만, 유미는 내 말에 생각보다도 강한 긍정을 보이며 키득였다. "
     voice ""
-    "虽然不是空话，但是优美对我的话表现出了比想象中更强烈的肯定。"
+    "虽然不是空话，但是优美对我的话表现出了比想象中更强烈的肯定，哈哈。"
 
 # game/chapter1.rpy:406
 translate chinese chapter1_e1c64bb4:
@@ -590,7 +590,7 @@ translate chinese chapter1_e1c64bb4:
     # voice "voices/ya20.ogg"
     # 유미 "“뿌듯한데？ 내가 가르친 학생 성적이 그렇게 올랐다니까.”"
     voice "voices/ya20.ogg"
-    유미 "“很欣慰啊，我教的学生成绩就这样提高了。”"
+    유미 "“很欣慰啊？我教的学生成绩就这样提高了。”"
 
 # game/chapter1.rpy:418
 translate chinese chapter1_4c901531:
@@ -598,13 +598,13 @@ translate chinese chapter1_4c901531:
     # voice ""
     # 나 "“네에, 네. 감사합니다, 유미 선생님.”"
     voice ""
-    나 "“是的是的。谢谢你，优美老师。”"
+    나 "“是的，是。谢谢你，优美老师。”"
 
 # game/chapter1.rpy:420
 translate chinese chapter1_abcc0485:
 
     # "한껏 기분이 업된 듯한 그녀의 말에 맞장구를 쳐 준다. "
-    "对她那激动的话表示附和。"
+    "对她那似乎很兴奋的话, 尽可能地附和了一句。"
 
 # game/chapter1.rpy:421
 translate chinese chapter1_7829da79:
@@ -1210,13 +1210,13 @@ translate chinese ecg1_label_7d5c1464:
     # voice ""
     # "유미의 날카로운 눈빛에서 찌릿 하는 소리가 들려오는 것만 같았다."
     voice ""
-    "似乎从优美锐利的眼神中感到了刺痛。"
+    "从由美犀利的眼神中仿佛听到了兹拉的声音。"
 
 # game/chapter1.rpy:736
 translate chinese ecg1_label_72e52618:
 
     # "이러다 감전사하는 건 아닐까, 하는 생각이 들 정도로 지릿지릿한 눈빛이었다."
-    "就像是触电一样。"
+    "眼神中的酥酥麻麻，甚至让我怀疑这样下去会不会触电身亡。"
 
 # game/chapter1.rpy:740
 translate chinese ecg1_label_fdb6f031:
