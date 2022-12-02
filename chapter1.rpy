@@ -1822,7 +1822,7 @@ translate chinese ecg2_label_d05fd037:
 translate chinese ecg2_label_743d482b:
 
     # "때마침 불어오는 바람에 그녀의 갈색 머리칼과 교복의 옷깃이 살랑살랑 흩날렸다."
-    "正好，风吹过她棕色的头发和校服的领子，轻轻飘扬。"
+    "正好，风吹过她褐色的头发和校服的领子，轻轻飘扬。"
 
 # game/chapter1.rpy:978
 translate chinese ecg2_label_0263bbc2:
@@ -2002,7 +2002,7 @@ translate chinese ecg2_label_edd15ea2:
 translate chinese ecg2_label_7fecd5b2:
 
     # "얼마 전까지만 해도 평범한 학생이어야 했을 나는, 졸지에 시간 여행자이자 유체이탈의 경험자가 되어 있었다."
-    "不久前还是一名普通学生的我，突然成为了时间旅行者和灵魂出窍的经验者。"
+    "不久前还是一名平凡学生的我，突然成为了时间旅行者和灵魂出窍的经验者。"
 
 # game/chapter1.rpy:1047
 translate chinese ecg2_label_7cc070f2:
@@ -2010,7 +2010,7 @@ translate chinese ecg2_label_7cc070f2:
     # voice "voices/ya60.ogg"
     # 유미 "“왜 그래？”"
     voice "voices/ya60.ogg"
-    유미 "“怎么了？”"
+    유미 "“怎么了吗？”"
 
 # game/chapter1.rpy:1049
 translate chinese ecg2_label_e15bf748:
@@ -2018,25 +2018,25 @@ translate chinese ecg2_label_e15bf748:
     # voice ""
     # 나 "“아, 아냐. 정말 긴장했나 봐. 아, 하하하…….”"
     voice ""
-    나 "“啊，没什么。看来真的很紧张啊，啊，哈哈哈……”"
+    나 "“啊，没什么。看来是真的紧张了，啊，哈哈哈……”"
 
 # game/chapter1.rpy:1052
 translate chinese ecg2_label_cd64c833:
 
     # "나는 당황스러운 티를 애써 억누르고는 최대한 아무 일도 없는 듯한 표정을 지어 보였다."
-    "我强压住惊慌的神色，尽量装出若无其事的表情。"
+    "我尽力压住惊慌的神色，最大限度摆出一副像是若无其事的表情。"
 
 # game/chapter1.rpy:1053
 translate chinese ecg2_label_ac27fa7e:
 
     # "일을 직접 겪고 있는 나조차도 믿기지 않는데, 유미라고 다를까."
-    "连亲自经历事情的我都不敢相信，优美会相信吗？"
+    "连亲自经历事情的我都不敢相信，优美会有什么不同吗？"
 
 # game/chapter1.rpy:1054
 translate chinese ecg2_label_bc7907d2:
 
     # "유미는 나의 멋쩍은 미소를 보더니, 전염이라도 된 듯 머쓱한 웃음을 입가에 띠었다."
-    "优美看着我尴尬的微笑，嘴角也摆出一种尴尬的笑容，好像传染了似的。"
+    "优美看到我别扭的微笑后，嘴角挂上了呆滞的笑容，好像被传染了似的。"
 
 # game/chapter1.rpy:1056
 translate chinese ecg2_label_9802f05e:
@@ -2044,7 +2044,7 @@ translate chinese ecg2_label_9802f05e:
     # voice "voices/ya61.ogg"
     # 유미 "“그런 이야기 들으니까 나도 좀 긴장되네. 휴, 반 배정이라도 잘 됐으면 좋겠다.”"
     voice "voices/ya61.ogg"
-    유미 "“听到这样的话，我也有点紧张了。呼，希望分到一个好班。”"
+    유미 "“听到那种话，我也稍微有点紧张了。呼，希望一切顺利，即使是分班。”"
 
 # game/chapter1.rpy:1059
 translate chinese ecg2_label_523486f6:
@@ -2052,7 +2052,7 @@ translate chinese ecg2_label_523486f6:
     # voice ""
     # "그녀는 소원을 빌듯, 하늘에 대고 말했다."
     voice ""
-    "像是许了个愿，她对着天空说道："
+    "她像许愿一样，对天空说到。"
 
 # game/chapter1.rpy:1062
 translate chinese ecg2_label_35eccdcd:
@@ -2072,7 +2072,7 @@ translate chinese ecg2_label_712c9ec3:
     # voice "voices/ya62.ogg"
     # 유미 "“와아, 고마워. 너도 행운을 빌어!”"
     voice "voices/ya62.ogg"
-    유미 "“哇谢谢你。也祝你好运！”"
+    유미 "“哇啊，谢谢你。也祝你好运！”"
 
 # game/chapter1.rpy:1070
 translate chinese ecg2_label_3e7fb526:
@@ -2080,43 +2080,43 @@ translate chinese ecg2_label_3e7fb526:
     # voice ""
     # "한쪽에선 빈 껍데기 같은 말이, 그리고 다른 한쪽에선 감정이 가득하다 못해 넘칠 것 같은 말이 오갔다."
     voice ""
-    "一方是无比空洞的话，另一方是感情满得像要溢出来的话。"
+    "一方是像空壳一样的话，另一方是感情满得像要溢出来的话。"
 
 # game/chapter1.rpy:1072
 translate chinese ecg2_label_4183f6a2:
 
     # "확실히 불공정해 보이는 감정 교환이었다."
-    "这显然是一种不公正的感情交换。"
+    "这确实是一种不公正的感情交换。"
 
 # game/chapter1.rpy:1076
 translate chinese ecg2_label_710e7695:
 
     # "죄책감이라도 든 걸까, 왠지 심장이 무거운 기분이었다."
-    "有负罪感吗？心里有些沉重。"
+    "是有负罪感吗，莫名感觉心里有些沉重。"
 
 # game/chapter1.rpy:1082
 translate chinese ecg2_label_9c768cca:
 
     # "심장이 무거웠던 건, 아무래도 기분 탓만은 아닌 모양이었다."
-    "心情很沉重，但似乎不仅是因为我的心情。"
+    "不管怎么说，心里很沉重似乎不仅是因为情绪所致。"
 
 # game/chapter1.rpy:1083
 translate chinese ecg2_label_61106e51:
 
     # "유미를 따라 학교로 향하던 중, 나는 뒤늦게나마 교복 안주머니에 들어있던 휴대용 태블릿을 발견할 수 있었다."
-    "跟着优美去学校的时候，我发现了校服口袋里的便携式平板电脑。"
+    "跟着优美去学校的时候，虽然有点晚了，但我发现了校服口袋里的便携式平板电脑。"
 
 # game/chapter1.rpy:1089
 translate chinese ecg2_label_dd1e66b7:
 
     # 나 "“으음…….”"
-    나 "“啊……”"
+    나 "“嗯……”"
 
 # game/chapter1.rpy:1091
 translate chinese ecg2_label_1338e34f:
 
     # "특이하게 생긴 태블릿이었다."
-    "这是一个看起来很奇怪的平板电脑。"
+    "这是一个看起来很特别的平板电脑。"
 
 # game/chapter1.rpy:1092
 translate chinese ecg2_label_159061dd:
@@ -2128,13 +2128,13 @@ translate chinese ecg2_label_159061dd:
 translate chinese ecg2_label_870663ae:
 
     # "태블릿을 켜는 그 짤막한 순간 동안, 불안한 생각들이 자꾸만 머릿속을 스쳐 지나갔다."
-    "打开平板电脑的那一瞬间，不安的想法总是掠过脑海。"
+    "在打开平板电脑的那一瞬间，不安的想法不住地掠过脑海。"
 
 # game/chapter1.rpy:1095
 translate chinese ecg2_label_5a60db17:
 
     # "3월 3일. 태블릿 잠금 화면의 위젯에 나타나 있는 오늘의 날짜였다."
-    "3月3日。这是出现在平板电脑锁定画面上的今天的日期。"
+    "3月3日。这是出现在平板电脑锁定画面小部件上的今天的日期。"
 
 # game/chapter1.rpy:1096
 translate chinese ecg2_label_8e39497f:
@@ -2146,25 +2146,25 @@ translate chinese ecg2_label_8e39497f:
 translate chinese ecg2_label_0ca8b75a:
 
     # "시간여행과 유체이탈을 동시에 경험하는 것과 대규모의 몰래카메라 사이에서 일어날 확률이 더 높은 걸 고르라고 한다면 단연코 후자겠지만……."
-    "如果要我选择同时经历时间旅行和灵魂出窍，和陷入精心规划的骗局之间发生概率更高的一种，当然是后者……"
+    "如果要我选择同时经历时间旅行和灵魂出窍，和陷入精心规划的骗局之间发生概率更高的一种，那当然是后者……"
 
 # game/chapter1.rpy:1098
 translate chinese ecg2_label_1792da65:
 
     # "인생은 항상 확률대로 흘러가지는 않는 법이다."
-    "生活并不总是按照概率进行。"
+    "人生之路并不总是按照概率走。"
 
 # game/chapter1.rpy:1099
 translate chinese ecg2_label_73f8f725:
 
     # "확실하지 않은 건, 내가 어느 시간대로 시간여행을 한 것인지였다."
-    "我不确定通过时间旅行到了什么时候。"
+    "不确定的是，我到底在哪个时间段进行了时间旅行。"
 
 # game/chapter1.rpy:1100
 translate chinese ecg2_label_7f0827ae:
 
     # "태블릿의 잠금 화면에는 올해가 몇 년도인지는 표시되어 있지 않았다."
-    "平板电脑的锁屏没有显示它是哪一年。"
+    "平板电脑的锁屏画面没有显示今年是哪一年。"
 
 # game/chapter1.rpy:1101
 translate chinese ecg2_label_5d32c9cf:
@@ -2176,31 +2176,31 @@ translate chinese ecg2_label_5d32c9cf:
 translate chinese ecg2_label_a680f3b7:
 
     # "내 생각을 읽기라도 한 것인지, 현재의 시간과 날짜만을 표시하고 있던 잠금 화면이 저절로 해제되었다."
-    "也许读懂了我的想法，只显示当前时间和日期的锁屏被自动释放了。"
+    "也许读懂了我的想法，只显示当前时间和日期的锁定画面被自动解除了。"
 
 # game/chapter1.rpy:1105
 translate chinese ecg2_label_58cf0183:
 
     # "뭐가 어떻게 된 건지 몰라 눈을 깜빡이다 말고, 잠금 화면이 해제된 것이 바로 이 눈동자 때문이라는 것을 깨닫는다."
-    "因为不知道怎么办所以眨了眨眼睛，意识到锁屏能够解锁正是因为这双眼睛。"
+    "因为不知道为什么变成了这样所以眨了眨眼睛，意识到锁屏能够解锁正是因为这双眼睛。"
 
 # game/chapter1.rpy:1106
 translate chinese ecg2_label_be42b5ef:
 
     # "다시 한번 내가 다른 사람의 몸에 들어와 있다는 것을 실감하는 순간이었다."
-    "那一刻，我再次意识到我在别人的身体里。"
+    "一瞬间，再次让我切身感受到自己已经进入了别人的身体。"
 
 # game/chapter1.rpy:1107
 translate chinese ecg2_label_8ef0c787:
 
     # "그나저나, 이 태블릿에는 원래 주인의 정보나 이를 유추할 수 있는 것들도 제법 들어있을 텐데."
-    "顺便说一下，这个平板电脑必须包含相当多的关于原主人信息以及可以从中推断出的东西。"
+    "不管那些，这个平板电脑应该有相当多的原主人信息以及可以从中类推出的东西。"
 
 # game/chapter1.rpy:1109
 translate chinese ecg2_label_45aa06be:
 
     # "어쩌면 상황을 풀어나갈 만한 정보를 이 태블릿에서 찾을 수 있을지도 모르겠다는 생각과 함께, 나는 태블릿의 날짜 탭을 눌렀다."
-    "我按下了平板电脑上的日期选项卡，想着或许我可以在这台平板电脑上找到一些可能解决问题的信息。"
+    "我一边想着或许能从这台平板电脑中找到能够解决情况的信息，一边按下了平板电脑的日期选项卡。"
 
 # game/chapter1.rpy:1117
 translate chinese ecg2_label_ac218618:
@@ -2208,7 +2208,7 @@ translate chinese ecg2_label_ac218618:
     # voice "voices/ya63.ogg"
     # 유미 "“여기야. 백석 고등학교.”"
     voice "voices/ya63.ogg"
-    유미 "“这里是。白石高中。”"
+    유미 "“就是这里。白石高中。”"
 
 # game/chapter1.rpy:1120
 translate chinese ecg2_label_3b4b6106:
@@ -2222,7 +2222,7 @@ translate chinese ecg2_label_3b4b6106:
 translate chinese ecg2_label_7ba7c8d8:
 
     # "태블릿에서 눈을 떼고는, 나는 고개를 들어 어느새 도착한 백석 고등학교 건물을 바라보았다."
-    "将视线从平板电脑上移开，我抬起头看着已经抵达的白石高中大楼。"
+    "将视线从平板电脑上移开，我抬起头望向不知不觉间到达的白石高中建筑。"
 
 # game/chapter1.rpy:1124
 translate chinese ecg2_label_ba79292b:
@@ -2230,7 +2230,7 @@ translate chinese ecg2_label_ba79292b:
     # voice "voices/ya64.ogg"
     # 유미 "“강당은 저쪽인가 보네.”"
     voice "voices/ya64.ogg"
-    유미 "“礼堂好像在那边啊。”"
+    유미 "“礼堂好像在那边。”"
 
 # game/chapter1.rpy:1131
 translate chinese ecg2_label_9fb4fefe:
@@ -2238,7 +2238,7 @@ translate chinese ecg2_label_9fb4fefe:
     # voice ""
     # "유미를 따라 입학식이 열리는 강당으로 향하며, 나는 다시금 방금 보았던 숫자를 곱씹어 보았다."
     voice ""
-    "我跟着优美来到举行​​入学典礼的礼堂，一边想着刚才看到的数字。"
+    "跟着优美走向举行​​入学典礼的礼堂时，我又反复斟酌着刚才看到的数字。"
 
 # game/chapter1.rpy:1133
 translate chinese ecg2_label_aba88ed2:
@@ -2250,7 +2250,7 @@ translate chinese ecg2_label_aba88ed2:
 translate chinese ecg2_label_2a73540b:
 
     # "몸도 바뀌었는데, 시간여행이라고 못할 건 없지. 암, 그렇고말고."
-    "身体也变了，发生时间旅行也没什么奇怪的。嗯，当然。"
+    "身体也变了，发生时间旅行也没什么做不到的。嗯，当然。"
 
 # game/chapter1.rpy:1135
 translate chinese ecg2_label_7716b0f3:
@@ -2262,7 +2262,7 @@ translate chinese ecg2_label_7716b0f3:
 translate chinese ecg2_label_d9cbc321:
 
     # "그래도 이건 정도가 지나친 것 같은데……？"
-    "但是这个好像太过分了……？"
+    "但是这个程度好像有点过分了吧……？"
 
 # game/chapter1.rpy:1140
 translate chinese ecg2_label_6e44280e:
@@ -2280,19 +2280,19 @@ translate chinese ecg2_label_a2e510eb:
 translate chinese ecg2_label_874b7b64:
 
     # "2136을 잘못 본 건 분명 아니었다."
-    "并不是2136."
+    "明明并不是看错了2136."
 
 # game/chapter1.rpy:1145
 translate chinese ecg2_label_48b86aad:
 
     # "태블릿의 날짜 탭에 적혀 있던 숫자란 다름 아닌 136이라는, 세 자리 숫자였다."
-    "平板电脑的日期标签上写的数字不是别的，而是136，三位数。"
+    "平板电脑的日期选项卡上写的数字不是别的，而是136，三位数。"
 
 # game/chapter1.rpy:1146
 translate chinese ecg2_label_95061460:
 
     # "나는 장장 2,000년이라는 세월을 거슬러 올라온 걸까？"
-    "我回到了2000年前吗？"
+    "我是回溯了整整2000年的岁月吗？"
 
 # game/chapter1.rpy:1150
 translate chinese ecg2_label_619550e8:
@@ -2304,13 +2304,13 @@ translate chinese ecg2_label_619550e8:
 translate chinese ecg2_label_3268b3a4:
 
     # "입학식이 끝난 뒤, 배정받은 교실에 들어오고 나서도 복잡한 건 여전했다."
-    "开学典礼结束后，进入分配的教室，脑子里仍然很复杂。"
+    "开学典礼结束后，进入分配的教室，复杂的事依然如故。"
 
 # game/chapter1.rpy:1159
 translate chinese ecg2_label_f9a220ad:
 
     # "내가 배정받은 반은 A반이었지만, 지금 중요한 건 그게 아니라는 것쯤은 나도 잘 알고 있었다."
-    "我被分配到的班级是A班，但我很清楚现在这不是最重要的事情。"
+    "我被分配到的班级是A班，但我也清楚现在最重要的事情不是这个。"
 
 # game/chapter1.rpy:1160
 translate chinese ecg2_label_3af4da68:
@@ -2328,25 +2328,25 @@ translate chinese ecg2_label_c6ac8fc8:
 translate chinese ecg2_label_97b780f4:
 
     # "혹시나 하는 생각에서였다."
-    "只是抱着试试看的想法。"
+    "或是出于试试看的想法。"
 
 # game/chapter1.rpy:1167
 translate chinese ecg2_label_151b96f1:
 
     # "136년이라는 현실감 없는 숫자가 와닿지는 않았지만, 그래도 원래의 내 몸과 바뀐 몸 사이의 연관성 정도는 찾을 수 있진 않을까."
-    "虽然我对136年这种没有现实感的数字没有概念，但是能找到我原来的身体和现在的身体之间的关联性吗。"
+    "虽然我对136年这种没有现实感的数字没有概念，但是能找到我原来的身体和变化的身体之间的关联性吗？"
 
 # game/chapter1.rpy:1171
 translate chinese ecg2_label_f3f64def:
 
     # "최대한 상상력을 발휘하려 애를 쓰며, 나는 태블릿에 저장되어 있던 정보들을 뒤졌다."
-    "我尽力发挥想象力，翻遍了平板电脑里储存的信息。"
+    "为了最大限度地发挥想象力，我翻遍了平板电脑里储存的信息。"
 
 # game/chapter1.rpy:1172
 translate chinese ecg2_label_ef72ca13:
 
     # "내 옆에서 익숙한 목소리가 들려오기 전까지는 말이다."
-    "直到身旁传来熟悉的声音。"
+    "直到我身旁传来熟悉的声音。"
 
 # game/chapter1.rpy:1180
 translate chinese ecg2_label_2530fee9:
@@ -2362,19 +2362,19 @@ translate chinese ecg2_label_31d98d55:
     # voice ""
     # "단순한 우연이라고 하기엔 너무 편의주의적 상황이 아닐까."
     voice ""
-    "这种情况不能单纯地说是偶然，是不是太机会主义了呢？"
+    "若是单纯地说是偶然，是不是太机会主义了呢？"
 
 # game/chapter1.rpy:1184
 translate chinese ecg2_label_d27ea355:
 
     # "나의 곁에 다가온 갈색 머리 여학생은 당연하다는 듯 내 옆자리에 가방을 내려놓았다."
-    "走近我的棕发少女，很自然地把包放在我旁边的座位上。"
+    "靠近我的褐色头发女生，似乎理所当然地把包放在我旁边的座位上。"
 
 # game/chapter1.rpy:1185
 translate chinese ecg2_label_053a65f3:
 
     # "반갑게 손을 흔드는 유미에게, 나는 어안이 벙벙한 얼굴로 인사를 건넸다."
-    "我一脸疑惑地向热情地挥手的优美打招呼。"
+    "我目瞪口呆地向热情招手的优美打招呼。"
 
 # game/chapter1.rpy:1187
 translate chinese ecg2_label_2f9f7ae7:
@@ -2382,7 +2382,7 @@ translate chinese ecg2_label_2f9f7ae7:
     # voice "voices/ya66.ogg"
     # 유미 "“네가 반 배정 잘 되게 해달라고 한 게 효과가 있었나 봐.”"
     voice "voices/ya66.ogg"
-    유미 "“你说但愿分到一个好班，现在你的话奏效了。”"
+    유미 "“看来你祝我分班好运，是有效果的。”"
 
 # game/chapter1.rpy:1189
 translate chinese ecg2_label_b463a64e:
@@ -2390,7 +2390,7 @@ translate chinese ecg2_label_b463a64e:
     # voice ""
     # "유미는 상냥하기 그지없는 미소를 띤 채, 내게 한 발짝 다가왔다."
     voice ""
-    "优美带着无比温柔的微笑向我靠近了一步。"
+    "优美带着无比和气的微笑向我靠近了一步。"
 
 # game/chapter1.rpy:1192
 translate chinese ecg2_label_d476a779:
@@ -2398,7 +2398,7 @@ translate chinese ecg2_label_d476a779:
     # voice "voices/ya67.ogg"
     # 유미 "“뭘 그렇게 보고 있는 거야？! 재밌는 거라도 있어？”"
     voice "voices/ya67.ogg"
-    유미 "“你在看什么？！有什么好玩的吗？”"
+    유미 "“你在看什么？！有什么有趣的东西吗？”"
 
 # game/chapter1.rpy:1194
 translate chinese ecg2_label_8032ed61:
@@ -2406,7 +2406,7 @@ translate chinese ecg2_label_8032ed61:
     # voice ""
     # 나 "“아, 그게…… 내가 좀 멀리서 학교를 배정받아서. 근처에 아는 게 없어서 찾아보고 있었던 거야.”"
     voice ""
-    나 "“哦，那是……我从很远的地方来，我只是在熟悉附近的环境。”"
+    나 "“啊，那是……我从有点远的地方被分配到学校来，因为对附近不熟悉，所以一直在东张西望。”"
 
 # game/chapter1.rpy:1197
 translate chinese ecg2_label_78dc3f45:
@@ -2418,19 +2418,19 @@ translate chinese ecg2_label_78dc3f45:
 translate chinese ecg2_label_4112234d:
 
     # "바뀐 몸의 원래 주인은 꽤나 먼 곳에서 이 학교로 배정을 받은 모양이었다."
-    "换了身体的原主人好像是从很远的地方被分配到了这所学校。"
+    "被换身体的原主人好像是从很远的地方被分配到了这所学校。"
 
 # game/chapter1.rpy:1199
 translate chinese ecg2_label_7911adbb:
 
     # "덕분에 학교에 아는 사람도 없어 보였고, 무엇보다도 부모님과도 떨어져 자취 생활을 하기로 한 듯 보였다."
-    "多亏了这一点，在学校里似乎没有人认识，最重要的是，他似乎决定独自生活，远离父母。"
+    "托他的福，看起来学校里连认识的人都没有，最重要的是，他似乎决定与父母分开过独居生活。"
 
 # game/chapter1.rpy:1200
 translate chinese ecg2_label_ab868453:
 
     # "그리고 나는, 그 정보를 토대로 그를 흉내 내는 수밖엔 없었다."
-    "我别无选择，只能根据这些信息模仿他。"
+    "而且，我只能根据这些情报模仿他。"
 
 # game/chapter1.rpy:1204
 translate chinese ecg2_label_c45dce90:
@@ -2446,7 +2446,7 @@ translate chinese ecg2_label_5b04e46b:
     # voice ""
     # 나 "“뭐…… 그렇지.”"
     voice ""
-    나 "“嗯……是啊。”"
+    나 "“嗯……是的。”"
 
 # game/chapter1.rpy:1209
 translate chinese ecg2_label_3155008a:
@@ -2458,7 +2458,7 @@ translate chinese ecg2_label_3155008a:
 translate chinese ecg2_label_f6849466:
 
     # "유미의 눈동자에서 의심의 눈초리 같은 건 지워진 지 오래였다."
-    "优美眼中的疑惑已经被抹去了。"
+    "在优美的眼中，疑惑的神情早已被抹去了。"
 
 # game/chapter1.rpy:1211
 translate chinese ecg2_label_f45bdf76:
@@ -2472,7 +2472,7 @@ translate chinese ecg2_label_8dde6960:
     # voice "voices/ya69.ogg"
     # 유미 "“사실 나도 조금 먼 곳에서 학교를 배정받았거든. 그래서 아는 사람도 없는데…… 이왕 이렇게 된 거, 서로 친하게 지내자~”"
     voice "voices/ya69.ogg"
-    유미 "“其实，我也是从远处的学校分配来的，所以没有认识的人。既然已经这样了，我们就好好相处吧~”"
+    유미 "“其实，我也是从很远的地方被分配到学校的，所以也没有认识的人……既然如此，咱们做朋友吧~”"
 
 # game/chapter1.rpy:1216
 translate chinese ecg2_label_1f6ca663:
