@@ -3608,13 +3608,14 @@ translate chinese chapter1_2_d8d265a2:
     # voice "voices/ya86.ogg"
     # 유미 "“안녕, 좋은 아침~”"
     voice "voices/ya86.ogg"
-    유미 "“早上好，又见面了~”"
+    유미 "“早上好~”"
 
 # game/chapter1.rpy:1649
 translate chinese chapter1_2_506fb819:
 
     # voice ""
     # "어제 일은 벌써 새까맣게 잊었는지, 유미는 오늘도 하이 텐션을 유지하고 있었다."
+    # 什么网络用语 （High Tension）
     voice ""
     "昨天的事情可能已经忘得一干二净了，优美今天也保持着高活力。"
 
@@ -3632,13 +3633,13 @@ translate chinese chapter1_2_1bd25508:
     # voice ""
     # "그러자 유미와 이야기를 나누고 있던 현지도 나를 발견하고는 반갑게 인사를 건넸다."
     voice ""
-    "就这样，正和优美聊天的贤智也发现了我，兴奋地向我打招呼。"
+    "这时正和优美聊天的贤智也发现了我，兴奋地向我打招呼。"
 
 # game/chapter1.rpy:1663
 translate chinese chapter1_2_c2f237ed:
 
     # 나 "“어라, 현지 너도 있었네. 여긴 웬일이야？”"
-    나 "“哦，你也在啊。今天怎么来了？”"
+    나 "“哎呦，贤智你也在啊。怎么来这儿了？”"
 
 # game/chapter1.rpy:1665
 translate chinese chapter1_2_1d20bc65:
@@ -3654,7 +3655,7 @@ translate chinese chapter1_2_e08ecc5d:
     # voice ""
     # "아침부터 이렇게 불러서까지 이야기할 정도라면, 제법 중요한 이야기인가？"
     voice ""
-    "要是从天亮一直聊到现在的话，是不是非常重要的事情？"
+    "一大早就这么说起来了，是非常重要的事吗？"
 
 # game/chapter1.rpy:1670
 translate chinese chapter1_2_20133369:
@@ -3662,7 +3663,7 @@ translate chinese chapter1_2_20133369:
     # voice "voices/ha3.ogg"
     # 현지 "“그럼 전 선배도 봤으니까, 이만 가 볼게요~”"
     voice "voices/ha3.ogg"
-    현지 "“既然前辈来了，那我先走了～”"
+    현지 "“既然见到了前辈，那么我要走了～”"
 
 # game/chapter1.rpy:1672
 translate chinese chapter1_2_00b218f7:
@@ -3670,7 +3671,7 @@ translate chinese chapter1_2_00b218f7:
     # voice ""
     # 나 "“벌써？ 이야기할 거 있다고 하지 않았어？”"
     voice ""
-    나 "“这么快？你不是说有话要说吗？”"
+    나 "“这么快？不是还有话要说吗？”"
 
 # game/chapter1.rpy:1675
 translate chinese chapter1_2_84bfa287:
@@ -3678,7 +3679,7 @@ translate chinese chapter1_2_84bfa287:
     # voice "voices/ha4.ogg"
     # 현지 "“이야기는 이미 다 했어요. 다음 동아리 시간에 봐요, 선배~”"
     voice "voices/ha4.ogg"
-    현지 "“我已经说完了。下次社团时间见前辈~”"
+    현지 "“我已经说完了。下次社团时间再见，前辈~”"
 
 # game/chapter1.rpy:1679
 translate chinese chapter1_2_e16cbb63:
@@ -3692,13 +3693,13 @@ translate chinese chapter1_2_e16cbb63:
 translate chinese chapter1_2_3451cca8:
 
     # "현지는 내게 인사를 건네고선 금세 교실 밖으로 걸어 나갔다."
-    "贤智向我打了招呼，马上走出了教室。"
+    "贤智向我打了个招呼后，马上走出了教室。"
 
 # game/chapter1.rpy:1682
 translate chinese chapter1_2_afe90597:
 
     # "나는 자리로 돌아오는 유미에게 방금 전 일의 설명을 요구했다."
-    "我请回到座位上的优美说明刚才的事情。"
+    "我要求回到座位上的优美说明刚才的事情。"
 
 # game/chapter1.rpy:1687
 translate chinese chapter1_2_f077c076:
@@ -3720,43 +3721,43 @@ translate chinese chapter1_2_c7804c72:
     # voice ""
     # 나 "“…… 뭐야, 그게.”"
     voice ""
-    나 "“……那是什么啊。”"
+    나 "“……什么啊，那个。”"
 
 # game/chapter1.rpy:1696
 translate chinese chapter1_2_9464be63:
 
     # "뭐, 나중에 현지한테 커피라도 한 잔 사주면서 물어보면 말해주지 않을까."
-    "嗯，之后如果给贤智买杯咖啡，她会不会告诉我呢。"
+    "嗯，之后如果给贤智买杯咖啡的再问的话，应该会告诉我吧。"
 
 # game/chapter1.rpy:1705
 translate chinese chapter1_2_8c3df267:
 
     # "기말고사가 끝나고, 여름 방학을 앞둔 교실의 시간은 말 그대로 어영부영 흘러간다."
-    "期末考试结束，暑假临近，课堂上的时间就这么过去了。"
+    "期末考试结束后，暑假即将来临的课堂时间就这么得过且过地流逝了。"
 
 # game/chapter1.rpy:1706
 translate chinese chapter1_2_6666105a:
 
     # "물론 그러는 중에도 생산적으로 시간을 보내는 유미같은 학생도 있겠지만, 아무래도 나는 평균과 조금 더 가까운 쪽이란 말이지."
-    "当然，也有像优美这样的优等生在此期间高效地度过了他们的时间，但我想我更接近于平均水平。"
+    "当然，在这种情况下也有像优美一样的学生在此期间很有建设性地打发了时间，但不管怎么说，我还是离平均水平更近一点的那种人。"
 
 # game/chapter1.rpy:1707
 translate chinese chapter1_2_3ef17df9:
 
     # "어쩌다 보니 학교에서의 일과가 끝나고, 벌써 하교할 시간이 되어 있었다."
-    "学校的一天在不知不觉中结束了，也该回家了。"
+    "在不知不觉中学校一天的功课结束了，已经到放学时间了。"
 
 # game/chapter1.rpy:1712
 translate chinese chapter1_2_e67b91cb:
 
     # "나는 수업용 태블릿을 캐비닛 속에 넣어두고는 유미를 살펴보았다."
-    "我把上课用的平板电脑放在柜子里，望向优美。"
+    "我把上课用的平板电脑放在柜子里，打量了下优美。"
 
 # game/chapter1.rpy:1713
 translate chinese chapter1_2_8f7c0011:
 
     # "유미는 아직 정리할 게 남았는지 태블릿을 만지작대고 있었다."
-    "优美正在摆弄她的平板电脑，看看她是否还有事要做。"
+    "优美正在摆弄她的平板电脑，好像还有东西要整理。"
 
 # game/chapter1.rpy:1723
 translate chinese chapter1_2_62f08684:
@@ -3772,7 +3773,7 @@ translate chinese chapter1_2_351d0d8b:
     # voice ""
     # "나의 시선을 눈치챈 유미가 먼저 말문을 열었다."
     voice ""
-    "优美注意到我的目光，率先开口。"
+    "察觉到我视线的优美率先开口了。"
 
 # game/chapter1.rpy:1728
 translate chinese chapter1_2_d36fbbeb:
@@ -3780,7 +3781,7 @@ translate chinese chapter1_2_d36fbbeb:
     # voice "voices/ya89.ogg"
     # 유미 "“먼저 가. 많이 늦을 것 같아.”"
     voice "voices/ya89.ogg"
-    유미 "“先走吧。我觉得会很晚才能走。”"
+    유미 "“先走吧。感觉我会很晚才能走。”"
 
 # game/chapter1.rpy:1731
 translate chinese chapter1_2_a532ae6b:
@@ -3804,19 +3805,19 @@ translate chinese chapter1_2_4a4f559a:
     # voice ""
     # "교실 밖으로 걸어 나온 나는, 곧장 집으로 향하는 대신 1학년 C반 쪽으로 발걸음을 옮겼다."
     voice ""
-    "走出教室，我没有直接回家，而是走向一年级C班。"
+    "走出教室的我，没有直接回家而是走向一年级C班。"
 
 # game/chapter1.rpy:1744
 translate chinese chapter1_2_661bd722:
 
     # "혹시나 현지가 교실에 남아있다면 아침에 있었던 일도 물어볼 겸, 같이 하교할까 생각하기도 했는데."
-    "如果贤智还留在教室，那就问一下早上发生的事，顺便一起回家。"
+    "如果贤智还留在教室，那就顺便问一下早上发生的事，要不要一起回家。"
 
 # game/chapter1.rpy:1745
 translate chinese chapter1_2_40b75f2f:
 
     # "현지는 이미 먼저 집으로 향한 건지, 교실에는 보이지 않았다."
-    "贤智可能已经先回家了，教室里没有她。"
+    "贤智可能已经先回家了，教室里见不到她。"
 
 # game/chapter1.rpy:1749
 translate chinese chapter1_2_79e91fdc:
@@ -3828,7 +3829,7 @@ translate chinese chapter1_2_79e91fdc:
 translate chinese chapter1_2_bde7b2a6:
 
     # "왠지 오늘 하굣길은 평소보다 시간이 더디게 흐를 것 같은 예감이 들었다."
-    "不知为何，我有种感觉，今天的时间过得比平时慢。"
+    "不知为何，今天放学路上的时间似乎过得比平时慢。"
 
 # game/chapter1.rpy:1757
 translate chinese chapter1_2_b5292a43:
@@ -3840,19 +3841,19 @@ translate chinese chapter1_2_b5292a43:
 translate chinese chapter1_2_30527fa0:
 
     # "다른 이야기를 할 수 없으니, 여름의 무더위 속을 걷는 내가 할 수 있는 생각이라고는 빨리 집에 들어가고 싶다는 것뿐이었다."
-    "别的说不出来，所以在炎夏的酷热中漫步的我能想到的就是快点回家。"
+    "别的话说不出来，所以在炎夏的酷热中漫步的我能想到的就是快点回家。"
 
 # game/chapter1.rpy:1763
 translate chinese chapter1_2_ebab1d4d:
 
     # "여름 방학때 무엇을 해야 할지, 앞으로의 진로 계획이라든지, 오컬트부에서의 일이라든지."
-    "暑假做什么，未来的职业规划，或者超自然研究部的工作。"
+    "暑假做什么，以后的前途规划，或者超自然研究部的工作。"
 
 # game/chapter1.rpy:1767
 translate chinese chapter1_2_dd0a3042:
 
     # "생각해야 할 것들은 산더미처럼 쌓여 있었지만, 무더위에 잠식된 인간은 정상적인 사고와는 거리가 멀어지는 법이다."
-    "需要思考的事情堆积如山，而被炎热吞没的人类却不能正常思考。"
+    "虽然需要思考的事情堆积如山，但被炎热的天气蚕食的人，往往与正常思维相去甚远。"
 
 # game/chapter1.rpy:1769
 translate chinese chapter1_2_ce55e193:
@@ -3864,13 +3865,13 @@ translate chinese chapter1_2_ce55e193:
 translate chinese chapter1_2_3c39171d:
 
     # "교복 셔츠를 펄럭이며 횡단보도의 신호를 기다리던 나는 문득 근처에서 느껴지는 소란스러운 낌새에 그쪽을 바라보았다."
-    "当我开始挥舞校服衬衫，等候人行横道的绿灯时，附近突然传来了嘈杂的声音，我循声望去。"
+    "当我开始挥舞校服衬衫，等候人行横道的信号时，附近突然传来了嘈杂的声音，我循声朝那边望去。"
 
 # game/chapter1.rpy:1774
 translate chinese chapter1_2_c8dce058:
 
     # 나 "‘무슨 일이지？’"
-    나 "“怎么回事？”"
+    나 "“发生什么了？”"
 
 # game/chapter1.rpy:1776
 translate chinese chapter1_2_601fe3d6:
@@ -3894,31 +3895,31 @@ translate chinese chapter1_2_376f6c45:
 translate chinese chapter1_2_efaf0865:
 
     # "횡단보도를 건너려다 말고, 나는 사람들이 몰려 있는 곳으로 슬그머니 걸어가 보았다."
-    "我没有穿过人行横道，而是潜入人群中。"
+    "我没有穿过人行横道，而是偷偷地潜入人群聚集的地方。"
 
 # game/chapter1.rpy:1783
 translate chinese chapter1_2_19d68b4b:
 
     # "일렬로 모여 있는 사람들 틈에는 평소에 길거리에서 흔히 보이던 로봇들이 있었다."
-    "排成一列的人群中有平时街上常见的机器人。"
+    "在排成一列的人群中，有平时街上常见的机器人。"
 
 # game/chapter1.rpy:1784
 translate chinese chapter1_2_d5929f65:
 
     # "평소와 다른 점이라면, 무더기로 모여 있는 로봇들이 방향감각을 상실하고 이리저리 비틀대고 있었다는 것 정도."
-    "与平时不同的是，聚集在一起的机器人失去了方向感，到处乱窜。"
+    "与平时不同的是，聚集在一起的机器人失去了方向感，来回乱窜。"
 
 # game/chapter1.rpy:1787
 translate chinese chapter1_2_c3e01692:
 
     # "무슨 일이라도 있었던 걸까？"
-    "发生了什么事吗？"
+    "到底发生了什么事？"
 
 # game/chapter1.rpy:1788
 translate chinese chapter1_2_5f41aed6:
 
     # "가끔씩 안내로봇이 고장나는 경우는 있다 하더라도, 이렇게 단체로 맛이 간 경우는 처음 본 것 같은데."
-    "虽然向导机器人偶尔会出故障，但是像这样集体出现故障还是第一次出现。"
+    "即使向导机器人偶尔会出故障，像这样集体出现故障也是第一次看到。"
 
 # game/chapter1.rpy:1793
 translate chinese chapter1_2_990a3889:
@@ -3930,43 +3931,43 @@ translate chinese chapter1_2_990a3889:
 translate chinese chapter1_2_4647fa08:
 
     # "소란의 규모도 점점 더 커져가고 있었다."
-    "骚动的规模也越来越大。"
+    "骚乱的规模也越来越大。"
 
 # game/chapter1.rpy:1795
 translate chinese chapter1_2_a94c2b21:
 
     # "중앙 관제 센터에 연락을 취하는 사람 한 명을 제외하면, 다른 사람들은 모두 제각각 비정상적인 움직임을 보이는 로봇들을 빤히 바라보며 한 마디씩을 내뱉을 뿐이었다."
-    "除了一人正在与中央控制中心取得联系，其他人只是看着动作不正常的机器人七嘴八舌。"
+    "除了一人正在与中央管制中心取得联系，其他人都只是眼睁睁地看着动作不正常的机器人忿而啐之。"
 
 # game/chapter1.rpy:1796
 translate chinese chapter1_2_e513727f:
 
     # who "“혹시 중앙 관제 센터가 해킹이라도 된 거 아냐？”"
-    who "“难道中控中心被黑了吗？”"
+    who "“难道中央管制中心被黑了吗？”"
 
 # game/chapter1.rpy:1797
 translate chinese chapter1_2_55173ec7:
 
     # who "“글쎄~ 누가 장난이라도 치는 건가？”"
-    who "“是啊~谁在开玩笑呢？”"
+    who "“是啊~是谁在搞恶作剧呢？”"
 
 # game/chapter1.rpy:1798
 translate chinese chapter1_2_a3b5a304:
 
     # who "“킥, 로봇도 더위 먹어서 맛 간 건 아닐까？”"
-    who "“嘁，机器人也尝到热了吗？”"
+    who "“嘁，莫非机器人也尝到热了吗？”"
 
 # game/chapter1.rpy:1801
 translate chinese chapter1_2_35c50bf4:
 
     # "그러고 보니, 1년 전 이맘때쯤에도 이런 일이 있지 않았던가？"
-    "想想看，一年前的这个时候不是也发生过这样的事情吗？"
+    "这样看来，一年前的这个时候不是也发生过这样的事情吗？"
 
 # game/chapter1.rpy:1803
 translate chinese chapter1_2_cd3857cc:
 
     # "그때는 이런 일에 신경 쓸 겨를도 없었기에 대수롭지 않게 넘어갔던 기억이 났다."
-    "那个时候我连担心这种事情的时间都没有，就直接忽略了。"
+    "我记得当时完全没有担心这种事情的时间，所以就没把它放在心上。"
 
 # game/chapter1.rpy:1804
 translate chinese chapter1_2_386c7761:
@@ -3978,31 +3979,31 @@ translate chinese chapter1_2_386c7761:
 translate chinese chapter1_2_6b80fa63:
 
     # "여하튼, 이런 무더위 속에서 사람들의 신경을 끈 것 치고는 별일 아니라는 생각과 함께 집으로 발걸음을 돌리려 했다."
-    "不管怎样，在这样的酷暑中，人们被吸引也没什么大不了的，我依然打算回家。"
+    "不管怎样，我觉得在这样的酷暑中，能够吸引人们注意力的怪事也没什么大不了的，抱着这样的想法打算回家去。"
 
 # game/chapter1.rpy:1806
 translate chinese chapter1_2_6fb166df:
 
     # "소란의 틈에서 고개를 푹 숙인 채 길을 걷고 있던 한 여학생을 발견하기 전까지는."
-    "直到我发现一个少女在人群中低着头走路。"
+    "直到我在骚乱的缝隙中发现一个低着头走路的女学生。"
 
 # game/chapter1.rpy:1810
 translate chinese chapter1_2_9f790243:
 
     # 나 "‘어제 그 여자애……？’"
-    나 "“昨天那个少女……？”"
+    나 "“昨天那个女孩……？”"
 
 # game/chapter1.rpy:1812
 translate chinese chapter1_2_9e9f4513:
 
     # "나는 발걸음을 옮기려다 말고 그 자리에 박힌 듯 멈춰 섰다."
-    "我想挪动脚步，腿却呆在原地。"
+    "我想挪动脚步，却像被钉在那里一样停了下来。"
 
 # game/chapter1.rpy:1814
 translate chinese chapter1_2_8bde21ef:
 
     # "바닥을 바라보며 길을 걷는 소녀의 주변에서는 여름답지 않은 서늘함이 느껴졌다."
-    "走在街上盯着地面的少女，有一种不像夏天的清凉感。"
+    "在盯着地面走路的少女周围，有一种不像夏天的清凉感。"
 
 # game/chapter1.rpy:1816
 translate chinese chapter1_2_bc0e1948:
@@ -4020,43 +4021,43 @@ translate chinese chapter1_2_f62dcfcd:
 translate chinese chapter1_2_a89b9a34:
 
     # "당연하겠지만, 그 소란의 현장 속에서 그녀를 신경 쓰는 사람은 오직 나뿐인 듯했다."
-    "当然，在那骚乱的现场，关心她的似乎只有我一个人。"
+    "难怪，在那骚乱的现场，关心她的似乎只有我一个人。"
 
 # game/chapter1.rpy:1823
 translate chinese chapter1_2_d3bdfef2:
 
     # "나는 멍하니 소녀가 반대편 길목으로 사라지는 것을 바라보고만 있었다."
-    "少女消失在马路另一边，我只是呆呆地看着。"
+    "我呆呆地看着少女消失在马路的另一边。"
 
 # game/chapter1.rpy:1824
 translate chinese chapter1_2_aa989f24:
 
     # "그때였다."
-    "此时此刻。"
+    "那时。"
 
 # game/chapter1.rpy:1835
 translate chinese chapter1_2_f85e486c:
 
     # who "“어, 이거 봐. 이제 다시 제대로 움직이는 거 같은데？”"
-    who "“嗯，看看这里。现在好像又开始正常行动了？”"
+    who "“哦，看这个。现在好像又开始正常行动了？”"
 
 # game/chapter1.rpy:1836
 translate chinese chapter1_2_046979bf:
 
     # who "“그러게, 잠시 관제센터에 문제가 있었나 봐."
-    who "“嗯，这一会控制中心肯定出问题了。”"
+    who "“是啊，管制中心好像暂时出了问题。”"
 
 # game/chapter1.rpy:1838
 translate chinese chapter1_2_e0edd008:
 
     # "소녀가 반대편 길목으로 사라지자, 제 기능을 되찾은 로봇들이 질서정연하게 움직이기 시작했다."
-    "随着少女消失在路的另一边，恢复了功能的机器人开始有条不紊地工作。"
+    "少女消失在对面的路口后，恢复了功能的机器人开始秩序井然地行动。"
 
 # game/chapter1.rpy:1839
 translate chinese chapter1_2_f29199fe:
 
     # "일시적인 소요가 끝나자, 모여 있던 사람들도 하나둘 흩어져 갔다."
-    "暂时的骚乱结束了，原本聚集的人群一一散去。"
+    "暂时的骚乱一结束，原本聚集的人也一一散去。"
 
 # game/chapter1.rpy:1841
 translate chinese chapter1_2_a27b6ea3:
@@ -4068,19 +4069,19 @@ translate chinese chapter1_2_a27b6ea3:
 translate chinese chapter1_2_47a80218:
 
     # "단순히 타이밍상의 문제이며, 우연이라고 생각할 수도 있겠지만."
-    "单纯是时机上的问题，也可能认为是偶然。"
+    "单纯是时机上的问题，也有可能认为是偶然。"
 
 # game/chapter1.rpy:1844
 translate chinese chapter1_2_1e7c8d63:
 
     # "그렇다기엔 어제의 일도 그렇고, 뭔가 이상하다는 생각이 들었다."
-    "但是昨天的事情也是这样，有点奇怪。"
+    "但是昨天的事情也是这样，总觉得有点奇怪。"
 
 # game/chapter1.rpy:1845
 translate chinese chapter1_2_7835a339:
 
     # "문득 머릿속을 맴도는 의문점이 나를 움직였다."
-    "脑海中闪现的疑点打动了我。"
+    "突然，脑海中盘旋的疑点调动了我。"
 
 # game/chapter1.rpy:1846
 translate chinese chapter1_2_e4521482:
