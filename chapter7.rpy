@@ -800,7 +800,7 @@ translate chinese chapter7_e6ab2a71:
     # voice "voices/gg21.ogg"
     # 소녀 "“저와 이어지지 못했던 그 목소리는, 당신에게 무슨 말을 건넸었나요?”"
     voice "voices/gg21.ogg"
-    소녀 "“无法与我相接的那个声音，跟你说了什么？”"
+    소녀 "“无法与我相连接的那个声音，跟你说了什么？”"
 
 # game/chapter7.rpy:335
 translate chinese chapter7_7b2ef2a5:
@@ -1686,7 +1686,7 @@ translate chinese chapter7_4820c7b1:
 translate chinese chapter7_9ff56ef5:
 
     # "이 순간만큼은 자신이 영원을 떠돌던 유령이라는 사실을 잊기라도 한 건지."
-    "这一刻，或许她忘记了自己是一个流浪的幽灵。"
+    "这一刻，或许她忘记了自己是一个永远漂泊的幽灵。"
 
 # game/chapter7.rpy:683
 translate chinese chapter7_1c1ba541:
@@ -4296,7 +4296,7 @@ translate chinese chapter7_3ef24d01:
     # voice "voices/hg9.ogg"
     # 현지 "“지금 바로 오컬트부실로 와 줄 수 있어요?”"
     voice "voices/hg9.ogg"
-    현지 "“现在能马上来超自研活动室吗？”"
+    현지 "“现在能马上来超自然部活动室吗？”"
 
 # game/chapter7.rpy:1917
 translate chinese chapter7_14c94d95:
@@ -4434,7 +4434,7 @@ translate chinese chapter7_6ddcf6d0:
     # voice ""
     # "나와 함께 오컬트부실 안을 살피던 소녀가 그렇게 말하며 안으로 들어섰다. "
     voice ""
-    "和我一起看着超自研活动室的少女说道，走进了里面。"
+    "和我一起看着超自然部活动室的少女说道，走进了里面。"
 
 # game/chapter7.rpy:1973
 translate chinese chapter7_66ceb903:
@@ -4458,31 +4458,31 @@ translate chinese chapter7_430a8c22:
 translate chinese chapter7_4772a820:
 
     # "소녀는 문이 열리고 들어온 누군가를 발견한 건지 그곳을 빤히 응시하였다. "
-    "少女直直地盯着门，不知是不是发现了谁。"
+    "少女好像发现了打开门进来的某人，直勾勾地凝视着那里。"
 
 # game/chapter7.rpy:1985
 translate chinese chapter7_c1001b1c:
 
     # "나의 눈동자가 허공을 훑는다. "
-    "我的眼睛扫向空中。"
+    "我的眼睛扫向半空。"
 
 # game/chapter7.rpy:1986
 translate chinese chapter7_7d6dcb71:
 
     # "내가 미처 말하지 못한, 의아했던 상황이란 바로 이런 것이었다. "
-    "我没来得及说出来的，让人惊讶的情况就是这样。"
+    "我还没来得及说的，奇怪的情况就是这样。"
 
 # game/chapter7.rpy:1987
 translate chinese chapter7_e54368b3:
 
     # "나는 현지를 볼 수도 없고, 목소리를 들을 수도 없고, 인기척을 느낄 수도 없는데. "
-    "我看不见贤智，听不见声音，也感受不到动静。"
+    "我看不见贤智，听不见声音，也感受不到人的气息。"
 
 # game/chapter7.rpy:1988
 translate chinese chapter7_e0e31063:
 
     # "“만나서 이야기해요”라니, 무언가 잘못된 것 같다는 생각이 지워지지 않았다. "
-    "“见面再说吧”，我想好像有什么地方不对。"
+    "“见面再说吧”，感觉好像有什么地方不对。"
 
 # game/chapter7.rpy:1992
 translate chinese chapter7_4b6381e4:
@@ -4494,7 +4494,7 @@ translate chinese chapter7_4b6381e4:
 translate chinese chapter7_e1892265:
 
     # "현지의 눈높이를 찾아 시선을 맞추려는 찰나, 갑자기 눈앞에 웬 불빛이 반짝였다. "
-    "在寻找贤智的一刹那，突然眼前闪现出一道亮光。"
+    "为了寻找贤智的眼光，想要调整视线的一瞬间，突然眼前闪烁着灯光。"
 
 # game/chapter7.rpy:1998
 translate chinese chapter7_ee3f4cce:
@@ -4506,7 +4506,7 @@ translate chinese chapter7_ee3f4cce:
 translate chinese chapter7_fb1b9814:
 
     # "돌이켜 생각해보면 에메랄드색인 것 같기도 한 빛이 도깨비불처럼 나타났다 사그라들었다. "
-    "回想起来，似乎是绿宝石色的光芒像一团鬼火一样闪现又消失了。"
+    "回想起来，似乎是祖母绿色的光芒像磷火一样出现又消失了。"
 
 # game/chapter7.rpy:2007
 translate chinese chapter7_7e83c7c1:
@@ -4788,7 +4788,7 @@ translate chinese chapter7_5950b08b:
     # voice "voices/hg23_1.ogg"
     # 현지 "“그건 아마도, 무의식과 의식이 원래 있었어야 할 두 차원 사이를 진동하고 있기 때문이었을 거예요.”"
     voice "voices/hg23_1.ogg"
-    현지 "“那可能是因为，潜意识和意识在原本应该存在的两个维度之间发生了振动。”"
+    현지 "“那可能是因为，潜意识和意识在原本应该存在的两个维度间隙之间发生了振动。”"
 
 # game/chapter7.rpy:2118
 translate chinese chapter7_4ed60212:
@@ -4796,7 +4796,7 @@ translate chinese chapter7_4ed60212:
     # voice "voices/hg23_2.ogg"
     # 현지 "“사람의 감각기관은 진동하는 차원 속에서 간헐적으로 나타나는 존재를 포착할 수 없으니까요.”"
     voice "voices/hg23_2.ogg"
-    현지 "“人的感官不能捕捉到在振动的维度中间歇出现的存在。”"
+    현지 "“人的感觉器官不能捕捉到在振动的维度中间歇性出现的存在。”"
 
 # game/chapter7.rpy:2123
 translate chinese chapter7_e2b5aad7:
@@ -4856,19 +4856,19 @@ translate chinese chapter7_1fb7556e:
 translate chinese chapter7_0d30f703:
 
     # "현지가 잠깐 이야기를 멈춘 사이, 나는 맞은편의 그 유령을 바라보았다. "
-    "贤智稍作停顿，我看着对面的那个幽灵少女。"
+    "贤智稍作停顿的时候，我看着对面的那个幽灵。"
 
 # game/chapter7.rpy:2141
 translate chinese chapter7_1c14c4da:
 
     # "유령이 된다는 것의 의미를, 소녀가 아닌 현지에게 듣게 될 줄은. "
-    "成为幽灵的意义，贤智不知道，但少女知道啊。"
+    "没想到成为幽灵的意味，不是从少女，而是从贤智那里听到的。"
 
 # game/chapter7.rpy:2142
 translate chinese chapter7_6ffae92d:
 
     # "기대있던 창틀에서 몸을 떼어내 탁자 쪽으로 걸음을 옮기려는데, 현지가 조심스레 입을 열었다. "
-    "向桌子对面移动脚步，贤智小心翼翼地开口了。"
+    "挪开靠着窗框的身体，想往桌子方向迈步时，贤智小心翼翼地开口了。"
 
 # game/chapter7.rpy:2148
 translate chinese chapter7_2cf40b95:
@@ -4876,7 +4876,7 @@ translate chinese chapter7_2cf40b95:
     # voice "voices/hg26.ogg"
     # 현지 "“선배도 그 유령 여자애처럼, 영원히 차원 속을 떠돌아다녀야 할지도 몰라요.”"
     voice "voices/hg26.ogg"
-    현지 "“前辈也可能像那个幽灵少女一样，也许要永远在这个维度里流浪。”"
+    현지 "“前辈也可能像那个幽灵少女一样，也许要永远在这个维度里漂泊。”"
 
 # game/chapter7.rpy:2150
 translate chinese chapter7_9d7f413f:
@@ -4890,7 +4890,7 @@ translate chinese chapter7_9d7f413f:
 translate chinese chapter7_0ddcdaf5:
 
     # 나 "“차원 속을 떠돌아다닌다는 게 무슨 뜻이야?”"
-    나 "“在维度中流浪是什么意思？”"
+    나 "“在维度中漂泊是什么意思？”"
 
 # game/chapter7.rpy:2155
 translate chinese chapter7_3f61dc8a:
@@ -4910,7 +4910,7 @@ translate chinese chapter7_8465cfea:
     # voice "voices/hg27.ogg"
     # 현지 "“이론적으로는요, 유령은 한 차원 위의 존재잖아요? 그러니까 아마도 3차원 공간에 예속될 수 있는 매개체를 잃고 나면, 그 뒤로는 불규칙하게 4차원의 공간을 떠돌게 될 거예요.”"
     voice "voices/hg27.ogg"
-    현지 "“理论上，幽灵是更高维度的存在吧？所以，如果失去了可能隶属于三维空间的媒介，你就会不规则地在四维空间中流浪。”"
+    현지 "“理论上，幽灵是更高维度的存在吧？所以，如果失去了可能隶属于三维空间的媒介，那之后就会不规则地在四维空间中漂泊。”"
 
 # game/chapter7.rpy:2167
 translate chinese chapter7_2aa2e52b:
@@ -4918,7 +4918,7 @@ translate chinese chapter7_2aa2e52b:
     # voice ""
     # 나 "“…… 잘 상상이 안 가는데.”"
     voice ""
-    나 "“……想象不到啊。”"
+    나 "“…… 很难想象。”"
 
 # game/chapter7.rpy:2169
 translate chinese chapter7_46e060a0:
@@ -4926,7 +4926,7 @@ translate chinese chapter7_46e060a0:
     # voice "voices/hg28_1.ogg"
     # 현지 "“차원을 넘나든다는 건 그때마다 통상적인 시간 흐름에서 벗어난다는 걸 의미해요. 이건 텔레이도스코프의 원리이기도 하고요.”"
     voice "voices/hg28_1.ogg"
-    현지 "“跨越维度，意味着每次都偏离正常的时间流动。这也是远华镜的工作原理。”"
+    현지 "“跨越维度，意味着每次都偏离通常的时间流动。这也是远华镜的工作原理。”"
 
 # game/chapter7.rpy:2172
 translate chinese chapter7_53f48189:
@@ -4934,7 +4934,7 @@ translate chinese chapter7_53f48189:
     # voice "voices/hg28_2.ogg"
     # 현지 "“아, 그리고 전에 말했던 것처럼…… 차원을 넘나들 때마다 기억을 조금씩 잃어갈 거예요. 그리고 만약 넘나드는 차원의 간격이 넓다면 더 많은 기억을 잃겠죠. ”"
     voice "voices/hg28_2.ogg"
-    현지 "“啊，就像之前所说的……每次跨越维度的时候，都会失去一点记忆。如果间隔太大，会失去更多的记忆。”"
+    현지 "“啊，就像之前所说的……每次来往于不同维度的时候，都会逐渐地失去记忆。而且，如果跨越维度的间隔太大，就会失去更多的记忆。”"
 
 # game/chapter7.rpy:2174
 translate chinese chapter7_d0269249:
@@ -4974,7 +4974,7 @@ translate chinese chapter7_e8ebfba8:
 translate chinese chapter7_07e8d74d:
 
     # "나는 탁자 위에 놓여있던 인형 하나를 문득 건드리려다 말고 현지에게 질문했다. "
-    "桌子上有一个玩偶，我突然想触碰它，在此之前，我向贤智提问。"
+    "桌子上有一个人偶，我突然想触碰它，在此之前，我向贤智提问。"
 
 # game/chapter7.rpy:2191
 translate chinese chapter7_0b97e03a:
@@ -4988,7 +4988,7 @@ translate chinese chapter7_d4447b74:
     # voice "voices/hg29_1.ogg"
     # 현지 "“그 진폭의 시작이나 끝에 존재하는 것들은 볼 수 있어요. 진폭의 끄트머리에 존재하는 것들은, 차원이 달라져도 변위가 달라지지 않는 것들이라고 보면 되겠죠.”"
     voice "voices/hg29_1.ogg"
-    현지 "“可以看到振动的起始或结束存在的东西。在振动的结束存在的东西，即使不在同一维度，位移也不会改变。”"
+    현지 "“在那个振幅的开始或末尾存在的东西都可以看到。在振幅的末尾存在的东西，即使不在同一维度，位移也不会改变。”"
 
 # game/chapter7.rpy:2195
 translate chinese chapter7_c52a9e92:
@@ -4996,7 +4996,7 @@ translate chinese chapter7_c52a9e92:
     # voice "voices/hg29_2.ogg"
     # 현지 "“요컨대 이 부실이라거나, 제가 손대지 않은 탁상 위의 인형 같은 것들요.”"
     voice "voices/hg29_2.ogg"
-    현지 "“总之，就像你还在这个活动室，或者是你没有碰过桌子上的玩偶。”"
+    현지 "“总之，就像这个活动室，或者我没有碰过桌子上的人偶。”"
 
 # game/chapter7.rpy:2197
 translate chinese chapter7_41eea804:
@@ -5004,7 +5004,7 @@ translate chinese chapter7_41eea804:
     # voice ""
     # 나 "“그럼 진폭의 머리 부분에 존재하는 건?”"
     voice ""
-    나 "“那么在振动的起始存在的东西是？”"
+    나 "“那么在振幅的起始存在的东西是？”"
 
 # game/chapter7.rpy:2200
 translate chinese chapter7_b5ce13e8:
@@ -5028,7 +5028,7 @@ translate chinese chapter7_972b0acb:
     # voice "voices/hg30.ogg"
     # 현지 "“말 그대로, 같은 차원에서 온 거겠죠.”"
     voice "voices/hg30.ogg"
-    현지 "“顾名思义，是从同一个维度来的吧。”"
+    현지 "“如字面意思所说，应该是从同一个维度来的吧。”"
 
 # game/chapter7.rpy:2215
 translate chinese chapter7_6a51ae52:
@@ -5042,7 +5042,7 @@ translate chinese chapter7_6a51ae52:
 translate chinese chapter7_69fdf83e:
 
     # "그려내었다기보다는 쥐어 짜냈다고 하는 편이 마땅한 가설이었다. "
-    "与其说是勾勒出来的，不如说是绞尽脑汁挤出来的。"
+    "与其说是勾勒出来的，不如说是绞尽脑汁的假设。"
 
 # game/chapter7.rpy:2224
 translate chinese chapter7_7d024d8a:
@@ -5232,7 +5232,7 @@ translate chinese chapter7_f9ae64c9:
     # voice ""
     # "내게 주어진 시간이 사흘 정도밖에 남지 않았다는 것을 듣고선, 나는 탁자 위에 놓인 인형을 문득 집어 들었다. "
     voice ""
-    "听说给我的时间只剩下三天左右，我突然抓起了放在桌子上的玩偶。"
+    "听说给我的时间只剩下三天左右，我突然抓起了放在桌子上的人偶。"
 
 # game/chapter7.rpy:2309
 translate chinese chapter7_252ead06:
@@ -5320,7 +5320,7 @@ translate chinese chapter7_a8412362:
 translate chinese chapter7_811bf740:
 
     # "인형을 도로 탁자에 내려놓은 나는 자리에서 천천히 몸을 일으켰다. "
-    "我把玩偶在放在桌上，从座位上慢慢地站了起来。"
+    "我把人偶在放在桌上，从座位上慢慢地站了起来。"
 
 # game/chapter7.rpy:2338
 translate chinese chapter7_c0fe83cb:
@@ -6198,7 +6198,7 @@ translate chinese chapter7_8a03da89:
     # voice ""
     # 나 "“저번엔 못 뽑았던 큰 곰 인형도 하나 뽑아 볼게.”"
     voice ""
-    나 "“上次没抽到的大熊玩偶，我也去抽一个吧。”"
+    나 "“上次没抽到的大人偶熊，我也去抽一个吧。”"
 
 # game/chapter7.rpy:2661
 translate chinese chapter7_430e115f:
@@ -6324,13 +6324,13 @@ translate chinese chapter7_6a031d68:
 translate chinese chapter7_e819f3f3:
 
     # "게임 센터에서 커다란 곰 인형 하나를 뽑아 나왔을 땐, 어느새 부쩍 앞당겨진 일몰 시각이 목전이었다. "
-    "从游戏中心取出一个巨大的熊娃娃时，不知不觉已经是日落时间。"
+    "从游戏中心取出一个巨大的人偶熊时，不知不觉已经是日落时间。"
 
 # game/chapter7.rpy:2719
 translate chinese chapter7_602fdb8a:
 
     # 나 "“인형은 왜 그렇게 좋아하게 된 거야?”"
-    나 "“为什么那么喜欢玩偶？”"
+    나 "“为什么那么喜欢人偶？”"
 
 # game/chapter7.rpy:2721
 translate chinese chapter7_cbd60a29:
@@ -6338,7 +6338,7 @@ translate chinese chapter7_cbd60a29:
     # voice "voices/gg116.ogg"
     # 소녀 "“글쎄요. 아마도 인형은 저와 정반대의 존재여서 그런 게 아닐까요?”"
     voice "voices/gg116.ogg"
-    소녀 "“是啊。也许是因为玩偶和我正相反吧？”"
+    소녀 "“是啊。也许是因为人偶和我正相反吧？”"
 
 # game/chapter7.rpy:2723
 translate chinese chapter7_11390284:
@@ -6346,7 +6346,7 @@ translate chinese chapter7_11390284:
     # voice ""
     # 나 "“정반대의 존재라고? 이 인형이?”"
     voice ""
-    나 "“是相反的存在？这个玩偶？”"
+    나 "“是相反的存在？这个人偶？”"
 
 # game/chapter7.rpy:2726
 translate chinese chapter7_d09bf0a3:
@@ -6354,7 +6354,7 @@ translate chinese chapter7_d09bf0a3:
     # voice "voices/gg117.ogg"
     # 소녀 "“그렇잖아요. 저는 형체 없이 영혼만 떠도는 존재지만, 이 인형은 영혼 없이 형체만 남은 존재니까요.”"
     voice "voices/gg117.ogg"
-    소녀 "“不是吗。我是一个没有躯体的存在，但这个玩偶是一个没有灵魂只剩下形体的存在。”"
+    소녀 "“不是吗。我是一个没有躯体的存在，但这个人偶是一个没有灵魂只剩下形体的存在。”"
 
 # game/chapter7.rpy:2729
 translate chinese chapter7_fc6db2f2:
@@ -7116,7 +7116,7 @@ translate chinese ecg15_label_1b3ae05e:
     # voice "voices/hg53.ogg"
     # 현지 "“선배가 가면 이제 오컬트부엔 저밖에 안 남는 거잖아요.”"
     voice "voices/hg53.ogg"
-    현지 "“前辈一走，超自研就只剩下我了。”"
+    현지 "“前辈一走，超自然部就只剩下我了。”"
 
 # game/chapter7.rpy:3088
 translate chinese ecg15_label_73c43f00:
@@ -7428,7 +7428,7 @@ translate chinese chapter7_lastwish_log_55e9ba5b:
 translate chinese chapter7_lastwish_log_13a437ab:
 
     # narl "여름의 끝에 피어난 수십 발의 꽃들. "
-    narl "夏末盛开的数十发花。"
+    narl "夏末盛开的数十朵花。"
 
 # game/chapter7.rpy:3309
 translate chinese chapter7_lastwish_log_df6442fc:
@@ -7684,7 +7684,7 @@ translate chinese chapter7_1_a1650c09:
 translate chinese chapter7_1_c1f291ce:
 
     # "긴 여정을 떠나기 전, 잃어버렸던 기억들을 되찾는 시간. "
-    "在漫长的旅途启程前，要先找回丢失的记忆。"
+    "在漫长的旅途启程前，是找回丢失的记忆的时间。"
 
 # game/chapter7.rpy:3400
 translate chinese chapter7_1_8dc0ece5:
@@ -7708,13 +7708,13 @@ translate chinese chapter7_1_315006e5:
 translate chinese chapter7_1_e40ffc30:
 
     # "기억들이 제자리를 찾아간다. "
-    "记忆回到原位。"
+    "记忆回到了原位。"
 
 # game/chapter7.rpy:3407
 translate chinese chapter7_1_a667e18d:
 
     # "허탈하리만큼 쉽게, 그리고 간단히. "
-    "简单得让人失望，和空虚。"
+    "轻易，还有简单地感到空虚。"
 
 # game/chapter7.rpy:3411
 translate chinese chapter7_1_477a0b23:
@@ -7726,19 +7726,19 @@ translate chinese chapter7_1_477a0b23:
 translate chinese chapter7_1_45f75633:
 
     # "아이러니하게도 매번 언젠가를 떠올릴 때면 토대가 되는 그 지점은, 무수히 파이고 바스라져서는 가장 먼저 기억이 희미해질 때 먼지처럼 흩날려 또렷한 기억이 아닌 어렴풋한 추억이 된다. "
-    "讽刺的是，每当我想起某一天，它就会作为基点无数次被抹去，最先想起的记忆，便如尘土般散去，成为模糊的记忆的一部分。"
+    "讽刺的是，每当想起某一天时，作为基础的那个地方就会无数次被掘起，慢慢地化为碎片。在最初的记忆变得朦胧的时候，那个地方就会像尘土一样飘散，变成模糊的回忆，而不是鲜明的记忆。"
 
 # game/chapter7.rpy:3413
 translate chinese chapter7_1_ac7bb26a:
 
     # "그리고 그 추억은 서서히 빛이 바래가며, ‘그땐 그랬었지’라는 막연한 감각이 된다. "
-    "而且，那些记忆渐渐褪色，有种“那时候是那样的”的茫然感觉。"
+    "然后，那些回忆渐渐褪色，成为“当时是那样的”茫然的感觉。"
 
 # game/chapter7.rpy:3414
 translate chinese chapter7_1_0c0067f2:
 
     # "텔레이도스코프가 간직하고 있던 기억이란, 그 닻이 내린 장소였다. "
-    "远华镜所珍藏的记忆，就是抛锚的地方。"
+    "远华镜所保管的记忆，就是那个下锚的地方。"
 
 # game/chapter7.rpy:3430
 translate chinese chapter7_2_d5ac8d58:
@@ -7756,7 +7756,7 @@ translate chinese chapter7_2_71324adc:
 translate chinese chapter7_2_5c51e7ab:
 
     # naro "그것이 중학생이었던 내게는 모든 세상이었고, 한없이 넓게만 보였다. "
-    naro "对于当时还是个初中生的我来说，那是整个世界的全部，看起来无比广阔。"
+    naro "对于当时还是个初中生的我来说，那是整个世界的全部，而且看起来无比广阔。"
 
 # game/chapter7.rpy:3433
 translate chinese chapter7_2_778a32db:
@@ -7774,55 +7774,55 @@ translate chinese chapter7_2_d6cabffb:
 translate chinese chapter7_2_fd75856e:
 
     # naro "내가 알지 못했을 뿐. "
-    naro "只是我不知道而已。"
+    naro "我只是不知道而已。"
 
 # game/chapter7.rpy:3437
 translate chinese chapter7_2_c3eb4c84:
 
     # naro "중학생이었던 나는 그 작은 세상을 제약 없이 자유롭게 쏘다녔다. "
-    naro "还是初中生的我，在那个小世界里毫无拘束地生活。"
+    naro "曾是初中生的我，在那个小世界里毫无拘束地自由奔走。"
 
 # game/chapter7.rpy:3438
 translate chinese chapter7_2_da979d12:
 
     # naro "가족, 그러니까 부모님은 내게 그 어떤 제약도 주지 않은 채 나를 자유롭게 세상 속으로 풀어주었다. "
-    naro "父母没有给我任何制约，将我自由地释放到世界中去。"
+    naro "家人，就是父母没有给我任何制约，将我自由地释放到世界中去。"
 
 # game/chapter7.rpy:3442
 translate chinese chapter7_2_35873efb:
 
     # naro "밤이든, 낮이든, 이른 새벽이든 말이다. "
-    naro "不管是晚上、白天还是凌晨。"
+    naro "不管是夜晚、白天还是凌晨。"
 
 # game/chapter7.rpy:3444
 translate chinese chapter7_2_903fd8c0:
 
     # naro "그렇지 않았다면, 이 모든 일은 일어나지 않았을 일들이었다. "
-    naro "否则，这一切都不会发生。"
+    naro "否则，这一切事情都不会发生。"
 
 # game/chapter7.rpy:3445
 translate chinese chapter7_2_04e72676:
 
     # naro "내가 그날 밤늦게 그곳을 지나가던 것도, 그녀와의 인연이 시작된 것도, 내가 지금 텔레이도스코프 속을 거닐고 있는 것도. "
-    naro "我和她的故事，起始于那个夜晚。"
+    naro "那天深夜我路过那里的事，我和她的缘分起源的事，现在我在远华镜里漫步的事。"
 
 # game/chapter7.rpy:3452
 translate chinese chapter7_2_c18e4979:
 
     # naro "열두 시 무렵의 밤거리였다. "
-    naro "午夜来临前的街道。"
+    naro "十二点左右的深夜街道。"
 
 # game/chapter7.rpy:3453
 translate chinese chapter7_2_1f1d415b:
 
     # naro "열네 살 무렵의 나는 늦은 밤거리가 익숙했고, 아슬아슬하게 자정이 지나기 전까지 집에 도착할 생각으로 바삐 걸음을 옮기고 있었다. "
-    naro "十四岁那年，我已经习惯了走在深夜的街道上，一路狂奔，希望能在午夜前赶到家。"
+    naro "十四岁左右的我，对深夜的街头已经非常熟悉，出于在子正前提心吊胆地赶到家的想法，急匆匆挪动步伐。"
 
 # game/chapter7.rpy:3454
 translate chinese chapter7_2_765a4734:
 
     # naro "그런 나의 발걸음이, 집 근처의 인적 없는 골목길에서 문득 멈춰 섰다. "
-    naro "我的脚步，在家附近一条人迹罕至的小巷里停了下来。"
+    naro "我的脚步，突然在家附近一条人迹罕至的小巷里停了下来。"
 
 # game/chapter7.rpy:3455
 translate chinese chapter7_2_779ae07e:
@@ -7846,19 +7846,19 @@ translate chinese chapter7_2_4e56c343:
 translate chinese chapter7_2_9091216d:
 
     # naro "불빛의 근원에서, 불길이 피어오르고 있었다. "
-    naro "光的尽头，火焰正在燃烧。"
+    naro "光的尽头，火焰正在上升。"
 
 # game/chapter7.rpy:3462
 translate chinese chapter7_2_800053fa:
 
     # naro "내 집에서 두 블록 떨어진 이웃집이 불길에 휩싸여 타들어 가고 있었다. "
-    naro "离我家两条街的邻居家正被大火吞噬。"
+    naro "离我家两个街区的邻居家正被大火吞噬着。"
 
 # game/chapter7.rpy:3464
 translate chinese chapter7_2_3ec04174:
 
     # naro "집 안에서는 아무도 그 기색을 눈치채지 못한 것인지, 고요함만이 불길과 함께 엄습할 뿐이었다. "
-    naro "屋子里的人似乎没有察觉到这一点，只有寂静伴着火焰向我袭来。"
+    naro "屋子里的人似乎没能察觉到这一迹象，只有寂静伴着火焰一同袭来。"
 
 # game/chapter7.rpy:3466
 translate chinese chapter7_2_1f7eb40d:
@@ -7870,13 +7870,13 @@ translate chinese chapter7_2_1f7eb40d:
 translate chinese chapter7_2_1a91e2c0:
 
     # naro "내가 할 수 있는 일은 그저 119에 전화를 걸어 소방차가 오기까지를 기다리는 수밖에 없어 보였다. "
-    naro "我只能拨打119，等消防员赶到。"
+    naro "我别无选择，能做的只是拨打119，看着等消防车赶过来。"
 
 # game/chapter7.rpy:3471
 translate chinese chapter7_2_1b0452d0:
 
     # naro "몇 분 정도가 걸릴 거라는 이야기를 듣고선 멍하니 불길을 바라보는데, 2층에서 누군가의 실루엣이 창틀을 통해 비쳤다. "
-    naro "几分钟后消防车才能赶到，但是火光中二楼的窗口映出了某人的轮廓。"
+    naro "听说需要几分钟后呆呆地望着火势，通过二楼的窗框映出了某人的轮廓。"
 
 # game/chapter7.rpy:3472
 translate chinese chapter7_2_f61b4df0:
@@ -7888,49 +7888,49 @@ translate chinese chapter7_2_f61b4df0:
 translate chinese chapter7_2_5beddb1c:
 
     # naro "생각이 미처 다 정리되기도 전에, 나는 그곳으로 뛰어 들어갔다. "
-    naro "还没回过神来，我已经冲向了二楼。"
+    naro "还没整理好思绪，我已经跃进了那里。"
 
 # game/chapter7.rpy:3485
 translate chinese chapter7_2_e04baa97:
 
     # naro "1층의 열린 창틈을 통해 집 안으로 들어간 나는 무작정 실루엣이 비치던 2층으로 향했다. "
-    naro "通过一楼的窗户缝隙进入屋内，爬上映出人影的二楼。"
+    naro "通过一楼打开的窗缝进入屋内的我，毫无计划地走向了映出轮廓的2楼。"
 
 # game/chapter7.rpy:3486
 translate chinese chapter7_2_536ad61c:
 
     # naro "불길은 서서히 번져 2층에도 연기가 피어오르는 중이었다. "
-    naro "火势逐渐蔓延，二楼也在冒烟。"
+    naro "火势徐徐蔓延，二楼的烟气也正在上升。"
 
 # game/chapter7.rpy:3487
 translate chinese chapter7_2_d068173f:
 
     # naro "어두워서 잘 보이지는 않았지만, 희미하게 새어 나오는 불길의 주홍빛이 방의 윤곽을 어렴풋이 드러내고 있었다. "
-    naro "黑暗中看不清，但隐约透出的朱红色火焰，显出房间的轮廓。"
+    naro "虽然因为太暗看不清，但隐约透出的朱红色火焰依稀披露出房间的轮廓。"
 
 # game/chapter7.rpy:3488
 translate chinese chapter7_2_a97db58a:
 
     # naro "평범한 또래 여학생의―아니, 어쩌면 조금 특이한 구석이 있는―방처럼 보였다. "
-    naro "好像是一个普通的同龄女生的房间，不，或许有点奇怪。"
+    naro "普通的同龄女生房间——不，或许房间的一角——有点特别。"
 
 # game/chapter7.rpy:3489
 translate chinese chapter7_2_af8000eb:
 
     # naro "라디오의 노이즈처럼, 불길이 번져가는 소리가 들려왔다. "
-    naro "火势蔓延的声音像收音机的杂音一样。"
+    naro "像广播电台的杂音一样，传来了火势蔓延的声音。"
 
 # game/chapter7.rpy:3493
 translate chinese chapter7_2_57077bbf:
 
     # naro "하지만 어째서인지, 방 안에서는 전혀 인기척이 느껴지지 않았다. "
-    naro "但是不知为什么，房间里一点动静都没有。"
+    naro "但是不知为什么，房间里感觉完全没有人的动静。"
 
 # game/chapter7.rpy:3494
 translate chinese chapter7_2_ddc40b9d:
 
     # naro "마치 방금 내가 보았던 그 실루엣이, 환상이기라도 한 것처럼. "
-    naro "刚才我看到的那个人影好像只是幻觉。"
+    naro "刚才我看到的那个人影，好像只是幻像。"
 
 # game/chapter7.rpy:3496
 translate chinese chapter7_2_55713fd8:
@@ -7942,25 +7942,25 @@ translate chinese chapter7_2_55713fd8:
 translate chinese chapter7_2_c976883c:
 
     # naro "주변을 살피던 나의 시선이 침대 위에서 멈췄다. "
-    naro "我的视线停留在床上。"
+    naro "环顾周围的我的视线在床上停了下来。"
 
 # game/chapter7.rpy:3499
 translate chinese chapter7_2_c1a1efdb:
 
     # naro "부풀어 올라있던 이불을 걷어내자, 그곳에는 모습을 감추고 있던 한 소녀가 숨을 죽은 채 눈을 감고 있었다. "
-    naro "掀开鼓起的被子，一个少女藏在那里，屏住呼吸闭上了眼睛。"
+    naro "掀开涨起来的被子，那里有一个藏起来的少女，屏住呼吸闭着眼睛。"
 
 # game/chapter7.rpy:3501
 translate chinese chapter7_2_995dd1fa:
 
     # naro "놀라서 눈을 뜬 소녀의 오른손을 왼손으로 붙잡고선, 나는 그녀의 발걸음을 재촉했다. "
-    naro "我用左手抓住惊慌失措的少女的右手，敦促她加快脚步。"
+    naro "吓得睁开眼睛的少女，用左手抓住她的右手。我敦促她加快脚步。"
 
 # game/chapter7.rpy:3503
 translate chinese chapter7_2_2547ccbf:
 
     # 나o "“어서 내려가자, 여기 있으면 위험해.”"
-    나o "“快走，这里很危险。”"
+    나o "“赶快下去吧，在这儿很危险。”"
 
 # game/chapter7.rpy:3504
 translate chinese chapter7_2_a3113148:
@@ -7982,7 +7982,7 @@ translate chinese chapter7_2_296c8d8b:
 translate chinese chapter7_2_022d4b8b:
 
     # 나o "“중요한 건 그게 아니라…… 일단 여기서 나가야 해.”"
-    나o "“那个不重要……先逃出去才是上策。”"
+    나o "“那个不重要……要先从这儿出去。”"
 
 # game/chapter7.rpy:3510
 translate chinese chapter7_2_29377d7a:
@@ -7994,25 +7994,25 @@ translate chinese chapter7_2_29377d7a:
 translate chinese chapter7_2_096b8cef:
 
     # naro "나에게 손을 붙들린 소녀가, 무언가 할 말이 있다는 것처럼 나를 빤히 바라보고 있었다. "
-    naro "少女好像有话要说，眼神闪躲着。"
+    naro "被我抓住手的少女，好像有什么话要说，直直地盯着我。"
 
 # game/chapter7.rpy:3513
 translate chinese chapter7_2_dba534ac:
 
     # naro "잠시 걸음을 멈추고 그녀와 이야기를 해 볼까도 잠깐 고민했지만, 역시 지금 중요한 건 여기서 나가는 일. "
-    naro "我想停下来和她谈谈，但现在最重要的是从这里逃出去。"
+    naro "虽然曾想过停下脚步试着和她谈谈，但现在最重要的是从这里逃出去。"
 
 # game/chapter7.rpy:3517
 translate chinese chapter7_2_5ddf9502:
 
     # naro "그나저나, 나는 어째서 내가 이곳에 들어와도 위험하긴 마찬가지라는 생각을 미처 못했던 걸까. "
-    naro "我现在才发现，贸然冲上二楼本身就是一件极其危险的事情。"
+    naro "话说回来，我为什么没有想到，我进入这里也同样危险呢。"
 
 # game/chapter7.rpy:3518
 translate chinese chapter7_2_cab2f39b:
 
     # naro "번져버린 불길이 어느새 내려가는 계단을 가로막고 있었다. "
-    naro "大火不知不觉间堵住了通往一楼的楼梯。"
+    naro "火势蔓延开来，不知不觉间挡住了去楼下的台阶。"
 
 # game/chapter7.rpy:3520
 translate chinese chapter7_2_3cefefec:
@@ -8024,7 +8024,7 @@ translate chinese chapter7_2_3cefefec:
 translate chinese chapter7_2_7ccc083b:
 
     # naro "터무니없는 일에 휘말려버린 것 같다는 생각이 머릿속을 스쳤다. "
-    naro "脑海里瞬间闪过一种念头，我好像陷进了一件荒唐的事情里。"
+    naro "大脑瞬间闪过一种念头，好像被卷入了一件荒唐的事里。"
 
 # game/chapter7.rpy:3526
 translate chinese chapter7_2_2fcd6c10:
@@ -8032,7 +8032,7 @@ translate chinese chapter7_2_2fcd6c10:
     # voice "voices/gh2.ogg"
     # 소녀o "“괜한 짓이라고요.”"
     voice "voices/gh2.ogg"
-    소녀o "“多余的举动。”"
+    소녀o "“是无谓的举动。”"
 
 # game/chapter7.rpy:3528
 translate chinese chapter7_2_3cd3a08b:
@@ -8040,7 +8040,7 @@ translate chinese chapter7_2_3cd3a08b:
     # voice ""
     # naro "의미가 명확하지 않은 그 한 마디를, 소녀는 자그맣게 중얼거렸다. "
     voice ""
-    naro "少女嘟囔着一句意义不明的话。"
+    naro "少女轻声嘟囔着那句意义不明的话。"
 
 # game/chapter7.rpy:3530
 translate chinese chapter7_2_b69987a6:
@@ -8052,19 +8052,19 @@ translate chinese chapter7_2_b69987a6:
 translate chinese chapter7_2_02b94e42:
 
     # naro "머릿속이 연기로 새까맣게 뒤덮이기 일보 직전이었다. "
-    naro "只差一点，脑子就要被烟熏黑了。"
+    naro "就在我的脑子被烟气熏得乌黑之前。"
 
 # game/chapter7.rpy:3532
 translate chinese chapter7_2_6ed525a7:
 
     # naro "기다리던 희미한 소리가 들려오기 시작한 건. "
-    naro "等待已久的微弱声音开始传来。"
+    naro "等待已久的模糊声音开始传来。"
 
 # game/chapter7.rpy:3537
 translate chinese chapter7_2_7f596a8f:
 
     # naro "요란한 소리가 가까워지고 있었다. "
-    naro "嘈杂的声音越来越近了。"
+    naro "震天响的声音越来越近了。"
 
 # game/chapter7.rpy:3538
 translate chinese chapter7_2_ce9526b7:
@@ -8076,37 +8076,37 @@ translate chinese chapter7_2_ce9526b7:
 translate chinese chapter7_2_76a8b363:
 
     # naro "안도의 한숨을 내쉴 새도 없이 창가로 향한 나는 창밖을 향해 있는 힘껏 소리를 질렀다. "
-    naro "我松了一口气，用力朝着窗外喊。"
+    naro "没来得及松一口气，面向窗边的我对着窗外大声喊了起来。"
 
 # game/chapter7.rpy:3541
 translate chinese chapter7_2_12426a43:
 
     # 나o "“여기예요, 여기!”"
-    나o "“在这里！在这里！”"
+    나o "“在这里！这里！”"
 
 # game/chapter7.rpy:3543
 translate chinese chapter7_2_dd482903:
 
     # naro "창밖에서 분주한 소리가 들려왔다. "
-    naro "窗外传来忙乱的声音。"
+    naro "从窗外传来奔忙的声音。"
 
 # game/chapter7.rpy:3544
 translate chinese chapter7_2_803a139d:
 
     # naro "얼마 지나지 않아 나의 외침을 들은 소방대원이 곧장 사다리를 타고 2층으로 들어와 나와 그녀를 구해주었고, 나는 그 자리를 몰래 빠져나갔다. "
-    naro "没过多久，听到我的喊声的消防员爬上梯子冲进二楼，救下了她和我。不过我趁别人不注意悄悄地溜走了。"
+    naro "没过多久，听到我的高喊的消防队员马上通过爬梯子来到二楼，救出了我和她。我偷偷地离开了那个地方。"
 
 # game/chapter7.rpy:3546
 translate chinese chapter7_2_dc00a606:
 
     # naro "한참 동안, 그 자리는 소방 작업으로 분주한 모양이었다. "
-    naro "花了很长的时间，火焰才被完全扑灭。"
+    naro "有好一阵子，那个地方似乎忙于消防作业。"
 
 # game/chapter7.rpy:3547
 translate chinese chapter7_2_17f2b743:
 
     # naro "내가 구해준 소녀의 이름이 가연이었다는 것도, 나와 동갑내기인 학생이었다는 것도, 조금 뒤에서야 알게 된 사실들이었다. "
-    naro "少女的名字是佳妍，是和我同龄的学生，这是后来才知道的。"
+    naro "我救的少女的名字是佳妍，也是和我同龄的学生，这些事是稍后才知道的。"
 
 # game/chapter7.rpy:3561
 translate chinese chapter7_2_ed7598cc:
@@ -10328,7 +10328,7 @@ translate chinese chapter7_2_4965afea:
     # voice "voices/gh50.ogg"
     # 가연o "“좌타자들은 그 공 몸쪽에 붙이니까 꼼짝도 못 하던데, 제구만 잘 되면 앞으로도 잘 써먹을 수 있겠다.”"
     voice "voices/gh50.ogg"
-    가연o "“左打者们紧贴着球身一动也不能动。只要控球成功，以后也能发挥出这样的作用。”"
+    가연o "“左打者们贴在那球上动弹不得。只要控球成功，以后也能发挥出这样的作用。”"
 
 # game/chapter7.rpy:4437
 translate chinese chapter7_2_f400189c:
@@ -10568,13 +10568,13 @@ translate chinese chapter7_2_ef5a9a72:
 translate chinese chapter7_2_06dadc8c:
 
     # naro "어째서인지 가연은 내가 저주에 걸리기라도 한 것처럼, 나를 피하고 있었다. "
-    naro "不知为什么，佳妍像被诅咒了一样，躲着我。"
+    naro "不知为什么，佳妍一直躲着我，就像我被诅咒了一样。"
 
 # game/chapter7.rpy:4525
 translate chinese chapter7_2_5071228b:
 
     # naro "아주 잠시, 혹시 가연이 나를 질투라도 하는 건 아닌가 하는 생각도 들었다. "
-    naro "有一段很短的时间，我想佳妍是不是在嫉妒我。"
+    naro "有那么短短的一会儿，我甚至觉得佳妍是不是在嫉妒我。"
 
 # game/chapter7.rpy:4526
 translate chinese chapter7_2_9f8e8d41:
@@ -10616,7 +10616,7 @@ translate chinese chapter7_2_c2e43013:
 translate chinese chapter7_2_7b9383c0:
 
     # 남학생o "“몰랐어? 쟤, 1학년 때부터 왕따였잖아. 소문 못 들었냐? 작년에 어떤 애 가족이 다 화재로 죽어버렸다는 거. 쟤가 바로 그 애라고.”"
-    남학생o "“不知道吗？她从一年级开始就被孤立了。没听到传闻吗。去年有个孩子的家人都死于火灾。她就是那个孩子。”"
+    남학생o "“不知道吗？她从一年级开始就被孤立了。没听到传闻吗。去年有个孩子的家人都被大火烧死了。她就是那个孩子。”"
 
 # game/chapter7.rpy:4544
 translate chinese chapter7_2_e2ee2a5e:
@@ -10770,7 +10770,7 @@ translate chinese chapter7_2_a902672d:
     # voice "voices/gh53.ogg"
     # 가연o "“…… 할 말이라는 게 뭐야?”"
     voice "voices/gh53.ogg"
-    가연o "“……要说什么？”"
+    가연o "“……有什么要说的？”"
 
 # game/chapter7.rpy:4614
 translate chinese chapter7_2_eb8c811e:
@@ -10778,19 +10778,19 @@ translate chinese chapter7_2_eb8c811e:
     # voice ""
     # naro "어딘가 익숙한 차가운 목소리였다. "
     voice ""
-    naro "这是熟悉的冰冷的声音。"
+    naro "这是熟悉的冷漠的声音。"
 
 # game/chapter7.rpy:4616
 translate chinese chapter7_2_5f270764:
 
     # naro "내가 가연을 처음 만났을 때 들었던 날카로운 투의 목소리. "
-    naro "我第一次见到佳妍时听到的锐利的声音。"
+    naro "我第一次见到佳妍时听到的尖锐的口吻。"
 
 # game/chapter7.rpy:4617
 translate chinese chapter7_2_c600ea05:
 
     # naro "하지만 왠지 그녀가, 그런 말투를 연기하고 있는 것 같다는 생각이 들었다. "
-    naro "但是不知怎么的，我觉得她是在表演。"
+    naro "但是不知怎么的，那样的口吻我觉得她似乎在演戏。"
 
 # game/chapter7.rpy:4619
 translate chinese chapter7_2_3711320f:
@@ -10828,7 +10828,7 @@ translate chinese chapter7_2_a0de9868:
     # voice ""
     # 나o "“어라, 혹시 질투하는 건가~?”"
     voice ""
-    나o "“哦，难道是在嫉妒吗？”"
+    나o "“哦，难道是在嫉妒吗~？”"
 
 # game/chapter7.rpy:4629
 translate chinese chapter7_2_47d6d981:
@@ -10846,13 +10846,13 @@ translate chinese chapter7_2_1b4d5d08:
 translate chinese chapter7_2_ad16488c:
 
     # naro "나는 차분한 목소리로 말을 이어갔다. "
-    naro "我平静地接着说。"
+    naro "我用冷静的声音接着说。"
 
 # game/chapter7.rpy:4637
 translate chinese chapter7_2_f5fbeff8:
 
     # 나o "“있잖아, 난 괜찮으니까. 어떡하면 우리가 다시 가까워질 수 있을까?”"
-    나o "“你知道的，我不在乎。怎样做才能让我们的关系再次变好呢？”"
+    나o "“你知道吗，我不在乎。怎样做才能让咱们的关系再次亲近起来呢？”"
 
 # game/chapter7.rpy:4639
 translate chinese chapter7_2_96710db6:
@@ -10874,7 +10874,7 @@ translate chinese chapter7_2_6328debe:
 translate chinese chapter7_2_b95d9218:
 
     # naro "그녀가 내게 잔뜩 꼬인 실타래 같은 퀴즈를 내었듯, 이번엔 내가 그녀에게 퀴즈를 내고 있었다. "
-    naro "就像她给我出了一个纠缠不清的问题一样，这次我向她提出了一个小问题。"
+    naro "就像她给我出了一个纠缠不清的谜题一样，这次我向她提出了一个谜题。"
 
 # game/chapter7.rpy:4644
 translate chinese chapter7_2_8be45da4:
@@ -10918,7 +10918,7 @@ translate chinese chapter7_2_20d6fd1f:
     # voice ""
     # 나o "“너를 구해준 사람은 내가 아니라 소방대원이었는걸? 내가 한 일이라곤 괜히 네 방에 들어가서 허둥댔던 것뿐인데.”"
     voice ""
-    나o "“救你的不是我，而是消防员。我所做的就是，白跑进你的房间，然后又慌慌张张地跑掉了。”"
+    나o "“救你的不是我，而是消防队员。我所做的只是，慌慌张张地白跑进你的房间。”"
 
 # game/chapter7.rpy:4662
 translate chinese chapter7_2_35ae4c2a:
@@ -10992,7 +10992,7 @@ translate chinese chapter7_2_8e187b06:
     # voice "voices/gh62.ogg"
     # 가연o "“이대로 죽어버리고 싶어. 나 같이 미움받는 민폐투성이는 거기서 죽어버렸어야 했는데.”"
     voice "voices/gh62.ogg"
-    가연o "“我想就这样死去。像我这样被人讨厌的人，就应该死在那里。”"
+    가연o "“我想就这样死掉。像我这样招人嫌的麻烦，就应该死在那里。”"
 
 # game/chapter7.rpy:4682
 translate chinese chapter7_2_b6e7fe7e:
@@ -11000,7 +11000,7 @@ translate chinese chapter7_2_b6e7fe7e:
     # voice ""
     # 나o "“…… 그렇지 않아.”"
     voice ""
-    나o "“……不。”"
+    나o "“…… 不是那样的。”"
 
 # game/chapter7.rpy:4685
 translate chinese chapter7_2_a98b6071:
@@ -11008,7 +11008,7 @@ translate chinese chapter7_2_a98b6071:
     # voice "voices/gh63.ogg"
     # 가연o "“모르겠어? 나랑 친해 보인다는 이유로 너까지 피해를 보잖아. 만약 내가 네 집에서 산다는 걸 다른 애들이 알기라도 한다면, 무슨 이상한 소문이 나돌지도 몰라.”"
     voice "voices/gh63.ogg"
-    가연o "“你不知道吗？因为你看起来和我很亲近，所以你也会受到伤害。要是别的学生知道我住在你家，那一定会传出什么奇怪的流言。”"
+    가연o "“不知道吗？因为你看起来和我很亲近，所以你也会受到伤害。要是别的学生知道我住在你家，那一定会传出什么奇怪的流言。”"
 
 # game/chapter7.rpy:4688
 translate chinese chapter7_2_8891945b:
@@ -11028,7 +11028,7 @@ translate chinese chapter7_2_ca310112:
 translate chinese chapter7_2_c7cf95d9:
 
     # 나o "“그러니까 괜찮다고 말했잖아.”"
-    나o "“所以说不在乎。”"
+    나o "“所以我不是说过不在乎吗。”"
 
 # game/chapter7.rpy:4697
 translate chinese chapter7_2_2a538052:
@@ -11126,19 +11126,19 @@ translate chinese chapter7_2_193969ad:
     # voice ""
     # 나o "“두 명까지는 안 되겠지만, 한 명이라면 괜찮을 거야. 우리 집이 형편이 그렇게 어려운 건 아니니까.”"
     voice ""
-    나o "“虽然两个人是不可能的，但是一个人就可以了。再说我们家的情况并不怎么困难啊。”"
+    나o "“虽然两个人可能不行，但是一个人就可以了。再说我们家的情况并不那么困难啊。”"
 
 # game/chapter7.rpy:4726
 translate chinese chapter7_2_66930a26:
 
     # naro "가연은 내가 꺼낸 말의 의미를 잘 이해하지 못했다는 표정을 지으며 고개를 갸웃거렸다. "
-    naro "佳妍明显不明白我说的话，歪着头。"
+    naro "佳妍露出了没有理解我说的话的意思的表情，并歪着头。"
 
 # game/chapter7.rpy:4728
 translate chinese chapter7_2_27cf50ed:
 
     # 나o "“물론 나는 성적으로는 못 들어가겠지만, 스포츠 특기자 전형이라면 어떻게든 되지 않을까?”"
-    나o "“虽然我不能以优异成绩进入，但是如果是体育特长生的话，应该就没什么问题了。”"
+    나o "“当然，我不能凭成绩进去，但是如果通过体育特长生选拔的话，应该就没什么问题了。”"
 
 # game/chapter7.rpy:4730
 translate chinese chapter7_2_991c8da9:
@@ -11154,7 +11154,7 @@ translate chinese chapter7_2_82259a95:
     # voice ""
     # 나o "“그러니까, 내년에 열리는 전국대회에서 우승해서 MVP를 받고 싶어. 수상만 한다면 장학금도 받을 수 있을 테고, 그렇게 되면 원하는 학교에 갈 수 있어.”"
     voice ""
-    나o "“就是啊，我想在明年举行的全国大赛上夺冠，获得MVP。只要获奖，就可以获得奖学金，那就有足够费用能去自己想去的学校了。”"
+    나o "“就是啊，我想在明年举行的全国大赛上夺冠，获得MVP。只要获奖，就可以获得奖学金，这样就可以上自己喜欢的学校了。”"
 
 # game/chapter7.rpy:4734
 translate chinese chapter7_2_4dda1fd1:
@@ -11404,7 +11404,7 @@ translate chinese chapter7_2_a667f850:
 translate chinese chapter7_2_b15271cd:
 
     # naro "인형을 뽑았다. 일곱 번이나 시도해서 뽑은 커다란 곰 인형을, 가연이 매우 좋아해 줬다. "
-    naro "玩了抓娃娃机。试了7次抓到一只大泰迪熊，佳妍非常喜欢。"
+    naro "玩了抓娃娃机。试了7次抓到一只大人偶熊，佳妍非常喜欢。"
 
 # game/chapter7.rpy:4829
 translate chinese chapter7_2_4b7f6ce4:
@@ -11696,7 +11696,7 @@ translate chinese chapter7_2_9331d373:
 translate chinese chapter7_2_2c9b40c9:
 
     # naro "아마도 그날은, 무의식중에 들려오던 목소리의 닻이 내렸던 그 장소였을 것이다. "
-    naro "无意识中听到的声音，在这里抛锚了。"
+    naro "也许那天，是无意识中听到的声音下锚的那个地方。"
 
 # game/chapter7.rpy:4950
 translate chinese chapter7_2_4a3dc614:
@@ -11906,7 +11906,7 @@ translate chinese chapter7_2_5bc3a903:
 translate chinese chapter7_2_e45737f6:
 
     # naro "내 손을 떠난 공은 경기의 끝을 알리는 신호탄이 되어 외야로 뻗어갔다. "
-    naro "球离开我手后，成为宣告比赛结束的信号弹飞向外野。"
+    naro "离开我的手后，球成为宣告比赛结束的信号弹飞出外野。"
 
 # game/chapter7.rpy:5040
 translate chinese chapter7_2_bc0a2121:
@@ -11918,37 +11918,37 @@ translate chinese chapter7_2_bc0a2121:
 translate chinese chapter7_2_8644ade9:
 
     # naro "그랬기에, 나는 뒤를 돌아보지 않은 채 마운드에서 내려왔다. "
-    naro "因此，我没有回头就从投手板上下来了。"
+    naro "因此，我没有回头就从投手板上走下来。"
 
 # game/chapter7.rpy:5044
 translate chinese chapter7_2_f444864a:
 
     # naro "다들 짐을 챙겨 버스로 향했고, 나는 남은 세 명의 동급생과 말다툼을 벌였다. "
-    naro "大家都收拾好行李奔向公共汽车，我和剩下的三个同学吵了起来。"
+    naro "大家都收拾好行李奔向公共汽车，我和剩下的三个同级生吵了起来。"
 
 # game/chapter7.rpy:5045
 translate chinese chapter7_2_163346db:
 
     # naro "끝내기 타구를 맞기 전, 왜 자신들을 비롯한 다른 투수에게 마운드를 넘기지 않았냐는 불만이 내겐 어이없게 들렸음은 당연한 이야기다. "
-    naro "在终结比赛的一击之前，为何不把投手板让给包括自己在内的其他投手，这一不满在我耳朵里听起来特别荒唐，这是理所当然的。"
+    naro "在终结比赛的一击之前，为何不把投手板让给包括自己在内的其他投手，这一不满让我哭笑不得是理所当然的。"
 
 # game/chapter7.rpy:5046
 translate chinese chapter7_2_8f24ee11:
 
     # naro "착각처럼 지워졌던 패배주의에 관한 이야기를, 날카롭게 쏘아붙였다. "
-    naro "他们尖锐地提起了曾像错觉一样被抹去的失败主义。"
+    naro "曾像错觉一样被抹去的失败主义，他们恶狠狠地挖苦道。"
 
 # game/chapter7.rpy:5048
 translate chinese chapter7_2_a4e6aa0e:
 
     # 나o "“여태껏 한 것도 없으면서, 여기까지 올라온 건 순전히 내 덕분이잖아?”"
-    나o "“到目前为止你们明明什么都没干，能走到这里完全是我的功劳啊？”"
+    나o "“到目前为止你们明明什么都没干，能走到这里不就纯粹是托我的福吗？”"
 
 # game/chapter7.rpy:5050
 translate chinese chapter7_2_ee28f093:
 
     # naro "그 말이, 그들의 역린을 건드린 모양이었다. "
-    naro "这句话，触动了他们的逆鳞。"
+    naro "这句话，似乎触动了他们的逆鳞。"
 
 # game/chapter7.rpy:5051
 translate chinese chapter7_2_6ffb3be9:
@@ -11960,13 +11960,13 @@ translate chinese chapter7_2_6ffb3be9:
 translate chinese chapter7_2_19e54bb2:
 
     # naro "삼대 일의 싸움을, 내가 이길 수 있을 리가 없었다. "
-    naro "一个人对上三个人，我不可能赢。"
+    naro "三对一的交锋，我赢不了。"
 
 # game/chapter7.rpy:5054
 translate chinese chapter7_2_a72f0363:
 
     # naro "어둠이 깔리기 시작한 운동장 한편에 얻어맞아 쓰러져있는 나를 보고서도 그들은 화가 풀리지 않았는지, 나를 어디론가 끌고 갔다. "
-    naro "夜幕降临了。看着在运动场的一角被打晕的我，他们可能还没消气，把我拉到了那里。"
+    naro "看着在夜幕降临的运动场的一角被打晕的我，他们的怒火可能还没消退，把我拉到了那里。"
 
 # game/chapter7.rpy:5056
 translate chinese chapter7_2_855298bd:
@@ -11984,7 +11984,7 @@ translate chinese chapter7_2_8d1c427d:
 translate chinese chapter7_2_02cdd007:
 
     # naro "새까만 어둠이 나를 덮쳐왔다. "
-    naro "漆黑的黑暗向我袭来。"
+    naro "黑暗突然来临。"
 
 # game/chapter7.rpy:5060
 translate chinese chapter7_2_d6a123ec:
@@ -12020,13 +12020,13 @@ translate chinese chapter7_2_834e9344:
 translate chinese chapter7_2_2f722eca:
 
     # naro "동급생들의 앙심을 품은 장난에 비품창고에 갇힌 채. "
-    naro "因为同学们怀恨在心的玩笑，我被关在了备用仓库里。"
+    naro "因为同级生怀恨在心的恶作剧，我被关在了备用仓库里。"
 
 # game/chapter7.rpy:5072
 translate chinese chapter7_2_b7b1b92d:
 
     # naro "나는 그곳에서, 공포에 휩싸여 죽어갔던 것이다. "
-    naro "在那里，我被恐惧吞没，然后死去。"
+    naro "在那里，我被恐惧包围着死去。"
 
 # game/chapter7.rpy:5094
 translate chinese chapter7_3_6efca282:
@@ -12038,19 +12038,19 @@ translate chinese chapter7_3_6efca282:
 translate chinese chapter7_3_8f7ab476:
 
     # "텔레이도스코프가 명멸하고 있었다. "
-    "远华镜上的记忆碎片正在逐渐消失。"
+    "远华镜正明灭着。"
 
 # game/chapter7.rpy:5097
 translate chinese chapter7_3_c53b2bff:
 
     # "바스라졌던 기억들이, 한 줌의 먼지와 같은 형태로 흩날리고 있었다. "
-    "那些化为乌有的破碎记忆，像灰尘一样飞舞着。"
+    "粉碎的记忆，以一抔尘土般的形态飘散着。"
 
 # game/chapter7.rpy:5099
 translate chinese chapter7_3_cffef8d2:
 
     # 나 "“…… 이제 끝인가.”"
-    나 "“……就这样结束了吗？”"
+    나 "“……现在结束了吗？”"
 
 # game/chapter7.rpy:5101
 translate chinese chapter7_3_b1bff245:
@@ -12062,7 +12062,7 @@ translate chinese chapter7_3_b1bff245:
 translate chinese chapter7_3_cf16904d:
 
     # "아이러니하게도, 먼저 유령이 되어버린 건 내 쪽이었지만. "
-    "讽刺的是，首先成为幽灵的是我。"
+    "讽刺的是，首先成为幽灵的是我这一方。"
 
 # game/chapter7.rpy:5104
 translate chinese chapter7_3_0c7e925f:
@@ -12080,7 +12080,7 @@ translate chinese chapter7_3_efa98374:
 translate chinese chapter7_3_58004190:
 
     # "무너져가는 세계를 바라보며, 나는 옆에 그녀가 존재하는 척 손을 잡는 시늉을 했다. "
-    "看着即将崩溃的世界，我假装牵起她的手。"
+    "看着即将崩溃的世界，我假装有她的存在，装作牵着手的样子。"
 
 # game/chapter7.rpy:5109
 translate chinese chapter7_3_f37f231f:
@@ -12092,7 +12092,7 @@ translate chinese chapter7_3_f37f231f:
 translate chinese chapter7_3_1d6d0999:
 
     # "다시금 소녀의, 그러니까, 가연의 부재를 실감했다. "
-    "我再一次真切感受到少女，不，佳妍的缺失。"
+    "我再一次切实感受到少女，就是，佳妍的缺失。"
 
 # game/chapter7.rpy:5111
 translate chinese chapter7_3_c0dc4f9e:
@@ -12104,7 +12104,7 @@ translate chinese chapter7_3_c0dc4f9e:
 translate chinese chapter7_3_4b5949c3:
 
     # "씁쓸한 웃음을 지으며, 주변을 돌아보았다. "
-    "苦笑了一下，回头看了看四周。"
+    "带着苦涩的笑容，环顾四周。"
 
 # game/chapter7.rpy:5114
 translate chinese chapter7_3_396673fa:
@@ -12116,13 +12116,13 @@ translate chinese chapter7_3_396673fa:
 translate chinese chapter7_3_df409131:
 
     # "숨이 멎을 뻔한 충격과 함께 나의 시선이 그 자리에 멈춰 선다. "
-    "我的视线停留在那个位置上，呼吸差点停止了。"
+    "伴着一起到来，呼吸差点停止了的刺激，我的视线停留在那个位置上。"
 
 # game/chapter7.rpy:5118
 translate chinese chapter7_3_47fe5861:
 
     # "나의 시선이 멈춰 선 곳. "
-    "视线指向的地方。"
+    "我的视线停下的地方。"
 
 # game/chapter7.rpy:5120
 translate chinese chapter7_3_c36a4628:
@@ -12140,25 +12140,25 @@ translate chinese chapter7_3_edf33824:
 translate chinese chapter7_3_ca10a0bb:
 
     # "나와 함께 잃어버렸던 기억의 길을 되걸어온 그녀가. "
-    "她和我一起走过遗忘的记忆之路。"
+    "和我一起走过失去的记忆之路的她。"
 
 # game/chapter7.rpy:5125
 translate chinese chapter7_3_79e727ae:
 
     # "잊고 싶지 않았던 그 모습 그대로, 눈물을 흘리며 내게 달려왔다. "
-    "还是忘不掉的老样子，流着眼泪向我走来。"
+    "你还是忘不掉的老样子，流着眼泪向我跑来。"
 
 # game/chapter7.rpy:5129
 translate chinese chapter7_3_8f7fb0e8:
 
     # "그러자 끝이라고만 생각했던 텅 빈 장소에서, 희미한 빛이 일었다. "
-    "于是，原以为空空如也的尽头，出现了微弱的光芒。"
+    "于是，在以为结束了的空荡荡的地方，出现了微弱的光芒。"
 
 # game/chapter7.rpy:5130
 translate chinese chapter7_3_1d86f0b5:
 
     # "닻이 파내진 그 장소에는 남아있던 그녀의 기억이 희미한 형태로 모여 있었다. "
-    "在抛锚的那个地方，她留下的记忆以模糊的形态聚集在一起。"
+    "锚被挖出的那个地方，她留下的记忆以模糊的形态聚集在一起。"
 
 # game/chapter7.rpy:5134
 translate chinese chapter7_3_9db9ee32:
@@ -12176,37 +12176,37 @@ translate chinese chapter7_3_98d6e526:
 translate chinese chapter7_3_2731f3bd:
 
     # "돌이켜보면 기억 속에서 나는 항상 그녀와 함께였으니까. "
-    "回想起来，因为记忆中的我一直和她在一起。"
+    "回想起来，记忆中的我一直和她在一起。"
 
 # game/chapter7.rpy:5138
 translate chinese chapter7_3_5942311a:
 
     # "그렇기에 착각했던 것이다. "
-    "所以我错了。"
+    "因此，产生了错觉。"
 
 # game/chapter7.rpy:5143
 translate chinese chapter7_3_ddcda5f7:
 
     # "소녀와 내가 이어졌을 때마다, 나는 그녀의 기억을 보고 있었다."
-    "每当少女和我相连的时候，我就会看着她的记忆。"
+    "每当少女和我相连的时候，我就看到她的记忆。"
 
 # game/chapter7.rpy:5144
 translate chinese chapter7_3_2d2b9474:
 
     # "가연의 시선에서 바라본, 그날의 기억들을. "
-    "从佳妍的视角中看到那天的记忆。"
+    "从佳妍的视线中看到那天的记忆。"
 
 # game/chapter7.rpy:5145
 translate chinese chapter7_3_0898705d:
 
     # "색을 잃은, 그날의 뒷이야기가 텔레이도스코프에 그려진다. "
-    "褪色的，那天之后的故事在远华镜上显现。"
+    "失去色彩的，那天之后的故事在远华镜上描绘。"
 
 # game/chapter7.rpy:5149
 translate chinese chapter7_3_7a1dcccb:
 
     # "경기장을 떠나가는 버스를 보고 낙담하며 집으로 돌아온 가연이었지만, 집에서도 나의 모습은 보이지 않았다."
-    "看到公交车离开赛场，佳妍失望地回到了家，但是在家里也找不到我。"
+    "看到公交车离开赛场后，佳妍失望地回到了家，但是在家里也看不到我的身影。"
 
 # game/chapter7.rpy:5151
 translate chinese chapter7_3_87137af0:
@@ -12228,13 +12228,13 @@ translate chinese chapter7_3_6cc08e14:
 translate chinese chapter7_3_b760fe8d:
 
     # "빗방울이 추적추적 떨어지기 시작한 거리를 사방팔방 돌아다니며 나를 찾기 시작하는 가연. "
-    "雨点开始落下，佳妍走在街道上四处找我。"
+    "在雨点开始淅淅沥沥地落下的街道上，佳妍开始到处找我。"
 
 # game/chapter7.rpy:5160
 translate chinese chapter7_3_5f42e53a:
 
     # "평소엔 연락도, 딱히 안면도 없던 다른 학생들에게 연락을 걸어 보았지만, 그녀에게 돌아온 이야기는 모른다는 대답뿐이었다. "
-    "给平时没有什么联系，但与我关系不错的学生打了电话，但大家都不知道比赛结束后我去了哪里。"
+    "尝试联系了平时不怎么联系、也不怎么见到的其他学生，回给她的答案只是“不知道”。"
 
 # game/chapter7.rpy:5161
 translate chinese chapter7_3_ee468730:
@@ -12246,7 +12246,7 @@ translate chinese chapter7_3_ee468730:
 translate chinese chapter7_3_8fb6f48d:
 
     # "가연이 경찰서에 도착한 건, 그로부터 몇 시간이나 더 홀로 길을 헤맨 뒤에서야였다. "
-    "佳妍前往警察署，在那之后又独自徘徊了几个小时。"
+    "又独自徘徊了几个小时，在那之后佳妍才到达了警察署。"
 
 # game/chapter7.rpy:5167
 translate chinese chapter7_3_a22e6fea:
@@ -12282,7 +12282,7 @@ translate chinese chapter7_3_8578d40c:
 translate chinese chapter7_3_541efd50:
 
     # "나와 함께 다퉜던 세 명의 동급생들이었다. "
-    "是和我吵架的三个同学。"
+    "是和我吵架的三个同级生。"
 
 # game/chapter7.rpy:5175
 translate chinese chapter7_3_3a1787de:
@@ -12414,31 +12414,31 @@ translate chinese chapter7_3_6f6d0d81:
 translate chinese chapter7_3_cd427f37:
 
     # "광기에 휩싸였던 붉은색 기억 조각이 슬픈 빛을 내며 사라져갔다. "
-    "疯狂的红色碎片，带着悲伤的光芒，消失了。"
+    "被疯狂包围的红色记忆碎片发出悲伤的光芒消失了。"
 
 # game/chapter7.rpy:5225
 translate chinese chapter7_3_eed87b77:
 
     # "붉은색 기억 조각의 끄트머리에 남아있던 슬픈 기억들이 마지막 빛을 발한다. "
-    "留在红色记忆碎片末端的悲伤记忆发出最后的光芒。"
+    "留在红色记忆碎片末端的悲伤记忆发出的最后的光芒。"
 
 # game/chapter7.rpy:5229
 translate chinese chapter7_3_cde0a0a9:
 
     # "나를 위한 범죄이자 단죄, 그리고 복수. "
-    "为了我的犯罪，断罪，以及复仇。"
+    "既是为了我的犯罪也是断罪，还有复仇。"
 
 # game/chapter7.rpy:5235
 translate chinese chapter7_3_0da4d3f4:
 
     # "그는 이런 모습의 나라도 사랑해 줄 수 있을까? "
-    "她能爱上这样的国家吗？"
+    "她能爱上这个样子的国家吗？"
 
 # game/chapter7.rpy:5236
 translate chinese chapter7_3_f088262f:
 
     # "그는 이런 모습의 나라도 이해해 줄 수 있을까? "
-    "她也能理解这样的国家吗？"
+    "她能体谅这个样子的国家吗？"
 
 # game/chapter7.rpy:5240
 translate chinese chapter7_3_bd688954:
@@ -12474,19 +12474,19 @@ translate chinese chapter7_3_1c45dc01:
 translate chinese chapter7_3_469e8e4f:
 
     # "다만 원한을 잔뜩 머금어, 미련을 잔뜩 머금어 사라지지 못하고 차안{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}(此岸){/font}{/size}을 떠도는 두 원귀가 이곳에 있다는 것만이 우리가 알 수 있는 사실이었다. "
-    "但我们只能知道，头顶着光环，怀着怨恨和迷恋无法消失，在{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}流浪的两只冤魂就在这里。"
+    "我们能知道的，只有满怀怨恨，满怀迷恋、无法消失、漂泊在{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}的两只冤鬼就在这里。"
 
 # game/chapter7.rpy:5257
 translate chinese chapter7_3_cbf7cd1f:
 
     # "그 원귀들은 시간선을 넘고 넘어, 따가운 기억들을 모조리 잊어버린 채 운명과도 같은 장소에 도착했던 것이다. "
-    "冤魂们越过时间线，忘记了所有回忆，来到了同一个宿命之地。"
+    "那些冤鬼们越过时间线，忘记了所有炽热的记忆，来到了自渡命运一样的地方。"
 
 # game/chapter7.rpy:5258
 translate chinese chapter7_3_cd3a91d2:
 
     # "사라지지 못한 채 존재한다는 것이, 서로에게 어떤 결과를 가져다줄지는 꿈에도 예상하지 못한 채 말이다. "
-    "我们做梦也没有想到，在无法消失的情况下存在会给彼此带来什么后果。"
+    "我们做梦也没能想到，在无法消失的情况下存在会给彼此带来什么后果。"
 
 # game/chapter7.rpy:5261
 translate chinese chapter7_3_5f0a9741:
@@ -12648,7 +12648,7 @@ translate chinese chapter7_3_b862b225:
 translate chinese chapter7_3_0c3c8b7d:
 
     # 나 "“그때 전해주지 못했던 이야기 있잖아.”"
-    나 "“还有个事我没告诉你。”"
+    나 "“不是还有句话我没告诉你嘛。”"
 
 # game/chapter7.rpy:5315
 translate chinese chapter7_3_d8d865ca:
@@ -12672,7 +12672,7 @@ translate chinese chapter7_3_dab735e9:
     # voice "voices/gh96.ogg"
     # 가연 "“…… 이야기 안 해줘도 돼. 기억 속에서 수도 없이 들었고…… 시시한 이야기였으니까.”"
     voice "voices/gh96.ogg"
-    가연 "“……不用说。在记忆中听到了无数次……纯粹是句没意思的话。”"
+    가연 "“……不用告诉我了。在记忆中听到了无数次……纯粹是句没意思的话。”"
 
 # game/chapter7.rpy:5323
 translate chinese chapter7_3_445dc369:
@@ -12702,7 +12702,7 @@ translate chinese chapter7_3_466fc322:
     # voice ""
     # 나 "“그러는 나도 원래의 이름은 알려주지 않았으니까…….”"
     voice ""
-    나 "“那我也没告诉你原来的名字……”"
+    나 "“那我也没告诉你原本的名字……”"
 
 # game/chapter7.rpy:5336
 translate chinese chapter7_3_64c1e2a2:
@@ -12736,7 +12736,7 @@ translate chinese chapter7_3_5f2a915c:
 translate chinese chapter7_3_dbddff9c:
 
     # 나 "“네가 사라지지 못한 채 이승을 떠돌고 있던 이유는, 바로 나 때문이었구나.”"
-    나 "“你漂泊在现世无法消失，原来是因为我啊。”"
+    나 "“你之所以没有消失，还在现世漂泊，原来是因为我啊。”"
 
 # game/chapter7.rpy:5348
 translate chinese chapter7_3_f853060e:
@@ -12782,7 +12782,7 @@ translate chinese chapter7_3_b1855977:
     # voice "voices/gh101.ogg"
     # 가연 "“우리, 사라지려 하고 있어.”"
     voice "voices/gh101.ogg"
-    가연 "“我们要消失了。”"
+    가연 "“我们，要消失了。”"
 
 # game/chapter7.rpy:5368
 translate chinese chapter7_3_9abd1d5f:
@@ -12858,7 +12858,7 @@ translate chinese chapter7_3_365cf581:
     # voice ""
     # "그녀의 존재가 나의 증명이고, 나의 존재가 그녀의 증명이다. "
     voice ""
-    "她的存在是我的证明，我的存在是她的证明。"
+    "我证明了她的存在，她证明了我的存在。"
 
 # game/chapter7.rpy:5393
 translate chinese chapter7_3_06c5c029:
@@ -12912,13 +12912,13 @@ translate chinese chapter7_3_fce57620:
 translate chinese chapter7_3_9168a644:
 
     # "행복하지 못했던 결말도, "
-    "不幸福的结局，"
+    "即使是不幸福的结局，"
 
 # game/chapter7.rpy:5419
 translate chinese chapter7_3_b5ac77d3:
 
     # "이루지 못했던 약속도, "
-    "没能实现的约定，"
+    "还有没能实现的约定，"
 
 # game/chapter7.rpy:5423
 translate chinese chapter7_3_9d1fe032:
@@ -12930,13 +12930,13 @@ translate chinese chapter7_3_9d1fe032:
 translate chinese chapter7_3_e9557964:
 
     # "아픈 기억들도, "
-    "痛苦的记忆，"
+    "痛苦的回忆，"
 
 # game/chapter7.rpy:5431
 translate chinese chapter7_3_1273e9c2:
 
     # "저질러버린 죄악도. "
-    "犯下的罪恶。"
+    "犯下的罪行。"
 
 # game/chapter7.rpy:5435
 translate chinese chapter7_3_60709a80:
@@ -12954,25 +12954,25 @@ translate chinese chapter7_3_4eecedb6:
 translate chinese chapter7_3_5166c225:
 
     # "지금 우리에게 남은 건, 그저 서로의 존재뿐이었다. "
-    "现在我们只剩下彼此的存在。"
+    "现在留给我们的，只剩下彼此的存在。"
 
 # game/chapter7.rpy:5441
 translate chinese chapter7_3_1c767188:
 
     # "서로의 몸과 숨결을 포개며, 눈을 감고는 사라져가는 영혼의 알갱이들을 바라본다. "
-    "彼此的身体和呼吸交织在一起，闭上眼睛看着消失的灵魂颗粒。"
+    "彼此的身体和呼吸交织在一起，闭上眼睛期盼着灵魂颗粒逐渐消失。"
 
 # game/chapter7.rpy:5442
 translate chinese chapter7_3_49d47fa2:
 
     # "새까만 바탕에 피어오르는, 영혼이 만들어낸 빛의 알갱이들. "
-    "在漆黑的背景上绽放的，灵魂创造出的光的颗粒。"
+    "在漆黑的地面上升起的，灵魂创造出的光粒。"
 
 # game/chapter7.rpy:5443
 translate chinese chapter7_3_78b181e9:
 
     # "나는 그 조각들이 두 사람의 빛이 겹쳐져 만들어낸 것임을, 눈동자에 새길 수 있었다. "
-    "眼底铭刻下的那些碎片是由两个人的光重叠而成的。"
+    "我的眼中铭刻下的那些碎片是由两个人的光叠成的。"
 
 # game/chapter7.rpy:5448
 translate chinese chapter7_3_d5960f16:

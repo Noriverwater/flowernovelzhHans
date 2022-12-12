@@ -1180,7 +1180,7 @@ translate chinese chapter5_01efccf7:
     # voice "voices/ge31.ogg"
     # 소녀 "“어둡잖아요. 혼자 걷다가 실족사하기라도 하면 어쩌려고 그러나요？”"
     voice "voices/ge31.ogg"
-    소녀 "“很黑啊。一个人走着走着，如果摔倒了了怎么办？”"
+    소녀 "“很黑啊。一个人走着走着，如果摔倒了怎么办？”"
 
 # game/chapter5.rpy:505
 translate chinese chapter5_c3100393:
@@ -2268,7 +2268,7 @@ translate chinese chapter5_63b22ca2:
 translate chinese chapter5_412d6a93:
 
     # "무언가가 결여된 듯한, 묘한 위화감. "
-    "似乎缺少了什么，有一种微妙的抵触情绪。"
+    "似乎缺少了什么，有一种微妙的违和感。"
 
 # game/chapter5.rpy:908
 translate chinese chapter5_03cf794f:
@@ -2302,7 +2302,7 @@ translate chinese chapter5_0b0d7b01:
 translate chinese chapter5_86d76db1:
 
     # "역시, 괜한 위화감이었던 거겠지. "
-    "果然，是无端的抵触情绪吧。"
+    "果然，是无端的违和感吧。"
 
 # game/chapter5.rpy:924
 translate chinese chapter5_496826df:
@@ -2782,7 +2782,7 @@ translate chinese chapter5_1ebb1fa9:
 translate chinese chapter5_e49a7210:
 
     # "인형을 껴안듯, 나의 팔을 붙잡은 소녀. "
-    "少女像抱着娃娃一样紧抓住我的胳膊。"
+    "少女像抱着人偶一样紧抓住我的胳膊。"
 
 # game/chapter5.rpy:1161
 translate chinese chapter5_b1f7401a:
@@ -7132,13 +7132,13 @@ translate chinese ecg11_label_506f0fd6:
 translate chinese ecg11_label_7cee0a54:
 
     # "어쨌거나, 유미의 말대로라면 내가 어떻게 이 사람의 몸에 깃들게 되었는지도 조금은 설명이 되는 것 같았다. "
-    "不管怎样，按照优美所说，似乎可以稍微解释一下我是怎么进入到这个人的身体的。"
+    "不管怎样，按照优美所说，似乎也可以稍微解释一下我是怎么进入到这个人的身体的。"
 
 # game/chapter5.rpy:3114
 translate chinese ecg11_label_7c93c4ab:
 
     # "말 그대로 우연히, 나의 영혼이 때마침 호버크라프트와 충돌하는 바람에 영혼과 분리되어 껍데기만 남아버린 몸을 찾아 들어가게 되었다는 거겠지. "
-    "字面上的偶然，我的灵魂正好与气垫船相撞，于是我去寻找和灵魂分离，只剩下躯壳的身体。"
+    "字面上的偶然，由于我的灵魂正好与气垫船相撞，才与灵魂分离，于是找到了只剩下躯壳的身体，进入了吧。"
 
 # game/chapter5.rpy:3115
 translate chinese ecg11_label_5230d98f:
@@ -7320,13 +7320,13 @@ translate chinese ecg11_label_19de850f:
     # voice ""
     # 나 "“아메리카노……?”"
     voice ""
-    나 "“美式咖啡？”"
+    나 "“美式咖啡……？”"
 
 # game/chapter5.rpy:3187
 translate chinese ecg11_label_681a925f:
 
     # "유미가 봉투 속에서 꺼낸 다섯 캔의 아메리카노를 보고, 나는 그만 가벼운 웃음을 터뜨리고 말았다. "
-    "看到优美从袋子里拿出了5罐美式咖啡，我不禁笑了起来。"
+    "看到优美从袋子里拿出了5罐美式咖啡，我不禁轻笑了起来。"
 
 # game/chapter5.rpy:3189
 translate chinese ecg11_label_3688a901:
@@ -8236,7 +8236,7 @@ translate chinese ecg11_label_f21a7e91:
 translate chinese ecg11_label_cf09be93:
 
     # "2층 복도 맨 끝에 위치한 오컬트부 부실로 들어서자, 나를 기다리고 있던 현지가 내게 반가이 인사를 건넸다. "
-    "进入2楼走廊尽头的超自然研究部活动室，等待我的贤智高兴地向我打招呼。"
+    "进入2楼走廊尽头的超自然部活动室，等待我的贤智高兴地向我打招呼。"
 
 # game/chapter5.rpy:3511
 translate chinese ecg11_label_7e900421:
@@ -8454,7 +8454,7 @@ translate chinese ecg11_label_623b3645:
 translate chinese ecg11_label_e460ca1f:
 
     # 나 "“어쨌거나, 이제 텔레이도스코프로 유령을 없앨 방법은 고민 안 해도 될 것 같아.”"
-    나 "“不管怎样，现在不用考虑用远华镜消灭幽灵了。”"
+    나 "“不管怎样，现在不用考虑用远华镜除掉幽灵了。”"
 
 # game/chapter5.rpy:3584
 translate chinese ecg11_label_4cf68546:
@@ -8496,7 +8496,7 @@ translate chinese ecg11_label_348dadb9:
     # voice "voices/he93.ogg"
     # 현지 "“아, 헤헤…… 그것도 거짓말이었어요. 아직 유령을 없앨 공식이 완성되지 않은 건 맞는데, 출력은 충분했거든요.”"
     voice "voices/he93.ogg"
-    현지 "“啊，嘿嘿……那也是谎言。目前还没有完成让幽灵成佛的公式，但输出还是很充分的。”"
+    현지 "“啊，嘿嘿……那也是谎言。目前还没有完成让幽灵除掉的公式，但输出还是很充分的。”"
 
 # game/chapter5.rpy:3600
 translate chinese ecg11_label_328b4947:
@@ -8574,25 +8574,25 @@ translate chinese ecg11_label_8610ecc0:
 translate chinese ecg11_label_407be41d:
 
     # "현지를 따라 부스를 둘러보던 나의 시선이 인형 진열대에 고정된다. "
-    "我的视线固定在了玩偶陈列柜上。"
+    "我的视线固定在了人偶陈列柜上。"
 
 # game/chapter5.rpy:3626
 translate chinese ecg11_label_06359afe:
 
     # "그냥 봤을 땐 잘 몰랐는데, 이렇게 가지런히 진열해 놓고 보니 현지가 만든 인형과 내가 만든 인형이 구분되는 것 같아 보이기도 했다. "
-    "刚看的时候不知道，但是这样摆出来的时候，贤智制作的玩偶和我制作的玩偶存在明显的不同。"
+    "刚看的时候不知道，但是这样摆出来的时候，贤智制作的人偶和我制作的人偶存在明显的不同。"
 
 # game/chapter5.rpy:3627
 translate chinese ecg11_label_3aa9e50f:
 
     # "서투른 마감과 약간씩 삐뚤어진 이목구비의 인형은 분명 손재주 부족한 어떤 후배가 만든 것이겠지. "
-    "不熟练的收尾，稍微歪了的五官。分明是某个手艺不足的后辈做的吧。"
+    "不熟练的收尾，稍微歪了的五官。分明是某个手艺不足的后辈做的人偶吧。"
 
 # game/chapter5.rpy:3629
 translate chinese ecg11_label_970b3945:
 
     # 나 "“근데 인형은 내가 만든 게 더 예쁜 것 같은데.”"
-    나 "“我觉得我做的玩偶更漂亮。”"
+    나 "“我觉得我做的人偶更漂亮。”"
 
 # game/chapter5.rpy:3631
 translate chinese ecg11_label_93b447e8:
@@ -8614,7 +8614,7 @@ translate chinese ecg11_label_7c3d7e3d:
 translate chinese ecg11_label_d25a8267:
 
     # 나 "“내가 만든 인형이랑 네가 만든 인형, 딱 봐도 둘 중에 내가 만든 게 더 예쁘잖아.”"
-    나 "“我做的玩偶和你做的玩偶放在一起。一看就知道我做的更漂亮。”"
+    나 "“我做的人偶和你做的人偶放在一起。一看就知道我做的更漂亮。”"
 
 # game/chapter5.rpy:3639
 translate chinese ecg11_label_24db3025:
@@ -8638,7 +8638,7 @@ translate chinese ecg11_label_e197ba6c:
     # voice "voices/he99.ogg"
     # 현지 "“그, 그럼 내기할래요? 누구 인형이 더 잘 팔리는지…….”"
     voice "voices/he99.ogg"
-    현지 "“那，要不要打个赌？谁的玩偶卖得更好……”"
+    현지 "“那，要不要打个赌？谁的人偶卖得更好……”"
 
 # game/chapter5.rpy:3647
 translate chinese ecg11_label_30be3ae6:

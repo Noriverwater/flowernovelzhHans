@@ -78,7 +78,7 @@ translate chinese chapter4_5ebd0fbe:
 translate chinese chapter4_90ce70b8:
 
     # "오컬트부실 구석에 놓여있던, 소녀가 내게 물어본 적 있는 바로 그 ‘{color=#00ccff}텔레이도스코프{/color}’라 이름 붙여진 기계였다."
-    "在超自研活动室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
+    "在超自然部活动室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
 
 # game/chapter4.rpy:37
 translate chinese chapter4_d30675b6:
@@ -374,7 +374,7 @@ translate chinese chapter4_ebcbbaad:
     # voice "voices/hd11.ogg"
     # whohy "“저…… 오컬트부에 들어갈 수 있을까요？”"
     voice "voices/hd11.ogg"
-    whohy "“我……能加入超自然研究部吗？”"
+    whohy "“我……能加入超自然部吗？”"
 
 # game/chapter4.rpy:170
 translate chinese chapter4_fda47239:
@@ -410,7 +410,7 @@ translate chinese chapter4_857959d2:
 translate chinese chapter4_f7336473:
 
     # "2학년이 된 직후, 나는 얼떨결에 오컬트부 부장을 맡게 되어 부원을 모집하던 중이었다."
-    "上了二年级后，我稀里糊涂地担任了超自研部长，正在招募部员。"
+    "上了二年级后，我稀里糊涂地担任了超自然部部长，正在招募部员。"
 
 # game/chapter4.rpy:185
 translate chinese chapter4_3499da5f:
@@ -418,7 +418,7 @@ translate chinese chapter4_3499da5f:
     # voice "voices/hd13.ogg"
     # whohy "“선배가 오컬트부 부장인가요？”"
     voice "voices/hd13.ogg"
-    whohy "“前辈是超自研部长吗？”"
+    whohy "“前辈是超自然部部长吗？”"
 
 # game/chapter4.rpy:190
 translate chinese chapter4_1e24c9d5:
@@ -466,7 +466,7 @@ translate chinese chapter4_cc980c41:
 translate chinese chapter4_55a31292:
 
     # "오컬트부의 단둘뿐인 부원이자, 나의 비밀을 알고 있는 유일한 사람."
-    "超自研的唯一成员，也是唯一知道我秘密的人。"
+    "超自然部的唯一成员，也是唯一知道我秘密的人。"
 
 # game/chapter4.rpy:216
 translate chinese chapter4_dcc099b1:
@@ -800,13 +800,13 @@ translate chinese chapter4_c8d6d86e:
 translate chinese chapter4_b57d2832:
 
     # "여름 방학이 끝나고 열릴 학예제를 준비하기 위해 부실에 모인 나와 현지는, 어째서인지 둘 사이에선 아무런 접점도 보이지 않는 인형 만들기에 열심이었다."
-    "为了准备暑假结束后举行的学艺祭，我和贤智聚在屋子里，不知为什么两人都热衷于制作看不出任何共同点的玩偶。"
+    "为了准备暑假结束后举行的学艺祭，我和贤智聚在屋子里，不知为什么两人都热衷于制作看不出任何共同点的人偶。"
 
 # game/chapter4.rpy:354
 translate chinese chapter4_42174d73:
 
     # 나 "“그나저나 학예제에 인형 판매 부스를 연다니, 어쩌다 그런 생각을 한 거야？”"
-    나 "“对了，你是怎么想到在学艺祭上开设玩偶售卖亭的？”"
+    나 "“对了，你是怎么想到在学艺祭上开设人偶售卖亭的？”"
 
 # game/chapter4.rpy:358
 translate chinese chapter4_41d246f3:
@@ -900,7 +900,7 @@ translate chinese chapter4_8d580783:
     # voice "" 
     # 나 "“여긴 오컬트부니까.”"
     voice "" 
-    나 "“这里可是超自然研究部。”"
+    나 "“这里可是超自然部。”"
 
 # game/chapter4.rpy:393
 translate chinese chapter4_6d0e6141:
@@ -1272,7 +1272,7 @@ translate chinese chapter4_2f9b0e6f:
 translate chinese chapter4_369ba27e:
 
     # 나 "“네가 나랑 처음 만났던 날. 그리고 같이 저 텔레이도스코프 만들었던 거. 그리고 학예회 준비 한답시고 인형 잔뜩 만들었던 거.”"
-    나 "“你第一次见到我的那天。我们一起制作了这个远华镜。为了准备学艺祭，我们做了一堆玩偶。”"
+    나 "“你第一次见到我的那天。我们一起制作了这个远华镜。为了准备学艺祭，我们做了一堆人偶。”"
 
 # game/chapter4.rpy:562
 translate chinese chapter4_b047976d:
@@ -1550,7 +1550,7 @@ translate chinese chapter4_8c1a71af_1:
 translate chinese chapter4_f23e1629:
 
     # "여기가 오컬트부인지 양자역학 연구부인지 헷갈리기 시작했다. "
-    "我开始搞不清这里是超自然研究部还是量子力学研究部。"
+    "我开始搞不清这里是超自然部还是量子力学研究部。"
 
 # game/chapter4.rpy:708
 translate chinese chapter4_082b3876:
@@ -1808,7 +1808,7 @@ translate chinese chapter4_d7eacddc:
     # voice ""
     # "텔레이도스코프를 챙겨 오컬트부 부실에 놓아두고는, 근처 식당으로 향했다. "
     voice ""
-    "我拿起远华镜，把它留在超自研活动室，然后前往附近的一家餐馆。"
+    "我拿起远华镜，把它留在超自然部活动室，然后前往附近的一家餐馆。"
 
 # game/chapter4.rpy:815
 translate chinese chapter4_54e805fe:
@@ -4262,7 +4262,7 @@ translate chinese ecg7_label_450b3837:
 translate chinese ecg7_label_b2a585bc:
 
     # "더듬더듬 생각을 해나가던 나는, 항상 소녀가 잠에 들 때면 곁에 있던 인형이 오늘은 사라져있음을 깨달을 수 있었다. "
-    "我断断续续地想了想，发现少女睡着的时候，没有带上之前的玩偶。"
+    "我断断续续地想了想，发现少女睡着的时候，没有带上之前的人偶。"
 
 # game/chapter4.rpy:1926
 translate chinese ecg7_label_612e23b7:
@@ -4388,7 +4388,7 @@ translate chinese ecg7_label_f46b0ee6:
 translate chinese ecg7_label_7515f3cd:
 
     # "침대 위에서 눈을 뜬 나는 바닥의 이부자리에서 인형을 껴안고 자고 있던 소녀를 발견할 수 있었다. "
-    "在床上睁开眼睛的我，在地板的被褥上发现了抱着玩偶睡觉的少女。"
+    "在床上睁开眼睛的我，在地板的被褥上发现了抱着人偶睡觉的少女。"
 
 # game/chapter4.rpy:1986
 translate chinese ecg7_label_16687fb6:
@@ -7916,25 +7916,25 @@ translate chinese ecg8_label_6a3fbdd1:
 translate chinese ecg8_label_a9412c1e:
 
     # "40분 정도를 걸어 결국 수원지까지 도착해버린 우리는 그곳에서 잠시 시간을 보내기로 했다. "
-    "走了40分钟左右，我们终于到达了水源地。我们决定在那里逗留一段时间。"
+    "走了40分钟左右，我们终于到达了水源地。我们决定在那里打发一会时间。"
 
 # game/chapter4.rpy:3379
 translate chinese ecg8_label_cb615aa9:
 
     # "수원지는 말 그대로 칙칙함으로 물들어 있었다. "
-    "水源地顾名思义，被染黑了。"
+    "水源地如字面意思一样，被染上了黑黢黢的颜色。"
 
 # game/chapter4.rpy:3380
 translate chinese ecg8_label_ecbe1be4:
 
     # "풀도, 나무도 보이지 않는 돌 더미로 이루어진 공간 속에서 그나마 드문드문 보이는 이끼들이 푸르죽죽한 색을 발했다. "
-    "在看不到草，也看不到树的石堆形成的空间里，只有稀稀落落的苔藓放出了青蓝色。"
+    "在连树木都看不到的石头堆组成的空间里，却看到了稀稀落落的苔藓放出了青灰色。"
 
 # game/chapter4.rpy:3381
 translate chinese ecg8_label_8bd170fb:
 
     # "앉아있을 만한 평평한 바위를 찾은 우리는 그곳에 앉아 이런저런 잡담을 나누었다. "
-    "我们找到一块可以坐着的平整岩石，坐在那里闲聊。"
+    "我们找到一块可以坐着的平整岩石，坐在那里聊着这样那样的事情。"
 
 # game/chapter4.rpy:3382
 translate chinese ecg8_label_b61e960a:

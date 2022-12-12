@@ -2538,7 +2538,7 @@ translate chinese chapter3_7b52ffee:
 translate chinese chapter3_437ede44:
 
     # "죽음의 색을 마주할 때마다 소녀로부터 느껴지던 흐릿한 위화감."
-    "少女面对死亡之色时，我已经注意到存在隐隐约约的不协调感。"
+    "少女面对死亡之色时，我已经注意到存在隐隐约约的违和感。"
 
 # game/chapter3.rpy:913
 translate chinese chapter3_de311fb7:
@@ -2622,7 +2622,7 @@ translate chinese chapter3_045b3827:
 translate chinese chapter3_e8264a51:
 
     # "기억에 남아있는 멜로디가 다 연주 되었을 때쯤, 소녀는 오컬트부실에서 보았던 그 편안한 얼굴을 한 채 새근새근 잠에 들어 있었다."
-    "当记忆中的旋律已经唱完时，少女已经像在超自研活动室里见过的那张平静的脸一样睡熟了。"
+    "当记忆中的旋律已经唱完时，少女已经像在超自然部活动室里见过的那张平静的脸一样睡熟了。"
 
 # game/chapter3.rpy:938
 translate chinese chapter3_d6cf2ea2:
@@ -4220,7 +4220,7 @@ translate chinese chapter3_dc1f1b61:
 translate chinese chapter3_09df0610:
 
     # "하지만 불완전하게 재구성된 흐릿한 추억은 말 그대로 흐릿한 감상만을 남길 뿐이었다."
-    "然而，不完全重建的模糊记忆只留下模糊的感伤。"
+    "然而，不完全重建的模糊回忆只留下模糊的感伤。"
 
 # game/chapter3.rpy:1593
 translate chinese chapter3_fbaf4f85:
@@ -4888,7 +4888,7 @@ translate chinese chapter3_31aa80d5:
     # voice "voices/gc86.ogg"
     # 소녀 "“왠지 모르게 제가 살아있다고 착각하게끔 하는 맛이에요.”"
     voice "voices/gc86.ogg"
-    소녀 "“这种味道让我觉得我还活着。”"
+    소녀 "“这种味道让我误以为我还活着。”"
 
 # game/chapter3.rpy:1929
 translate chinese chapter3_faaf9731:
@@ -5094,7 +5094,7 @@ translate chinese chapter3_7ca8c9d9:
 translate chinese chapter3_b1fe70a2:
 
     # 나 "“저 인형, 갖고 싶은 거야？”"
-    나 "“你想要那个玩偶吗？”"
+    나 "“你想要那个人偶吗？”"
 
 # game/chapter3.rpy:2065
 translate chinese chapter3_ce768069:
@@ -5134,7 +5134,7 @@ translate chinese chapter3_1bcefe5e:
 translate chinese chapter3_4c17c67a:
 
     # "소녀가 바라보고 있던 건 각양각색의 인형이 들어있는 인형 뽑기 기계였다."
-    "少女所看到的是一台内置各种各样玩偶的抓娃娃机。"
+    "少女所看到的是一台内置各种各样人偶的抓娃娃机。"
 
 # game/chapter3.rpy:2085
 translate chinese chapter3_14127ed2:
@@ -5216,7 +5216,7 @@ translate chinese ecg4_label_82e431b9:
     # voice "voices/gc93.ogg"
     # 소녀 "“…… 저기, 아래쪽에 보이는 곰인형으로 부탁해요.”"
     voice "voices/gc93.ogg"
-    소녀 "“……看，在下面的泰迪熊，拜托了。”"
+    소녀 "“……看，在下面的人偶熊，拜托了。”"
 
 # game/chapter3.rpy:2120
 translate chinese ecg4_label_8556873c:
@@ -5224,7 +5224,7 @@ translate chinese ecg4_label_8556873c:
     # voice ""
     # "소녀가 가리킨 건 인형 뽑기 기계 아래편에 놓여있는 흰색 곰인형이었다."
     voice ""
-    "少女指着一只躺在抓娃娃机底部的白色泰迪熊。"
+    "少女指着一只躺在抓娃娃机底部的白色人偶熊。"
 
 # game/chapter3.rpy:2134
 translate chinese ecg4_label_65d196bb:
@@ -5254,7 +5254,7 @@ translate chinese ecg4_label_30a6a72b:
 translate chinese ecg4_label_70044eef:
 
     # "금방 뽑아낼 수 있을 줄 알았던 곰인형은 번번이 집게손 끝에서 아슬아슬하게 떨어져버렸다."
-    "以为马上就可以拉出来的泰迪熊总是胆战心惊地从夹子上掉下来。"
+    "以为马上就可以拉出来的人偶熊总是胆战心惊地从夹子上掉下来。"
 
 # game/chapter3.rpy:2151
 translate chinese ecg4_label_a8d02254:
@@ -5266,7 +5266,7 @@ translate chinese ecg4_label_a8d02254:
 translate chinese ecg4_label_ac6d29a5:
 
     # "나의 옆에 선 소녀는 인형이 집게손에서 떨어질 때마다 안타까운 반응을 보여주고 있었다."
-    "每当玩偶从夹子中掉下来时，站在我旁边的少女就表现出惋惜的反应。"
+    "每当人偶从夹子中掉下来时，站在我旁边的少女就表现出惋惜的反应。"
 
 # game/chapter3.rpy:2153
 translate chinese ecg4_label_274df1b6:
@@ -5286,7 +5286,7 @@ translate chinese ecg4_label_768ec48a:
     # voice "voices/gc94.ogg"
     # 소녀 "“인형 하나 뽑는다고 얼마나 쓴 거예요？”"
     voice "voices/gc94.ogg"
-    소녀 "“为了抓这个娃娃花了多少钱？”"
+    소녀 "“为了抓这个人偶花了多少钱？”"
 
 # game/chapter3.rpy:2168
 translate chinese ecg4_label_dca54884:
@@ -5300,7 +5300,7 @@ translate chinese ecg4_label_dca54884:
 translate chinese ecg4_label_f7aacce7:
 
     # "소녀의 손에는 그녀가 원했던 새하얀 곰인형이 쥐어져 있었지만, 상처뿐인 영광이라는 말이 딱 어울려 보였다."
-    "少女手里拿着她一直想要的白色泰迪熊，但用“伤痕累累”一词形容非常适合。"
+    "少女手里拿着她一直想要的白色人偶熊，但用“伤痕累累”一词形容非常适合。"
 
 # game/chapter3.rpy:2178
 translate chinese ecg4_label_7ba48171:
@@ -5362,7 +5362,7 @@ translate chinese ecg4_label_c314ef8f:
     # voice ""
     # "그런 이야기를 하며, 소녀는 자신의 눈높이 정도 되는 담장에서 폴짝 뛰어내렸다."
     voice ""
-    "说着这样的话，少女从自己高高的围墙上跳了下来。"
+    "说着这样的话，少女从符合自己水准的围墙上嗖地跳了下来。"
 
 # game/chapter3.rpy:2209
 translate chinese ecg4_label_e35c0dec:
@@ -5904,7 +5904,7 @@ translate chinese ecg5_label_40ced738:
 translate chinese ecg5_label_5b001578:
 
     # "그 선의 도착지점은 다름 아닌, 나의 옆에 앉아있던 소녀였다."
-    "那条线的末端正是坐在我旁边的少女。"
+    "那条线的延伸到的不是别人, 而是坐在我旁边的少女。"
 
 # game/chapter3.rpy:2471
 translate chinese ecg5_label_bafd3e32:
@@ -5922,19 +5922,19 @@ translate chinese ecg5_label_2b765b45:
 translate chinese ecg5_label_ce915d4e:
 
     # "낮과 밤이 이어지듯, 소녀와의 이어짐에서 떠올린 기억은 또다시 그때의 일이었다."
-    "就像白天和黑夜相接，与少女相连的记忆又回到了那个时候。"
+    "就像白天和黑夜相接，与少女相连时浮现的记忆，是那个时候的事。"
 
 # game/chapter3.rpy:2476
 translate chinese ecg5_label_b8800f68:
 
     # "한여름 밤의 바람을 맞으며 떠올린 기억은, 또다시 그때의 추억이었다."
-    "迎着仲夏夜的风，脑海中浮现的记忆又回到了那个时候。"
+    "迎着仲夏夜的风浮现的记忆，是那个时候的回忆。"
 
 # game/chapter3.rpy:2477
 translate chinese ecg5_label_60adc061:
 
     # "지금은 막연해져 버린 꿈이라는 것이 또렷했을 그 무렵의 이야기."
-    "那些鲜明的往事，现在已经变成模糊的梦。"
+    "那时鲜明的往事，现在已经变成模糊的梦。"
 
 # game/chapter3.rpy:2479
 translate chinese ecg5_label_be0f6e05:
@@ -6378,7 +6378,7 @@ translate chinese ecg5_label_3f2dc34b:
 translate chinese ecg5_label_7ad03e85:
 
     # "어쩌면 소녀가 이곳을 떠돌게 된 이유도, 그 사람과 관련된 일일 수도 있고."
-    "也许少女决定在这里流浪也与那个人有关。"
+    "也许少女决定在这里漂泊也与那个人有关。"
 
 # game/chapter3.rpy:2698
 translate chinese ecg5_label_e1e35273:
@@ -6420,7 +6420,7 @@ translate chinese ecg5_label_acdec395:
 translate chinese ecg5_label_68c3fc11:
 
     # shnvl_hy "선배! 혹시 지금까지 알아낸 거 있어요？ (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})？？"
-    shnvl_hy "前辈。到现在为止有什么发现吗？(　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}{font=fonts/GothicA1-Regular.ttf}д{/font}{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})？？"
+    shnvl_hy "前辈！到现在为止有什么发现吗？(　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}{font=fonts/GothicA1-Regular.ttf}д{/font}{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})？？"
 
 # game/chapter3.rpy:2727
 translate chinese ecg5_label_6b4f572e:

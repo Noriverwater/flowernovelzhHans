@@ -58,7 +58,7 @@ translate chinese chapter2_7998e970:
 translate chinese chapter2_88525ad4:
 
     # "소녀 역시 충동적으로 손을 잡아달라 부탁했던 것이 꽤나 낯간지럽게 느껴졌는지, 테루테루인형만을 빤히 바라보고 있었다."
-    "少女似乎也对一时冲动要求我牵她的手感到很不好意思，一直看着娃娃。"
+    "少女似乎也对一时冲动要求我牵她的手感到很不好意思，一直看着晴天娃娃。"
 
 # game/chapter2.rpy:53
 translate chinese chapter2_1977c372:
@@ -82,7 +82,7 @@ translate chinese chapter2_8782036f:
 translate chinese chapter2_3d9a58f4:
 
     # "사람들이 모여 있던 횡단보도를 건너고, 인적이 드문 골목길로 들어섰음에도 소녀의 시선은 여전히 테루테루인형에 고정된 채였다."
-    "穿过人群聚集的人行横道，走进人迹罕至的小巷，少女的视线依然固定在娃娃上。"
+    "穿过人群聚集的人行横道，走进人迹罕至的小巷，少女的视线依然固定在晴天娃娃上。"
 
 # game/chapter2.rpy:64
 translate chinese chapter2_cdf59149:
@@ -128,13 +128,13 @@ translate chinese chapter2_00159356:
 translate chinese chapter2_146b329e:
 
     # "끌어안은 인형의 익살스러운 표정이 소녀의 무덤덤한 얼굴과 겹쳤지만, 어울리는 구석은 보이지 않았다."
-    "抱在怀里的娃娃的滑稽表情和少女的冷漠表情，没有一点相似。"
+    "抱在怀里的人偶的滑稽表情和少女的冷漠表情，没有一点相似。"
 
 # game/chapter2.rpy:94
 translate chinese chapter2_49b1748f:
 
     # "집에 도착한 소녀가 가장 먼저 한 일은 오컬트부실에서 그랬던 것처럼, 주변을 이리저리 살피는 것이었다."
-    "少女到家后做的第一件事就是环顾四周，就像在超自研活动室里一样。"
+    "少女到家后做的第一件事就是环顾四周，就像在超自然部活动室里一样。"
 
 # game/chapter2.rpy:96
 translate chinese chapter2_4a63bb43:
@@ -163,7 +163,7 @@ translate chinese chapter2_7823077e:
     # voice "voices/gb4.ogg"
     # 소녀 "“…… 오컬트부실이랑 비슷한 분위기네요.”"
     voice "voices/gb4.ogg"
-    소녀 "“……和超自研活动室的氛围很像。”"
+    소녀 "“……和超自然部活动室的氛围很像。”"
 
 # game/chapter2.rpy:112
 translate chinese chapter2_04f388ff:
@@ -1069,13 +1069,13 @@ translate chinese chapter2_ac02d759:
 translate chinese chapter2_ac356822:
 
     # "아까 전, 오컬트부실에서 보았던 것처럼―"
-    "就像我之前在超自研活动室里看到的——"
+    "就像我之前在超自然部活动室里看到的——"
 
 # game/chapter2.rpy:496
 translate chinese chapter2_7ada6ef6:
 
     # 나 "“아, 맞다. 그러고 보니 아까 오컬트부실에서 있었던 일 말인데.”"
-    나 "“啊，对了。刚才在超自研活动室里发生的事。”"
+    나 "“啊，对了。刚才在超自然部活动室里发生的事。”"
 
 # game/chapter2.rpy:498
 translate chinese chapter2_8a420edf:
@@ -1465,7 +1465,7 @@ translate chinese chapter2_ea5e0f6b:
 translate chinese chapter2_65c96191:
 
     # "낮에 오컬트부실에서 보았던 새근새근 잠들어 있는 소녀의 모습이 얼핏 떠오른다. "
-    "这让我想起了白天在超自研活动室里看到的那个昏昏欲睡的少女。"
+    "这让我想起了白天在超自然部活动室里看到的那个昏昏欲睡的少女。"
 
 # game/chapter2.rpy:658
 translate chinese chapter2_d3fd2282:
@@ -2685,7 +2685,7 @@ translate chinese ecg3_label_052f7e52:
 translate chinese ecg3_label_83272a6e:
 
     # "착각이라기엔 너무 생생한 어제의 기억이었습니다만……."
-    "那是昨天的记忆，鲜明得不像是幻觉……"
+    "那是昨天的记忆，鲜明得不像是错觉……"
 
 # game/chapter2.rpy:1183
 translate chinese ecg3_label_1035fdce:
@@ -3071,7 +3071,7 @@ translate chinese ecg3_label_4b1ac276:
 translate chinese ecg3_label_374786d8:
 
     # 나 "“글쎄…… 영화라서 감정을 조금 격하게 표현한 건 아닐까？”"
-    나 "“我说……这部电影的感情表达是不是有点过激了？”"
+    나 "“哎呀……因为是电影，所以感情表达是不是有点过激了？”"
 
 # game/chapter2.rpy:1381
 translate chinese ecg3_label_d68583a5:
@@ -3087,7 +3087,7 @@ translate chinese ecg3_label_f57584e4:
     # voice ""
     # 나 "“그래도 그건 AI잖아. 예를 들자면, 자기가 엄청 아끼던 인형을 누가 고장 내버렸다고 해서 그 사람을 죽이려 하는 게 정당화 되지는 않을 거 아냐.”"
     voice ""
-    나 "“但它是AI。举例来说，你非常喜欢的玩偶被人弄坏了，你去杀掉弄坏它的人是不正当的。”"
+    나 "“但它是AI。举例来说，你非常喜欢的人偶被人弄坏了，你去杀掉弄坏它的人是不正当的。”"
 
 # game/chapter2.rpy:1391
 translate chinese ecg3_label_5971a7c9:
@@ -3161,7 +3161,7 @@ translate chinese ecg3_label_d56ee649:
     # voice "voices/yb30.ogg"
     # 유미 "“그런가？ 그럼, 이야기를 조금 바꿔서. 너는 인공지능이든 뭐든, 좋아하는 이가 다른 사람에 의해 더 이상 볼 수 없게 된다면 그 복수는 정당화 될 수 있다고 생각해？”"
     voice "voices/yb30.ogg"
-    유미 "“是吗？那么，我们换一下话题。你觉得当你再也见不到喜欢的人，人工智能或者别的什么，这时的复仇难道不是正义吗？”"
+    유미 "“是吗？那么，换个话题。你觉得当你再也见不到喜欢的人，人工智能或者别的什么，这时的复仇难道不是正义吗？”"
 
 # game/chapter2.rpy:1426
 translate chinese ecg3_label_24c07477:
@@ -6037,7 +6037,7 @@ translate chinese ecg3_label_c98bc388:
 translate chinese ecg3_label_2e1d173e:
 
     # "심장이 너무 빠르게 뛰기 시작해, 숨을 거칠게 내쉬는 것 말고는 할 수 있는 일이 없었다. "
-    "我的心脏跳得如此之快，以至于我除了喘粗气之外别无他法。"
+    "我的心脏跳得如此之快，以至于除了喘粗气之外什么也做不到。"
 
 # game/chapter2.rpy:2556
 translate chinese ecg3_label_aec5b3d7:
@@ -6067,13 +6067,13 @@ translate chinese ecg3_label_88b1dcb8:
 translate chinese ecg3_label_031f44a0:
 
     # "그 감각에 휩싸인 나는 마음속으로 살려 달라는 무언의 아우성을 내지르고 있었다. "
-    "那种感觉将我包围，我在心里默默地呐喊着救命。"
+    "那种感觉将我包围，我在心里默默地大声呐喊着救命。"
 
 # game/chapter2.rpy:2564
 translate chinese ecg3_label_ab362d69:
 
     # "그 누구에게도 닿지 않는 아우성을, 몇 번이고, 몇 번이고. "
-    "无数次、无数次、无数次发出无人能及的呐喊。"
+    "发出谁都没法听到的呐喊声，一遍又一遍。"
 
 # game/chapter2.rpy:2568
 translate chinese ecg3_label_5aa288c7:
@@ -6099,7 +6099,7 @@ translate chinese ecg3_label_31b34634:
     # voice "voices/gb106.ogg"
     # 소녀 "“왜 그래요？”"
     voice "voices/gb106.ogg"
-    소녀 "“怎么了？”"
+    소녀 "“怎么了吗？”"
 
 # game/chapter2.rpy:2579
 translate chinese ecg3_label_c5d32299:
@@ -6209,7 +6209,7 @@ translate chinese ecg3_label_adeaa239:
 translate chinese ecg3_label_1f7a7eef:
 
     # "그러고 보니, 유미와 함께 다닐 때도 항상 엘리베이터 대신 계단을 이용했었지. "
-    "这么一看，之前和优美一起玩的时候，也总是用楼梯代替电梯。"
+    "这么一看，之前和优美一起玩的时候，也经常走楼梯而不是坐电梯。"
 
 # game/chapter2.rpy:2619
 translate chinese ecg3_label_e2577405:
@@ -6227,13 +6227,13 @@ translate chinese ecg3_label_522a9357:
 translate chinese ecg3_label_d31cf91d:
 
     # "하지만 분명 예전에는 이런 증세가 없었던 것 같은데. "
-    "但显然，之前没有出现过这样的症状。"
+    "但是以前好像没有这种症状。"
 
 # game/chapter2.rpy:2625
 translate chinese ecg3_label_1a382a36:
 
     # "그렇다면 이런 증상은 내가 아닌, 이 몸의 원래 주인이 갖고 있었던 것이었으려나. "
-    "那么，这种症状不是我，而是这个身体的主人所拥有的吗。"
+    "那么，这种症状不是我，而是这个身体的原主人所拥有的吗。"
 
 # game/chapter2.rpy:2626
 translate chinese ecg3_label_c998f509:
@@ -6279,7 +6279,7 @@ translate chinese ecg3_label_419e1082:
 translate chinese ecg3_label_da01a586:
 
     # "계단을 반쯤 올라 5층에 다다르려 할 때쯤, 옆에서 나란히 계단을 걸어 올라가고 있던 소녀가 문득 옷깃을 잡아당겼다. "
-    "爬到一半楼梯即将到5楼时，在旁边并排走楼梯的少女突然拽住了衣领。"
+    "楼爬到一半即将到5楼时，在旁边并排爬楼的少女突然拽住了衣领。"
 
 # game/chapter2.rpy:2648
 translate chinese ecg3_label_12bca1c3:
@@ -6287,7 +6287,7 @@ translate chinese ecg3_label_12bca1c3:
     # voice "voices/gb111.ogg"
     # 소녀 "“저기, 뭔가 싸늘한 느낌 들지 않나요？”"
     voice "voices/gb111.ogg"
-    소녀 "“那个，是不是有点冰冷的感觉？”"
+    소녀 "“那个，是不是感觉有点冷？”"
 
 # game/chapter2.rpy:2650
 translate chinese ecg3_label_c9cc75fd:
@@ -6295,19 +6295,19 @@ translate chinese ecg3_label_c9cc75fd:
     # voice ""
     # 나 "“싸늘한 느낌……？ 글쎄, 오히려 좀 후텁지근하지 않나.”"
     voice ""
-    나 "“冰冷的感觉……？不，反而有点闷热。”"
+    나 "“冰冷的感觉……？不，反而非常闷热。”"
 
 # game/chapter2.rpy:2653
 translate chinese ecg3_label_15140790:
 
     # "오히려 냉방이 안 되어 조금 덥다는 생각이 들려는 찰나였는데. "
-    "反而是因为冷气不够用，所以觉得有点热的一瞬间。"
+    "反而是传来没开空调，所以觉得有点热的想法的一瞬间。"
 
 # game/chapter2.rpy:2654
 translate chinese ecg3_label_79bd953f:
 
     # "소녀의 의아한 물음에, 이번엔 내가 고개를 갸웃해 보였다. "
-    "面对少女的惊诧，这次我歪了歪头。"
+    "面对少女奇怪的提问，这次我歪了歪头。"
 
 # game/chapter2.rpy:2656
 translate chinese ecg3_label_6795ab9d:
@@ -6315,7 +6315,7 @@ translate chinese ecg3_label_6795ab9d:
     # voice "voices/gb112.ogg"
     # 소녀 "“…… 그러게요. 뜨거워요.”"
     voice "voices/gb112.ogg"
-    소녀 "“……好吧。很烫。”"
+    소녀 "“……好吧。很热。”"
 
 # game/chapter2.rpy:2659
 translate chinese ecg3_label_16d604cc:
@@ -6329,7 +6329,7 @@ translate chinese ecg3_label_16d604cc:
 translate chinese ecg3_label_b0654fca:
 
     # "옆을 돌아보자, 소녀의 초점 없는 눈동자가 멍하니 허공을 응시하고 있었다. "
-    "回头一看，少女那毫无焦点的眼睛呆呆地凝视着天空。"
+    "转身看去，少女失去焦点的眼睛呆呆地凝视着半空。"
 
 # game/chapter2.rpy:2663
 translate chinese ecg3_label_f14813cd:
@@ -6337,7 +6337,7 @@ translate chinese ecg3_label_f14813cd:
     # voice "voices/gb113.ogg"
     # 소녀 "“제가 볼 수 있는 건, 미래의 죽음뿐만이 아니었나 봐요.”"
     voice "voices/gb113.ogg"
-    소녀 "“我能看到的，可能不仅仅是未来的死亡。”"
+    소녀 "“我能看到的，可能不只是未来的死亡。”"
 
 # game/chapter2.rpy:2665
 translate chinese ecg3_label_22553228:
@@ -6883,7 +6883,7 @@ translate chinese ecg3_label_8394fb19:
 translate chinese ecg3_label_dd5dce9a:
 
     # 나 "“아, 그나저나 네가 정말 화재로 죽은 거라면, 왜 유령인 채로 남아 이곳을 떠돌아다니게 된 걸까？”"
-    나 "“啊，对了，如果你真的死在火海里，为什么却作为幽灵在这里流浪？”"
+    나 "“啊，对了，如果你真的死在火海里，为什么却作为幽灵在这里漂泊？”"
 
 # game/chapter2.rpy:2884
 translate chinese ecg3_label_46da0cca:
@@ -6945,7 +6945,7 @@ translate chinese ecg3_label_a9680d58:
 translate chinese ecg3_label_b963c899:
 
     # 나 "“그러니까…… 너도 그 여자애처럼 누군가를 도와주려 했지만, 어쩌다 보니 그러지 못해서 그 일이 미련으로 남아있다던가.”"
-    나 "“是啊……你也像那个女孩子一样乐于助人，却不知怎么没能做到，所以那件事成为了留恋的理由。”"
+    나 "“是啊……你也像那个女孩子一样乐于助人，却不知怎么没能做到，所以那件事成为了迷恋的理由。”"
 
 # game/chapter2.rpy:2913
 translate chinese ecg3_label_8eb0905b:

@@ -770,7 +770,7 @@ translate chinese chapter6_e9082b0b:
 translate chinese chapter6_2c1e71f4:
 
     # "몸을 비틀어 베개에 얼굴을 파묻으려다 말고, 나는 침대와 탁자 사이에 떨어져 있던 인형 하나를 발견했다. "
-    "扭动身子想把脸埋在枕头里，却在床和桌子之间发现了一个娃娃。"
+    "扭动身子想把脸埋在枕头里，却在床和桌子之间发现了一个人偶。"
 
 # game/chapter6.rpy:302
 translate chinese chapter6_95b64f29:
@@ -782,7 +782,7 @@ translate chinese chapter6_95b64f29:
 translate chinese chapter6_6ee221d5:
 
     # "팔을 뻗어 인형을 주워들었다. "
-    "伸手去捡娃娃。"
+    "伸手去捡人偶。"
 
 # game/chapter6.rpy:305
 translate chinese chapter6_5bf0bb41:
@@ -794,13 +794,13 @@ translate chinese chapter6_5bf0bb41:
 translate chinese chapter6_0d9c5d41:
 
     # "분명 내가 만든 인형이었다. "
-    "分明是我做的玩偶。"
+    "分明是我做的人偶。"
 
 # game/chapter6.rpy:307
 translate chinese chapter6_540f39d2:
 
     # "소녀는 그때, 내가 만든 인형을 보기 좋게 골랐던 것이다. "
-    "少女当时挑选的玩偶。"
+    "少女当时挑选的人偶。"
 
 # game/chapter6.rpy:309
 translate chinese chapter6_77762b54:
@@ -812,13 +812,13 @@ translate chinese chapter6_77762b54:
 translate chinese chapter6_2cdb0b9d:
 
     # "탁자 위에 인형을 올려두고선, 멍하니 그것을 바라보았다. "
-    "把娃娃放在桌上，愣愣地望着它。"
+    "把人偶放在桌上，愣愣地望着它。"
 
 # game/chapter6.rpy:315
 translate chinese chapter6_3070e5a4:
 
     # "소녀도 이 인형처럼 어딘가에 홀로 남겨져 시간을 죽이고 있겠지. "
-    "少女也一定像这个娃娃一样独自呆在某个地方，消磨时间。"
+    "少女也一定像这个人偶一样独自呆在某个地方，消磨时间。"
 
 # game/chapter6.rpy:317
 translate chinese chapter6_bc9a78e8:
@@ -6082,7 +6082,7 @@ translate chinese ecg13_label_b07c8398:
 translate chinese ecg13_label_a8de505b:
 
     # "아득한 과거로부터 날아온 망령인 내가 소녀와의 인연을 전혀 주장할 수 없다는 것을. "
-    "我，大概是一个从遥远的过去飞过来的亡灵，完全不能主张与少女的缘分。"
+    "从遥远的过去飞过来的亡灵的我，完全不能主张与少女的缘分。"
 
 # game/chapter6.rpy:2178
 translate chinese ecg13_label_cfb78919:
@@ -6100,13 +6100,13 @@ translate chinese ecg13_label_5c28dceb:
 translate chinese ecg13_label_2264c849:
 
     # "망자로 만난 엇나간 인연의 두 사람이 목소리로 연결되어 있는 건. "
-    "以亡魂身份相遇的两个人的声音连接在一起。"
+    "作为亡者背离相遇的两个有缘人通过声音连接在一起。"
 
 # game/chapter6.rpy:2181
 translate chinese ecg13_label_3bd046eb:
 
     # "단순한 착각이라 치부하기엔 너무나도 따스하게 들려온 소녀의 목소리가 이번에도 머릿속을 빙글빙글 맴돌았다. "
-    "少女那温暖的声音，让人难以相信这只是单纯的偶然，这次也在脑海中盘旋。"
+    "少女那温暖的声音，让人难以相信这只是单纯的错觉，这次也在脑海中盘旋。"
 
 # game/chapter6.rpy:2182
 translate chinese ecg13_label_275069e6:
@@ -7864,7 +7864,7 @@ translate chinese ecg14_label_491f031b:
     # voice "voices/gf98.ogg"
     # 소녀 "“앞으로 이곳에 남겨져 영원히 세상을 떠돌더라도, 가끔씩 당신과 있었던 일을 생각하며 웃을 수 있을 테니까요. 그럼…… 행복할 거예요.”"
     voice "voices/gf98.ogg"
-    소녀 "“就算我留在这里。永远在这个世界上流浪，也会偶尔想起和你在一起的事情而发笑。那么……会幸福的。”"
+    소녀 "“就算我留在这里。永远在这个世界上漂泊，也会偶尔想起和你在一起的事情而发笑。那么……会幸福的。”"
 
 # game/chapter6.rpy:2808
 translate chinese ecg14_label_fa6ea105:
