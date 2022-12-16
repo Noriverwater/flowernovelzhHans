@@ -1264,7 +1264,7 @@ translate chinese chapter7_f61f5075:
 translate chinese chapter7_6871a06d:
 
     # "어쨌거나 소녀가 사라지게 되었다면, 이걸로 된 걸까. "
-    "不管怎样，少女还是消失了，目的达到了，这样就可以了吗？"
+    "不管怎样，少女要是消失了，这样就可以了吗？"
 
 # game/chapter7.rpy:515
 translate chinese chapter7_48bf2ee7:
@@ -4296,7 +4296,7 @@ translate chinese chapter7_3ef24d01:
     # voice "voices/hg9.ogg"
     # 현지 "“지금 바로 오컬트부실로 와 줄 수 있어요?”"
     voice "voices/hg9.ogg"
-    현지 "“现在能马上来超自然部活动室吗？”"
+    현지 "“现在能马上来超自然部室吗？”"
 
 # game/chapter7.rpy:1917
 translate chinese chapter7_14c94d95:
@@ -4406,7 +4406,7 @@ translate chinese chapter7_cfbf157c:
 translate chinese chapter7_1e041391:
 
     # "오컬트부실에 도착해 문을 열고선 안을 살폈다. "
-    "到了活动室，打开门往里面看。"
+    "到了超自然部室，打开门往里面看。"
 
 # game/chapter7.rpy:1964
 translate chinese chapter7_72c021a4:
@@ -4434,7 +4434,7 @@ translate chinese chapter7_6ddcf6d0:
     # voice ""
     # "나와 함께 오컬트부실 안을 살피던 소녀가 그렇게 말하며 안으로 들어섰다. "
     voice ""
-    "和我一起看着超自然部活动室的少女说道，走进了里面。"
+    "和我一起看着超自然部室的少女说道，走进了里面。"
 
 # game/chapter7.rpy:1973
 translate chinese chapter7_66ceb903:
@@ -4452,7 +4452,7 @@ translate chinese chapter7_a54ee0ad:
 translate chinese chapter7_430a8c22:
 
     # "5분여 정도가 지났을까, 마치 초자연현상이 일어나듯, 덜컥하는 소리와 함께 부실 문이 열렸다. "
-    "过了5分钟左右，就像发生了超自然现象一样，门莫名其妙地打开了。"
+    "过了5分钟左右，就像发生了超自然现象一样，随着哐当一声部室门被打开了。"
 
 # game/chapter7.rpy:1981
 translate chinese chapter7_4772a820:
@@ -4996,7 +4996,7 @@ translate chinese chapter7_c52a9e92:
     # voice "voices/hg29_2.ogg"
     # 현지 "“요컨대 이 부실이라거나, 제가 손대지 않은 탁상 위의 인형 같은 것들요.”"
     voice "voices/hg29_2.ogg"
-    현지 "“总之，就像这个活动室，或者我没有碰过桌子上的人偶。”"
+    현지 "“总之，就像这个部室之类的，或者我没有碰过桌子上的人偶。”"
 
 # game/chapter7.rpy:2197
 translate chinese chapter7_41eea804:
@@ -5028,7 +5028,7 @@ translate chinese chapter7_972b0acb:
     # voice "voices/hg30.ogg"
     # 현지 "“말 그대로, 같은 차원에서 온 거겠죠.”"
     voice "voices/hg30.ogg"
-    현지 "“如字面意思所说，应该是从同一个维度来的吧。”"
+    현지 "“如字面意思所说，应该都是从同一个维度来的吧。”"
 
 # game/chapter7.rpy:2215
 translate chinese chapter7_6a51ae52:
@@ -5084,7 +5084,7 @@ translate chinese chapter7_1bb08f8a:
     # voice "voices/ef4.ogg"
     # 소녀 "“아무것도 기억이 안 나요. 이름이 뭐였는지도, 어떤 학교에 다녔는지도, 가족관계가 어떻게 됐는지도, 친구가 누가 있었는지도……”"
     voice "voices/ef4.ogg"
-    소녀 "“什么都不记得了。不知道名字是什么，上了什么学校，家庭关系怎么样，有没有朋友……”"
+    소녀 "“什么都不记得了。不知道名字是什么，上了什么学校，家庭关系怎么样，朋友是谁……”"
 
 # game/chapter7.rpy:2244
 translate chinese chapter7_5f55b938:
@@ -5116,7 +5116,7 @@ translate chinese chapter7_85bd238a:
     # voice ""
     # 나 "“1년 정도라고 했지? 네가 이곳을 떠돌게 된 지가.”"
     voice ""
-    나 "“大概有一年了吧？你在这里流浪。”"
+    나 "“你说大概有一年了吧？在这里已经漂泊了很久。”"
 
 # game/chapter7.rpy:2252
 translate chinese chapter7_ffae14b4:
@@ -5442,7 +5442,7 @@ translate chinese chapter7_0c9082fd:
 translate chinese chapter7_5b36e51c:
 
     # "오컬트부실을 나온 나는 소녀와 함께 유미가 있을 법한 장소로 향했다. "
-    "走出活动室，我和少女一起去找优美。"
+    "走出超自然部室，我和少女一起走向了优美所在的地方。"
 
 # game/chapter7.rpy:2384
 translate chinese chapter7_a1283fec:
@@ -5500,7 +5500,7 @@ translate chinese chapter7_cc44f099:
 translate chinese chapter7_8bd51244:
 
     # 나 "“너는 1년 전에, 이곳에 도착하게 된 거야. 차원을 넘어 다니느라 모든 기억을 잃어버려, 단순히 자신이 유령이라는 자각만을 가지고 여기를 배회했던 거지. 그러니까, 어째서…… 너는 어째서 이곳을 배회하게 되었던 걸까?”"
-    나 "“你是一年前到达这里的。为了跨越维度，失去了所有的记忆，单纯地以自己是幽灵在这里徘徊。所以，为什么……你为什么在这里徘徊？”"
+    나 "“你是一年前到达这里的。为了跨越维度，失去了所有的记忆，单纯地带着幽灵的觉悟在这里徘徊。所以，为什么……你为什么在这里徘徊？”"
 
 # game/chapter7.rpy:2402
 translate chinese chapter7_fa2ef543:
@@ -10320,7 +10320,7 @@ translate chinese chapter7_2_f65d8c75:
     # voice ""
     # 나o "“커터(Cutter)야. 슬라이더보다는 약간 빠르면서 날카롭게 휘어져나가는 공.”"
     voice ""
-    나o "“是切球（Cutter）。比滑球更快、更锋利的球。”"
+    나o "“是切球（Cutter）。比滑行曲线球更快一点、曲线变化更锐利的球。”"
 
 # game/chapter7.rpy:4435
 translate chinese chapter7_2_4965afea:
@@ -10328,7 +10328,7 @@ translate chinese chapter7_2_4965afea:
     # voice "voices/gh50.ogg"
     # 가연o "“좌타자들은 그 공 몸쪽에 붙이니까 꼼짝도 못 하던데, 제구만 잘 되면 앞으로도 잘 써먹을 수 있겠다.”"
     voice "voices/gh50.ogg"
-    가연o "“左打者们贴在那球上动弹不得。只要控球成功，以后也能发挥出这样的作用。”"
+    가연o "“那个球贴在左打者们的身体内侧所以来不及动。一旦控好球后，就能了不起地运用了。”"
 
 # game/chapter7.rpy:4437
 translate chinese chapter7_2_f400189c:
@@ -12432,13 +12432,13 @@ translate chinese chapter7_3_cde0a0a9:
 translate chinese chapter7_3_0da4d3f4:
 
     # "그는 이런 모습의 나라도 사랑해 줄 수 있을까? "
-    "她能爱上这个样子的国家吗？"
+    "连这个样子的国家她也能爱上吗？"
 
 # game/chapter7.rpy:5236
 translate chinese chapter7_3_f088262f:
 
     # "그는 이런 모습의 나라도 이해해 줄 수 있을까? "
-    "她能体谅这个样子的国家吗？"
+    "连这个样子的国家她也能理解吗？"
 
 # game/chapter7.rpy:5240
 translate chinese chapter7_3_bd688954:

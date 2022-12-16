@@ -2622,7 +2622,7 @@ translate chinese chapter3_045b3827:
 translate chinese chapter3_e8264a51:
 
     # "기억에 남아있는 멜로디가 다 연주 되었을 때쯤, 소녀는 오컬트부실에서 보았던 그 편안한 얼굴을 한 채 새근새근 잠에 들어 있었다."
-    "当记忆中的旋律已经唱完时，少女已经像在超自然部活动室里见过的那张平静的脸一样睡熟了。"
+    "当记忆中的旋律已经唱完时，少女已经像在超自然部室里见过的那张平静的脸一样睡熟了。"
 
 # game/chapter3.rpy:938
 translate chinese chapter3_d6cf2ea2:
@@ -3698,7 +3698,7 @@ translate chinese chapter3_87b8f573:
 translate chinese chapter3_f0b3bbaf:
 
     # "한 시간 정도를 더 컴퓨터 앞에 앉은 채 보냈다."
-    "又坐在电脑前度过了一个小时左右。"
+    "又坐在计算机前度过了一个小时左右。"
 
 # game/chapter3.rpy:1359
 translate chinese chapter3_bfbf3a86:
@@ -4711,14 +4711,15 @@ translate chinese chapter3_5846a7ad:
 
     # voice ""
     # "소녀가 맨 처음으로 고른 것은 몽블랑, 그리고 두 번째로 고른 것은 쇼트케이크였다."
+    # Mont Blanc and shortcake
     voice ""
-    "少女第一个选择的是白朗峰（Mont Blanc），第二个选择的是小蛋糕。"
+    "少女第一个选择的是勃朗峰，第二个选择的是水果奶油蛋糕。"
 
 # game/chapter3.rpy:1849
 translate chinese chapter3_494a5ecd:
 
     # "분명 하나만 고르려다 예쁘장한 모양의 쇼트케이크가 건네는 유혹에 결국 넘어가버린 것이리라."
-    "分明是只想点一个，但最终被外形漂亮的小蛋糕所迷住了。"
+    "分明是只想点一个，但最终被外形漂亮的水果奶油蛋糕所引诱了。"
 
 # game/chapter3.rpy:1850
 translate chinese chapter3_932be8e7:
@@ -4742,7 +4743,7 @@ translate chinese chapter3_2c5067db:
 translate chinese chapter3_67eac37e:
 
     # 나 "“몽블랑 말이야, 먹어 본 기억 있어？”"
-    나 "“你吃过白朗峰吗？”"
+    나 "“你吃过勃朗峰吗？”"
 
 # game/chapter3.rpy:1865
 translate chinese chapter3_49b089c3:
@@ -4828,7 +4829,7 @@ translate chinese chapter3_ff2cc1e5:
 translate chinese chapter3_ec6a790b:
 
     # "접시 위에 놓인 몽블랑을 빤히 바라보고 있던 소녀에게 그런 이야기를 건네고 난 뒤에서야, 소녀는 몽블랑 하나를 집어 들었다."
-    "向目不转睛地看着放在碟子上的白朗峰的少女说了这样的话之后，少女才拿起了一个白朗峰。"
+    "向目不转睛地看着放在碟子上的勃朗峰的少女说了这样的话之后，少女才拿起了一个勃朗峰。"
 
 # game/chapter3.rpy:1902
 translate chinese chapter3_5a19d105:
@@ -4862,7 +4863,7 @@ translate chinese chapter3_04f388ff:
 translate chinese chapter3_c4716e2a:
 
     # "몽블랑을 한 입 베어 문 소녀로부터 마치 반어법은 아닐까 하는 생각이 절로 들만한 감상이 들려왔다."
-    "从咬了一口白朗峰的少女口中，不由产生了“这是不是反话”的想法。"
+    "从咬了一口勃朗峰的少女口中，不由产生了“这是不是反话”的想法。"
 
 # game/chapter3.rpy:1916
 translate chinese chapter3_23d32262:
@@ -4936,7 +4937,7 @@ translate chinese chapter3_d435b2ba:
 translate chinese chapter3_f91471ac:
 
     # "몽블랑의 단내가 덮인 소녀의 웃음소리는 덧없이 느껴질 정도로 달콤했다."
-    "少女的笑声中弥漫着白朗峰的甜美气息，不过这笑声转瞬即逝。"
+    "少女的笑声中弥漫着勃朗峰的甜美气息，不过这笑声转瞬即逝。"
 
 # game/chapter3.rpy:1958
 translate chinese chapter3_f228b222:

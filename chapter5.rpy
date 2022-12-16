@@ -1362,7 +1362,7 @@ translate chinese chapter5_22fe603d:
     # voice ""
     # 나 "“아니. 그때 네가 오컬트부실에서 봤던 상자처럼 생긴 기계, 기억나？”"
     voice ""
-    나 "“不。你记得那时候在活动室看到的像微波炉一样的机器吗？”"
+    나 "“不。你记得那时候在超自然部室看到的像微波炉一样的机器吗？”"
 
 # game/chapter5.rpy:581
 translate chinese chapter5_38adb0c1:
@@ -1662,7 +1662,7 @@ translate chinese chapter5_5a1ab5e2:
     # voice "voices/ge45.ogg"
     # 소녀 "“그렇지만 아까, 제가 부실에서 봤던 기계가 유령을 소멸시키는 데에 쓰인다고 말했잖아요. 그렇다는 건, 예전부터 이런 일이 있을 걸 알고 있었다는 거 아닌가요？”"
     voice "voices/ge45.ogg"
-    소녀 "“但是，你之前提到过，我在活动室中看到的机器是用来消灭幽灵的。那不是说你早就知道会有这样的事情吗？”"
+    소녀 "“但是，你之前提到过，我在部室中看到的机器是用来消灭幽灵的。那不是说你早就知道会有这样的事情吗？”"
 
 # game/chapter5.rpy:672
 translate chinese chapter5_c4aef8a0:
@@ -1684,7 +1684,7 @@ translate chinese chapter5_d1be985e:
 translate chinese chapter5_767a9273:
 
     # "나의 부실한 대답에도 불구하고, 소녀는 금세 내 말에 수긍을 표했다. "
-    "尽管我回答不实，少女还是立刻相信了我的话。"
+    "尽管我回答不尽如人意，少女还是立刻相信了我的话。"
 
 # game/chapter5.rpy:679
 translate chinese chapter5_eec1b9a2:
@@ -8236,13 +8236,13 @@ translate chinese ecg11_label_f21a7e91:
 translate chinese ecg11_label_cf09be93:
 
     # "2층 복도 맨 끝에 위치한 오컬트부 부실로 들어서자, 나를 기다리고 있던 현지가 내게 반가이 인사를 건넸다. "
-    "进入2楼走廊尽头的超自然部活动室，等待我的贤智高兴地向我打招呼。"
+    "进入2楼走廊尽头的超自然部室，等待我的贤智高兴地向我打招呼。"
 
 # game/chapter5.rpy:3511
 translate chinese ecg11_label_7e900421:
 
     # "내가 병원에 있는 동안 부실은 학예제를 위한 단장을 어느 정도 끝마치고 마무리 단계만을 남겨 둔 것으로 보였다. "
-    "我在医院的时候，贤智似乎已经为学艺祭做好了准备，只剩下收尾工作。"
+    "我在医院的时候，部室一定程度上结束了为学艺祭的装潢工作，只剩下收尾环节。"
 
 # game/chapter5.rpy:3513
 translate chinese ecg11_label_6415eda7:
@@ -8264,7 +8264,7 @@ translate chinese ecg11_label_2c41bb51:
     # voice ""
     # 나 "“그래도 부실 꾸미는 것 정도는 무리 없이 할 수 있는데.”"
     voice ""
-    나 "“即便如此，简单的装饰工作还是可以做到的。”"
+    나 "“即便如此，部室的装饰工作并不是不能完成。”"
 
 # game/chapter5.rpy:3521
 translate chinese ecg11_label_05597b98:
@@ -8272,7 +8272,7 @@ translate chinese ecg11_label_05597b98:
     # voice "voices/he82.ogg"
     # 현지 "“저도 부실 꾸미는 것 정도는 혼자서도 무리 없이 할 수 있다고요.”"
     voice "voices/he82.ogg"
-    현지 "“我一个人也可以毫不费力地完成。”"
+    현지 "“我一个人也能毫不费力地完成装饰部室的事。”"
 
 # game/chapter5.rpy:3524
 translate chinese ecg11_label_59b716be:
@@ -8280,13 +8280,13 @@ translate chinese ecg11_label_59b716be:
     # voice ""
     # "상대편의 체크메이트를 도와주는 듯한 대화의 흐름이었다. "
     voice ""
-    "对话似乎走向了将死（checkmate）的境地。"
+    "像是帮助对方将死（checkmate）的对话流程。"
 
 # game/chapter5.rpy:3526
 translate chinese ecg11_label_86792219:
 
     # "할 말이 깨끗하게 없어진 나는 그냥 현지를 따라 부스 꾸미는 걸 마저 마무리하기 시작했다. "
-    "没什么可说的了，我就跟着贤智开始装饰展台。"
+    "没什么可说的了，我开始跟着贤智做收拾展位的收尾工作。"
 
 # game/chapter5.rpy:3528
 translate chinese ecg11_label_64c74f60:
@@ -8440,7 +8440,7 @@ translate chinese ecg11_label_ec977837:
     # voice "voices/he91.ogg"
     # 현지 "“둔감하시네요, 선배.”"
     voice "voices/he91.ogg"
-    현지 "“前辈好迟钝啊。”"
+    현지 "“好迟钝啊，前辈。”"
 
 # game/chapter5.rpy:3577
 translate chinese ecg11_label_623b3645:
@@ -8554,7 +8554,7 @@ translate chinese ecg11_label_d3316933:
 translate chinese ecg11_label_f9e4b152:
 
     # 나 "“부스 예쁘네.”"
-    나 "“展台真漂亮。”"
+    나 "“展位真漂亮。”"
 
 # game/chapter5.rpy:3620
 translate chinese ecg11_label_31037cb0:
@@ -8568,13 +8568,13 @@ translate chinese ecg11_label_31037cb0:
 translate chinese ecg11_label_8610ecc0:
 
     # "다행히도 현지는 금세 표정을 펴고선, 자신이 꾸민 부스를 뿌듯한 표정을 지으며 둘러보았다. "
-    "幸运的是，贤智看着自己布置的展台，马上破涕为笑。"
+    "幸运的是，贤智看着自己收拾的展位，马上破涕为笑。"
 
 # game/chapter5.rpy:3624
 translate chinese ecg11_label_407be41d:
 
     # "현지를 따라 부스를 둘러보던 나의 시선이 인형 진열대에 고정된다. "
-    "我的视线固定在了人偶陈列柜上。"
+    "跟着贤智打量展位时，我的视线固定在了人偶陈列台上。"
 
 # game/chapter5.rpy:3626
 translate chinese ecg11_label_06359afe:
@@ -8630,7 +8630,7 @@ translate chinese ecg11_label_9692c402:
     # voice ""
     # 나 "“아까 전까지 네가 꾸민 부스 예쁘다고 해준 사람한테 그게 뭐야.”"
     voice ""
-    나 "“我之前还说你打扮的展台很漂亮，你可是表示了赞同。”"
+    나 "“我之前还说你收拾的展位很漂亮，你可是表示了赞同。”"
 
 # game/chapter5.rpy:3644
 translate chinese ecg11_label_e197ba6c:
@@ -8858,5 +8858,5 @@ translate chinese ecg11_label_9a4c254c:
 translate chinese ecg11_label_df354a9f:
 
     # "부실을 꾸미는 일도 다 끝났기에, 나는 슬그머니 문을 열고 복도로 발걸음을 내디뎠다. "
-    "装饰展台的工作也做完了，我悄悄地开门向走廊走去。"
+    "部室的装饰工作也做完了，我悄悄地开门向走廊走去。"
 
