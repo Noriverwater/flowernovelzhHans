@@ -244,19 +244,19 @@ translate chinese chapter7_8a099227:
 translate chinese chapter7_cf1475ce:
 
     # "이건 단순한 목소리가 아닌 기억이라고, 목소리가 그려낸 그녀와 내가 말하고 있었다. "
-    "这不是单纯的声音，而是记忆，声音勾勒出来的她和我在说话。"
+    "这不是单纯的声音，而是记忆，声音描绘出来的她和我在说话。"
 
 # game/chapter7.rpy:123
 translate chinese chapter7_aea2b004:
 
     # "하지만 이것이 잃어버린 나의 기억이라기엔 또 다른 이질감이 나를 그 기억 속에서 긁어내어 버렸다. "
-    "但与其说这是我丢失的记忆，不如说是另一种异质感要把我从记忆中抹去。"
+    "但是，与其说这是我丢失的记忆，不如说是别的异质感把我从记忆里刮出来了。"
 
 # game/chapter7.rpy:124
 translate chinese chapter7_49353136:
 
     # "어째서인지 모를 이질감이었다. "
-    "不知道为什么感到了异质感。"
+    "不知道为什么有异质感。"
 
 # game/chapter7.rpy:125
 translate chinese chapter7_669062e8:
@@ -4606,7 +4606,7 @@ translate chinese chapter7_e1e3dd30:
 translate chinese chapter7_b943f9d4:
 
     # "창밖에는 생기를 되찾은 거리의 모습이 선명히 그려지고 있었다. "
-    "窗外，街道恢复了生机。"
+    "窗外鲜明地描绘出街道恢复生机的样子。"
 
 # game/chapter7.rpy:2041
 translate chinese chapter7_a31a1e57:
@@ -5020,7 +5020,7 @@ translate chinese chapter7_f7d6ee83:
     # voice ""
     # "그 순간, 나는 한 가지 가설을 머릿속에서 그려내었다. "
     voice ""
-    "那一刻，我从脑海中勾勒出一个假设。"
+    "那一刻，我从脑海中描绘出一个假设。"
 
 # game/chapter7.rpy:2213
 translate chinese chapter7_972b0acb:
@@ -5042,7 +5042,7 @@ translate chinese chapter7_6a51ae52:
 translate chinese chapter7_69fdf83e:
 
     # "그려내었다기보다는 쥐어 짜냈다고 하는 편이 마땅한 가설이었다. "
-    "与其说是勾勒出来的，不如说是绞尽脑汁的假设。"
+    "与其说是描绘出来的，不如说是绞尽脑汁的假设。"
 
 # game/chapter7.rpy:2224
 translate chinese chapter7_7d024d8a:
@@ -5050,7 +5050,7 @@ translate chinese chapter7_7d024d8a:
     # voice "voices/hg31.ogg"
     # 현지 "“무수히 많은 차원 중 하나에서, 마치 운명처럼…… 말이에요.”"
     voice "voices/hg31.ogg"
-    현지 "“在无数个维度中，就像命运一样……”"
+    현지 "“在无穷多维度之一中，就像命运一样……的意思。”"
 
 # game/chapter7.rpy:2227
 translate chinese chapter7_98a15ff6:
@@ -5064,7 +5064,7 @@ translate chinese chapter7_98a15ff6:
 translate chinese chapter7_f4632f48:
 
     # "겹겹이 쌓여있던 착각들을, 하나씩 걷어낸다. "
-    "层层堆积的错觉，一个一个地消除。"
+    "层层堆叠的错觉，一个一个地消除。"
 
 # game/chapter7.rpy:2235
 translate chinese chapter7_6be0baa8:
@@ -5152,7 +5152,7 @@ translate chinese chapter7_b82f744e:
     # voice "voices/hg32.ogg"
     # 현지 "“유령과 몸을 이어주는 실이 끊어지기 전에 선배가 원래 있던 곳으로 돌아가는 게 최선이겠죠.”"
     voice "voices/hg32.ogg"
-    현지 "“在灵魂和身体连接的线断开之前，最好回到前辈原来的地方。”"
+    현지 "“在灵魂和身体连接的线断开之前，最好还是回到前辈原来的地方。”"
 
 # game/chapter7.rpy:2272
 translate chinese chapter7_c7f4bf0e:
@@ -7532,7 +7532,7 @@ translate chinese chapter7_1_af16ee88:
     # voice "voices/gg148.ogg"
     # 소녀 "“그렇다는 건, 지금이라면 제가 어떤 짓을 해도 괜찮다는 거네요.”"
     voice "voices/gg148.ogg"
-    소녀 "“我的意思是，我现在很乐意做任何事情。”"
+    소녀 "“也就是说，现在我做什么事都没关系。”"
 
 # game/chapter7.rpy:3361
 translate chinese chapter7_1_629f53bd:
@@ -7546,7 +7546,7 @@ translate chinese chapter7_1_629f53bd:
 translate chinese chapter7_1_c7ae8fdf:
 
     # "소녀가 말한 ‘어떤 짓’이 무엇인지는, 굳이 이야기하지 않아도 알 수 있었다. "
-    "少女所说的事，即使不特意说也能知道。"
+    "少女所说的“什么事”，即使不特意说也能知道。"
 
 # game/chapter7.rpy:3364
 translate chinese chapter7_1_b3ce54fe:
@@ -9830,37 +9830,37 @@ translate chinese chapter7_2_4f756015:
 translate chinese chapter7_2_6f5edab5:
 
     # naro "경기는 일찌감치 상대편에게 넘어가 루즈한 흐름의 연속이었고, 내가 할 수 있는 일이라곤 흐름이 넘어간 경기를 마무리 짓는 것 정도뿐. "
-    naro "对方早就大比分领先于我方，结局已定，我能做的只有等待比赛结束。"
+    naro "比赛早早地被对方转入持续的无聊走向，所谓我能做的事只是结束掉失控的比赛。"
 
 # game/chapter7.rpy:4254
 translate chinese chapter7_2_aa2123aa:
 
     # naro "7회 말 수비, 점수는 일곱 점 차, 노아웃에 주자는 1, 2루. "
-    naro "现在是第7局末，我在防守方，分数差7分，一二垒选手已经出局。"
+    naro "现在是第7局末防守，分数差7分，一二垒选手已经出局。"
 
 # game/chapter7.rpy:4255
 translate chinese chapter7_2_9b3960bf:
 
     # naro "응원을 해주는 사람도, 기대를 해주는 사람도 딱히 없다. "
-    naro "没有人支持，也没有人期待。"
+    naro "没有人助威，也没有人期待。"
 
 # game/chapter7.rpy:4257
 translate chinese chapter7_2_34190841:
 
     # naro "들려오는 응원 소리라고는 홈그라운드의 선수들을 응원해주는 여학생들의 목소리밖에는 없었다. "
-    naro "传来女生们为主场选手加油的声音。"
+    naro "传来的助威声只有女生们为主场选手加油的声音。"
 
 # game/chapter7.rpy:4259
 translate chinese chapter7_2_5b112335:
 
     # naro "마운드에 올라섰을 때 드는 생각이라곤 전혀 의욕이 나지 않는다 정도였을까. "
-    naro "也许踏上投手板时唯一能想到的词就是毫无斗志。"
+    naro "踏上投手土墩时的想法难道是毫无斗志吗？"
 
 # game/chapter7.rpy:4260
 translate chinese chapter7_2_af95ab2a:
 
     # naro "그저 공을 던지기 위해 셋 포지션에 들어서려는 순간이었다. "
-    naro "就在我即将进入投手板投球的那一刻。"
+    naro "就在我即将进入固定式姿势的一瞬间。"
 
 # game/chapter7.rpy:4262
 translate chinese chapter7_2_ff1044e7:
@@ -9872,7 +9872,7 @@ translate chinese chapter7_2_ff1044e7:
 translate chinese chapter7_2_93818e15:
 
     # naro "주자가 없는 3루 쪽에서, 누군가의 시선이 느껴졌다. "
-    naro "在没有跑垒员的三垒，有个人在看我。"
+    naro "在没有跑垒员的三垒方向，感受到了某人的视线。"
 
 # game/chapter7.rpy:4264
 translate chinese chapter7_2_3a641c11:
@@ -10056,7 +10056,7 @@ translate chinese chapter7_2_ed8d1a86:
     # voice ""
     # naro "그날도 비슷한 상황에서 마운드에 오른 나는, 평범하게 경기를 마무리 짓고는 근처에서 기다리고 있던 가연과 만나 집으로 돌아오는 중이었다. "
     voice ""
-    naro "那天也在类似的情况下登上投手板的我，平凡地结束了比赛，正在和在附近等待的佳妍见面回家。"
+    naro "那天也在类似的情况下登上投手土墩的我，平凡地结束了比赛，正在和在附近等待的佳妍见面回家。"
 
 # game/chapter7.rpy:4332
 translate chinese chapter7_2_5a84c012:
@@ -10162,7 +10162,7 @@ translate chinese chapter7_2_a71c43cc:
 translate chinese chapter7_2_de4cd313:
 
     # naro "용기를 내 야구부의 감독님께 선발투수로 마운드에 오르고 싶다는 말을 꺼냈다. "
-    naro "我鼓起勇气向棒球部的教练说想成为先发投手。"
+    naro "我鼓起勇气向棒球部的教练说想登上投手土墩成为先发投手。"
 
 # game/chapter7.rpy:4376
 translate chinese chapter7_2_2b54540b:
@@ -10180,7 +10180,7 @@ translate chinese chapter7_2_57c05d75:
 translate chinese chapter7_2_09d92c2c:
 
     # naro "내가 선발투수로 마운드에 오르면, 경기에서 이길 수 있을 거라는 자신이. "
-    naro "如果我作为先发投手上场，我就有信心可以在比赛中获胜。"
+    naro "如果我作为先发投手登上投手土墩，我就有信心可以在比赛中获胜。"
 
 # game/chapter7.rpy:4380
 translate chinese chapter7_2_c9e4a57e:
@@ -10210,7 +10210,7 @@ translate chinese chapter7_2_fd60f41f:
 translate chinese chapter7_2_4141c710:
 
     # naro "내가 선발투수로 마운드에 오른 이후에도 야구부에 극적인 변화가 있다거나 하는 일은 없었다. "
-    naro "我作为先发投手上场后，棒球部也没有发生戏剧性的变化。"
+    naro "我作为先发投手登上投手土墩后，棒球部也没有发生戏剧性的变化。"
 
 # game/chapter7.rpy:4388
 translate chinese chapter7_2_323c007f:
@@ -10436,7 +10436,7 @@ translate chinese chapter7_2_7d944acc:
 translate chinese chapter7_2_e4c1172f:
 
     # naro "매번 선발투수로 마운드에 올랐던 나는 학교에서 가장 인기 많은 학생이 되어 있었다. "
-    naro "从那一刻起，每次作为先发投手上场的我，成为了学校里最受欢迎的学生。"
+    naro "从那一刻起，每次作为先发投手登上投手土墩的我，成为了学校里最受欢迎的学生。"
 
 # game/chapter7.rpy:4480
 translate chinese chapter7_2_b5e27e80:
@@ -11236,7 +11236,7 @@ translate chinese chapter7_2_e0056bbe:
 translate chinese chapter7_2_0988f25e:
 
     # 나o "“네가 내가 마운드에 서 있는 모습을 처음 지켜본 그 날, 처음으로 공을 던진다는 사실이 즐거웠어.”"
-    나o "“你第一次看到我站在投手板上的那天。事实上，那天投球的我非常开心。”"
+    나o "“你第一次看到我站在投手土墩上的那天。事实上，那天投球的我非常开心。”"
 
 # game/chapter7.rpy:4759
 translate chinese chapter7_2_af677e12:
@@ -11244,7 +11244,7 @@ translate chinese chapter7_2_af677e12:
     # voice "voices/gh74.ogg"
     # 가연o "“하긴, 즐거워 보였어. 마운드 위에서 공 던지는 거.”"
     voice "voices/gh74.ogg"
-    가연o "“也是，你看起来很开心。在投手板上投球。”"
+    가연o "“也是，你看起来很开心。在投手土墩上投球。”"
 
 # game/chapter7.rpy:4761
 translate chinese chapter7_2_da399bdb:
@@ -11918,7 +11918,7 @@ translate chinese chapter7_2_bc0a2121:
 translate chinese chapter7_2_8644ade9:
 
     # naro "그랬기에, 나는 뒤를 돌아보지 않은 채 마운드에서 내려왔다. "
-    naro "因此，我没有回头就从投手板上走下来。"
+    naro "因此，我没有回头就从投手土墩上走下来。"
 
 # game/chapter7.rpy:5044
 translate chinese chapter7_2_f444864a:
@@ -11930,7 +11930,7 @@ translate chinese chapter7_2_f444864a:
 translate chinese chapter7_2_163346db:
 
     # naro "끝내기 타구를 맞기 전, 왜 자신들을 비롯한 다른 투수에게 마운드를 넘기지 않았냐는 불만이 내겐 어이없게 들렸음은 당연한 이야기다. "
-    naro "在终结比赛的一击之前，为何不把投手板让给包括自己在内的其他投手，这一不满让我哭笑不得是理所当然的。"
+    naro "在终结比赛的一击之前，为何不把投手土墩让给包括自己在内的其他投手，这一不满让我哭笑不得是理所当然的。"
 
 # game/chapter7.rpy:5046
 translate chinese chapter7_2_8f24ee11:

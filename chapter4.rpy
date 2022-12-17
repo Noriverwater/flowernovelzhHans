@@ -6,7 +6,7 @@ translate chinese chapter4_2d3fe9b4:
     # voice "voices/hd1.ogg"
     # 현지 "“먼저 와 있었네요, 선배. 아, 혹시 오래 기다리셨어요？”"
     voice "voices/hd1.ogg"
-    현지 "“前辈你先来了。啊，等了很久吗？”"
+    현지 "“先来了啊，前辈。啊，等了很久吗？”"
 
 # game/chapter4.rpy:12
 translate chinese chapter4_716d2a7b:
@@ -100,13 +100,13 @@ translate chinese chapter4_a28abaf9:
     # voice ""
     # "현지의 손가락이 반대편 난간 쪽의 대형 안테나를 가리켰다."
     voice ""
-    "贤智的手指指向对面栏杆一侧的大型天线。"
+    "贤智的手指指向对面栏杆一方的大型天线。"
 
 # game/chapter4.rpy:45
 translate chinese chapter4_7f95ad24:
 
     # "현지는 주머니에서 길다란 케이블을 꺼내더니, 이를 텔레이도스코프에 꽂으며 말했다."
-    "贤智从口袋里掏出长长的电缆，把它插在了远华镜上。"
+    "贤智从口袋里掏出长长的电缆，把它插在了远华镜上后说。"
 
 # game/chapter4.rpy:46
 translate chinese chapter4_e077e40d:
@@ -114,13 +114,13 @@ translate chinese chapter4_e077e40d:
     # voice "voices/hd4.ogg"
     # 현지 "“연결하는 거, 도와줄 수 있죠？”"
     voice "voices/hd4.ogg"
-    현지 "“你能帮我接起来吗？”"
+    현지 "“接起来，能帮我吗？”"
 
 # game/chapter4.rpy:51
 translate chinese chapter4_c900c3df:
 
     # "나는 안테나의 기판이 위치한 옥상 난간 쪽으로 현지가 건넨 텔레이도스코프를 들고선 걸어갔다."
-    "我拿着贤智提供的远华镜向天线基板所在的屋顶栏杆方向走去。"
+    "我拿着贤智提供的远华镜走向天线基板所在的屋顶栏杆旁。"
 
 # game/chapter4.rpy:52
 translate chinese chapter4_fec7f039:
@@ -128,7 +128,7 @@ translate chinese chapter4_fec7f039:
     # voice "voices/hd5.ogg"
     # 현지 "“거기서 파란색 케이블을 빼고 텔레이도스코프에 연결된 케이블을 꽂기만 하면 돼요.”"
     voice "voices/hd5.ogg"
-    현지 "“你只需要从那里拔下蓝色电缆，然后插入远华镜。”"
+    현지 "“只需要从那里拔下蓝色电缆，然后插入远华镜就可以了。”"
 
 # game/chapter4.rpy:54
 translate chinese chapter4_992a7cdc:
@@ -136,13 +136,13 @@ translate chinese chapter4_992a7cdc:
     # voice ""
     # "몇 발자국 정도 떨어진 곳에서, 현지가 나를 바라보고 있었다."
     voice ""
-    "几步之外，贤智正看着我。"
+    "在几步远的地方，贤智正看着我。"
 
 # game/chapter4.rpy:56
 translate chinese chapter4_4e3bdbb6:
 
     # "난간대 끝자락의 기판을 향해 손을 뻗자 희미하게 불어오던 바람의 감촉이 더욱 선명해졌다."
-    "伸手靠近栏杆末端的基板时，那微弱的风给了我更加鲜明的感觉。"
+    "把手伸向栏杆末端的基板时，那微弱的风给了我更加鲜明的感觉。"
 
 # game/chapter4.rpy:57
 translate chinese chapter4_ca20db4d:
@@ -170,7 +170,7 @@ translate chinese chapter4_07d32019:
     # voice ""
     # "누구랑 참 비슷한 사고방식이라는 생각이 들었다."
     voice ""
-    "我觉得这和谁的想法很相似。"
+    "我觉得这是和某人非常相似的思考方式。"
 
 # game/chapter4.rpy:72
 translate chinese chapter4_d173255d:
@@ -224,7 +224,7 @@ translate chinese chapter4_9f10d893:
     # voice "voices/hd8.ogg"
     # 현지 "“디지털 신호를 최대한 아날로그 신호와 가깝게 변환하고 있어요. 시간은 아날로그 형태의 정보니까요.”"
     voice "voices/hd8.ogg"
-    현지 "“我正在最大限度地把数字信号尽可能转换为模拟信号。时间是信息的模拟形式。”"
+    현지 "“我正在最大限度地把数字信号尽可能转换为模拟信号。因为时间是模拟形态的信息。”"
 
 # game/chapter4.rpy:96
 translate chinese chapter4_c85126b4:
@@ -232,31 +232,31 @@ translate chinese chapter4_c85126b4:
     # voice ""
     # "텔레이도스코프가 빛을 내며 작동하고 있었다."
     voice ""
-    "远华镜正在发光和工作。"
+    "远华镜正在发光和运作。"
 
 # game/chapter4.rpy:98
 translate chinese chapter4_f65d69c4:
 
     # "물론 아날로그 신호니, 디지털 신호니 하는 현지의 이야기는 전혀 감이 잡히지 않았지만 말이다. "
-    "当然无论是模拟信号还是数字信号，我对此一窍不通。"
+    "当然，对于贤智所谓的模拟信号和数字信号，完全没有头绪。"
 
 # game/chapter4.rpy:99
 translate chinese chapter4_6b4143c4:
 
     # "그저 현지가 텔레이도스코프를 조정하는 것을 멍하니 구경만 하고 있을 수밖엔. "
-    "贤智调整远华镜时，我忍不住发呆。"
+    "只能呆呆地看着贤智调整远华镜。"
 
 # game/chapter4.rpy:100
 translate chinese chapter4_3166f356:
 
     # "텔레이도스코프를 조정하던 현지는 내게 케이블 하나를 더 건네더니, 이번엔 그 케이블을 기판의 다른 곳에 연결해 달라고 부탁했다."
-    "调整远华镜的贤智递给我另一根电缆，这次她让我将它连接到电路板的另一部分。"
+    "调整远华镜的贤智递给我另一根电缆，这次拜托我把那根电缆连接到基板的其他地方。"
 
 # game/chapter4.rpy:101
 translate chinese chapter4_98d2326c:
 
     # "그 뒤로 케이블을 세 개 정도 더 연결하고 나서야 텔레이도스코프의 조정이 끝났다."
-    "之后，又连接了三根电缆，调整了远华镜。"
+    "之后，又连接了三根电缆，远华镜的调整才结束。"
 
 # game/chapter4.rpy:105
 translate chinese chapter4_fab99346:
@@ -272,25 +272,25 @@ translate chinese chapter4_984821aa:
     # voice ""
     # 나 "“잠깐만. 그래도 이게 뭔지는 설명해 줘야지.”"
     voice ""
-    나 "“等一下。这是什么，你必须解释一下。”"
+    나 "“等一下。那也得说明一下这是什么啊。”"
 
 # game/chapter4.rpy:111
 translate chinese chapter4_552d8a11:
 
     # "현지는 설명도 없이 다짜고짜 내게 헤드셋을 내밀었다."
-    "贤智没有任何解释就把耳机递给我。"
+    "贤智不容分说就把头戴式耳麦递给我。"
 
 # game/chapter4.rpy:112
 translate chinese chapter4_aaa08e25:
 
     # "VR 헤드셋을 개조한 듯 보이는, 무게감이 느껴지는 헤드셋이었다."
-    "看起来像是改造了VR头显，能感受到明显重量感。"
+    "看起来像是改造了VR头显，能感受到分量的头戴式耳麦。"
 
 # game/chapter4.rpy:113
 translate chinese chapter4_4f3d21e3:
 
     # "헤드셋을 착용하자 시야가 완전히 차단되고, 주기적으로 들려오는 전자음이 청각을 교란시켰다."
-    "戴上耳机后，视野完全被切断，周期性的电子音打乱了听觉。"
+    "戴上头戴式耳麦后，视野完全被切断，周期性的电子音打乱了听觉。"
 
 # game/chapter4.rpy:121
 translate chinese chapter4_9d4b404d:
@@ -318,19 +318,19 @@ translate chinese chapter4_03ff2fd8:
 translate chinese chapter4_4b73e521:
 
     # "나는 지금부터 내게 무슨 일이 일어날지 짐작조차 하지 못한 채 짧아져 가는 전자음의 주기에만 집중할 뿐이었다."
-    "从现在开始，我根本不知道自己身上会发生什么事情，只是专注于聆听电子音。"
+    "从现在开始，我根本不知道自己身上会发生什么事情，只是专注于逐渐变短的电子音周期。"
 
 # game/chapter4.rpy:139
 translate chinese chapter4_442c3cd5:
 
     # "점처럼 떨어져 있던 전자음이 이루는 간격이 점점 좁아져, 소리가 선을 이루기 시작할 즈음이었다."
-    "电子音之间的间距逐渐变小，声音开始形成一条线。"
+    "点状分离的电子音之间的间隔渐渐变小，声音开始形成一条线的时候。"
 
 # game/chapter4.rpy:143
 translate chinese chapter4_1ec9cf27:
 
     # "만화경 같은 빛이 눈앞을 스쳐 지나갔다."
-    "万花筒般的光芒掠过眼前。"
+    "万华镜（注：万花筒）般的光芒掠过眼前。"
 
 # game/chapter4.rpy:147
 translate chinese chapter4_bce67efe:
@@ -342,7 +342,7 @@ translate chinese chapter4_bce67efe:
 translate chinese chapter4_d7dd45b8:
 
     # "명멸하는 빛의 형태가 왜 이 기계의 이름이 텔레이도스코프인지 알려 주고 있었다."
-    "光的形态告诉我为什么这台机器的名字叫远华镜。"
+    "明灭的光的形态告诉我为什么这台机器的名字叫远华镜。"
 
 # game/chapter4.rpy:150
 translate chinese chapter4_6d63a80f:
@@ -354,7 +354,7 @@ translate chinese chapter4_6d63a80f:
 translate chinese chapter4_b8a86726:
 
     # "내 몸에서 나 자신이 떨어져 나가는 것 같았다."
-    "我觉得自己离开了躯体。"
+    "我感觉自己好像从我的身体分了出来。"
 
 # game/chapter4.rpy:155
 translate chinese chapter4_45b4f782:
@@ -366,7 +366,7 @@ translate chinese chapter4_45b4f782:
 translate chinese chapter4_f499175e:
 
     # "글쎄, 착각 같지는 않았다."
-    "嗯，这不是错觉。"
+    "嗯，不像是错觉。"
 
 # game/chapter4.rpy:165
 translate chinese chapter4_ebcbbaad:
@@ -434,7 +434,7 @@ translate chinese chapter4_de78f6c8:
     # voice "voices/hd14.ogg"
     # whohy "“자, 잘 부탁드려요……!”"
     voice "voices/hd14.ogg"
-    whohy "“好，请多关照……”"
+    whohy "“好，请多关照……！”"
 
 # game/chapter4.rpy:200
 translate chinese chapter4_06cd71ee:
@@ -442,13 +442,13 @@ translate chinese chapter4_06cd71ee:
     # voice ""
     # "어색한 구석이 잔뜩 느껴지는 인사와 함께, 그 여학생은 급히 사라졌다."
     voice ""
-    "伴随着非常尴尬的寒暄，那个女学生匆匆离开了。"
+    "伴随着非常尴尬的寒暄，那个女学生急忙离开了。"
 
 # game/chapter4.rpy:206
 translate chinese chapter4_862a8a9a:
 
     # 나 "‘현지…… 라고 하구나.’"
-    나 "“贤智……他们说。”"
+    나 "“原来是……贤智。”"
 
 # game/chapter4.rpy:208
 translate chinese chapter4_62f04063:
@@ -504,7 +504,7 @@ translate chinese chapter4_fa4a6249:
     # voice ""
     # "처음 만났을 때의 어색함은 다 내가 짊어지게 되어버린 건지."
     voice ""
-    "初次见面时的尴尬都是我背负了。"
+    "第一次见面时的尴尬都由我来承担。"
 
 # game/chapter4.rpy:232
 translate chinese chapter4_2a733c8f:
@@ -590,7 +590,7 @@ translate chinese chapter4_2ab408bb:
 translate chinese chapter4_526ba0e1:
 
     # 나 "“아, 그건 아냐. 명목상의 유령 부원이 있거든. 폐부될 일은 없겠지만, 별로라면 지금이라도 안 늦었으니까 다른 부로 옮겨도 돼.”"
-    나 "“啊，不。有个几个名义上的幽灵部员。虽然不会被废除，但如果你不喜欢，现在也不晚，可以去其他社团。”"
+    나 "“啊，不。有个几个名义上的虚假部员。虽然不会被废部，但如果你不喜欢，现在也不晚，可以去其他社团。”"
 
 # game/chapter4.rpy:262
 translate chinese chapter4_ce34b3fd:
@@ -634,7 +634,7 @@ translate chinese chapter4_4b87b239:
     # voice ""
     # "깜빡깜빡깜빡."
     voice ""
-    "一眨一眨。"
+    "一眨一眨一眨。"
 
 # game/chapter4.rpy:279
 translate chinese chapter4_5d6c04c7:
@@ -688,7 +688,7 @@ translate chinese chapter4_17c08643:
     # voice ""
     # 나 "“어라, 알고 있었네.”"
     voice ""
-    나 "“看来你明白了。”"
+    나 "“哎哟，原来知道啊。”"
 
 # game/chapter4.rpy:298
 translate chinese chapter4_5190fd15:
@@ -696,7 +696,7 @@ translate chinese chapter4_5190fd15:
     # voice "voices/hd24.ogg"
     # 현지 "“오컬트에 관심 많다고 했잖아요？”"
     voice "voices/hd24.ogg"
-    현지 "“不是说对超自然很感兴趣吗？”"
+    현지 "“不是说过对超自然很感兴趣嘛？”"
 
 # game/chapter4.rpy:300
 translate chinese chapter4_1aba3e66:
@@ -712,7 +712,7 @@ translate chinese chapter4_a1329b96:
     # voice "voices/hd25.ogg"
     # 현지 "“그래서, 이런 걸로 학년 말에 논문이라도 내려는 거예요？”"
     voice "voices/hd25.ogg"
-    현지 "“所以，你打算在年底写一篇像样的论文吗？”"
+    현지 "“所以，想用这些在学年末发表论文吗？”"
 
 # game/chapter4.rpy:310
 translate chinese chapter4_7fd948b3:
@@ -720,7 +720,7 @@ translate chinese chapter4_7fd948b3:
     # voice ""
     # "선반에 꽂혀있던 자료들을 신기한 듯 살피는 현지."
     voice ""
-    "好奇地观察放在搁板上的资料的贤智。"
+    "贤智好奇地观察插在搁板上的资料。"
 
 # game/chapter4.rpy:314
 translate chinese chapter4_98ba1dd0:
@@ -744,19 +744,19 @@ translate chinese chapter4_e3d70317:
 translate chinese chapter4_8f9057e2:
 
     # "그 말을 듣자, 선반을 향해 있던 현지의 시선이 홱 돌아 나를 향했다."
-    "听了那句话，贤智的目光猛地投向我。"
+    "听了那句话，原本打量搁板的贤智的目光猛地转向我。"
 
 # game/chapter4.rpy:326
 translate chinese chapter4_c175f37d:
 
     # "그 장면을 끝으로 기억이 끊겼다."
-    "这个场景结束时，我脱离了记忆。"
+    "以那个场面为结尾，记忆中断了。"
 
 # game/chapter4.rpy:327
 translate chinese chapter4_894df55c:
 
     # "기워 붙여 놓은 필름 조각처럼, 기억 속의 장면들이 도약하듯 움직였다."
-    "就像胶卷一样，我在记忆中的场景跳跃式地移动。"
+    "记忆中的场面像贴补好的胶片一样跳跃着。"
 
 # game/chapter4.rpy:332
 translate chinese chapter4_c7608449:
@@ -780,7 +780,7 @@ translate chinese chapter4_19120b01:
     # voice "voices/hd27.ogg"
     # 현지 "“그런 식으로 말하면 저도 선배한테 말할 거 산더미거든요.”"
     voice "voices/hd27.ogg"
-    현지 "“这样说的话我也要指出许多前辈不如我的方面。”"
+    현지 "“那么说的话，我也要指出许多前辈不如我的方面。”"
 
 # game/chapter4.rpy:344
 translate chinese chapter4_11f81f63:
@@ -788,7 +788,7 @@ translate chinese chapter4_11f81f63:
     # voice ""
     # 나 "“아, 그렇네. 미안. 방금 한 말은 못 들은 걸로 해줘.”"
     voice ""
-    나 "“啊，原来如此。对不起。我的话就假装没听到吧。”"
+    나 "“啊，是啊。对不起。刚才说的话就当没听见吧。”"
 
 # game/chapter4.rpy:349
 translate chinese chapter4_c8d6d86e:
@@ -814,7 +814,7 @@ translate chinese chapter4_41d246f3:
     # voice "voices/hd28.ogg"
     # 현지 "“어차피 다른 생산적인 활동을 할 것도 아닌데, 돈이라도 벌면 좋죠.”"
     voice "voices/hd28.ogg"
-    현지 "“反正也做不到什么建设性的工作，能赚点钱就好了。”"
+    현지 "“反正也做不出什么建设性的工作，能赚点钱就好了。”"
 
 # game/chapter4.rpy:363
 translate chinese chapter4_1ff1d3f7:
@@ -822,7 +822,7 @@ translate chinese chapter4_1ff1d3f7:
     # voice ""
     # 나 "“보통 다른 동아리에서 판매 부스를 열면 수익금은 어디 기부하거나 그러던데.”"
     voice ""
-    나 "“通常，其他社团开设销售摊位，收入都捐到某个地方。”"
+    나 "“通常其他社团开设销售摊位，收入会捐到某个地方。”"
 
 # game/chapter4.rpy:365
 translate chinese chapter4_c26e215d:
@@ -830,7 +830,7 @@ translate chinese chapter4_c26e215d:
     # voice "voices/hd29.ogg"
     # 현지 "“안 돼요. 정확하게 반반 나눠 갖기…… 아얏!”"
     voice "voices/hd29.ogg"
-    현지 "“不行。一人一半……啊！”"
+    현지 "“不行。公正地对半分……啊！”"
 
 # game/chapter4.rpy:367
 translate chinese chapter4_b84d7339:
@@ -838,7 +838,7 @@ translate chinese chapter4_b84d7339:
     # voice ""
     # "벌써 세 번이나 바늘에 찔린 손을 매만지고 있던 현지였다. "
     voice ""
-    "贤智已经是第三次被扎到手了。"
+    "贤智已经是第三次被针扎到手了。"
 
 # game/chapter4.rpy:369
 translate chinese chapter4_43c45c9a:
@@ -856,7 +856,7 @@ translate chinese chapter4_4d44e561:
 translate chinese chapter4_099a4950:
 
     # "나는 현지의 손을 잡아당겨선, 상처를 매만지며 우스운 주문 하나를 외웠다. "
-    "我拉着贤智的手站起来，抚平伤口，念了一句好笑的咒语。"
+    "我拉着贤智的手，抚弄伤处，念了一句好笑的咒文。"
 
 # game/chapter4.rpy:374
 translate chinese chapter4_f4fad171:
@@ -868,7 +868,7 @@ translate chinese chapter4_f4fad171:
 translate chinese chapter4_ac45058e:
 
     # "대충 ‘선배 손은 약손’ 같은 멋대로 고친 주문을 읊조리자 옆에서 웃음소리가 들려왔다. "
-    "粗略地念了一些“前辈的手是药手”之类的随意改动的咒语之后，旁边传来了笑声。"
+    "粗略地念了一些“前辈的手是药手”之类的随意改动的咒文之后，旁边传来了笑声。"
 
 # game/chapter4.rpy:382
 translate chinese chapter4_5f56ad84:
@@ -884,7 +884,7 @@ translate chinese chapter4_bd004b88:
     # voice "" 
     # 나 "“엄마한테 들었는데, 이런 주문과 함께 손을 쓰다듬으면 아픈 게 날아간대.”"
     voice "" 
-    나 "“听妈妈说，念着这样的咒语同时抚摸手，疼痛就会消失。”"
+    나 "“听妈妈说，按照这样的咒文同时抚摸她的手，疼痛就会消失。”"
 
 # game/chapter4.rpy:389
 translate chinese chapter4_430c27ef:
@@ -892,7 +892,7 @@ translate chinese chapter4_430c27ef:
     # voice "voices/hd31.ogg"
     # 현지 "“뭐예요, 그럴 리가 없잖아요.”"
     voice "voices/hd31.ogg"
-    현지 "“怎么可能。”"
+    현지 "“什么啊，不可能吧。”"
 
 # game/chapter4.rpy:391
 translate chinese chapter4_8d580783:
@@ -916,7 +916,7 @@ translate chinese chapter4_48211887:
     # voice ""
     # "자그마한 목소리로 불만 어린 항변을 중얼댄 현지는, 스르륵 손을 빼고선 인형 만들기를 계속했다. "
     voice ""
-    "贤智用微弱的声音抗议，缓缓地抽出双手，继续制作人偶。"
+    "贤智小声嘀咕着不满的抗辩，轻轻地把手抽出，继续制作人偶。"
 
 # game/chapter4.rpy:403
 translate chinese chapter4_9b40598a:
@@ -934,7 +934,7 @@ translate chinese chapter4_f82a845f:
 translate chinese chapter4_d9dc9d8f:
 
     # 나 "“생각보다 그럴싸하게 생겼네.”"
-    나 "“这看起来比我想象的更帅啊。”"
+    나 "“这看起来比我想象中还要更帅啊。”"
 
 # game/chapter4.rpy:408
 translate chinese chapter4_f227999b:
@@ -948,7 +948,7 @@ translate chinese chapter4_48b9d7e3:
     # voice "voices/hd33.ogg"
     # 현지 "“선배, 이 사이트 좀 확인해 주세요.”"
     voice "voices/hd33.ogg"
-    현지 "“前辈，请确认一下这个网站。”"
+    현지 "“前辈，帮我确认一下这个网站。”"
 
 # game/chapter4.rpy:415
 translate chinese chapter4_a6ad38db:
@@ -968,7 +968,7 @@ translate chinese chapter4_7c1ce6c9:
 translate chinese chapter4_4ba2510c:
 
     # "이번엔 조금 더 오래된 기억이었다."
-    "这次是更久之前的记忆。"
+    "这次是更久远的记忆。"
 
 # game/chapter4.rpy:423
 translate chinese chapter4_ae9cb765:
@@ -994,7 +994,7 @@ translate chinese chapter4_4846289a:
     # voice "voices/hd34.ogg"
     # 현지 "“이거, 텔레이도스코프라는 거예요.”"
     voice "voices/hd34.ogg"
-    현지 "“这是远华镜。”"
+    현지 "“这个，叫远华镜。”"
 
 # game/chapter4.rpy:433
 translate chinese chapter4_9a0aabc8:
@@ -1010,7 +1010,7 @@ translate chinese chapter4_180540be:
     # voice "voices/hd35.ogg"
     # 현지 "“그야 당연하죠. 제가 이름 붙인 거니까요.”"
     voice "voices/hd35.ogg"
-    현지 "“那是当然的。因为是我取的名字。”"
+    현지 "“那是当然。因为是我取的名字。”"
 
 # game/chapter4.rpy:440
 translate chinese chapter4_ae970cd5:
@@ -1018,19 +1018,19 @@ translate chinese chapter4_ae970cd5:
     # voice ""
     # "현지는 자신이 붙인 이름이 썩 마음에 든 모양이었다."
     voice ""
-    "贤智好像很喜欢这个名字。"
+    "贤智好像对自己取的名字很满意。"
 
 # game/chapter4.rpy:442
 translate chinese chapter4_4b1bd04f:
 
     # "학교 옥상에서 그런 일이 있고 난 이후부터, 현지는 텔레이도스코프라는 기계를 만들기 시작했다. "
-    "那件事发生在学校的屋顶之后，贤智开始制造一种叫做远华镜的机器。"
+    "自从学校楼顶发生那件事以后，贤智开始制造一种叫做远华镜的机器。"
 
 # game/chapter4.rpy:446
 translate chinese chapter4_7dd5076e:
 
     # "나는 용도도 알지 못한 채 현지의 말을 따라 텔레이도스코프의 제작을 도와왔던 것이다."
-    "在不知道它的用途的情况下，我帮助贤智制作了它。"
+    "在不知道它的用途的情况下，按照贤智的说法帮助制造了远华镜。"
 
 # game/chapter4.rpy:450
 translate chinese chapter4_0a9f6d5b:
@@ -1042,7 +1042,7 @@ translate chinese chapter4_0a9f6d5b:
 translate chinese chapter4_d4880b5c:
 
     # "시간 개념이 아득하게 멀어져 가는 듯한 기분이었다."
-    "感觉时间的概念正在逐渐消失。"
+    "感觉时间的概念越来越遥远。"
 
 # game/chapter4.rpy:460
 translate chinese chapter4_4734f35a:
@@ -1056,7 +1056,7 @@ translate chinese chapter4_4734f35a:
 translate chinese chapter4_b27639a4:
 
     # "현지의 목소리가 흐릿하게 들렸다."
-    "贤智的声音听得模糊不清。"
+    "贤智的声音听起来模模糊糊的。"
 
 # game/chapter4.rpy:464
 translate chinese chapter4_a774edff:
@@ -1086,19 +1086,19 @@ translate chinese chapter4_1be27569:
     # voice ""
     # "뭔가를 떠올릴 새도 없이 공간이 일그러져 버렸다. "
     voice ""
-    "没来得及想什么，空间就扭曲了。"
+    "没来得及想起什么，空间就瘪了。"
 
 # game/chapter4.rpy:474
 translate chinese chapter4_91b02c9e:
 
     # "그와 동시에 감각이 조금씩 돌아오는 것이 느껴졌다. "
-    "与此同时，我感觉自己的意识稍微恢复了。"
+    "与此同时，感觉自己的意识逐渐恢复了。"
 
 # game/chapter4.rpy:479
 translate chinese chapter4_31def1cb:
 
     # "헤드셋 너머에서, 현지의 목소리가 들렸다. "
-    "耳机里传来贤智的声音。"
+    "头戴式耳麦里传来贤智的声音。"
 
 # game/chapter4.rpy:485
 translate chinese chapter4_7a68820e:
@@ -1114,13 +1114,13 @@ translate chinese chapter4_013aa603:
     # voice ""
     # 나 "“…… 뭐야, 이거？”"
     voice ""
-    나 "“……什么啊？”"
+    나 "“……什么啊，这个？”"
 
 # game/chapter4.rpy:494
 translate chinese chapter4_44ce5fad:
 
     # "나는 얼떨떨한 얼굴로 헤드셋을 벗으며 현지에게 물었다. "
-    "我一脸茫然地摘下耳机问贤智。"
+    "我糊里糊涂地摘下头戴式耳麦问贤智。"
 
 # game/chapter4.rpy:497
 translate chinese chapter4_8c8c3e8a:
@@ -1128,7 +1128,7 @@ translate chinese chapter4_8c8c3e8a:
     # voice "voices/hd40.ogg"
     # 현지 "“뭐긴요. 유체이탈, 그리고 시간 여행이죠. 선배는 방금 텔레이도스코프를 작동시킨 50초 뒤의 미래로 유체이탈 한 거예요.”"
     voice "voices/hd40.ogg"
-    현지 "“灵魂出窍和时间旅行。在我启动机器50秒后你的灵魂出窍了。”"
+    현지 "“还能是什么，灵魂出窍和时间旅行。前辈刚才启动远华镜50秒之后，朝未来灵魂出窍了。”"
 
 # game/chapter4.rpy:499
 translate chinese chapter4_d011104b:
@@ -1142,19 +1142,19 @@ translate chinese chapter4_d011104b:
 translate chinese chapter4_c6f44c53:
 
     # "50초 치고는 너무 긴 회상이었던 것 같은데. "
-    "对于50秒来说似乎是太长的回忆。"
+    "按照50秒来看，回忆似乎太长了。"
 
 # game/chapter4.rpy:506
 translate chinese chapter4_7d9f4e4a:
 
     # "1분 남짓이 되지 않는 시간 동안, 잠시 시간 개념을 잃었던 거라고밖에는 생각이 들지 않았다. "
-    "在不到一分钟的时间里，自己暂时失去了时间概念。"
+    "在不到一分钟的时间里，尽管从未想过但只能认为自己暂时失去了时间概念。"
 
 # game/chapter4.rpy:507
 translate chinese chapter4_fac4ee1c:
 
     # "그런 생각을 하던 중이었다. "
-    "我是这么想的。"
+    "我正这么想着。"
 
 # game/chapter4.rpy:510
 translate chinese chapter4_40dfd940:
@@ -1162,7 +1162,7 @@ translate chinese chapter4_40dfd940:
     # voice "voices/hd41.ogg"
     # 현지 "“50초 뒤의 미래로 오는 길에, 선배는 무엇을 봤나요？”"
     voice "voices/hd41.ogg"
-    현지 "“50秒后，在你回来的路上，你看到了什么？”"
+    현지 "“50秒后，在去未来的路上，前辈看到了什么？”"
 
 # game/chapter4.rpy:512
 translate chinese chapter4_fd01af7f:
@@ -1170,7 +1170,7 @@ translate chinese chapter4_fd01af7f:
     # voice ""
     # 나 "“그게 무슨 소리야？”"
     voice ""
-    나 "“你的意思是？”"
+    나 "“那是在说啥？”"
 
 # game/chapter4.rpy:514
 translate chinese chapter4_b91aa09a:
@@ -1178,7 +1178,7 @@ translate chinese chapter4_b91aa09a:
     # voice "voices/hd42.ogg"
     # 현지 "“어라, 눈앞에 뭔가 보인 거 없었어요？”"
     voice "voices/hd42.ogg"
-    현지 "“哎呀，眼前没有什么东西吗？”"
+    현지 "“哎呀，眼前没看到什么吗？”"
 
 # game/chapter4.rpy:516
 translate chinese chapter4_258c36e6:
@@ -1186,19 +1186,19 @@ translate chinese chapter4_258c36e6:
     # voice ""
     # 나 "“글쎄, 뭔가 주마등처럼 휙휙 지나가긴 했는데…….”"
     voice ""
-    나 "“是啊，像走马灯一样嗖地过去了……”"
+    나 "“这个嘛，虽然像走马灯一样嗖嗖过去了……”"
 
 # game/chapter4.rpy:520
 translate chinese chapter4_3e7c8a99:
 
     # "생생한 기억일 거라고만 생각했다. "
-    "我只认为这是一段生动的记忆。"
+    "只认为是一段活生生的记忆。"
 
 # game/chapter4.rpy:521
 translate chinese chapter4_ed80a5be:
 
     # "현지의 말대로, 정말 눈 앞에 펼쳐진 듯한 생생한 기억. "
-    "正如贤智所说，生动的回忆似乎就在我眼前展开。"
+    "如贤智所说，真的是似乎展现在眼前的，活生生的记忆。"
 
 # game/chapter4.rpy:534
 translate chinese chapter4_d47c7098:
@@ -1206,7 +1206,7 @@ translate chinese chapter4_d47c7098:
     # voice "voices/hd43.ogg"
     # 현지 "“선배는 회상을 한 게 아니라, 정말 그곳에 있었던 거예요. 방금은 너무 짧은 시간 간격을 이동한 거라 진동이 순식간에 끝났겠지만요.”"
     voice "voices/hd43.ogg"
-    현지 "“前辈不是回想，而是真的在那里。旅行经过的时间太短了，振动肯定在一瞬间结束了。”"
+    현지 "“前辈不是回想，而是真的在那里。刚才移动的时间间隔过于短了，振动可能在一瞬间就结束了。”"
 
 # game/chapter4.rpy:536
 translate chinese chapter4_0a9fe094:
@@ -1214,7 +1214,7 @@ translate chinese chapter4_0a9fe094:
     # voice "voices/hd44.ogg"
     # 현지 "“아직 수식 완성이 덜 돼서, 이렇게 짧은 시간밖에는 못 움직여요.”"
     voice "voices/hd44.ogg"
-    현지 "“我还没完成好公式，只能跨越这么短的时间。”"
+    현지 "“我还没完成好数式，只能改变这么短的时间。”"
 
 # game/chapter4.rpy:538
 translate chinese chapter4_0e238842:
@@ -1222,7 +1222,7 @@ translate chinese chapter4_0e238842:
     # voice ""
     # 나 "“내가 정말 그곳에 있었다고？”"
     voice ""
-    나 "“我真的回到了过去？”"
+    나 "“我真的在那里？”"
 
 # game/chapter4.rpy:541
 translate chinese chapter4_dc1de405:
@@ -1250,7 +1250,7 @@ translate chinese chapter4_5a3c4f66:
 translate chinese chapter4_6f107114:
 
     # "터무니없이 진지한 색을 띤 현지의 눈동자는, 거짓이나 장난과는 거리가 한참 있어 보였다. "
-    "贤智的眼睛里的颜色真挚得荒唐，似乎不是在说谎和开玩笑。"
+    "贤智的眼睛里的颜色真挚得荒唐，看起来和谎言和恶作剧有很大距离。"
 
 # game/chapter4.rpy:553
 translate chinese chapter4_518059f1:
@@ -1258,7 +1258,7 @@ translate chinese chapter4_518059f1:
     # voice "voices/hd46.ogg"
     # 현지 "“기억나는 거 있어요？ 뭘 봤는지 말이에요.”"
     voice "voices/hd46.ogg"
-    현지 "“你还记得什么吗？你看见什么了？”"
+    현지 "“有想起来的什么吗？你看见什么了？”"
 
 # game/chapter4.rpy:555
 translate chinese chapter4_2f9b0e6f:
@@ -1266,31 +1266,31 @@ translate chinese chapter4_2f9b0e6f:
     # voice ""
     # "나는 주마등처럼 지나갔던 장면들을 하나하나 더듬었다. "
     voice ""
-    "像走马灯一样一个一个地摸索过去的场面。"
+    "我像走马灯一样一个一个地追溯过去的场面。"
 
 # game/chapter4.rpy:560
 translate chinese chapter4_369ba27e:
 
     # 나 "“네가 나랑 처음 만났던 날. 그리고 같이 저 텔레이도스코프 만들었던 거. 그리고 학예회 준비 한답시고 인형 잔뜩 만들었던 거.”"
-    나 "“你第一次见到我的那天。我们一起制作了这个远华镜。为了准备学艺祭，我们做了一堆人偶。”"
+    나 "“你第一次见到我的那天。还有一起制作远华镜的那个。还有为了准备学艺祭，做了一堆人偶。”"
 
 # game/chapter4.rpy:562
 translate chinese chapter4_b047976d:
 
     # "현지는 태블릿을 꺼내 내가 이야기한 것들을 기록해두었다. "
-    "贤智拿出平板电脑记录了我所说的话。"
+    "贤智掏出平板电脑记录了我所说的话。"
 
 # game/chapter4.rpy:566
 translate chinese chapter4_c80d1ba2:
 
     # 나 "“그리고 하나 더 있었던 것 같은데…… 그건 기억이 잘 안 나네.”"
-    나 "“还有一个……那个不太记得了。”"
+    나 "“好像还有一个……那个不太记得了。”"
 
 # game/chapter4.rpy:569
 translate chinese chapter4_a7d9beca:
 
     # "현지는 펜을 한 번 돌리더니, 만족스러운 얼굴로 말했다. "
-    "贤智把笔转了转，一脸满意的说道。"
+    "贤智把笔转了转，一脸满意地说道。"
 
 # game/chapter4.rpy:576
 translate chinese chapter4_d7df9234:
@@ -1298,7 +1298,7 @@ translate chinese chapter4_d7df9234:
     # voice "voices/hd47.ogg"
     # 현지 "“지금으로선 50초로 5개월 정도를 진동할 수 있는 것 같네요. 음, 이 정도면 첫 구동으로는 대만족인데요？”"
     voice "voices/hd47.ogg"
-    현지 "“现在来说，50秒似乎可以回溯5个月左右。嗯，这种程度的话，第一次启动就足够了呢？”"
+    현지 "“现在来说，用50秒好像能振动5个月左右。嗯，第一次驱动就有这种程度，大满足了呢？”"
 
 # game/chapter4.rpy:578
 translate chinese chapter4_ec44d2c8:
@@ -1306,13 +1306,13 @@ translate chinese chapter4_ec44d2c8:
     # voice ""
     # 나 "“정말 만화경 같네.”"
     voice ""
-    나 "“真的就像万花筒一样。”"
+    나 "“真的就像万华镜一样。”"
 
 # game/chapter4.rpy:581
 translate chinese chapter4_6caf621d:
 
     # "뭐라 할 말이 딱히 없었다. "
-    "我无话可说。"
+    "真的没什么可说的。"
 
 # game/chapter4.rpy:583
 translate chinese chapter4_519b57bf:
@@ -1324,25 +1324,25 @@ translate chinese chapter4_519b57bf:
 translate chinese chapter4_7798232e:
 
     # "유체 이탈도 있고, 유령도 있고, 시간 여행도 있다. "
-    "有灵魂出窍，有幽灵，也有时间旅行。"
+    "有灵魂出窍、有幽灵，也有时间旅行。"
 
 # game/chapter4.rpy:589
 translate chinese chapter4_c10c1c26:
 
     # "그리고 내 앞의 이 여학생은 시간 여행을 할 수 있는 기계를 만들고 있다……. "
-    "还有我面前的这个女生制造出了用于时间旅行的机器……"
+    "还有我面前的这个女生正在制造可以进行时间旅行的机器……"
 
 # game/chapter4.rpy:591
 translate chinese chapter4_44f7efaa:
 
     # "다시 한번 내가 서 있는 공간이 꿈만 같다는 착각이 들었다. "
-    "再一次，我有一种错觉，我所处的空间就像一场梦。"
+    "再次产生了我所在的空间就像梦一样的错觉。"
 
 # game/chapter4.rpy:601
 translate chinese chapter4_47604005:
 
     # 나 "“…… 어떻게 만든 거야？”"
-    나 "“……你是怎么做到的？”"
+    나 "“……是怎么做到的啊？”"
 
 # game/chapter4.rpy:603
 translate chinese chapter4_41df83a4:
@@ -1356,7 +1356,7 @@ translate chinese chapter4_884b591a:
     # voice "voices/hd48.ogg"
     # 현지 "“여태껏 같이 열심히 만들고 있었잖아요. 노력이 결실을 맺은 거죠.”"
     voice "voices/hd48.ogg"
-    현지 "“到目前为止，我们的辛勤奋斗得到了回报。”"
+    현지 "“一直以来不是一起热诚地制作的吗，是努力结出了果实。”"
 
 # game/chapter4.rpy:607
 translate chinese chapter4_6a5cfa8c:
@@ -1364,7 +1364,7 @@ translate chinese chapter4_6a5cfa8c:
     # voice ""
     # 나 "“난 저 기계가 무슨 용도인지도 모르고 있었는데.”"
     voice ""
-    나 "“我甚至不知道那台机器是做什么用的。”"
+    나 "“我连那个机器的用途都不知道。”"
 
 # game/chapter4.rpy:610
 translate chinese chapter4_3f4b67d5:
@@ -1372,7 +1372,7 @@ translate chinese chapter4_3f4b67d5:
     # voice "voices/hd48_.ogg"
     # 현지 "“에헤헤…….”"
     voice "voices/hd48_.ogg"
-    현지 "“嘿嘿……”"
+    현지 "“欸嘿嘿……”"
 
 # game/chapter4.rpy:613
 translate chinese chapter4_da36f784:
@@ -1380,7 +1380,7 @@ translate chinese chapter4_da36f784:
     # voice ""
     # 나 "“…… 대단하네.”"
     voice ""
-    나 "“……那太棒了。”"
+    나 "“……真了不起。”"
 
 # game/chapter4.rpy:616
 translate chinese chapter4_06a1253e:
@@ -1396,7 +1396,7 @@ translate chinese chapter4_a021618f:
     # voice ""
     # "텔레스코프에서 손을 떼며, 현지는 약간 쑥스러운 듯한 표정을 지어 보였다. "
     voice ""
-    "从远华镜上松开手，贤智露出了一种有点害羞的表情。"
+    "贤智把手从远华镜上移开，脸上露出了略显害羞的表情。"
 
 # game/chapter4.rpy:621
 translate chinese chapter4_7925c0a2:
@@ -1404,7 +1404,7 @@ translate chinese chapter4_7925c0a2:
     # voice "voices/hd50.ogg"
     # 현지 "“그때 로봇 이야기했었잖아요. 그 뒤로 유령의 주변에서 전기 신호가 미묘한 간섭을 받는 건 아닐까 했는데, 아마 그런 것 같더라고요.”"
     voice "voices/hd50.ogg"
-    현지 "“当时你在谈论机器人。在那之后，我想知道电信号是否在幽灵周围受到了微妙的干扰，似乎确实如此。”"
+    현지 "“那时候不是讨论了机器人嘛。在那之后，我想电信号在幽灵的周围是不是会受到微妙的干涉，恐怕确实如此。”"
 
 # game/chapter4.rpy:623
 translate chinese chapter4_9875be4c:
@@ -1412,7 +1412,7 @@ translate chinese chapter4_9875be4c:
     # voice ""
     # 나 "“그거랑 방금 내가 경험한 유체이탈이랑, 어떤 상관이 있어？”"
     voice ""
-    나 "“这和我刚刚经历的灵魂出窍有什么关系？”"
+    나 "“这和我刚才经历的灵魂出窍有什么关系？”"
 
 # game/chapter4.rpy:626
 translate chinese chapter4_13e54886:
@@ -1420,7 +1420,7 @@ translate chinese chapter4_13e54886:
     # voice "voices/hd51.ogg"
     # 현지 "“일단, 유령이라는 존재는 3차원 이상의 존재라고 할 수 있어요. 그래서 보통 사람들의 눈에는 보이지 않는 거고요.”"
     voice "voices/hd51.ogg"
-    현지 "“首先，鬼魂可以说不止存在于三维。这就是为什么它对普通人来说是看不见的。”"
+    현지 "“首先，幽灵可以说是三维以上的存在。所以普通人看不到。”"
 
 # game/chapter4.rpy:628
 translate chinese chapter4_4b383b86:
@@ -1436,7 +1436,7 @@ translate chinese chapter4_cd5b0558:
     # voice "voices/hd52.ogg"
     # 현지 "“선배, 혹시 지금 그 유령이랑 같이 있어요？”"
     voice "voices/hd52.ogg"
-    현지 "“前辈你现在和那个幽灵在一起吗？”"
+    현지 "“前辈，你现在和那个幽灵在一起吗？”"
 
 # game/chapter4.rpy:632
 translate chinese chapter4_03aa4250:
@@ -1460,19 +1460,19 @@ translate chinese chapter4_c3e4b5c2:
     # voice ""
     # "아마 그렇겠지. "
     voice ""
-    "应该是吧。"
+    "大概是吧。"
 
 # game/chapter4.rpy:641
 translate chinese chapter4_e8135473:
 
     # "미래의 내가 또 다시 텔레이도스코프를 통해 지금을 바라보고 있지 않다면. "
-    "如果未来的我不再用远华镜看现在的话。"
+    "如果未来的我再也不通过远华镜观察现在的话。"
 
 # game/chapter4.rpy:642
 translate chinese chapter4_a759c46c:
 
     # "현지는 헛기침을 한 번 하더니, 브리핑을 하듯 설명을 이어갔다. "
-    "贤智干咳了一声，然后像做简报一样继续说明。"
+    "贤智干咳了一声，然后像做简要报告似的继续说明。"
 
 # game/chapter4.rpy:658
 translate chinese chapter4_0c625453:
@@ -1480,7 +1480,7 @@ translate chinese chapter4_0c625453:
     # voice "voices/hd54.ogg"
     # 현지 "“전자기파는 전기장, 자기장이 3차원 공간에서 서로 수직하게 진동하며 나아가는 파동이잖아요.”"
     voice "voices/hd54.ogg"
-    현지 "“电磁波是互相垂直的电场与磁场在三维空间中衍生发射的振荡粒子波。”"
+    현지 "“电磁波是在三维空间中互相垂直的电场与磁场振动前进的波。”"
 
 # game/chapter4.rpy:666
 translate chinese chapter4_66eeee0c:
@@ -1488,7 +1488,7 @@ translate chinese chapter4_66eeee0c:
     # voice "voices/hd55.ogg"
     # 현지 "“그런데 유령 주변에서는 3차원 좌표로 나타내지 못하는 제3의 파동이 전기장, 자기장에 동시에 수직하게 진동하고 있다고나 할까요. 그 파동이 로봇의 전자기장에 간섭을 한 것 같아요.”"
     voice "voices/hd55.ogg"
-    현지 "“但是在幽灵周围，无法用三维坐标表示的第三个波垂直于振荡的电场与磁场。它似乎干扰了机器人周围的电磁场。”"
+    현지 "“但是在幽灵周围，无法用三维坐标表示的第三个波同时垂直于振动的电场与磁场。那个波似乎干涉了机器人的电磁场。”"
 
 # game/chapter4.rpy:671
 translate chinese chapter4_560de10a:
@@ -1496,7 +1496,7 @@ translate chinese chapter4_560de10a:
     # voice "voices/hd56.ogg"
     # 현지 "“거꾸로 말하면, 전자기장이 그 미지의 파동에 간섭할 수도 있다는 거죠.” "
     voice "voices/hd56.ogg"
-    현지 "“但反过来说，电磁场可以干扰这未知的波。”"
+    현지 "“但反过来说，电磁场可能会干涉这未知的波。”"
 
 # game/chapter4.rpy:681
 translate chinese chapter4_18354d5c:
@@ -1504,7 +1504,7 @@ translate chinese chapter4_18354d5c:
     # voice "voices/hd57.ogg"
     # 현지 "“선배의 영혼은 그 간섭된 파동을 타고 50초 뒤의 미래로 날아온 거예요.”"
     voice "voices/hd57.ogg"
-    현지 "“50秒后，前辈的灵魂在那被干扰的波中飞向了未来。”"
+    현지 "“前辈的灵魂乘着那被干涉的波，飞向了50秒后的未来。”"
 
 # game/chapter4.rpy:686
 translate chinese chapter4_2146069a:
@@ -6108,7 +6108,7 @@ translate chinese ecg8_label_bdbd638b:
 translate chinese ecg8_label_48f4f7f0:
 
     # "편안한 자세로 침대에 쪼그려 앉아있던 소녀는 마치 잔잔한 음악을 감상하듯 빗소리에 기대어 있었다."
-    "以舒服的姿势蹲在床上的少女像欣赏平静的音乐一样欣赏雨声。"
+    "以舒服的姿势蜷缩在床上的少女像欣赏平静的音乐一样欣赏雨声。"
 
 # game/chapter4.rpy:2711
 translate chinese ecg8_label_66a68060:

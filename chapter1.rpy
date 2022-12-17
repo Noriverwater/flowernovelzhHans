@@ -234,7 +234,7 @@ translate chinese chapter1_6e4baed8:
 translate chinese chapter1_4131eeff:
 
     # "몇 달 전에도 이런 함정 질문에 걸려서 ‘그러게. 조금 찐 것 같아.’라고 생각 없이 대답했다가 며칠 동안 시달렸었지."
-    "几个月前我也领教了这种陷阱提问。\n“好像是有点胖了”当时我毫无顾忌地回答，结果煎熬地度过了好几天。"
+    "几个月前我也陷入了这种陷阱提问。\n“好像是有点胖了”当时我毫无顾忌地回答，结果煎熬地度过了好几天。"
 
 # game/chapter1.rpy:188
 translate chinese chapter1_66763075:
@@ -246,13 +246,13 @@ translate chinese chapter1_66763075:
 translate chinese chapter1_1cfe1e52:
 
     # "지금이라도 좋으니 이 이야기는 없던 걸로 하지 않을래, 라는 의미였지만."
-    "就算是现在也好，我也不会把这句话当成耳旁风，虽然是这么个意思。"
+    "即使是现在，也能不能假装这句话从未发生过，虽然是这种意思。"
 
 # game/chapter1.rpy:195
 translate chinese chapter1_4e8e27cd:
 
     # "질문을 철회해달라는 무언의 요구는 역시나 씨알도 먹히지 않는 듯해 보였다."
-    "但期望撤回质疑这一无言的请求似乎还是没有被接受。"
+    "但期望撤回质疑这一无言的请求似乎还是没有奏效。"
 
 # game/chapter1.rpy:202
 translate chinese chapter1_02199567:
@@ -4339,7 +4339,7 @@ translate chinese chapter1_2_ef315acb:
     # voice "voices/ga8.ogg"
     # 소녀 "“혹시 당신도, 저와 같은 유령인가요？”"
     voice "voices/ga8.ogg"
-    소녀 "“难道你也是和我一样的幽灵吗？”"
+    소녀 "“难道你也是，和我一样的幽灵吗？”"
 
 # game/chapter1.rpy:1970
 translate chinese chapter1_2_1499c9a6:
@@ -6896,7 +6896,7 @@ translate chinese chapter1_2_79189525:
 translate chinese chapter1_2_6e624267:
 
     # 나 "“난 귀신은 아니잖아. 그리고 기억은…… 그 유령 여자애처럼 아무것도 기억 못하는 것도 아니고. 일부만 안 날 뿐이라고. 일부만.”"
-    나 "“我不是幽灵啊。我还有记忆……也不是像那个幽灵少女一样什么都不记得。只忘了一部分，就一部分。”"
+    나 "“我不是鬼啊。我还有记忆……也不是像那个幽灵少女一样什么都不记得。只忘了一部分，就一部分。”"
 
 # game/chapter1.rpy:3045
 translate chinese chapter1_2_5d7fc28c:

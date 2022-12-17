@@ -1354,7 +1354,7 @@ translate chinese chapter5_e736537e:
     # voice "voices/ge37.ogg"
     # 소녀 "“혹시 다른 귀신이라도 찾으려는 건가요？”"
     voice "voices/ge37.ogg"
-    소녀 "“难道是想找别的幽灵吗？”"
+    소녀 "“难道是想找别的鬼吗？”"
 
 # game/chapter5.rpy:579
 translate chinese chapter5_22fe603d:
@@ -4622,7 +4622,7 @@ translate chinese chapter5_4c04051e:
 translate chinese chapter5_818c4199:
 
     # "상상 속에서도 그려지기 어려운 일이었다. "
-    "难以想象。"
+    "是想象中也难以描绘的事情。"
 
 # game/chapter5.rpy:1945
 translate chinese chapter5_41562fce:

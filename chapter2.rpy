@@ -313,7 +313,7 @@ translate chinese chapter2_7bd68d39:
 translate chinese chapter2_44d5b121:
 
     # "전자레인지에 데워낸 찰기 없는 필라프가 소녀의 젓가락에서 자꾸만 흘러내리는 모습이 내가 소녀와 함께 식사를 하고 있다는 사실을 상기시켰다."
-    "看到用微波炉加热的粘糊糊的抓饭，从少女的筷子上滴落下来，我才想起自己正在和女孩子一起吃饭。"
+    "看到用微波炉加热的没有黏性的抓饭从少女的筷子上滴落下来，我才想起自己正在和少女一起吃饭。"
 
 # game/chapter2.rpy:181
 translate chinese chapter2_9e7e7f0d:
@@ -521,7 +521,7 @@ translate chinese chapter2_b913b028:
 translate chinese chapter2_f834e9b8:
 
     # "흔하디 흔한 귀신 이야기들……. "
-    "常见的幽灵故事……"
+    "常见的鬼故事……"
 
 # game/chapter2.rpy:266
 translate chinese chapter2_9c3058a2:
@@ -549,7 +549,7 @@ translate chinese chapter2_59f90c0e:
 translate chinese chapter2_809753db:
 
     # "인기척이 느껴지지 않는 건, 그녀가 귀신이기 때문이겠지만 말이다. "
-    "没有动静，可能是因为她是幽灵。"
+    "没有动静，可能是因为她是鬼。"
 
 # game/chapter2.rpy:276
 translate chinese chapter2_13f0aaec:
@@ -659,7 +659,7 @@ translate chinese chapter2_faf05fcb:
 translate chinese chapter2_5ac19bff:
 
     # "하긴, 이렇게나 끔찍한 사건에 휘말려 목숨을 잃었다고 한다면 죽어서도 억울함에 못 이겨 귀신이 된다고 해도 이상하지 않을 거라는 생각이 들긴 했다."
-    "当然，我认为，如果因为卷入如此恐怖的事件而失去了生命，即使死后也因为无法忍受委屈而变成幽灵也并不奇怪。"
+    "也是，如果因为卷入如此恐怖的事件而失去了生命，即使死后也因为无法忍受委屈而变成鬼也并不奇怪。"
 
 # game/chapter2.rpy:324
 translate chinese chapter2_2cb09193:
@@ -1413,7 +1413,7 @@ translate chinese chapter2_662f84cd:
     # voice "voices/gb40.ogg"
     # 소녀 "“귀신한테 너무 많은 호의를 베푸는 거 아닌가요.”"
     voice "voices/gb40.ogg"
-    소녀 "“你是不是对幽灵太好了？”"
+    소녀 "“你是不是对鬼过于好心了？”"
 
 # game/chapter2.rpy:634
 translate chinese chapter2_cfe77052:
@@ -1427,7 +1427,7 @@ translate chinese chapter2_cfe77052:
 translate chinese chapter2_5b8045ed:
 
     # 나 "“귀신이라 해도, 너무 살아있는 것처럼 보여서 잘 모르겠는걸.”"
-    나 "“即使是幽灵，看起来还活灵活现。”"
+    나 "“即使是鬼，看起来还活灵活现。”"
 
 # game/chapter2.rpy:641
 translate chinese chapter2_0a15271c:
@@ -1549,7 +1549,7 @@ translate chinese chapter2_87e23bfa:
 translate chinese chapter2_e7432339:
 
     # "소녀는 여전히 잠을 잘 생각은 없었는지, 무릎을 껴안은 채 침대 위에 쪼그려 앉아 바닥에 누워있는 나를 바라보고 있었다. "
-    "少女似乎还没有睡觉的想法，抱着膝盖坐在床上看着躺在地上的我。"
+    "少女似乎还没有睡觉的想法，抱着膝盖蜷缩在床上看着躺在地上的我。"
 
 # game/chapter2.rpy:693
 translate chinese chapter2_adb14d65:
@@ -1693,7 +1693,7 @@ translate chinese chapter2_a8af0ac9:
 translate chinese chapter2_b46cd470:
 
     # "소녀는 여전히 쪼그려 앉아있는 그 자세를 유지하고 있었는지, 별다른 소리는 들려오지 않았다. "
-    "少女似乎还保持着蹲着的姿势，没有听到什么特别的声音。"
+    "少女似乎还保持着蜷缩的姿势，没有听到什么特别的声音。"
 
 # game/chapter2.rpy:743
 translate chinese ecg3_label_49ad7228:
@@ -1885,7 +1885,7 @@ translate chinese ecg3_label_3afd84e8:
 translate chinese ecg3_label_6bcb1801:
 
     # "침대로 자리를 옮겨 쪼그려 앉아있던 소녀를 바라보며 가볍게 숨을 내쉰 나는 침실의 전등을 조금 더 짙은 밝기로 조절했다. "
-    "我看着坐在床上的少女，轻轻叹了口气，将卧室里的灯光调暗了一些。"
+    "我看着蜷缩在床上的少女，轻轻叹了口气，将卧室里的灯光调暗了一些。"
 
 # game/chapter2.rpy:807
 translate chinese ecg3_label_377310ed:
@@ -3421,7 +3421,7 @@ translate chinese ecg3_label_b21b56ce:
     # voice "voices/gb71.ogg"
     # 소녀 "“뭘요, 귀신이 매 끼니 다 챙겨 먹는 것도 좀 이상하잖아요.”"
     voice "voices/gb71.ogg"
-    소녀 "“没什么，幽灵顿顿能吃上饭，倒是有点奇怪。”"
+    소녀 "“没什么，鬼顿顿能吃上饭，倒是有点奇怪。”"
 
 # game/chapter2.rpy:1537
 translate chinese ecg3_label_c2dbd82a:
@@ -4159,7 +4159,7 @@ translate chinese ecg3_label_cb7a8b90:
     # voice "voices/hb11.ogg"
     # 현지 "“그래서, 귀신이랑은 조금 친해졌나요？”"
     voice "voices/hb11.ogg"
-    현지 "“话说，和幽灵变得亲近了吗？”"
+    현지 "“话说，和鬼变得亲近了吗？”"
 
 # game/chapter2.rpy:1837
 translate chinese ecg3_label_65bb1035:
@@ -6809,7 +6809,7 @@ translate chinese ecg3_label_27d647c1:
 translate chinese ecg3_label_440249f8:
 
     # "확신은 할 수 없었지만, 왠지 그런 표정 같다는 생각이 들었다. "
-    "虽然不确定，但总觉得是那种意思。"
+    "虽然不能确定，但总觉得是那种意思。"
 
 # game/chapter2.rpy:2855
 translate chinese ecg3_label_c77cf48d:
@@ -7105,13 +7105,13 @@ translate chinese ecg3_label_d16897a8:
 translate chinese ecg3_label_043b7831:
 
     # "입구 근처 자리를 잡고선, 카운터 겸 주방에 우두커니 앉아있던 노파에게 음식을 주문했다. "
-    "在入口附近找了个位置，我向正呆坐着，前台兼厨师的老妇人点了菜。"
+    "在入口附近找了个位置，我向正呆坐着，前台兼厨师的老奶奶点了菜。"
 
 # game/chapter2.rpy:2980
 translate chinese ecg3_label_c3a01354:
 
     # "혼자서 2인분 치의 음식을 시키면 이상하게 바라보지는 않을까 걱정하기도 했는데, 그런 걱정은 기우였다는 듯 노파는 아무런 동요도 없이 나의 주문을 받아들였다. "
-    "我还担心如果一个人点了两个人的菜别人会不会觉得奇怪，可这个担心似乎是杞人忧天，老妇人毫无顾虑地接受了。"
+    "我还担心如果一个人点了两个人的菜别人会不会觉得奇怪，可这个担心似乎是杞人忧天，老奶奶毫无顾虑地接受了。"
 
 # game/chapter2.rpy:2981
 translate chinese ecg3_label_bb5f1620:
@@ -7221,7 +7221,7 @@ translate chinese ecg3_label_08b7a1af:
 translate chinese ecg3_label_ec2ffacf:
 
     # "소리가 나는 쪽을 바라보니, 어느새 주문했던 음식을 주인 할머니께서 내어오고 있었다. "
-    "朝发出声音的方向看去，老妇人已经把点的菜端上来了。"
+    "朝发出声音的方向看去，不知不觉间老板奶奶已经把点的菜端上来了。"
 
 # game/chapter2.rpy:3013
 translate chinese ecg3_label_b29599f6:
@@ -7249,7 +7249,7 @@ translate chinese ecg3_label_70ca7341:
 translate chinese ecg3_label_5cdf7c33:
 
     # "나에게 아무런 신경도 쓰지 않고 있는 줄로만 알았던 노파가, 식탁에 음식을 내려놓으며 조심스레 이야기를 꺼내는 것이었다. "
-    "我以为老妇人对我漫不经心，她却把饭菜放在桌上，小心翼翼地对我说："
+    "我以为老奶奶对我漫不经心，她却把饭菜放在桌上，小心翼翼地对我说："
 
 # game/chapter2.rpy:3024
 translate chinese ecg3_label_7410d235:
@@ -7357,13 +7357,13 @@ translate chinese ecg3_label_468fc299:
 translate chinese ecg3_label_3a216064:
 
     # "노파는 연신 작은 목소리로 민주라는 이름을 되뇌며, 카운터 쪽으로 느린 발걸음을 옮겼다. "
-    "老妇人低声重复着敏珠这个名字，慢慢的向柜台走去。"
+    "老奶奶低声重复着敏珠这个名字，慢慢的向柜台走去。"
 
 # game/chapter2.rpy:3052
 translate chinese ecg3_label_55f03da3:
 
     # "분명, 저 노파의 손녀가 민주라는 여학생이었던 거겠지. "
-    "那个老妇人的孙女肯定是敏珠吧。"
+    "那个老奶奶的孙女肯定是敏珠吧。"
 
 # game/chapter2.rpy:3063
 translate chinese ecg3_label_71afcfcd:
@@ -7391,7 +7391,7 @@ translate chinese ecg3_label_f4807718:
 translate chinese ecg3_label_682935cc:
 
     # "카운터로 향한 노파는 사진틀 속에 멈춰 있는 시간을 지그시 응시했다. "
-    "走向柜台的老妇人轻轻地凝视着停在相框里的时间。"
+    "走向柜台的老奶奶轻轻地凝视着停在相框里的时间。"
 
 # game/chapter2.rpy:3071
 translate chinese ecg3_label_51c85007:
@@ -7409,19 +7409,19 @@ translate chinese ecg3_label_581c35ed:
 translate chinese ecg3_label_917b9463:
 
     # "사진 속의 소녀에게 정신이 팔려서였을까. "
-    "是不是被照片中的女孩迷住了呢。"
+    "是不是注意力被照片中的女孩吸走了。"
 
 # game/chapter2.rpy:3079
 translate chinese ecg3_label_c46f6b22:
 
     # "노파는 내가 2인분 치의 음식을 시켰다는 것을 전혀 이상하게 생각하지 않고 있는 듯해 보였다. "
-    "我点了两份食物，老妇人似乎一点也不觉得奇怪。"
+    "我点了两份食物，老奶奶似乎一点也不觉得奇怪。"
 
 # game/chapter2.rpy:3081
 translate chinese ecg3_label_a5c3568f:
 
     # "그저 우리가 음식을 먹는 동안, 홀로 조용히 슬픔을 삼킬 뿐. "
-    "就在我吃饭的时候，有一个人将悲伤静静地咽下。"
+    "只是在我们吃东西的时候，一个人将悲伤静静咽下。"
 
 # game/chapter2.rpy:3083
 translate chinese ecg3_label_193fba14:
@@ -7443,17 +7443,17 @@ translate chinese ecg3_label_d5b95de6:
 translate chinese ecg3_label_12ad8a32:
 
     # "주인 노파가 어딘가 이상하다는 걸 눈치챈 건, 내가 식사를 마치고 계산까지 끝낸 뒤의 일이었다. "
-    "我吃完饭结账后，老妇人才发现不对劲。"
+    "我吃完饭结账后，老板奶奶才发现不对劲。"
 
 # game/chapter2.rpy:3094
 translate chinese ecg3_label_385c8306:
 
     # "가게를 걸어 나오는 나의 등 뒤로 접시를 정리하는 노파의 의아한 눈치가 느껴졌다만, 아무 일도 없었다는 듯 나는 가게 밖으로 발걸음을 옮겼다. "
-    "我走出小店，隐约感觉到背后老妇人收拾盘子的惊讶的眼神，不过我像什么事也没有发生似的朝店外走去。"
+    "我走出小店，隐约感觉到背后老奶奶收拾盘子的惊讶的眼神，不过我像什么事也没有发生似的朝店外走去。"
 
 # game/chapter2.rpy:3098
 translate chinese ecg3_label_006ac8fd:
 
     # "곧장 후텁지근한 여름의 열기가 나를 맞이했다."
-    "顷刻间，炎热的夏天向我袭来。"
+    "马上我迎来了夏天闷热的热气。"
 

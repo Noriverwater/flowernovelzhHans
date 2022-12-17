@@ -448,7 +448,7 @@ translate chinese chapter6_150dff88:
     # voice ""
     # "그건 운명에 휘말린 게 아니라 서로의 운명이 얽혀있는 거라는 말장난같은 이야기를 꺼내려다 말고, 나는 그대로 그 말을 삼켜버렸다. "
     voice ""
-    "那不是卷入了命运，而是彼此的命运交错在了一起，但我不想开这种玩笑，还是把这句话咽下去了。"
+    "那不是卷入了命运，而是彼此的命运交缠在了一起，但我不想开这种玩笑，还是把这句话咽下去了。"
 
 # game/chapter6.rpy:160
 translate chinese chapter6_00074634:
@@ -468,7 +468,7 @@ translate chinese chapter6_cc3a9992:
     # voice "voices/ef1.ogg"
     # 소녀 "“왜 당신의 눈에서는 '죽음'이 보이지 않는 거죠?”"
     voice "voices/ef1.ogg"
-    소녀 "“为什么在你眼里看不‘死亡’呢？”"
+    소녀 "“为什么你的眼睛里看不到‘死亡’呢？”"
 
 # game/chapter6.rpy:175
 translate chinese chapter6_4dd20225:
@@ -1022,7 +1022,7 @@ translate chinese chapter6_afda8454:
 translate chinese chapter6_3b9ec35a:
 
     # "박스 더미 뒤편에서 자신의 갈색빛 머리카락을 미처 숨기지 못하고 쪼그려 앉아있던 유미가 나의 목소리를 듣고 천천히 몸을 일으켰다. "
-    "在箱子堆后面，没来得及藏起自己褐色头发的优美听到我的声音，慢慢地站了起来。"
+    "蜷缩在箱子堆后面，没来得及藏起自己褐色头发的优美听到我的声音，慢慢地站了起来。"
 
 # game/chapter6.rpy:406
 translate chinese chapter6_8f9e8531:
@@ -1178,7 +1178,7 @@ translate chinese ecg12_label_5d85812a:
     # voice ""
     # "바닥에 쪼그려 앉아 캠프파이어에서의 모닥불처럼 유미를 바라보고 있던 나의 곁으로 그녀가 다가왔다. "
     voice ""
-    "她来到了我身边，蹲在地上，我就像凝视篝火晚会上的篝火一样看着她。"
+    "她来到了我身边，蜷缩在地上，我就像凝视篝火晚会上的篝火一样看着她。"
 
 # game/chapter6.rpy:472
 translate chinese ecg12_label_87f07574:
@@ -3278,7 +3278,7 @@ translate chinese ecg12_label_bde8f5b3:
 translate chinese ecg12_label_22616fdf:
 
     # "밤하늘에 시선을 고정시킨 채, 나는 별빛의 갈래를 찾아 눈을 찡그렸다. "
-    "我凝视着夜空，寻找星光的分支，眯起了眼睛。"
+    "视线固定在夜空中，我皱起了眉寻找星光的分支。"
 
 # game/chapter6.rpy:1252
 translate chinese ecg12_label_67aafbda:
@@ -6790,7 +6790,7 @@ translate chinese ecg14_label_fbdae232:
 translate chinese ecg14_label_c5704aca:
 
     # 나 "“그리고 너를 만나고 난 뒤로부터, 갈 곳 없이 헝클어져 있던 그 목소리가, 마치 너를 위해 준비되어 있던 붉은 실처럼 네게로 이어졌고…… 이렇게 이야기하니까 정말 거짓말 같네.”"
-    나 "“自从见到你以后，那不知从何而来的声音，就像为你准备好的红线一样与你相连……这样说起来，还真像在说谎。”"
+    나 "“自从见到你以后，那不知从何而来、掺和在一起的声音，就像为你准备好的红线一样与你相连……这样说起来，还真像在说谎。”"
 
 # game/chapter6.rpy:2429
 translate chinese ecg14_label_ee9817ed:
@@ -6832,7 +6832,7 @@ translate chinese ecg14_label_de5e6f77:
     # voice "voices/gf53.ogg"
     # 소녀 "“다음번에도 저와 목소리가 이어졌던 거군요.”"
     voice "voices/gf53.ogg"
-    소녀 "“原来下一次那个声音也和我连接在一起。”"
+    소녀 "“连下一次的那个声音也和我连接在一起了啊。”"
 
 # game/chapter6.rpy:2442
 translate chinese ecg14_label_b7f9aa3a:
@@ -6846,7 +6846,7 @@ translate chinese ecg14_label_b7f9aa3a:
 translate chinese ecg14_label_cd9e5589:
 
     # 나 "“맞아. 너랑 같이 학교 옥상에 올라갔을 때. 그날에서야 그 목소리와 너와 이어지고 있었다는 걸 알게 된 거지.”"
-    나 "“对。和你一起去学校楼顶的时候。直到那天，我才意识到那个声音和你相连。”"
+    나 "“对。和你一起去学校楼顶的时候。直到那天，我才意识到那个声音和你连在一起。”"
 
 # game/chapter6.rpy:2446
 translate chinese ecg14_label_34e15814:
@@ -6986,7 +6986,7 @@ translate chinese ecg14_label_c215e036:
     # voice "voices/gf60.ogg"
     # 소녀 "“그리고 누군가가, 저를 구해줬다고도 말했었죠.”"
     voice "voices/gf60.ogg"
-    소녀 "“有个人救了我。”"
+    소녀 "“还说过有个人，那个人救下了我。”"
 
 # game/chapter6.rpy:2484
 translate chinese ecg14_label_ec29ec04:
@@ -7002,7 +7002,7 @@ translate chinese ecg14_label_81b6c90c:
     # voice "voices/gf61.ogg"
     # 소녀 "“살아있었을 적의 저는, 원망하고 있었어요. 저를 구해줬던 그 사람을요.”"
     voice "voices/gf61.ogg"
-    소녀 "“我还活着的时候，一直在抱怨救过我的那个人。”"
+    소녀 "“活着的时候还抱有敌意，埋怨着呢。救过我的那个人。”"
 
 # game/chapter6.rpy:2491
 translate chinese ecg14_label_b78f6bba:
@@ -7010,13 +7010,13 @@ translate chinese ecg14_label_b78f6bba:
     # voice ""
     # "감정을 배제하려는 듯한 소녀의 목소리는 굴곡 없이 나의 귓가를 맴돌았지만, 그녀의 손은 그렇지 못한 모양이었다. "
     voice ""
-    "少女在努力做出毫无感情波动的样子，但她的手好像不是那样。"
+    "少女似乎要排除感情的声音没有曲折地萦绕在我的耳边，但她的手好像不是那样。"
 
 # game/chapter6.rpy:2493
 translate chinese ecg14_label_ff9d40a5:
 
     # "소녀의 손길이, 나의 옷자락 속으로 점점 더 깊이 파고드는 것이 느껴졌다. "
-    "拽着衣角的手上的力量越来越大了。"
+    "少女的手，感觉渐渐深入到我的衣角里。"
 
 # game/chapter6.rpy:2496
 translate chinese ecg14_label_fc88875f:
@@ -7032,7 +7032,7 @@ translate chinese ecg14_label_302c91b7:
     # voice "voices/gf62_2.ogg"
     # 소녀 "“아니, 하지 않았어요.”"
     voice "voices/gf62_2.ogg"
-    소녀 "“什么都没有。”"
+    소녀 "“没有，什么都没做。”"
 
 # game/chapter6.rpy:2500
 translate chinese ecg14_label_65fb1bb6:
@@ -7046,7 +7046,7 @@ translate chinese ecg14_label_65fb1bb6:
 translate chinese ecg14_label_fa530265:
 
     # "소녀가, 자신을 이야기 속에 담은 건. "
-    "少女把自己融进故事里。"
+    "少女，把自己融进话里。"
 
 # game/chapter6.rpy:2504
 translate chinese ecg14_label_4431ea08:
@@ -7054,7 +7054,7 @@ translate chinese ecg14_label_4431ea08:
     # voice "voices/gf63.ogg"
     # 소녀 "“그리고 그냥 그 자리에서, 눈을 감아버린 거죠. 이대로 끝났으면 좋겠다고 생각하면서 말이에요.”"
     voice "voices/gf63.ogg"
-    소녀 "“然后就在那里闭上了眼睛。我希望就这样结束。”"
+    소녀 "“然后就在原地，闭上了眼睛。就这样结束就好了，我是这么想的。”"
 
 # game/chapter6.rpy:2506
 translate chinese ecg14_label_46e9bc53:
@@ -7062,7 +7062,7 @@ translate chinese ecg14_label_46e9bc53:
     # voice ""
     # "스치듯 지나가는 침묵 뒤로, 소녀의 말이 이어진다. "
     voice ""
-    "在短暂的沉默之后，少女接着说。"
+    "一瞬间的沉默之后，少女接着说。"
 
 # game/chapter6.rpy:2509
 translate chinese ecg14_label_492ea5f0:
@@ -7070,7 +7070,7 @@ translate chinese ecg14_label_492ea5f0:
     # voice "voices/gf64.ogg"
     # 소녀 "“이게 제가 그날 미처 말하지 못한 이야기의 뒷부분이에요.”"
     voice "voices/gf64.ogg"
-    소녀 "“这是我那天没来得及说的故事的后半部分。”"
+    소녀 "“这就是我那天没来得及说的话的后半部分。”"
 
 # game/chapter6.rpy:2511
 translate chinese ecg14_label_3b4d7aa7:
@@ -7086,7 +7086,7 @@ translate chinese ecg14_label_a382fc81:
     # voice "voices/gf65.ogg"
     # 소녀 "“맞아요. 화재 장소를 보러 갔던 그 날. 그곳에서 누군가가 저에게 속삭이는 듯한 목소리가 들렸어요.”"
     voice "voices/gf65.ogg"
-    소녀 "“是的。去看火灾现场的那天。我从那里听到一个声音，好像有人在对我耳语。”"
+    소녀 "“是的。去看火灾现场的那天。在那里好像听到了有人对我窃窃私语的声音。”"
 
 # game/chapter6.rpy:2518
 translate chinese ecg14_label_44ced7ea:
@@ -7094,7 +7094,7 @@ translate chinese ecg14_label_44ced7ea:
     # voice "voices/gf66.ogg"
     # 소녀 "“그 목소리가 그리는 선을 따라 밖으로 나왔을 땐, 실이 이어진 끝에 당신이 서 있었어요.”"
     voice "voices/gf66.ogg"
-    소녀 "“追随着那个声音画出来的线，你站在线的尽头。”"
+    소녀 "“沿着那个声音描绘出的线走到外面时，连接线的尽头是你。”"
 
 # game/chapter6.rpy:2521
 translate chinese ecg14_label_846f5575:
@@ -7102,7 +7102,7 @@ translate chinese ecg14_label_846f5575:
     # voice ""
     # "나를 바라보고선 홱 고개를 돌리던 소녀의 모습이, 머릿속에 떠올랐다. "
     voice ""
-    "脑海中立刻浮现了在少女的注视下，我急忙转过头的样子。"
+    "脑海中立刻浮现了，注视着我，之后猛地背过头去的少女的样子。"
 
 # game/chapter6.rpy:2524
 translate chinese ecg14_label_cf33a857:
@@ -7110,7 +7110,7 @@ translate chinese ecg14_label_cf33a857:
     # voice "voices/gf67.ogg"
     # 소녀 "“그 목소리엔, 제 기억이 담겨있었어요. 죽음의 색을 보고도 떠오르지 않던, 마치 어딘가에 숨겨 놓으려던 기억들이요.”"
     voice "voices/gf67.ogg"
-    소녀 "“那个声音里有我的记忆。即使是看到死亡的颜色也想不起来，就像故意藏在记忆的某个角落一样。”"
+    소녀 "“那个声音里，包含着我的记忆。看到死亡的颜色也想不起来，仿佛要藏在某个地方的记忆。”"
 
 # game/chapter6.rpy:2526
 translate chinese ecg14_label_9d5f448c:
@@ -7118,7 +7118,7 @@ translate chinese ecg14_label_9d5f448c:
     # voice ""
     # "퍼즐 조각이, 하나둘씩 맞춰지기 시작했다. "
     voice ""
-    "拼图碎片，一个接一个拼凑起来。"
+    "拼图碎片，一个接一个地拼起来了。"
 
 # game/chapter6.rpy:2533
 translate chinese ecg14_label_9b1e8774:
@@ -7126,7 +7126,7 @@ translate chinese ecg14_label_9b1e8774:
     # voice "voices/gf68.ogg"
     # 소녀 "“그리고 저는 그날부터, 그런 제 모습을 드러내기 무서워서 도망쳐버린 거고요.”"
     voice "voices/gf68.ogg"
-    소녀 "“从那天起，我就因为害怕自己暴露出那样的一面才逃跑了。”"
+    소녀 "“而且从那天起，就害怕露出我那样的样子，所以逃跑了。”"
 
 # game/chapter6.rpy:2535
 translate chinese ecg14_label_60be048e:
@@ -7166,13 +7166,13 @@ translate chinese ecg14_label_f4ae74cd:
     # voice ""
     # "소녀가 숨을 골랐다. "
     voice ""
-    "少女屏住了呼吸。"
+    "少女调整了下呼吸。"
 
 # game/chapter6.rpy:2551
 translate chinese ecg14_label_1eb82fe4:
 
     # "따뜻하다는 단어를 떠올리고 싶었지만, 목덜미는 거짓말을 하지 못했다. "
-    "虽然心里想着温暖一词，但我的脖颈不会说谎。"
+    "虽然想起了温暖一词，脖子后面不会说谎。"
 
 # game/chapter6.rpy:2553
 translate chinese ecg14_label_117228f4:
@@ -7180,7 +7180,7 @@ translate chinese ecg14_label_117228f4:
     # voice "voices/gf71_1.ogg"
     # 소녀 "“안 그런 척하면서도, 미움받고 싶지 않았어요.”"
     voice "voices/gf71_1.ogg"
-    소녀 "“虽然装作不是那样，但我不想被讨厌。”"
+    소녀 "“虽然装作不是那样，但不想被讨厌。”"
 
 # game/chapter6.rpy:2557
 translate chinese ecg14_label_fb0a2b60:
@@ -7370,13 +7370,13 @@ translate chinese ecg14_label_c37c73a3:
 translate chinese ecg14_label_49f4c909:
 
     # "소녀에게 들리지 않을 정도의 자그마한 목소리로, 나는 그녀가 했던 말을 중얼거렸다. "
-    "用少女听不到的声音喃喃自语。"
+    "我用少女听不见的较小嗓门，喃喃着她说的话。"
 
 # game/chapter6.rpy:2615
 translate chinese ecg14_label_256f6675:
 
     # "그러고는 그런 소녀를 응시했다. "
-    "然后凝视着她。"
+    "然后凝视着那样的少女。"
 
 # game/chapter6.rpy:2619
 translate chinese ecg14_label_f233eb61:
@@ -7384,7 +7384,7 @@ translate chinese ecg14_label_f233eb61:
     # voice "voices/gf79.ogg"
     # 소녀 "“지금은 이렇게, 죽어버리고 말았지만요.”"
     voice "voices/gf79.ogg"
-    소녀 "“现在，我就这样，死了。”"
+    소녀 "“虽然现在我就这样，死了。”"
 
 # game/chapter6.rpy:2621
 translate chinese ecg14_label_8096c2d3:
@@ -7416,7 +7416,7 @@ translate chinese ecg14_label_d85fe289:
     # voice "voices/gf81.ogg"
     # 소녀 "“어쩌면 경멸할지도 모른다고 생각했어요. 당신의 등 위가 아니었다면, 이런 이야기 못 했을 거예요.”"
     voice "voices/gf81.ogg"
-    소녀 "“我当时想，也许我会鄙视他。如果不是在你的背上，我不会说这些话。”"
+    소녀 "“我想也许我会鄙视他。如果不是在你的背上，我不会说这些话。”"
 
 # game/chapter6.rpy:2630
 translate chinese ecg14_label_d24fc5d0:
@@ -7448,7 +7448,7 @@ translate chinese ecg14_label_d0bd782d:
 translate chinese ecg14_label_7d51f0c9:
 
     # "갈대가 쓰러지듯, 소녀는 나에게로 넘어지듯 안겨버려서는 엉켜있던 감정의 실을 몇 분에 걸쳐 풀어냈다. "
-    "少女就像翻倒的芦苇一样，向我扑了过来，用几分钟的时间解开了交织在一起的感情线。"
+    "少女就像翻倒的芦苇一样，倒在我的怀里，用几分钟的时间解开了交织在一起的感情线。"
 
 # game/chapter6.rpy:2642
 translate chinese ecg14_label_eebc3d7b:
@@ -7460,7 +7460,7 @@ translate chinese ecg14_label_eebc3d7b:
 translate chinese ecg14_label_51595c67:
 
     # "다만, 메마른 흐느낌만을 쏟아낼 뿐이었다. "
-    "只发出了干涩的抽泣。"
+    "只是，发出了干涩的抽泣。"
 
 # game/chapter6.rpy:2644
 translate chinese ecg14_label_6421ee8f:
@@ -7708,7 +7708,7 @@ translate chinese ecg14_label_15d39176:
     # voice "voices/gf91.ogg"
     # 소녀 "“어쩔 수 없잖아요. 시간이 지나면, 그리고 다른 일을 겪다 보면 과거의 기억은 희미해지는 게 당연한 거고…….”"
     voice "voices/gf91.ogg"
-    소녀 "“没办法啊。随着时间的流逝，经历其他事情，过去的记忆就会模糊，这是理所当然的……”"
+    소녀 "“没办法啊。随着时间的流逝，经历其他事情时过去的记忆就会模糊，这是理所当然的……”"
 
 # game/chapter6.rpy:2741
 translate chinese ecg14_label_c7d7a489:
