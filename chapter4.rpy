@@ -78,7 +78,7 @@ translate chinese chapter4_5ebd0fbe:
 translate chinese chapter4_90ce70b8:
 
     # "오컬트부실 구석에 놓여있던, 소녀가 내게 물어본 적 있는 바로 그 ‘{color=#00ccff}텔레이도스코프{/color}’라 이름 붙여진 기계였다."
-    "在超自然部室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
+    "在超自然部室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜{/color}”的机器。"
 
 # game/chapter4.rpy:37
 translate chinese chapter4_d30675b6:
@@ -330,7 +330,7 @@ translate chinese chapter4_442c3cd5:
 translate chinese chapter4_1ec9cf27:
 
     # "만화경 같은 빛이 눈앞을 스쳐 지나갔다."
-    "万华镜（注：万花筒）般的光芒掠过眼前。"
+    "万华镜般的光芒掠过眼前。"
 
 # game/chapter4.rpy:147
 translate chinese chapter4_bce67efe:
@@ -348,7 +348,7 @@ translate chinese chapter4_d7dd45b8:
 translate chinese chapter4_6d63a80f:
 
     # "빛이 사그라들고, 언젠가 한 번 느껴본 적이 있는 듯한 감각이 나를 휘감는다."
-    "光线渐渐褪去，有种曾经体验过的感觉缠绕着我。"
+    "光线渐渐褪去，有种好像曾经体验过的感觉缠绕着我。"
 
 # game/chapter4.rpy:151
 translate chinese chapter4_b8a86726:
@@ -410,7 +410,7 @@ translate chinese chapter4_857959d2:
 translate chinese chapter4_f7336473:
 
     # "2학년이 된 직후, 나는 얼떨결에 오컬트부 부장을 맡게 되어 부원을 모집하던 중이었다."
-    "上了二年级后，我稀里糊涂地担任了超自然部部长，正在招募部员。"
+    "升到二年级后，我稀里糊涂地担任了超自然部部长，正在招募部员。"
 
 # game/chapter4.rpy:185
 translate chinese chapter4_3499da5f:
@@ -466,13 +466,13 @@ translate chinese chapter4_cc980c41:
 translate chinese chapter4_55a31292:
 
     # "오컬트부의 단둘뿐인 부원이자, 나의 비밀을 알고 있는 유일한 사람."
-    "超自然部的唯一成员，也是唯一知道我秘密的人。"
+    "既是超自然部的唯二部员，也是唯一知道我秘密的人。"
 
 # game/chapter4.rpy:216
 translate chinese chapter4_dcc099b1:
 
     # "이렇게 될 줄은, 그때는 당연히 짐작조차 못 했었다."
-    "没想到会这样，那时候当然没想到。"
+    "没想到会这样，那时候当然想不到。"
 
 # game/chapter4.rpy:220
 translate chinese chapter4_aef0c093:
@@ -504,13 +504,13 @@ translate chinese chapter4_fa4a6249:
     # voice ""
     # "처음 만났을 때의 어색함은 다 내가 짊어지게 되어버린 건지."
     voice ""
-    "第一次见面时的尴尬都由我来承担。"
+    "第一次见面时的尴尬都是我背负的。"
 
 # game/chapter4.rpy:232
 translate chinese chapter4_2a733c8f:
 
     # "부실을 둘러보며 가벼운 이야기로 떠들썩한 현지와는 달리, 나는 그녀의 말에 어색한 맞장구만을 치고 있을 뿐이었다."
-    "贤智环顾着部室，讲些无关紧要的小事。我只能很不自然地附和她的话。"
+    "与正打量着部室，因无关紧要的话而喧哗的贤智不同，我只是不自然地附和着她的话而已。"
 
 # game/chapter4.rpy:233
 translate chinese chapter4_4352ec14:
@@ -518,7 +518,7 @@ translate chinese chapter4_4352ec14:
     # voice "voices/hd17.ogg"
     # 현지 "“그런데 다른 부원들은 언제 오나요？”"
     voice "voices/hd17.ogg"
-    현지 "“其他成员什么时候来？”"
+    현지 "“不过其他成员什么时候来？”"
 
 # game/chapter4.rpy:236
 translate chinese chapter4_ada80b23:
@@ -576,7 +576,7 @@ translate chinese chapter4_a48d80a6:
     # voice "voices/hd18.ogg"
     # 현지 "“인원이 다섯 명도 안 되는 동아리는 폐부되는 거잖아요…….”"
     voice "voices/hd18.ogg"
-    현지 "“不到五名人员的社团是会被废除的……”"
+    현지 "“不到五名人员的社团不是会被废除嘛……”"
 
 # game/chapter4.rpy:254
 translate chinese chapter4_2ab408bb:
@@ -602,7 +602,7 @@ translate chinese chapter4_ce34b3fd:
 translate chinese chapter4_9c7a3290:
 
     # "이럴 줄 알았으면 미리 연락을 줬어야 했는데, 라고 그때는 그렇게 생각했었다."
-    "当时我想，早知道这样，就应该提前说出来。"
+    "早知道这样，就应该提前说出来，当时是那么想的。"
 
 # game/chapter4.rpy:265
 translate chinese chapter4_463b3421:
@@ -610,7 +610,7 @@ translate chinese chapter4_463b3421:
     # voice "voices/hd19.ogg"
     # 현지 "“정말이죠……？”"
     voice "voices/hd19.ogg"
-    현지 "“没骗人吧……？”"
+    현지 "“真的吗……？”"
 
 # game/chapter4.rpy:270
 translate chinese chapter4_538e64fc:
@@ -648,7 +648,7 @@ translate chinese chapter4_dcaac1fd:
     # voice "voices/hd21.ogg"
     # 현지 "“유령 부원뿐인 오컬트부라니, 마음에 드는걸요.”"
     voice "voices/hd21.ogg"
-    현지 "“竟然是有幽灵成员的超自然社团，我很满意。”"
+    현지 "“竟然是只有幽灵成员的超自然社团，我很满意。”"
 
 # game/chapter4.rpy:283
 translate chinese chapter4_1fbf0303:
@@ -672,7 +672,7 @@ translate chinese chapter4_b255d662:
     # voice ""
     # 나 "“아니, 그런 건 아니고. 나는 작년부터 OBE를 연구하고 있었어.”"
     voice ""
-    나 "“不。我从去年开始就一直在研究OBE。”"
+    나 "“不，不要那样。我从去年开始就一直在研究OBE。”"
 
 # game/chapter4.rpy:293
 translate chinese chapter4_bca33cf6:
@@ -794,7 +794,7 @@ translate chinese chapter4_11f81f63:
 translate chinese chapter4_c8d6d86e:
 
     # "이건 방학식이 있기 일주일 전쯤의 기억이었다."
-    "这是学校放假前一周的记忆。"
+    "这是放假典礼前一周的记忆。"
 
 # game/chapter4.rpy:350
 translate chinese chapter4_b57d2832:
@@ -1036,13 +1036,13 @@ translate chinese chapter4_7dd5076e:
 translate chinese chapter4_0a9f6d5b:
 
     # "회상은 순식간에 지나갔다."
-    "回忆转瞬即逝。"
+    "回想转瞬即逝。"
 
 # game/chapter4.rpy:451
 translate chinese chapter4_d4880b5c:
 
     # "시간 개념이 아득하게 멀어져 가는 듯한 기분이었다."
-    "感觉时间的概念越来越遥远。"
+    "感觉时间的概念似乎变得越来越遥远。"
 
 # game/chapter4.rpy:460
 translate chinese chapter4_4734f35a:
@@ -1098,7 +1098,7 @@ translate chinese chapter4_91b02c9e:
 translate chinese chapter4_31def1cb:
 
     # "헤드셋 너머에서, 현지의 목소리가 들렸다. "
-    "头戴式耳麦里传来贤智的声音。"
+    "在头戴式耳麦的另一边，传来了贤智的声音。"
 
 # game/chapter4.rpy:485
 translate chinese chapter4_7a68820e:
@@ -1128,7 +1128,7 @@ translate chinese chapter4_8c8c3e8a:
     # voice "voices/hd40.ogg"
     # 현지 "“뭐긴요. 유체이탈, 그리고 시간 여행이죠. 선배는 방금 텔레이도스코프를 작동시킨 50초 뒤의 미래로 유체이탈 한 거예요.”"
     voice "voices/hd40.ogg"
-    현지 "“还能是什么，灵魂出窍和时间旅行。前辈刚才启动远华镜50秒之后，朝未来灵魂出窍了。”"
+    현지 "“还能是什么，灵魂出窍和时间旅行。前辈刚才启动远华镜，朝50秒之后的未来灵魂出窍了。”"
 
 # game/chapter4.rpy:499
 translate chinese chapter4_d011104b:
@@ -1142,7 +1142,7 @@ translate chinese chapter4_d011104b:
 translate chinese chapter4_c6f44c53:
 
     # "50초 치고는 너무 긴 회상이었던 것 같은데. "
-    "按照50秒来看，回忆似乎太长了。"
+    "比起50秒，回想似乎太长了。"
 
 # game/chapter4.rpy:506
 translate chinese chapter4_7d9f4e4a:
@@ -1162,7 +1162,7 @@ translate chinese chapter4_40dfd940:
     # voice "voices/hd41.ogg"
     # 현지 "“50초 뒤의 미래로 오는 길에, 선배는 무엇을 봤나요？”"
     voice "voices/hd41.ogg"
-    현지 "“50秒后，在去未来的路上，前辈看到了什么？”"
+    현지 "“在50秒后的未来回来的路上，前辈看到了什么？”"
 
 # game/chapter4.rpy:512
 translate chinese chapter4_fd01af7f:
@@ -1214,7 +1214,7 @@ translate chinese chapter4_0a9fe094:
     # voice "voices/hd44.ogg"
     # 현지 "“아직 수식 완성이 덜 돼서, 이렇게 짧은 시간밖에는 못 움직여요.”"
     voice "voices/hd44.ogg"
-    현지 "“我还没完成好数式，只能改变这么短的时间。”"
+    현지 "“我还没完成好数式，只能改动这么短的时间。”"
 
 # game/chapter4.rpy:538
 translate chinese chapter4_0e238842:
@@ -1480,7 +1480,7 @@ translate chinese chapter4_0c625453:
     # voice "voices/hd54.ogg"
     # 현지 "“전자기파는 전기장, 자기장이 3차원 공간에서 서로 수직하게 진동하며 나아가는 파동이잖아요.”"
     voice "voices/hd54.ogg"
-    현지 "“电磁波是在三维空间中互相垂直的电场与磁场振动前进的波。”"
+    현지 "“电磁波不是在三维空间中互相垂直的电场与磁场振动前进的波嘛。”"
 
 # game/chapter4.rpy:666
 translate chinese chapter4_66eeee0c:
@@ -1488,7 +1488,7 @@ translate chinese chapter4_66eeee0c:
     # voice "voices/hd55.ogg"
     # 현지 "“그런데 유령 주변에서는 3차원 좌표로 나타내지 못하는 제3의 파동이 전기장, 자기장에 동시에 수직하게 진동하고 있다고나 할까요. 그 파동이 로봇의 전자기장에 간섭을 한 것 같아요.”"
     voice "voices/hd55.ogg"
-    현지 "“但是在幽灵周围，无法用三维坐标表示的第三个波同时垂直于振动的电场与磁场。那个波似乎干涉了机器人的电磁场。”"
+    현지 "“但是在幽灵周围，可以说有无法用三维坐标表示的，同时垂直于电场与磁场的第三个波在振动。那个波似乎干涉了机器人的电磁场。”"
 
 # game/chapter4.rpy:671
 translate chinese chapter4_560de10a:
@@ -1520,7 +1520,7 @@ translate chinese chapter4_7bbf56b9:
     # voice "voices/hd58.ogg"
     # 현지 "“쉽게 이야기하자면, 시간과 같은 좌표 개념이 더해진 새로운 좌표계가 유령의 움직임을 표현하기 위해 필요하다는 거예요.” "
     voice "voices/hd58.ogg"
-    현지 "“简单来说，我们需要一个新的坐标系来表达幽灵的运动，例如时间。”"
+    현지 "“简单来说，添加了时间等坐标概念的新坐标系是表现幽灵运动所需要的。”"
 
 # game/chapter4.rpy:693
 translate chinese chapter4_1ea919e2:
@@ -1528,7 +1528,7 @@ translate chinese chapter4_1ea919e2:
     # voice "voices/hd59.ogg"
     # 현지 "“그리고 그 좌표계에서 일어나는 파동의 진동은 음의 값을 가질 수도 있고요.” "
     voice "voices/hd59.ogg"
-    현지 "“每一个在这个坐标系中的波的振动可能具有负值。”"
+    현지 "“而且坐标系中发生的波的振动也可能具有负值。”"
 
 # game/chapter4.rpy:695
 translate chinese chapter4_0382a389:
@@ -1536,7 +1536,7 @@ translate chinese chapter4_0382a389:
     # voice "voices/hd60.ogg"
     # 현지 "“이건 아주 오래전부터 알려져 있던 사실이에요. 슈뢰딩거의 방정식에서도 시간을 나타내는 변수에 음의 벡터값을 넣더라도 식이 성립하거든요.”"
     voice "voices/hd60.ogg"
-    현지 "“人们很早就知道这一点。薛定谔方程中，在表示时间的变量中加入负向量，该表达式也成立。”"
+    현지 "“这是很久以前就为人所知的事实。在薛定谔的方程式中，即使在表示时间的变量中加入负向量值，式也会成立。”"
 
 # game/chapter4.rpy:704
 translate chinese chapter4_8c1a71af_1:
@@ -1574,25 +1574,25 @@ translate chinese chapter4_a15797de:
 translate chinese chapter4_5d4b9619:
 
     # "{color=#00ccff}시간 여행을 할 수 있다.{/color} "
-    "{color=#00ccff}时间旅行。{/color}"
+    "{color=#00ccff}可以实现时间旅行。{/color}"
 
 # game/chapter4.rpy:715
 translate chinese chapter4_200e8f8c:
 
     # "{color=#00ccff}과거로 돌아갈 수도 있다.{/color} "
-    "{color=#00ccff}可以回到过去。{/color}"
+    "{color=#00ccff}也可以回到过去。{/color}"
 
 # game/chapter4.rpy:716
 translate chinese chapter4_beb3a7d6:
 
     # "그런 거 아닐까？ "
-    "应该是吧。"
+    "应该是那样吧？"
 
 # game/chapter4.rpy:722
 translate chinese chapter4_0f55bd15:
 
     # 나 "“그럼 지금 내가 50초 전의 과거로 유체이탈을 할 수도 있어？”"
-    나 "“那么现在我可以花费50秒实现灵魂出窍，回到过去了吗？”"
+    나 "“那我现在能灵魂出窍到50秒前的过去吗？”"
 
 # game/chapter4.rpy:723
 translate chinese chapter4_a56ce39e:
@@ -1600,7 +1600,7 @@ translate chinese chapter4_a56ce39e:
     # voice "voices/hd61.ogg"
     # 현지 "“아뇨. 아직은요. 아직 생각해 봐야 할 게 많아서요. 이론상으로는 가능하다는 거죠. 과거로의 시간 여행이.”"
     voice "voices/hd61.ogg"
-    현지 "“不。还没有呢。我还有很多事要考虑。理论上说，回到过去还是有可能的。”"
+    현지 "“不，现在还不行。因为还有很多事情要考虑。理论上是可以实现的，向着过去的时间旅行。”"
 
 # game/chapter4.rpy:725
 translate chinese chapter4_862b0b44:
@@ -1616,7 +1616,7 @@ translate chinese chapter4_cfb7d80b:
     # voice "voices/hd62.ogg"
     # 현지 "“다른 변인도 찾아야 하고, 수식을 완성하려면 시간이 좀 더 필요해요.”"
     voice "voices/hd62.ogg"
-    현지 "“我必须找到其他变量，需要更多时间来完成公式。”"
+    현지 "“还要找到其他变量，还需要一段时间才能完成数式。”"
 
 # game/chapter4.rpy:730
 translate chinese chapter4_3cdae7e5:
@@ -1632,7 +1632,7 @@ translate chinese chapter4_4808d352:
     # voice "voices/hd63.ogg"
     # 현지 "“글쎄요. 그건 저도 잘 모르겠어요.”"
     voice "voices/hd63.ogg"
-    현지 "“我也不太清楚。”"
+    현지 "“难说。我也不太清楚。”"
 
 # game/chapter4.rpy:740
 translate chinese chapter4_6136943e:
@@ -1640,13 +1640,13 @@ translate chinese chapter4_6136943e:
     # voice ""
     # "기지개를 켜고는, 현지는 그대로 옥상에 몸을 털썩 누였다. "
     voice ""
-    "伸了个懒腰，贤智就那样躺在屋顶上。"
+    "伸了个懒腰，贤智就那样噗通一下子躺倒在屋顶上。"
 
 # game/chapter4.rpy:742
 translate chinese chapter4_099b6b8d:
 
     # "떨어지는 햇살과 정면으로 마주하던 현지는 고개를 슬쩍 돌려선 나를 바라보더니, 이번엔 자신이 질문을 건넸다. "
-    "享受洒在地上的阳光的贤智，微微侧过头看着我，这次她提出了问题。"
+    "正面对着落下的阳光的贤智，悄悄回头看着我，这次自己提出了问题。"
 
 # game/chapter4.rpy:744
 translate chinese chapter4_cca1d36d:
@@ -1670,7 +1670,7 @@ translate chinese chapter4_88be5d37:
     # voice "voices/hd65.ogg"
     # 현지 "“흐음, 그것도 여태껏 저한테는 비밀로 해뒀던 거네요.”"
     voice "voices/hd65.ogg"
-    현지 "“嗯，这件事你一直瞒着我。”"
+    현지 "“嗯，那也是一直对我保密的啊。”"
 
 # game/chapter4.rpy:751
 translate chinese chapter4_7180077b:
@@ -1678,19 +1678,19 @@ translate chinese chapter4_7180077b:
     # voice ""
     # "이야기가 그렇게 되는 건가. "
     voice ""
-    "仅仅是这样吗？"
+    "对话怎么变成了这样。"
 
 # game/chapter4.rpy:753
 translate chinese chapter4_c1f6ea9d:
 
     # "현지는 어딘가 불만이 있는 듯한 표정을 내게 지어 보였다. "
-    "贤智对我露出了不满的表情。"
+    "贤智好像对我露出了有些不满的表情。"
 
 # game/chapter4.rpy:754
 translate chinese chapter4_1b609e74:
 
     # "나를 빤히 바라보고 있던 현지가, 벌떡 몸을 일으켰다. "
-    "盯着我看的贤智突然站了起来。"
+    "直直地看着我的贤智，突然站了起来。"
 
 # game/chapter4.rpy:765
 translate chinese chapter4_7f197a6f:
@@ -1712,7 +1712,7 @@ translate chinese chapter4_b5934eb8:
 translate chinese chapter4_5ff9cab2:
 
     # "혹시 시각을 착각했었나 하는 생각에 태블릿을 열어 시계를 확인했지만, 그런 건 아니었다. "
-    "我想我可能误解了时间，所以我打开平板电脑查看时钟，但事实并非如此。"
+    "想着是不是搞错了时间，打开平板电脑确认了时钟，但事实并非如此。"
 
 # game/chapter4.rpy:775
 translate chinese chapter4_97d8ee72:
@@ -1724,13 +1724,13 @@ translate chinese chapter4_97d8ee72:
 translate chinese chapter4_f830757d:
 
     # "확실히 점심때라 하기엔 조금 늦은 감이 없잖아 있는 시각이었다. "
-    "现在确实是中午，没有感觉稍微晚了。"
+    "确实，现在说是午餐时间似乎有点晚了，不是吗？那个时间。"
 
 # game/chapter4.rpy:778
 translate chinese chapter4_033c4f27:
 
     # 나 "“점심 먹고 난 뒤에 만나려고 이 시간에 만나자고 한 거 아니었어？”"
-    나 "“你不是说午饭后见面吗？”"
+    나 "“不是为了中午吃完饭后见面才约在这个时间的吗？”"
 
 # game/chapter4.rpy:779
 translate chinese chapter4_60c2ed7a:
@@ -1738,7 +1738,7 @@ translate chinese chapter4_60c2ed7a:
     # voice "voices/hd67.ogg"
     # 현지 "“전 막 일어나서 씻고 온 건데요. 방학이잖아요.”"
     voice "voices/hd67.ogg"
-    현지 "“我刚起床洗完澡。放假了嘛。”"
+    현지 "“我刚起床洗漱完过来的。现在不是放假了嘛。”"
     
 # game/chapter4.rpy:782
 translate chinese chapter4_4daf01fa:
@@ -1746,7 +1746,7 @@ translate chinese chapter4_4daf01fa:
     # voice ""
     # "전혀 이상할 것 없다는 듯한 반응이었다. "
     voice ""
-    "好像没有什么奇怪的。"
+    "似乎毫不奇怪的反应。"
 
 # game/chapter4.rpy:785
 translate chinese chapter4_71b24569:
@@ -1758,19 +1758,19 @@ translate chinese chapter4_71b24569:
 translate chinese chapter4_752f2b9c:
 
     # "뭐, 주변인이라 해봤자 두 명밖에 없긴 하지만. "
-    "不过，我身边只有两个人。"
+    "虽然周围的人也只有两个人。"
 
 # game/chapter4.rpy:792
 translate chinese chapter4_65ae7bef:
 
     # "옆을 슬쩍 바라보자 노골적인 시선이 나를 향하고 있었다. "
-    "我悄悄地看了一下旁边，发现贤智尖锐的目光正盯着我。"
+    "偷偷地看了一下旁边，朝着我便是毫不掩饰的视线。"
 
 # game/chapter4.rpy:793
 translate chinese chapter4_ca9d0c1c:
 
     # "익숙한 시선이었다. "
-    "这是熟悉的视线。"
+    "是熟悉的视线。"
 
 # game/chapter4.rpy:795
 translate chinese chapter4_c5569a0b:
@@ -1792,7 +1792,7 @@ translate chinese chapter4_238b3d86:
     # voice ""
     # 나 "“그전에, 이 텔레이도스코프는 두고 갈 거야？”"
     voice ""
-    나 "“在那之前你要把远华镜放在这里吗？”"
+    나 "“在那之前，你要把远华镜放在这里吗？”"
 
 # game/chapter4.rpy:806
 translate chinese chapter4_1390fe9e:
@@ -1876,7 +1876,7 @@ translate chinese ecg6_label_d4fc0389:
     # voice ""
     # 나 "“좀 더 비싼 거 골라도 되는데.”"
     voice ""
-    나 "“你可以点贵一点的东西。”"
+    나 "“可以点贵一点的。”"
 
 # game/chapter4.rpy:861
 translate chinese ecg6_label_c444b9ba:
@@ -1948,7 +1948,7 @@ translate chinese ecg6_label_0449e3a9:
 translate chinese ecg6_label_7e28084c:
 
     # "분명 빈말처럼 들렸을 것이다. "
-    "听起来肯定是胡说八道。"
+    "听起来肯定是废话。"
 
 # game/chapter4.rpy:895
 translate chinese ecg6_label_41df3510:
@@ -1962,7 +1962,7 @@ translate chinese ecg6_label_95618114:
     # voice "voices/hd75.ogg"
     # 현지 "“아직 시험 단계잖아요. 해결해야 할 것도 많고…… 그리고 전 선배가 조사해둔 것들을 토대로 만든 것뿐이라고요.”"
     voice "voices/hd75.ogg"
-    현지 "“目前还在测试阶段。有很多事情要做……根据前辈的体验得出的结论。”"
+    현지 "“目前还在测试阶段。有很多事情要做……而且只是根据前辈调查过的内容为基础制作的。”"
 
 # game/chapter4.rpy:902
 translate chinese ecg6_label_de427661:
@@ -2006,7 +2006,7 @@ translate chinese ecg6_label_0a86e412:
     # voice "voices/hd77.ogg"
     # 현지 "“유령인 상태로 유체이탈을 해서 시공간을 이동하다 보면, 불가피한 기억 상실이 일어나는 것 같아요.”"
     voice "voices/hd77.ogg"
-    현지 "“在幽灵的状态下灵魂出窍穿越时空的话会不可避免的丧失记忆。”"
+    현지 "“在幽灵的状态下灵魂出窍在时空里移动的话会不可避免地丧失记忆。”"
 
 # game/chapter4.rpy:922
 translate chinese ecg6_label_e6a3b3e0:
@@ -2014,7 +2014,7 @@ translate chinese ecg6_label_e6a3b3e0:
     # voice ""
     # 나 "“기억 상실？”"
     voice ""
-    나 "“失忆？”"
+    나 "“丧失记忆？”"
 
 # game/chapter4.rpy:924
 translate chinese ecg6_label_bd76e3ad:
@@ -2022,7 +2022,7 @@ translate chinese ecg6_label_bd76e3ad:
     # voice "voices/hd78.ogg"
     # 현지 "“네. 선배가 지금 과거에 있었던 일을 잘 기억하지 못하는 것처럼요.”"
     voice "voices/hd78.ogg"
-    현지 "“是的。就好像前辈记不清过去发生的事情一样。”"
+    현지 "“是的。就好像前辈现在记不清过去发生的事情一样。”"
 
 # game/chapter4.rpy:926
 translate chinese ecg6_label_bd919bfb:
@@ -2030,7 +2030,7 @@ translate chinese ecg6_label_bd919bfb:
     # voice "voices/hd79.ogg"
     # 현지 "“물론 선배가 유체이탈을 하는 도중에 주마등처럼 마주치는 장면들이 과거의 기억을 되살려 줄 수도 있겠지만, 그 대신 여기서의 기억을 잃을지도 몰라요.”"
     voice "voices/hd79.ogg"
-    현지 "“当然，前辈在灵魂出窍的途中，像走马灯一样的场面可以恢复过去的记忆，但是也有可能失去在这里的记忆。”"
+    현지 "“当然，前辈在灵魂出窍的途中，像走马灯一样的场面可能会恢复过去的记忆，但是也有可能失去在这里的记忆。”"
 
 # game/chapter4.rpy:933
 translate chinese ecg6_label_60ed875f:
@@ -2046,7 +2046,7 @@ translate chinese ecg6_label_46b4de94:
     # voice "voices/hd80.ogg"
     # 현지 "“{color=#00ccff}…… 아마도 거의 다요.{/color}”"
     voice "voices/hd80.ogg"
-    현지 "“{color=#00ccff}……全部。{/color}”"
+    현지 "“{color=#00ccff}……恐怕，差不多是全部。{/color}”"
 
 # game/chapter4.rpy:942
 translate chinese ecg6_label_6b3c318b:
@@ -2054,7 +2054,7 @@ translate chinese ecg6_label_6b3c318b:
     # voice ""
     # "나의 의견을 확인하려는 듯 현지는 내 눈치를 살폈다. "
     voice ""
-    "贤智似乎是为了证实我的看法，看了我一眼。"
+    "贤智看了我的眼色，好像要确认我的意见。"
 
 # game/chapter4.rpy:946
 translate chinese ecg6_label_469eae04:
@@ -2062,7 +2062,7 @@ translate chinese ecg6_label_469eae04:
     # voice "voices/hd81.ogg"
     # 현지 "“유체이탈이 끝났을 땐 선배가 미래 세계에 존재했다는 것 정도만 어렴풋이 기억나겠죠.”"
     voice "voices/hd81.ogg"
-    현지 "“灵魂出窍结束后，前辈只会依稀记得，曾经存在于未来世界。”"
+    현지 "“灵魂出窍结束的时候，只能依稀记得，前辈曾经存在于未来世界。”"
 
 # game/chapter4.rpy:949
 translate chinese ecg6_label_1b59bd6e:
@@ -2070,7 +2070,7 @@ translate chinese ecg6_label_1b59bd6e:
     # voice ""
     # 나 "“해결 방법은 없어？”"
     voice ""
-    나 "“有什么解决办法吗？”"
+    나 "“没有解决办法吗？”"
 
 # game/chapter4.rpy:954
 translate chinese ecg6_label_e65f87d6:
@@ -2098,7 +2098,7 @@ translate chinese ecg6_label_80ed90e3:
 translate chinese ecg6_label_a31254a6:
 
     # "정확하게는 잃어버린 기억을, 잃어버렸던 기억으로 메우게 된다는 거겠지. "
-    "正确的说就是用过去失去的记忆来替换即将失去的记忆。"
+    "正确的说就是用之前失去的记忆来填补即将失去的记忆。"
 
 # game/chapter4.rpy:972
 translate chinese ecg6_label_d2cf5bd9:
@@ -2110,7 +2110,7 @@ translate chinese ecg6_label_d2cf5bd9:
 translate chinese ecg6_label_a596b3ac:
 
     # "지금의 나는 기억의 상당 부분을 잃어버린 채일 텐데, 어째서인지 지금의 기억을 잃어버린 다는 것은 또 다른 머나먼 이야기처럼 느껴졌다. "
-    "现在的我应该已经失去了记忆的相当一部分，但不知为何，失去现在的记忆就像是另一个遥远的故事一样。"
+    "现在的我应该已经失去了相当一部分的记忆，不知为什么，失去现在的记忆又像是另一个遥远的故事。"
 
 # game/chapter4.rpy:981
 translate chinese ecg6_label_85195cbf:
@@ -2118,7 +2118,7 @@ translate chinese ecg6_label_85195cbf:
     # voice "voices/hd83.ogg"
     # 현지 "“그리고 두 번째로, 선배의 영혼이 과거로 시간 여행을 한다 해도, 영혼이 들어갈 몸을 찾는 게 문제예요.”"
     voice "voices/hd83.ogg"
-    현지 "“其次，就算前辈的灵魂回到了过去，也要找到一个储存灵魂的身体。”"
+    현지 "“其次，就算前辈的灵魂通过时间旅行回到了过去，寻找灵魂能进入的身体也是问题。”"
 
 # game/chapter4.rpy:983
 translate chinese ecg6_label_f5a64797:
@@ -2134,7 +2134,7 @@ translate chinese ecg6_label_734907ba:
     # voice "voices/hd84.ogg"
     # 현지 "“최악의 상황도 가정해야 해요. 만약 선배가 원래 자기의 몸을 되찾지 못했을 경우도요.”"
     voice "voices/hd84.ogg"
-    현지 "“最坏的情况也要假设。如果前辈不能找回自己的身体。”"
+    현지 "“最坏的情况也要假设。如果前辈没能找回自己的身体。”"
 
 # game/chapter4.rpy:988
 translate chinese ecg6_label_2e7a7eff:
@@ -2150,7 +2150,7 @@ translate chinese ecg6_label_d8d9fd9d:
     # voice "voices/hd85.ogg"
     # 현지 "“일단 제일 큰 문제는 이 두 가지예요. 생각하다 보면 더 나올 수도 있겠지만요.”"
     voice "voices/hd85.ogg"
-    현지 "“首先，这是两个最大的问题。如果你仔细想想，可能还有更多。”"
+    현지 "“首先这是两个最大的问题。虽说仔细想想可能会出现更多。”"
 
 # game/chapter4.rpy:999
 translate chinese ecg6_label_bb2df8c4:
@@ -2158,7 +2158,7 @@ translate chinese ecg6_label_bb2df8c4:
     # voice ""
     # "허리를 펴고는, 생각에 빠졌다. "
     voice ""
-    "挺直腰板，陷入沉思。"
+    "挺起腰来，陷入沉思。"
 
 # game/chapter4.rpy:1001
 translate chinese ecg6_label_e545ca58:
@@ -2176,7 +2176,7 @@ translate chinese ecg6_label_42ed18c7:
 translate chinese ecg6_label_d45624fc:
 
     # "식사에 열중하던 현지가 고개를 들어 나를 바라보았다. "
-    "热衷于吃饭的贤智抬起头来看着我。"
+    "专心于吃饭的贤智抬起头来看着我。"
 
 # game/chapter4.rpy:1007
 translate chinese ecg6_label_8e046deb:
@@ -2190,7 +2190,7 @@ translate chinese ecg6_label_b5d6a23e:
     # voice "voices/hd86.ogg"
     # 현지 "“아, 그것도 있네요.”"
     voice "voices/hd86.ogg"
-    현지 "“啊，还有那个。”"
+    현지 "“啊，还有那个呢。”"
 
 # game/chapter4.rpy:1013
 translate chinese ecg6_label_f93ddc18:
@@ -2204,7 +2204,7 @@ translate chinese ecg6_label_f93ddc18:
 translate chinese ecg6_label_bae96f38:
 
     # 나 "“시체 치우는 건 확실히 좀 그렇겠다.”"
-    나 "“处理尸体确实有点困难。”"
+    나 "“收拾尸体确实有点那样。”"
 
 # game/chapter4.rpy:1022
 translate chinese ecg6_label_07cab4bc:
@@ -2220,7 +2220,7 @@ translate chinese ecg6_label_b1ea6d9f:
     # voice ""
     # "젓가락으로 면을 뜨려다 말고, 현지는 내게 핀잔을 주듯 말했다. "
     voice ""
-    "用筷子分开面条，贤智就像斥责我似地说。"
+    "停下用筷子掰面的动作，贤智用批评我的口吻说。"
 
 # game/chapter4.rpy:1028
 translate chinese ecg6_label_76f21cb2:
@@ -2238,7 +2238,7 @@ translate chinese ecg6_label_9673570d:
 translate chinese ecg6_label_a1c835ff:
 
     # "하던 이야기를 멈추고 다른 화젯거리가 없을까 생각을 해보려는데, 잘 떠오르지 않았다. "
-    "我停下来想着是不是还有别的话题可以讨论，可就是想不出来。"
+    "停止话题想着是不是还有别的可以讨论，可就是想不出来。"
 
 # game/chapter4.rpy:1032
 translate chinese ecg6_label_a5524e74:
@@ -2294,19 +2294,19 @@ translate chinese ecg6_label_e38751e6:
     # voice ""
     # "현지의 웃음 포인트가 남들과 다르다는 건 이미 잘 알고 있었다. "
     voice ""
-    "已经知道贤智的笑点和别人不一样。"
+    "已经很清楚贤智的笑点和别人不一样。"
 
 # game/chapter4.rpy:1056
 translate chinese ecg6_label_669d2269:
 
     # "내가 시시콜콜한 농담이나 평범한 청소년의 감성에서 재미를 느낀다면, 현지는 난해함이나 괴팍한 천재 과학자의 감성에서 재미를 느끼는 쪽이었다. "
-    "如果说我在琐碎的玩笑或平凡的青少年的感性中感到有趣，那么贤智是从孤僻的天才和深奥的科学的感性中感受到乐趣。"
+    "如果说我在琐碎的玩笑或平凡的青少年的感性中感受到乐趣，那么贤智则是从孤僻的天才和深奥的科学的感性中感受到乐趣的一方。"
 
 # game/chapter4.rpy:1057
 translate chinese ecg6_label_e277f5fe:
 
     # "하지만 저렇게 문제를 내고 싶다는 티를 내면서까지 말을 꺼냈는데, 거기다가 싫다고 할 수는 없는 법이니까. "
-    "但是，既然已经表示出了兴趣，又不能拒绝听下去。"
+    "但是表现出那样想要提出问题的样子，还说了出来，但是也不能说讨厌。"
 
 # game/chapter4.rpy:1059
 translate chinese ecg6_label_c8133b82:
@@ -2326,7 +2326,7 @@ translate chinese ecg6_label_3e83cdfa:
     # voice "voices/hd90.ogg"
     # 현지 "“저희는 지금 몇 차원에 있는 거게요?”"
     voice "voices/hd90.ogg"
-    현지 "“我们现在处于什么维度？”"
+    현지 "“猜猜我们现在处于什么维度？”"
 
 # game/chapter4.rpy:1080
 translate chinese chapter4_2_3e0a4852:
@@ -2382,7 +2382,7 @@ translate chinese chapter4_3_d2ebc533:
     # voice ""
     # 나 "“4차원…… 인가?”"
     voice ""
-    나 "“四维……吗？”"
+    나 "“是四维……吗？”"
 
 # game/chapter4.rpy:1098
 translate chinese chapter4_3_a19f879d:
@@ -2440,7 +2440,7 @@ translate chinese chapter4_4_44c95186:
     # voice "voices/hd96.ogg"
     # 현지 "“선배 지금 생각 없이 내뱉은 거죠?!”"
     voice "voices/hd96.ogg"
-    현지 "“前辈你是不是想都没想就吐出来了？！”"
+    현지 "“前辈现在是不是想都没想就吐出来了？！”"
 
 # game/chapter4.rpy:1118
 translate chinese chapter4_4_cbaa72c2:
@@ -2468,7 +2468,7 @@ translate chinese chapter4_4_2107c3f7:
     # voice "voices/hd97.ogg"
     # 현지 "“정말, 조금은 성의 있게 생각해보라고요.” "
     voice "voices/hd97.ogg"
-    현지 "“真的，你还是认真地想一想吧。”"
+    현지 "“真的，还是请认真地想一想吧。”"
 
 # game/chapter4.rpy:1140
 translate chinese chapter4_5_2758da01:
@@ -2482,7 +2482,7 @@ translate chinese chapter4_5_2758da01:
 translate chinese chapter4_5_8b607282:
 
     # "현지는 나의 근성 부족을 지적하듯 말했지만, 이건 엄연히 근성 부족이 아닌 능력 부족의 문제다. "
-    "贤智指责我的胆子不够大，但这并不是胆子不够大，而是能力不足的问题。"
+    "贤智指责我的毅力不够大，但这并不是毅力不够大，而是能力不足的问题。"
 
 # game/chapter4.rpy:1144
 translate chinese chapter4_5_7cd98907:
@@ -2504,7 +2504,7 @@ translate chinese chapter4_5_dff091ff:
     # voice ""
     # 나 "“그렇게 말하면 내가 딱히 할 말이 없는데.”"
     voice ""
-    나 "“那么说的话我就无话可说了”"
+    나 "“那么说的话我就无话可说了。”"
 
 # game/chapter4.rpy:1161
 translate chinese chapter4_5_2cdf853c:
@@ -2556,7 +2556,7 @@ translate chinese chapter4_5_d032e345:
     # voice "voices/hd101.ogg"
     # 현지 "“먼저 1차원부터 보면, 1차원은 선배도 알다시피 직선이잖아요. 그래서 ‘같은 직선 위에 존재한다’라는 말이 쓸모가 없어요. 모든 점들이 같은 직선 위에 존재할 수밖에 없으니까요.”"
     voice "voices/hd101.ogg"
-    현지 "“首先从一维开始。一维是连前辈都知道的直线。所以说‘在同一条直线上’是没有意义的。因为所有的点都必须在同一条直线上。”"
+    현지 "“首先从一维开始。一维是连前辈都知道的直线。所以说‘在同一条直线上’是没有意义的。因为所有的点都只能存在于同一条直线上。”"
 
 # game/chapter4.rpy:1196
 translate chinese chapter4_5_5be52426:
@@ -2572,7 +2572,7 @@ translate chinese chapter4_5_74422f91:
     # voice "voices/hd102.ogg"
     # 현지 "“하지만 2차원에서는 이야기가 조금 달라져요. 평면에서 점은 서로 다른 직선 위에 위치할 수 있으니까요. 그렇다면 2차원에서는 같은 평면 위에 존재한다는 말이 무의미하겠죠?”"
     voice "voices/hd102.ogg"
-    현지 "“但是在二维空间中就有点不同。在平面上，一个点可以位于不同的直线上。那么，在二维空间里，说它们存在于同一个平面上也没有意义吧？”"
+    현지 "“但是在二维就有点不同。因为平面上的点可以位于不同的直线之上。那么，在二维中，说存在于同一个平面上也没有意义吧？”"
 
 # game/chapter4.rpy:1212
 translate chinese chapter4_5_fb7ec56c:
@@ -2580,7 +2580,7 @@ translate chinese chapter4_5_fb7ec56c:
     # voice "voices/hd103.ogg"
     # 현지 "“마찬가지로 3차원에서도 같은 공간에 존재한다는 말은 무의미해요. 항상 같은 공간에 존재할 테니까요.”"
     voice "voices/hd103.ogg"
-    현지 "“同样，在三维空间中说存在于同一空间也是毫无意义的。它将永远在同一个空间里。”"
+    현지 "“同样，在三维空间中说存在于同一空间也是没有意义的。因为会一直存在于同一个空间里。”"
 
 # game/chapter4.rpy:1217
 translate chinese chapter4_5_14cce237:
@@ -2588,7 +2588,7 @@ translate chinese chapter4_5_14cce237:
     # voice ""
     # 나 "“우리는 항상 같은 공간에 있잖아? 공간 좌표계가 우주라고 한다면, 우리는 항상 같은 공간에 존재하는 거 아냐?”"
     voice ""
-    나 "“我们不是一直在同一个空间吗？如果空间坐标系是宇宙，那么我们不是一直都在同一个空间里吗？”"
+    나 "“我们不是总是在同一个空间吗？如果空间坐标系是宇宙，那么我们不是一直都存在于同一个空间里吗？”"
 
 # game/chapter4.rpy:1219
 translate chinese chapter4_5_d5326285:
@@ -2610,7 +2610,7 @@ translate chinese chapter4_5_477ffa2c:
 translate chinese chapter4_5_bcd37941:
 
     # "얼마 정도가 지났을까, 여전히 갈피를 잡지 못하고 있던 나를 현지는 빤히 바라보았다. "
-    "过了多久，贤智盯着依然毫无头绪的我。"
+    "不知过了多久，贤智依然直直地盯着毫无头绪的我。"
 
 # game/chapter4.rpy:1231
 translate chinese chapter4_5_da90f18d:
@@ -2618,7 +2618,7 @@ translate chinese chapter4_5_da90f18d:
     # voice "voices/hd105.ogg"
     # 현지 "“선배, 4차원이라는 말 들어 본 적 있죠?”"
     voice "voices/hd105.ogg"
-    현지 "“前辈你听过四维吧？”"
+    현지 "“前辈，你听说过四维这个词吧？”"
 
 # game/chapter4.rpy:1234
 translate chinese chapter4_5_94a7d0c7:
@@ -2632,7 +2632,7 @@ translate chinese chapter4_5_94a7d0c7:
 translate chinese chapter4_5_0d3d23ae:
 
     # 나 "“우리가 알고 있는 공간 좌표계에 시간축을 더한 거잖아. 어떻게 생겼는지는 모르지만.”"
-    나 "“我们熟知的的空间坐标系加上时间轴。不过我不知道它长什么样。”"
+    나 "“我们熟知的的空间坐标系加上时间轴。虽然不知道长什么样。”"
 
 # game/chapter4.rpy:1240
 translate chinese chapter4_5_964fcc5d:
@@ -2640,7 +2640,7 @@ translate chinese chapter4_5_964fcc5d:
     # voice "voices/hd106.ogg"
     # 현지 "“맞아요. 그리고 그걸 시공간이라고 부르잖아요? 4차원에서는 같은 공간에 있다는 말이 유의미해요. 그 대신, 같은 시공간에 있다는 말은 무의미하고요.”"
     voice "voices/hd106.ogg"
-    현지 "“是的。还有那个不是叫时空吗？在四维空间中，在同一个空间这句话就意义，而在同一个时空里这句话是没有意义的。”"
+    현지 "“是的。而且那个不是叫时空吗？在四维中，在同一个空间里这句话就很意义，取而代之的是，在同一个时空里这句话是没有意义的。”"
 
 # game/chapter4.rpy:1243
 translate chinese chapter4_5_db0b2b90:
@@ -2664,7 +2664,7 @@ translate chinese chapter4_5_3a8fa5b3:
     # voice "voices/hd108.ogg"
     # 현지 "“같은 공간에 존재한다면 갈 수 있어야 하잖아요.”"
     voice "voices/hd108.ogg"
-    현지 "“如果存在于同一个空间里的话，不是应该能去嘛。”"
+    현지 "“如果在同一个空间里存在，不是应该能去嘛。”"
 
 # game/chapter4.rpy:1251
 translate chinese chapter4_5_f6cfeaea:
@@ -2672,7 +2672,7 @@ translate chinese chapter4_5_f6cfeaea:
     # voice ""
     # "그제야 현지가 하고 싶었던 말의 윤곽이 조금씩 잡히기 시작했다. "
     voice ""
-    "这时，贤智想说的话的轮廓才开始一点一点地显现出来。"
+    "这时，贤智想说的话的轮廓才开始逐渐清晰起来。"
 
 # game/chapter4.rpy:1259
 translate chinese chapter4_5_b62a277e:
@@ -2732,7 +2732,7 @@ translate chinese chapter4_5_6d77c06f:
     # voice "voices/hd112.ogg"
     # 현지 "“하지만 5차원이 되면 같은 시공간에 있다는 말이 유의미해져요. 그곳에서는 지금의 선배가 몇 개월 전의 학교에 위치할 수도 있겠죠.”"
     voice "voices/hd112.ogg"
-    현지 "“但是到了五维的话在同一个时空里这句话就很有意义。在五维世界，现在的前辈可能位于几个月前的学校。”"
+    현지 "“但是到了五维，在同一个时空里这句话就变得有意义了。在那里，现在的前辈可能位于几个月前的学校。”"
 
 # game/chapter4.rpy:1292
 translate chinese chapter4_5_a231faf9:
@@ -2740,7 +2740,7 @@ translate chinese chapter4_5_a231faf9:
     # voice ""
     # 나 "“아까 텔레이도스코프에서 봤던 것처럼 말이지?”"
     voice ""
-    나 "“就像刚才在远华镜上看到的一样吧？”"
+    나 "“就像刚才在远华镜上看到的那样吧？”"
 
 # game/chapter4.rpy:1295
 translate chinese chapter4_5_5a880057:
@@ -2756,7 +2756,7 @@ translate chinese chapter4_5_c5236510:
     # voice ""
     # "현지는 다시 한번 고개를 끄덕였다. "
     voice ""
-    "贤智再次点头。"
+    "贤智再次点了点头。"
 
 # game/chapter4.rpy:1303
 translate chinese chapter4_5_7c4cd0d8:
@@ -2764,13 +2764,13 @@ translate chinese chapter4_5_7c4cd0d8:
     # voice "voices/hd114.ogg"
     # 현지 "“{color=#00ccff}그러니까, 같은 공간에 있다는 건 언제나 의미 있는 일이에요.{/color} 이 세계가 3차원이었다면, 지금처럼 이렇게 선배와 제가 같이 식당에 있는 게 아무런 의미가 없었을 거라고요.”"
     voice "voices/hd114.ogg"
-    현지 "“{color=#00ccff}所以说，在同一个空间里总是有意义的{/color}。如果这个世界是三维的话，像现在这样前辈和我在食堂是没有任何意义的。”"
+    현지 "“{color=#00ccff}所以说，在同一个空间里总是有意义的{/color}。如果这个世界是三维的话，那么像现在这样和前辈一起在食堂吃饭就没有任何意义了。”"
 
 # game/chapter4.rpy:1305
 translate chinese chapter4_5_e2e80ce6:
 
     # 나 "“뭐야, 그게.”"
-    나 "“什么啊。”"
+    나 "“什么啊，那个。”"
 
 # game/chapter4.rpy:1310
 translate chinese chapter4_5_b6667476:
@@ -2778,7 +2778,7 @@ translate chinese chapter4_5_b6667476:
     # voice ""
     # "현지가 내린 결론에 가벼운 웃음을 터뜨렸지만, 괜찮은 해석이라는 생각이 들었다. "
     voice ""
-    "虽然对贤智的结论露出了轻松的笑容，但我觉得这是一个难以理解的解释。"
+    "虽然对当地得出的结论露出了轻松的笑容，但我觉得这是不错的解释。"
 
 # game/chapter4.rpy:1312
 translate chinese chapter4_5_5e32d7ea:
@@ -2790,7 +2790,7 @@ translate chinese chapter4_5_5e32d7ea:
 translate chinese chapter4_5_923f6876:
 
     # "현지는 그런 이야기를 하고 싶어서 내게 퀴즈를 냈던 걸까. "
-    "贤智是因为想说这样的话才问我的吗？"
+    "贤智是因为想说那样的话才提出问题的吗？"
 
 # game/chapter4.rpy:1318
 translate chinese chapter4_5_d78c1441:
@@ -2798,7 +2798,7 @@ translate chinese chapter4_5_d78c1441:
     # voice "voices/hd115.ogg"
     # 현지 "“아, 아무튼 그렇다구요.”"
     voice "voices/hd115.ogg"
-    현지 "“啊，反正是这样。”"
+    현지 "“啊，反正是就是那样。”"
 
 # game/chapter4.rpy:1320
 translate chinese chapter4_5_45d92d7f:
@@ -2828,7 +2828,7 @@ translate chinese chapter4_5_ae370623:
     # voice ""
     # 나 "“그럴까.”"
     voice ""
-    나 "“好吧。”"
+    나 "“是吗。”"
 
 # game/chapter4.rpy:1333
 translate chinese chapter4_5_70bbbcce:
@@ -5972,7 +5972,7 @@ translate chinese ecg8_label_4571d2c8:
 translate chinese ecg8_label_96c541f0:
 
     # "아마 이곳에서는 통용되지 않을 표현일 것이다. "
-    "这可能是一个不适用于这个时空的表达方式。"
+    "恐怕在这里是不通用的说法。"
 
 # game/chapter4.rpy:2660
 translate chinese ecg8_label_df10bea0:

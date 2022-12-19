@@ -3688,7 +3688,7 @@ translate chinese chapter7_a70ccfa7:
 translate chinese chapter7_276c20ca:
 
     # whol "“그럼, 나도 기다리고 있을게.”"
-    whol "“那么，我会等你的。”"
+    whol "“那么，我也会等着你。”"
 
 # game/chapter7.rpy:1698
 translate chinese chapter7_80857486:
@@ -6890,7 +6890,7 @@ translate chinese chapter7_3ba0ea61:
     # voice ""
     # 나 "“나도 그래. 네가 어디 읽고 있는지가 너무 신경 쓰여서, 무슨 내용인지도 모르고 넘어갔거든.”"
     voice ""
-    나 "“我也是。我太在乎你在读哪里，所以我还不知道是什么内容就翻过去了。”"
+    나 "“我也是。因为太在乎你在读哪里，所以都不知道是什么内容就翻过去了。”"
 
 # game/chapter7.rpy:2978
 translate chinese chapter7_b9749f20:
@@ -6898,7 +6898,7 @@ translate chinese chapter7_b9749f20:
     # voice "voices/gg139.ogg"
     # 소녀 "“…… 그렇지만, 저는 그저 그때 같이 그 책을 읽었던 그 순간이 너무 행복한 기억으로 남아있어요.”"
     voice "voices/gg139.ogg"
-    소녀 "“……但是，对我来说，和你一起读那本书的瞬间是非常幸福的回忆。”"
+    소녀 "“……但是，我只是觉得当时一起读那本书的瞬间是非常幸福的记忆。”"
 
 # game/chapter7.rpy:2983
 translate chinese chapter7_eb36165c:
@@ -6914,7 +6914,7 @@ translate chinese chapter7_b39e3db6:
     # voice "voices/gg140.ogg"
     # 소녀 "“그러니까요, 저는 이 이야기의 결말이 어떻든. 그저 이렇게 함께 있었던 시간만을 행복하다며 기억할 거예요.”"
     voice "voices/gg140.ogg"
-    소녀 "“好吧，不管这个故事的结局如何。我会记住，只有这样在一起的时光是幸福的。”"
+    소녀 "“就是啊，不管这个故事的结局如何，我都会记住，只有这样在一起的时间才是幸福的。”"
 
 # game/chapter7.rpy:2988
 translate chinese chapter7_ff35112e:
@@ -12672,7 +12672,7 @@ translate chinese chapter7_3_dab735e9:
     # voice "voices/gh96.ogg"
     # 가연 "“…… 이야기 안 해줘도 돼. 기억 속에서 수도 없이 들었고…… 시시한 이야기였으니까.”"
     voice "voices/gh96.ogg"
-    가연 "“……不用告诉我了。在记忆中听到了无数次……纯粹是句没意思的话。”"
+    가연 "“……不用再说了。在记忆中听到了无数次……纯粹是句没意思的话。”"
 
 # game/chapter7.rpy:5323
 translate chinese chapter7_3_445dc369:
@@ -12984,7 +12984,7 @@ translate chinese chapter7_3_d5960f16:
 translate chinese chapter7_3_c0477cdd:
 
     # "밤하늘의, 별빛. "
-    "夜空的星光。"
+    "夜空的，星光。"
 
 # game/chapter7.rpy:5450
 translate chinese chapter7_3_ba6bed7c:

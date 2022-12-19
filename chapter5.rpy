@@ -650,7 +650,7 @@ translate chinese chapter5_7f8bddfe:
 translate chinese chapter5_790211ba:
 
     # "소녀는 앉아있던 1루 쪽 덕아웃에서 조금 떨어진, 빛이 바래 경계선이 희미해질 대로 희미해진 대기 타석 부근에서 고양이와 함께 시간을 보내는 중이었다. "
-    "少女坐在距离一垒稍微有点远的击球位与猫共度时光，因为太阳快落山了，附近的大气变得模糊起来。"
+    "少女坐在距离一垒稍微有点远的球员休息区与猫共度时光，因为太阳快落山了，附近的大气变得模糊起来。"
 
 # game/chapter5.rpy:294
 translate chinese chapter5_4c102af3:
@@ -1732,7 +1732,7 @@ translate chinese chapter5_b796dfc4:
     # voice "voices/ge48_1.ogg"
     # trnvl_so "실은, 그런 생각을 했었어요. 혹시나 이 세계가 끝없이 타임 리프를 반복하고 있는 건 아닐까 하고요. "
     voice "voices/ge48_1.ogg"
-    trnvl_so "其实我有过这种想法。或许这个世界是不是在无休止地重复着轮回呢？"
+    trnvl_so "其实我有过这种想法。或许这个世界是不是在无休止地重复着时间轮回呢？"
 
 # game/chapter5.rpy:690
 translate chinese chapter5_d07500d2:
@@ -3742,7 +3742,7 @@ translate chinese chapter5_1e24c9d5:
     # voice ""
     # 나 "“아, 으응.”"
     voice ""
-    나 "“啊，嗯。”"
+    나 "“啊，嗯。”"那是
 
 # game/chapter5.rpy:1582
 translate chinese chapter5_f94b6289:

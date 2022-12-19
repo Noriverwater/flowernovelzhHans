@@ -514,7 +514,7 @@ translate chinese chapter3_40c09318:
 translate chinese chapter3_f4b745c6:
 
     # "나는 벽에 기대어 선 채, 오랜만에 가족과 있었던 일들을 어렴풋이 회상했다."
-    "我依偎在墙上，久违地，隐约回忆起和家人在一起的事情。"
+    "我依偎在墙上，久违地，隐约回想起和家人在一起的事情。"
 
 # game/chapter3.rpy:201
 translate chinese chapter3_150fc2ab:
@@ -7605,5 +7605,5 @@ translate chinese ecg5_label_139d94d6:
     # voice ""
     # "회상이 끝자락에 도달했을 때쯤, 옥상 문이 열리는 소리가 들려왔다."
     voice ""
-    "在回忆即将结束时，传来了屋顶门打开的声音。"
+    "在回想即将结束时，传来了屋顶门打开的声音。"
 

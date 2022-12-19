@@ -1360,7 +1360,7 @@ translate chinese ecg12_label_21e8c84e:
     # voice "voices/gf3.ogg"
     # who "“기다리고 있을게.”"
     voice "voices/gf3.ogg"
-    who "“我会等你的。”"
+    who "“会等着你。”"
 
 # game/chapter6.rpy:539
 translate chinese ecg12_label_f557443c:
@@ -2914,7 +2914,7 @@ translate chinese ecg12_label_c035fedb:
     # voice "voices/yf84.ogg"
     # 유미 "“있지, 나 말이야. 너를―――”"
     voice "voices/yf84.ogg"
-    유미 "“对了，我说。你——”"
+    유미 "“对了，我说。———你”"
 
 # game/chapter6.rpy:1130
 translate chinese ecg12_label_dad993df:
@@ -2954,7 +2954,7 @@ translate chinese ecg12_label_350f74a2:
     # voice "voices/gf1.ogg"
     # whoso "“있지, 나 말이야. 너를―――”"
     voice "voices/gf1.ogg"
-    whoso "“对了，我说。你——”"
+    whoso "“对了，我说。———你”"
 
 # game/chapter6.rpy:1142
 translate chinese ecg12_label_74984260:
@@ -2994,7 +2994,7 @@ translate chinese ecg12_label_1f809570:
     # voice "voices/gf3.ogg"
     # 소녀 "“기다리고 있을게.”"
     voice "voices/gf3.ogg"
-    소녀 "“我会等你的。”"
+    소녀 "“会等着你。”"
 
 # game/chapter6.rpy:1153
 translate chinese ecg12_label_d9696087:
@@ -3578,7 +3578,7 @@ translate chinese ecg12_label_1f809570_1:
     # voice "voices/gf3.ogg"
     # 소녀 "“기다리고 있을게.”"
     voice "voices/gf3.ogg"
-    소녀 "“我会等你的。”"
+    소녀 "“会等着你。”"
 
 # game/chapter6.rpy:1379
 translate chinese ecg12_label_1c8a0240:
@@ -3760,7 +3760,7 @@ translate chinese ecg12_label_07372b4f:
 translate chinese ecg12_label_3d7a7efc:
 
     # "만약, 정말 만에 하나 소녀가 나에게 '기다리고 있겠다'는 말을 남겼다면. "
-    "如果少女真的对我说“我会等你的”的话。"
+    "如果少女真的对我说“我会等着你”的话。"
 
 # game/chapter6.rpy:1439
 translate chinese ecg12_label_082fb477:
@@ -4904,7 +4904,7 @@ translate chinese ecg13_label_cce3e6a3:
     # voice "voices/gf4.ogg"
     # 소녀 "“그게 무슨 소리예요. 제가 기다리고 있겠다고 했다니.”"
     voice "voices/gf4.ogg"
-    소녀 "“那是什么意思啊？我竟然说会等你。”"
+    소녀 "“那是什么意思啊？我竟然说会等。”"
 
 # game/chapter6.rpy:1801
 translate chinese ecg13_label_b7cc849e:
@@ -5934,7 +5934,7 @@ translate chinese ecg13_label_59840bba:
     # voice ""
     # 나 "“…… 놓친 게 있을 거야.”"
     voice ""
-    나 "“……感觉肯定错过了。”"
+    나 "“……感觉肯定放跑了。”"
 
 # game/chapter6.rpy:2129
 translate chinese ecg13_label_9ff747cf:
@@ -5942,7 +5942,7 @@ translate chinese ecg13_label_9ff747cf:
     # voice "voices/yf138.ogg"
     # 유미 "“놓친 거?”"
     voice "voices/yf138.ogg"
-    유미 "“错过了？”"
+    유미 "“放跑了？”"
 
 # game/chapter6.rpy:2131
 translate chinese ecg13_label_ef25539e:
@@ -5950,7 +5950,7 @@ translate chinese ecg13_label_ef25539e:
     # voice ""
     # 나 "“잘은 모르겠지만…… 그럴 거라는 생각이 들어.”"
     voice ""
-    나 "“虽然不太清楚……但是我觉得是那样。”"
+    나 "“虽然不太清楚……会有这样的想法。”"
 
 # game/chapter6.rpy:2134
 translate chinese ecg13_label_ec14303c:
@@ -6018,7 +6018,7 @@ translate chinese ecg13_label_883879b5:
     # voice "voices/yf142.ogg"
     # 유미 "“난 나에게 가장 소중한 건 항상 곁에 있어서 익숙해진 일이라고 생각하거든.”"
     voice "voices/yf142.ogg"
-    유미 "“我觉得对我来说，最珍贵的事一直在我身边，而我已经习惯了。”"
+    유미 "“我觉得对我来说，最珍贵的事是总是在我身边，而成为习惯的事情。”"
 
 # game/chapter6.rpy:2156
 translate chinese ecg13_label_de750dfe:
