@@ -3742,7 +3742,7 @@ translate chinese chapter5_1e24c9d5:
     # voice ""
     # 나 "“아, 으응.”"
     voice ""
-    나 "“啊，嗯。”"那是
+    나 "“啊，嗯。”"
 
 # game/chapter5.rpy:1582
 translate chinese chapter5_f94b6289:

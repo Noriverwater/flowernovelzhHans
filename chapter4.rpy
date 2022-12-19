@@ -5102,7 +5102,7 @@ translate chinese ecg7_label_e4e5933a:
     # voice "voices/yd11.ogg"
     # 유미 "“혹시 집에 다른 여자라도 있는 거야?!”"
     voice "voices/yd11.ogg"
-    유미 "“难道家里有别的女人吗？！”"
+    유미 "“难道家里还有别的女人吗？！”"
 
 # game/chapter4.rpy:2282
 translate chinese ecg7_label_a20bb3da:
