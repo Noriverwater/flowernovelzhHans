@@ -6037,7 +6037,7 @@ translate chinese ecg5_label_ff8a306f:
 translate chinese ecg5_label_f483caca:
 
     # "난간대에서 손을 떼고 계단을 내려오기 시작할 무렵, 소녀가 넌지시 이야기를 꺼냈다."
-    "手栏离开栏杆开始走下楼梯时，少女悄悄地吐露道："
+    "手离开栏杆开始走下楼梯时，少女悄悄地吐露道："
 
 # game/chapter3.rpy:2518
 translate chinese ecg5_label_8771fcc5:

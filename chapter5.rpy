@@ -5586,7 +5586,7 @@ translate chinese chapter5_fe0c110c:
 translate chinese chapter5_c0d787da:
 
     # naro "나는, 이런 예쁜 기억을 갖고 있었던 걸까. "
-    naro "我有过这样美好的回忆吗？"
+    naro "我，有过这样美好的回忆吗？"
 
 # game/chapter5.rpy:2393
 translate chinese chapter5_87771ade:

@@ -4461,7 +4461,7 @@ translate chinese ecg3_label_3779a681:
     # voice "voices/hb25.ogg"
     # 현지 "“그런데 요즘 들어 백석시에서 이런 일이 종종 일어난다고 하더라고요. 중앙 관제 센터에서는 전파 혼선이라고 발표하긴 했지만, 정확한 원인은 아직도 못 밝혀냈대요.”"
     voice "voices/hb25.ogg"
-    현지 "“但是听说最近在白石市里经常发生这样的事情。虽然中央控制中心报告说是电波干扰，但他们仍不知道确切的原因。”"
+    현지 "“但是听说最近在白石市里经常发生这样的事情。虽然中央管制中心报告说是电波干扰，但他们仍不知道确切的原因。”"
 
 # game/chapter2.rpy:1944
 translate chinese ecg3_label_216a2148:
@@ -4477,7 +4477,7 @@ translate chinese ecg3_label_9d829412:
     # voice "voices/hb26.ogg"
     # 현지 "“1년 전부터 기사로도 자주 올라왔었는걸요？ 가끔씩 관제센터에서 로봇들과 연결이 끊어져서 로봇들이 실종되곤 한다면서요.”"
     voice "voices/hb26.ogg"
-    현지 "“从1年前开始也经常作为新闻出现吧？机器人有时会和控制中心脱钩，然后它们就失踪了。”"
+    현지 "“从1年前开始也经常作为新闻出现吧？机器人有时会和管制中心脱钩，然后它们就失踪了。”"
 
 # game/chapter2.rpy:1948
 translate chinese ecg3_label_9f3b4ce7:
@@ -4503,7 +4503,7 @@ translate chinese ecg3_label_e190b50e:
 translate chinese ecg3_label_e1ff50fa:
 
     # "그 너머의 기억이 아예 없다고는 할 수 없지만, 또렷하다고도 할 수 없다. "
-    "不能说除此之外没有任何记忆，但总是不很清楚。"
+    "不能说除此之外完全没有那一边的记忆，但也不能说很清楚。"
 
 # game/chapter2.rpy:1954
 translate chinese ecg3_label_a7117773:
@@ -4523,7 +4523,7 @@ translate chinese ecg3_label_4399a19a:
     # voice "voices/hb27.ogg"
     # 현지 "“우연일 수도 있겠지만, 선배가 이야기한 그 유령이 이곳을 떠돌기 시작한 이후랑 딱 맞아떨어져요.”"
     voice "voices/hb27.ogg"
-    현지 "“虽然可能是偶然，但是和前辈说的那个幽灵开始在这里游荡之后正好吻合。”"
+    현지 "“虽然可能是偶然，但是和前辈说的那个幽灵开始在这里漂泊之后正好吻合。”"
 
 # game/chapter2.rpy:1962
 translate chinese ecg3_label_15cea5f7:
@@ -4545,7 +4545,7 @@ translate chinese ecg3_label_1cc5605e:
     # voice "voices/hb28.ogg"
     # 현지 "“어라. 선배, 다른 짚이는 구석이라도 있어요？”"
     voice "voices/hb28.ogg"
-    현지 "“前辈，您还有什么见解吗？”"
+    현지 "“哎呦，前辈，还有从别的角度想到的吗？”"
 
 # game/chapter2.rpy:1968
 translate chinese ecg3_label_59763eb9:
@@ -4553,7 +4553,7 @@ translate chinese ecg3_label_59763eb9:
     # voice ""
     # 나 "“아니, 짚이는 건 아니고. 이건 확실히 우연이겠지만, 내가 여기로 오게 된 뒤부터라고 할 수도 있겠구나 해서.”"
     voice ""
-    나 "“不是，不是见解。我想这肯定是偶然的，但也可以说是我来到这里后才发生的事。”"
+    나 "“不，不是想到了。虽然可以说确实是偶然，但也可以说是我来到这里后才发生的事。”"
 
 # game/chapter2.rpy:1971
 translate chinese ecg3_label_5d359525:
@@ -4583,7 +4583,7 @@ translate chinese ecg3_label_cc6c493f:
     # voice "voices/hb30.ogg"
     # 현지 "“혹시, 폴터가이스트 현상은 아닐까요？”"
     voice "voices/hb30.ogg"
-    현지 "“这不是骚灵现象吗？”"
+    현지 "“或许，会不会是骚灵现象呢？”"
 
 # game/chapter2.rpy:1980
 translate chinese ecg3_label_8916a7c6:
@@ -4599,7 +4599,7 @@ translate chinese ecg3_label_ee5b9a1c:
     # voice "voices/hb31.ogg"
     # 현지 "“네. 그 유령이 로봇들을 건드려서 이상행동을 하는 것처럼 보이게 됐다던가…….”"
     voice "voices/hb31.ogg"
-    현지 "“是的。那个幽灵碰了机器人，它们的行为便变得很奇怪……”"
+    현지 "“是的。那个幽灵碰了机器人，看上去像是在做异常行为……”"
 
 # game/chapter2.rpy:1985
 translate chinese ecg3_label_2f78fac0:
@@ -4695,25 +4695,25 @@ translate chinese ecg3_label_26ab2b04:
     # voice ""
     # 나 "“알겠어. 문자로 연락할게.”"
     voice ""
-    나 "“好的。我给你发短信。”"
+    나 "“好的。我用文字联系你。”"
 
 # game/chapter2.rpy:2025
 translate chinese ecg3_label_42775eb9:
 
     # "아마 현지가 없었더라면, 나는 휴대용 태블릿에 문자 기능이 있다는 사실을 새까맣게 잊고 있지는 않았으려나. "
-    "或许要不是贤智，我会对便携式平板电脑有短信功能这一事实忘得一干二净吧。"
+    "或许要不是贤智，我会对便携式平板电脑有文字功能这一事实忘得一干二净吧。"
 
 # game/chapter2.rpy:2026
 translate chinese ecg3_label_04202a99:
 
     # "유미와는 주로 전화로 연락을 주고받는 편이었지만, 현지는 전화보다는 문자가 편하다는 쪽인 듯했다. "
-    "虽然和优美主要通过电话联系，但是与贤智的话短信比电话更方便。"
+    "虽然和优美主要通过电话联系，但是与贤智的话文字比电话更方便。"
 
 # game/chapter2.rpy:2027
 translate chinese ecg3_label_840a3e7c:
 
     # "하긴, 말보다도 문자를 보내는 속도가 더 빠르니, 이상할 건 없지만 말이다. "
-    "也是，发短信的速度比说话还快，没什么奇怪的。"
+    "也是，发文字的速度比说话还快，也就不足为奇了。"
 
 # game/chapter2.rpy:2032
 translate chinese ecg3_label_9b2de491:
@@ -4725,7 +4725,7 @@ translate chinese ecg3_label_9b2de491:
 translate chinese ecg3_label_580c0a87:
 
     # "다음에 보자는 인사를 건네려 고개를 옆으로 돌렸는데, 나를 물끄러미 바라보고 있던 현지가 먼저 내게 말을 건넸다. "
-    "我准备对贤智说下次见，但看着我的贤智先小声地开口了。"
+    "为了说下次再见，我把头转向了旁边，但呆呆地看着我的贤智先对我开口了。"
 
 # game/chapter2.rpy:2035
 translate chinese ecg3_label_ff9ed707:
@@ -4763,13 +4763,13 @@ translate chinese ecg3_label_db584cbc:
     # voice ""
     # 나 "“으응, 나를 부담스러워 하는 거 같기도 하고.”"
     voice ""
-    나 "“呃，看来你高看我了。”"
+    나 "“嗯，好像让我感觉到了负担。”"
 
 # game/chapter2.rpy:2047
 translate chinese ecg3_label_9dd48486:
 
     # "나의 대답을 듣고서도, 현지는 여전히 더 물어볼 게 있다는 것처럼 나를 빤히 바라보고 있었다. "
-    "听了我的回答，贤智仍然盯着我，好像还有什么要问的。"
+    "听了我的回答，贤智仍然直直地盯着我，好像还有什么要问的。"
 
 # game/chapter2.rpy:2048
 translate chinese ecg3_label_9b1bdafa:
@@ -4799,7 +4799,7 @@ translate chinese ecg3_label_b799846f:
     # voice "voices/hb39.ogg"
     # 현지 "“전 선배가 그 유령 여자애랑 친해진다에 걸게요.”"
     voice "voices/hb39.ogg"
-    현지 "“我赌前辈会跟那个幽灵成为好朋友。”"
+    현지 "“我赌前辈会跟那个幽灵女孩会变得亲近。”"
 
 # game/chapter2.rpy:2057
 translate chinese ecg3_label_db7f2259:
@@ -4813,13 +4813,13 @@ translate chinese ecg3_label_db7f2259:
 translate chinese ecg3_label_3e418cd2:
 
     # "어딘가 현지답지 않은 과한 반응이라는 생각이 드는 참이었다. "
-    "有点不像贤智的反应。"
+    "感觉是有点不像贤智的的过激反应。"
 
 # game/chapter2.rpy:2061
 translate chinese ecg3_label_7285df1f:
 
     # "현지도 나와 같은 생각을 한 건지, 나를 조금은 부담스러울 정도로 빤히 바라보던 시선을 슬쩍 틀고서는 멋쩍은 표정을 지어 보였다. "
-    "贤智可能和我抱有一样的想法，稍微转移了对我有点负担的视线，露出了尴尬的表情。"
+    "贤智可能和我抱有一样的想法，稍微转移了显然对我有点负担的视线，露出了尴尬的表情。"
 
 # game/chapter2.rpy:2064
 translate chinese ecg3_label_4bdd0381:
