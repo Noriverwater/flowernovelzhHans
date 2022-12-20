@@ -7362,7 +7362,7 @@ translate chinese chapter7_lastwish_log_58ebf8d5:
 translate chinese chapter7_lastwish_log_7661bc91:
 
     # narl "그 모든 것이 자아내는 아름다움을, 머릿속에 새기려 안간힘을 썼다. "
-    narl "我尽力将这一切美丽铭刻在我的脑海中。"
+    narl "我尽力将这形成的一切美丽铭刻在我的脑海中。"
 
 # game/chapter7.rpy:3293
 translate chinese chapter7_lastwish_log_bb12b028:
@@ -7380,7 +7380,7 @@ translate chinese chapter7_lastwish_log_4e873806:
 translate chinese chapter7_lastwish_log_a41e8ed1:
 
     # narl "나는 그 모든 것이 자아내는 아름다움을 마지막 순간에 모두와 함께 바라볼 수 있었다는 것에 감사를 표했다. "
-    narl "我很感激能在最后一分钟和大家一起欣赏这一刻的美丽。"
+    narl "我对能在最后一刻和大家一起见证这一切引出的美丽表示谢意。"
 
 # game/chapter7.rpy:3298
 translate chinese chapter7_lastwish_log_18d1f6ab:
@@ -7404,7 +7404,7 @@ translate chinese chapter7_lastwish_log_dfb689e5:
 translate chinese chapter7_lastwish_log_c1574627:
 
     # 소녀l "“실은, 절대 이루어지지 못할 소원이라고만 생각했어요. 제 눈에 아름다운 것이 보일 거라고는 생각도 안 했고, 저를 좋아해 주는 사람이 생길 거라고는 더더욱 생각한 적 없었으니까요.”"
-    소녀l "“其实，我一直觉得这是一个永远不会实现的愿望。我从来没敢想过能看到这样美丽的东西，更没想过会有人喜欢上这样的我。”"
+    소녀l "“其实，我一直觉得这是绝对无法实现的愿望。我从来没想过能看到这样美丽的东西，更没想过会有人喜欢上这样的我。”"
 
 # game/chapter7.rpy:3304
 translate chinese chapter7_lastwish_log_9769f920:
@@ -7648,7 +7648,7 @@ translate chinese chapter7_1_73741a81:
 translate chinese chapter7_1_20f002de:
 
     # "나를 향해 내뻗은 소녀의 손이 허공을 갈랐다. "
-    "少女向我伸出的手划破了夜空。"
+    "少女向我伸出的手划破了半空。"
 
 # game/chapter7.rpy:3391
 translate chinese chapter7_1_e30cf6b4:
@@ -7954,7 +7954,7 @@ translate chinese chapter7_2_c1a1efdb:
 translate chinese chapter7_2_995dd1fa:
 
     # naro "놀라서 눈을 뜬 소녀의 오른손을 왼손으로 붙잡고선, 나는 그녀의 발걸음을 재촉했다. "
-    naro "吓得睁开眼睛的少女，用左手抓住她的右手。我敦促她加快脚步。"
+    naro "吓得睁开眼睛，用左手抓住少女的右手。我敦促她加快脚步。"
 
 # game/chapter7.rpy:3503
 translate chinese chapter7_2_2547ccbf:
@@ -8220,13 +8220,13 @@ translate chinese chapter7_2_9cb8b25b:
 translate chinese chapter7_2_0f2c9b6d:
 
     # naro "그리고 나는, 거실 소파에 앉아있던 부모님에게 자초지종을 설명받았다. "
-    naro "然后，坐在客厅沙发上的父母解释了原委。"
+    naro "然后，我从坐在客厅沙发上的父母得到了原委的说明。"
 
 # game/chapter7.rpy:3598
 translate chinese chapter7_2_3974a7ca:
 
     # naro "그건, ‘가연’이라는 이름의 여학생을 데려왔다는 이야기였다. "
-    naro "带进来的女孩叫做佳妍。"
+    naro "那是说，带来了一个叫做“佳妍”的女孩。"
 
 # game/chapter7.rpy:3602
 translate chinese chapter7_2_7bceb6f2:
@@ -11740,7 +11740,7 @@ translate chinese chapter7_2_13c1a904:
 translate chinese chapter7_2_2ccdd338:
 
     # naro "단 한 가지 다른 점이라면, 목소리 속에서는 보이지 않았던 가연의 모습이 확실히 보였다는 것 정도. "
-    naro "如果说只有一点不同，那就是之前的噪音中完全看不到佳妍的样子。"
+    naro "如果说只有一点不同，那就是声音中完全看不到的佳妍的样子被确切地展现了出来。"
 
 # game/chapter7.rpy:4964
 translate chinese chapter7_2_6acf706c:
@@ -11752,13 +11752,13 @@ translate chinese chapter7_2_6acf706c:
 translate chinese chapter7_2_e54d9ca0:
 
     # naro "서로가 들었던 목소리는, 서로가 떠올렸던 기억은, 다름 아닌 상대방의 기억이 아니었을까. "
-    naro "互相听到的声音，互相想起的记忆，不是别的，而是对方的记忆。"
+    naro "互相听到的声音，互相想起的记忆，不是别的，而是对方的记忆吗。"
 
 # game/chapter7.rpy:4967
 translate chinese chapter7_2_6dc507ca:
 
     # naro "이윽고 텔레이도스코프에서는 미처 목소리로 떠올리지 못했던 기억 하나가, 어렴풋이 피어올랐다. "
-    naro "不一会儿，在远华镜的功用下，一个仅有声音想不起来的记忆，在这里模糊地绽放了。"
+    naro "不一会儿，在远华镜的功用下，一个通过声音没想起来的记忆，依稀上升。"
 
 # game/chapter7.rpy:4972
 translate chinese chapter7_2_f85c1d2a:

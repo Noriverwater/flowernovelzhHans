@@ -6600,7 +6600,7 @@ translate chinese ecg8_label_bee0b7af:
 translate chinese ecg8_label_f4585f50:
 
     # "달콤한 향기가 모락모락 피어오르고, 소녀는 이를 반짝이는 눈동자로 지켜보았다. "
-    "甜甜的香气扑面而来，少女的眼睛闪烁着。"
+    "甜甜的香气一缕一缕地上升，少女用闪亮的眼睛注视着。"
 
 # game/chapter4.rpy:2880
 translate chinese ecg8_label_5ca3d1f7:
