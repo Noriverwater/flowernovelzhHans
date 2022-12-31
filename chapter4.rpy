@@ -1162,7 +1162,7 @@ translate chinese chapter4_40dfd940:
     # voice "voices/hd41.ogg"
     # 현지 "“50초 뒤의 미래로 오는 길에, 선배는 무엇을 봤나요？”"
     voice "voices/hd41.ogg"
-    현지 "“在50秒后的未来回来的路上，前辈看到了什么？”"
+    현지 "“在去50秒后的未来的路上，前辈看到了什么？”"
 
 # game/chapter4.rpy:512
 translate chinese chapter4_fd01af7f:
