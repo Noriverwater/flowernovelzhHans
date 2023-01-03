@@ -114,7 +114,7 @@ translate chinese chapter4_e077e40d:
     # voice "voices/hd4.ogg"
     # 현지 "“연결하는 거, 도와줄 수 있죠？”"
     voice "voices/hd4.ogg"
-    현지 "“接起来，能帮我吗？”"
+    현지 "“能帮我，接起来吗？”"
 
 # game/chapter4.rpy:51
 translate chinese chapter4_c900c3df:
@@ -162,7 +162,7 @@ translate chinese chapter4_ec8e1769:
     # voice "voices/hd6.ogg"
     # 현지 "“방학 땐 학교에 따로 사람도 없으니까 괜찮을 거예요. 나쁜 짓 하는 건 아니잖아요.”"
     voice "voices/hd6.ogg"
-    현지 "“放假时，学校里没有其他人，应该没问题。这不是什么坏事。”"
+    현지 "“放假时，学校里没有其他人，应该没问题。不是在做坏事啊。”"
 
 # game/chapter4.rpy:66
 translate chinese chapter4_07d32019:
@@ -216,7 +216,7 @@ translate chinese chapter4_d49a109f:
 translate chinese chapter4_b0b4d9dc:
 
     # 나 "“뭐 하는 거야？”"
-    나 "“你在干什么？”"
+    나 "“你在做什么？”"
 
 # game/chapter4.rpy:93
 translate chinese chapter4_9f10d893:
