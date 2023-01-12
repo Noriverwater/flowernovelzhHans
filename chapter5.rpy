@@ -1616,7 +1616,7 @@ translate chinese chapter5_7d043c88:
     # voice "voices/ge44.ogg"
     # 소녀 "“{color=#00ccff}당신은 제가 유령이라는 걸, 알고 있었던 건가요？{/color}”"
     voice "voices/ge44.ogg"
-    소녀 "“{color=#00ccff}你知道我是幽灵吗？{/color}”"
+    소녀 "“{color=#00ccff}你一开始就知道我是幽灵吗？{/color}”"
 
 # game/chapter5.rpy:659
 translate chinese chapter5_d710c370:
@@ -1662,7 +1662,7 @@ translate chinese chapter5_5a1ab5e2:
     # voice "voices/ge45.ogg"
     # 소녀 "“그렇지만 아까, 제가 부실에서 봤던 기계가 유령을 소멸시키는 데에 쓰인다고 말했잖아요. 그렇다는 건, 예전부터 이런 일이 있을 걸 알고 있었다는 거 아닌가요？”"
     voice "voices/ge45.ogg"
-    소녀 "“但是，你之前提到过，我在部室中看到的机器是用来消灭幽灵的。那不是说你早就知道会有这样的事情吗？”"
+    소녀 "“但是，你之前不是提到过，我在部室中看到的机器是用来消灭幽灵的嘛。那不是说你早就知道会有这样的事情吗？”"
 
 # game/chapter5.rpy:672
 translate chinese chapter5_c4aef8a0:
@@ -1732,7 +1732,7 @@ translate chinese chapter5_b796dfc4:
     # voice "voices/ge48_1.ogg"
     # trnvl_so "실은, 그런 생각을 했었어요. 혹시나 이 세계가 끝없이 타임 리프를 반복하고 있는 건 아닐까 하고요. "
     voice "voices/ge48_1.ogg"
-    trnvl_so "其实我有过这种想法。或许这个世界是不是在无休止地重复着时间轮回呢？"
+    trnvl_so "其实，我是这么想的。或许这个世界是不是在无休止地重复着时间跳跃呢？"
 
 # game/chapter5.rpy:690
 translate chinese chapter5_d07500d2:
@@ -1740,7 +1740,7 @@ translate chinese chapter5_d07500d2:
     # voice "voices/ge48_2.ogg"
     # trnvl_so "당신은 이전에도 몇 번이고 저를 구원하려 했었고, 그래서 저를 만나리라는 걸 이미 알고 있었기에 제가 유령인 걸 의심조차 하지 않았던 건 아닐까. "
     voice "voices/ge48_2.ogg"
-    trnvl_so "你可能之前试图拯救我很多次，已经知道会遇见我，所以你连我是幽灵都没怀疑过。"
+    trnvl_so "你可能之前试图拯救我很多次，所以是不是已经知道会遇见我，才连我是幽灵都没怀疑过呢？"
 
 # game/chapter5.rpy:692
 translate chinese chapter5_52d6b38d:
@@ -1910,7 +1910,7 @@ translate chinese chapter5_2b48d307:
 translate chinese chapter5_980fa2a3:
 
     # "나를 과거의 한구석으로 불러내는 무언의 아우성. "
-    "一声无言的呐喊，把我拉回了过去的某个角落。"
+    "无言的呐喊，把我唤回到过去的某个角落。"
 
 # game/chapter5.rpy:775
 translate chinese chapter5_71c1381a:
@@ -5394,7 +5394,7 @@ translate chinese chapter5_4182a38c:
 translate chinese chapter5_0b6aa025:
 
     # "이름은 모르지만, 여하튼 그 따스한 손길이 존재하는 것만큼은 또렷이 알고 있다. "
-    "虽然不知道名字，不管怎样清楚地知道那只温暖的手存在过。"
+    "虽然不知道名字，不管怎样清楚地知道那只温暖的手曾存在过。"
 
 # game/chapter5.rpy:2231
 translate chinese chapter5_5be07350:
@@ -8752,7 +8752,7 @@ translate chinese ecg11_label_f2256cb0:
     # voice ""
     # "뒤로 한 발짝, 발걸음을 물리며 현지가 말꼬리를 내렸다. "
     voice ""
-    "往后退一步，贤智接下了话茬。"
+    "往后退了一步，贤智接下了话题。"
 
 # game/chapter5.rpy:3680
 translate chinese ecg11_label_c0a9500c:
@@ -8774,7 +8774,7 @@ translate chinese ecg11_label_d5d2e689:
     # voice ""
     # "당황한 듯 다시 말꼬리를 올리는 현지. "
     voice ""
-    "慌张的贤智，已经接不住我的话茬了。"
+    "慌张的贤智，已经接不住我的话了。"
 
 # game/chapter5.rpy:3691
 translate chinese ecg11_label_dc335930:
