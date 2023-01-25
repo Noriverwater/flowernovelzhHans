@@ -558,7 +558,7 @@ translate chinese chapter1_140ca0de:
     # voice "voices/ya18.ogg"
     # 유미 "“와, 정말？ 많이 올렸네. 작년 2학기까지만 해도 아슬아슬하게 두 자리 등수였잖아.”"
     voice "voices/ya18.ogg"
-    유미 "“哇，真的么？进步很大。到去年第二学期为止还差一点到两位数啊。”"
+    유미 "“哇，真的么？进步很大。去年第二学期时还差一点到两位数啊。”"
 
 # game/chapter1.rpy:387
 translate chinese chapter1_a21b28f4:

@@ -273,7 +273,7 @@ translate chinese chapter2_d9f3d40b:
 translate chinese chapter2_40b74f9e:
 
     # "전자레인지에 데운 새우맛 필라프가 소녀의 앞에 놓이고, 나는 머쓱한 얼굴로 그녀의 반응을 살폈다."
-    "微波炉里加热的虾味抓饭摆在少女面前，我尴尬地看着她的反应。"
+    "微波炉里加热的虾味香料饭摆在少女面前，我尴尬地看着她的反应。"
 
 # game/chapter2.rpy:161
 translate chinese chapter2_7a90eda2:
@@ -313,7 +313,7 @@ translate chinese chapter2_7bd68d39:
 translate chinese chapter2_44d5b121:
 
     # "전자레인지에 데워낸 찰기 없는 필라프가 소녀의 젓가락에서 자꾸만 흘러내리는 모습이 내가 소녀와 함께 식사를 하고 있다는 사실을 상기시켰다."
-    "看到用微波炉加热的没有黏性的抓饭从少女的筷子上滴落下来，我才想起自己正在和少女一起吃饭。"
+    "看到用微波炉加热的没有黏性的香料饭从少女的筷子上滴落下来，我才想起自己正在和少女一起吃饭。"
 
 # game/chapter2.rpy:181
 translate chinese chapter2_9e7e7f0d:
@@ -325,7 +325,7 @@ translate chinese chapter2_9e7e7f0d:
 translate chinese chapter2_0e499845:
 
     # "새우맛 필라프가 퍼석퍼석한 것 때문만은 아닌 듯했다."
-    "似乎不只是因为虾味的抓饭易碎。"
+    "似乎不只是因为虾味的香料饭易碎。"
 
 # game/chapter2.rpy:187
 translate chinese chapter2_6727588b:
@@ -3059,13 +3059,13 @@ translate chinese ecg3_label_d3b74955:
 translate chinese ecg3_label_9e57c74e:
 
     # "영화의 내용은 뻔하다면 뻔할 수도 있는, 사랑하는 이를 죽여버린 사람들에게 복수하는 주인공의 이야기였다. "
-    "这部电影讲了一个主角向杀害心爱的人报仇的故事。"
+    "这部电影讲了一个主人公向杀害心爱的人报仇的故事。"
 
 # game/chapter2.rpy:1373
 translate chinese ecg3_label_4b1ac276:
 
     # "다만, 조금 특별한 게 있다면 주인공이 사랑했던 이가 사람이 아닌 AI라는 점 정도. "
-    "但是，如果说它有什么特别之处，那就是主角所爱的人是AI，而不是人类。"
+    "但是，如果说它有什么特别之处，那就是主人公所爱的人是AI，而不是人类。"
 
 # game/chapter2.rpy:1379
 translate chinese ecg3_label_374786d8:

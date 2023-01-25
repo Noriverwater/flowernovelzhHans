@@ -6278,7 +6278,7 @@ translate chinese ecg11_label_45119b51:
     # voice ""
     # "문틈 사이로 들려오는 가라앉은 목소리의 주인공이, 나를 바라보고는 그 자리에서 그대로 움직임을 멈췄다. "
     voice ""
-    "从门缝里传来低沉声音的主人公，看着我，当场就停止了动作。"
+    "从门缝里传来低沉声音的主人公，看到我，当场就停下了动作。"
 
 # game/chapter5.rpy:2821
 translate chinese ecg11_label_d5ac316e:

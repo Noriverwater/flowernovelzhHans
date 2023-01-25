@@ -5950,7 +5950,7 @@ translate chinese chapter7_870ad585:
 translate chinese chapter7_c98fe6ad:
 
     # "맛이 잘 느껴지지 않는 필라프를 우물대며, 나는 현지와 미묘한 무게의 대화를 주고받았다. "
-    "我一边咀嚼着感觉不到味道的抓饭，一边和贤智进行微妙的对话。"
+    "我一边咀嚼着感觉不到味道的香料饭，一边和贤智进行微妙的对话。"
 
 # game/chapter7.rpy:2569
 translate chinese chapter7_38ff28f1:
