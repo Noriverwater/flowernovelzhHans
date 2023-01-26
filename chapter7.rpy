@@ -7092,7 +7092,7 @@ translate chinese ecg15_label_71e91232:
 translate chinese ecg15_label_f5906ef0:
 
     # "그렇지만 이를 붙잡고 있던 현지의 손이, 힘을 놓지 않은 채 나와 떨어지는 것을 거부했다. "
-    "贤智的手，拒绝和我分开。"
+    "但是紧握着的贤智的手没有松劲，拒绝和我分开。"
 
 # game/chapter7.rpy:3075
 translate chinese ecg15_label_5e24e7d7:
@@ -7164,7 +7164,7 @@ translate chinese ecg15_label_ce99ada2:
 translate chinese ecg15_label_fe0748ea:
 
     # "나는 현지가 놓지 못하고 있던 손을 쓰다듬으며, 그렇게 이야기했다. "
-    "我抚摸着贤智不忍松开的手，说道。"
+    "我抚摸着贤智不忍松开的手，就这样说了。"
 
 # game/chapter7.rpy:3116
 translate chinese ecg15_label_19e6329a:
@@ -7182,7 +7182,7 @@ translate chinese ecg15_label_66618121:
 translate chinese ecg15_label_024aa113:
 
     # "그러자 리모컨을 꽉 붙잡고 있던 현지의 손에서 스르륵 힘이 빠지는 것이 느껴졌다. "
-    "这时，贤智的手唰的一下失去了力气。"
+    "这时，从紧紧握住遥控器的贤智的手中感觉到唰的一下失去了力气。"
 
 # game/chapter7.rpy:3122
 translate chinese ecg15_label_1b6fceac:
@@ -7252,7 +7252,7 @@ translate chinese ecg15_label_0e04a64c:
 translate chinese ecg15_label_3dc0ec0b:
 
     # "눈 앞에 펼쳐진 예상치 못한 광경을 보고 당황하는 나의 앞에, 유미가 다시 모습을 드러냈다. "
-    "看着眼前这幕意想不到的情景，在慌张的我面前，优美再次露面。"
+    "在看着眼前这幕意想不到的情景而慌张的我面前，优美再次露面。"
 
 # game/chapter7.rpy:3268
 translate chinese chapter7_lastwish_log_5da96d0a:
@@ -8478,13 +8478,13 @@ translate chinese chapter7_2_0e30afed:
 translate chinese chapter7_2_617c2a27:
 
     # naro "요리를 만드는 데엔 이십 여분 정도가 걸렸다. "
-    naro "做菜花了20多分钟。"
+    naro "做料理花了20多分钟。"
 
 # game/chapter7.rpy:3701
 translate chinese chapter7_2_e0d4a136:
 
     # naro "혼자서 식사를 해결하는 일은 종종 있었기에 평소처럼 만들어 건넨 볶음밥이, 왠지 그날따라 더더욱 어설프게 보였다. "
-    naro "我自己经常做炒饭，但不知为什么，今天的炒饭看起来不如平时自然。"
+    naro "因为独自解决吃饭的事情时有发生，所以像平时一样做的炒饭。但不知为什么，今天的炒饭看起来不如平时自然。"
 
 # game/chapter7.rpy:3702
 translate chinese chapter7_2_fd954c93:
@@ -11560,13 +11560,13 @@ translate chinese chapter7_2_4af99cea:
 translate chinese chapter7_2_fb69e6ce:
 
     # naro "가연이 만들어 준 요리는 오늘도 맛있었다. "
-    naro "佳妍做的炒饭今天也很好吃。"
+    naro "佳妍做的料理今天也很好吃。"
 
 # game/chapter7.rpy:4894
 translate chinese chapter7_2_02974435:
 
     # naro "무슨 요리냐고 묻자, 가연은 너를 위해 준비한 레시피라고 대답해주었다. "
-    naro "我问她是怎么做的，她回答说是专门为我准备的。"
+    naro "当被问到是什么料理时，她回答说是专门为我准备的食谱。"
 
 # game/chapter7.rpy:4896
 translate chinese chapter7_2_d2289461:
@@ -12402,7 +12402,7 @@ translate chinese chapter7_3_2b793e51:
 translate chinese chapter7_3_853e64a2:
 
     # "그렇게 두 사람을 인적이 드물면서도 익숙한 장소로 불러낸 그녀는, 그곳에서 돌이킬 수 없는 선택을 한 것이었다. "
-    "就这样，她把两人叫到了熟悉但人迹罕至的地方，在那里作出了无法挽回的选择。"
+    "就这样，她把两人叫到了熟悉又人迹罕至的地方，在那里作出了无法挽回的选择。"
 
 # game/chapter7.rpy:5220
 translate chinese chapter7_3_6f6d0d81:
@@ -12414,7 +12414,7 @@ translate chinese chapter7_3_6f6d0d81:
 translate chinese chapter7_3_cd427f37:
 
     # "광기에 휩싸였던 붉은색 기억 조각이 슬픈 빛을 내며 사라져갔다. "
-    "被疯狂包围的红色记忆碎片发出悲伤的光芒消失了。"
+    "被疯狂裹住的红色记忆碎片散发出悲伤的光芒消失了。"
 
 # game/chapter7.rpy:5225
 translate chinese chapter7_3_eed87b77:
@@ -12444,13 +12444,13 @@ translate chinese chapter7_3_f088262f:
 translate chinese chapter7_3_bd688954:
 
     # "무거운 감정으로 엮인 기억의 별자리가, 안쓰럽게 빛을 발한다. "
-    "记忆中沉重的感情编织在一起的星座，令人心酸地发光。"
+    "沉重的感情编织在一起的记忆的星座，令人心酸地发光。"
 
 # game/chapter7.rpy:5245
 translate chinese chapter7_3_08a3bd94:
 
     # "잃어버린 휴대폰을 돌려주겠다는 전화를 받고 그곳을 찾은 마지막 타겟은, 어렴풋이 낌새를 채고 있던 모양이었다. "
-    "接到要归还丢失的手机的电话后，找到那里的最后一个目标，隐约看出了一点诡异。"
+    "接到要归还丢失的手机的电话后，来到那里的最后一个目标，似乎模糊地察觉到了。"
 
 # game/chapter7.rpy:5247
 translate chinese chapter7_3_fa80990b:
@@ -12462,7 +12462,7 @@ translate chinese chapter7_3_fa80990b:
 translate chinese chapter7_3_9c67cceb:
 
     # "목표했던 대로 타겟을 일격에 제압하지 못한 가연은 그에게서 반격을 받아 그 자리에서 정신을 잃은 듯해 보였다. "
-    "佳妍没能如愿一举压制住目标，遭到了他的反击，好像当场就昏了过去。"
+    "没能如愿一举压制住目标的佳妍似乎遭到了他的反击，好像当场失去了意识。"
 
 # game/chapter7.rpy:5255
 translate chinese chapter7_3_1c45dc01:
@@ -12494,7 +12494,7 @@ translate chinese chapter7_3_5f0a9741:
     # voice "voices/gh88.ogg"
     # 가연 "“역시 나는 구제불능에, 용서받지 못할 살인자였네.”"
     voice "voices/gh88.ogg"
-    가연 "“果然我是个无可救药的杀手。”"
+    가연 "“果然我是个无可救药，不可饶恕的杀手。”"
 
 # game/chapter7.rpy:5263
 translate chinese chapter7_3_fcb35083:
@@ -12508,7 +12508,7 @@ translate chinese chapter7_3_fcb35083:
 translate chinese chapter7_3_e6644fdf:
 
     # 나 "“상관없어. 네가 살인자이든, 누구든. 나는 널 좋아할 거야.”"
-    나 "“没关系。不管你是杀人犯还是什么。我都会喜欢你的。”"
+    나 "“没关系。不管你是杀人犯还是谁。我都会喜欢你的。”"
 
 # game/chapter7.rpy:5267
 translate chinese chapter7_3_6964f663:
@@ -12552,13 +12552,13 @@ translate chinese chapter7_3_fd0e5e54:
 translate chinese chapter7_3_812cc10d:
 
     # "흘러내리는 감정의 자취를 향해. "
-    "泪水向着我们的感情痕迹而去。"
+    "泪水向着感情的痕迹而去。"
 
 # game/chapter7.rpy:5277
 translate chinese chapter7_3_83e89586:
 
     # "이번에는 그 감정을 놓지 않겠다며, 나는 조심스레 손을 뻗었다. "
-    "我小心翼翼地伸手说，这次不会放开那份感情。"
+    "我小心翼翼地伸手说，这次不会放跑那份感情。"
 
 # game/chapter7.rpy:5279
 translate chinese chapter7_3_840918d7:
@@ -12630,25 +12630,25 @@ translate chinese chapter7_3_fbfba747:
     # voice ""
     # 나 "“그러게. 감쪽같이 속았어.”"
     voice ""
-    나 "“是啊。完全被骗了。”"
+    나 "“是啊。不知不觉地被骗了。”"
 
 # game/chapter7.rpy:5308
 translate chinese chapter7_3_475ba795:
 
     # "서로의 기억 속에 언제나 서로가 존재했다는 트릭을, 나는 어째서 간파하지 못했던 걸까. "
-    "彼此的记忆中总是存在着彼此的把戏，我为什么没有看透呢？"
+    "彼此的记忆中总是存在着彼此的假象，我怎么没看透呢。"
 
 # game/chapter7.rpy:5309
 translate chinese chapter7_3_b862b225:
 
     # "하지만 지금을 그런 걸 후회할 시간이 없다는 것을 알고 있었다. "
-    "但我知道我没有时间去后悔。"
+    "但我知道我现在没有时间去后悔。"
 
 # game/chapter7.rpy:5314
 translate chinese chapter7_3_0c3c8b7d:
 
     # 나 "“그때 전해주지 못했던 이야기 있잖아.”"
-    나 "“不是还有句话我没告诉你嘛。”"
+    나 "“不是那时还有句话没告诉你嘛。”"
 
 # game/chapter7.rpy:5315
 translate chinese chapter7_3_d8d865ca:
@@ -12664,7 +12664,7 @@ translate chinese chapter7_3_72943c6f:
     # voice ""
     # 나 "“으응. 그 이야기.”"
     voice ""
-    나 "“嗯哼。是那个事。”"
+    나 "“嗯，是那句话。”"
 
 # game/chapter7.rpy:5321
 translate chinese chapter7_3_dab735e9:
@@ -12672,7 +12672,7 @@ translate chinese chapter7_3_dab735e9:
     # voice "voices/gh96.ogg"
     # 가연 "“…… 이야기 안 해줘도 돼. 기억 속에서 수도 없이 들었고…… 시시한 이야기였으니까.”"
     voice "voices/gh96.ogg"
-    가연 "“……不用再说了。在记忆中听到了无数次……纯粹是句没意思的话。”"
+    가연 "“……不用告诉我了。在记忆中听过了无数次……是句微不足道的话。”"
 
 # game/chapter7.rpy:5323
 translate chinese chapter7_3_445dc369:
@@ -12680,13 +12680,13 @@ translate chinese chapter7_3_445dc369:
     # voice ""
     # 나 "“그렇지, 시시한 이야기였지.”"
     voice ""
-    나 "“是啊，没意思的话。”"
+    나 "“是啊，微不足道的话。”"
 
 # game/chapter7.rpy:5327
 translate chinese chapter7_3_e8d8e1b5:
 
     # "그 시시한 이야기만을 마음속에 가득 채워두고선, 둘은 키득키득 웃었다. "
-    "把这句无聊的话装进心里，两人默契地笑了。"
+    "把那句无聊的话装进心里，两人扑哧一笑。"
 
 # game/chapter7.rpy:5330
 translate chinese chapter7_3_1291f024:
@@ -12694,7 +12694,7 @@ translate chinese chapter7_3_1291f024:
     # voice "voices/gh97.ogg"
     # 가연 "“나도 내 이름을 미처 못 알려줬던 게 마음에 걸린다고 했는데.”"
     voice "voices/gh97.ogg"
-    가연 "“没来的及告诉你我的名字，心里很苦恼。”"
+    가연 "“我也没来得及告诉你我的名字，心里很过意不去。”"
 
 # game/chapter7.rpy:5332
 translate chinese chapter7_3_466fc322:
@@ -12702,7 +12702,7 @@ translate chinese chapter7_3_466fc322:
     # voice ""
     # 나 "“그러는 나도 원래의 이름은 알려주지 않았으니까…….”"
     voice ""
-    나 "“那我也没告诉你原本的名字……”"
+    나 "“那我也没告诉你原来的名字……”"
 
 # game/chapter7.rpy:5336
 translate chinese chapter7_3_64c1e2a2:
@@ -12724,7 +12724,7 @@ translate chinese chapter7_3_085c8575:
 translate chinese chapter7_3_bea4248d:
 
     # "이름을 빚지다니. "
-    "说出对方的名字。"
+    "还欠了名字。"
 
 # game/chapter7.rpy:5343
 translate chinese chapter7_3_5f2a915c:
@@ -12752,7 +12752,7 @@ translate chinese chapter7_3_32822e31:
     # voice ""
     # "그 뒤로 얼마 정도를 걸었을까. "
     voice ""
-    "之后走了多少路呢？"
+    "从那之后走了多少路呢？"
 
 # game/chapter7.rpy:5354
 translate chinese chapter7_3_8a398a4b:
@@ -12766,7 +12766,7 @@ translate chinese chapter7_3_e371d98b:
     # voice "voices/gh100.ogg"
     # 가연 "“이거 봐.”"
     voice "voices/gh100.ogg"
-    가연 "“你看。”"
+    가연 "“看。”"
 
 # game/chapter7.rpy:5363
 translate chinese chapter7_3_8af3b35a:
@@ -12774,7 +12774,7 @@ translate chinese chapter7_3_8af3b35a:
     # voice ""
     # "나도 그녀가 바라본 곳으로 시선을 떨구었다. "
     voice ""
-    "我也把目光投向了她所看的地方。"
+    "我也把目光投向了她所看到的地方。"
 
 # game/chapter7.rpy:5366
 translate chinese chapter7_3_b1855977:
@@ -12814,7 +12814,7 @@ translate chinese chapter7_3_85d1e8b0:
 translate chinese chapter7_3_6886ebee:
 
     # "단 한 번도 미물을 배려해주지 않던 시간이, 이 순간만큼은 나와 그녀를 최대한 배려해주는 것처럼 느껴졌다. "
-    "曾几何时我对美丽的事物漠不关心，而这一刻，却是最大限度地关心着她。"
+    "一次也没关心过微小事物的时间，在这一瞬间，感觉好像最大限度地关心着我和她。"
 
 # game/chapter7.rpy:5379
 translate chinese chapter7_3_8a98607b:
@@ -12850,7 +12850,7 @@ translate chinese chapter7_3_33834ead:
     # voice "voices/gh103.ogg"
     # 가연 "“이렇게 같이 사라질 수 있어서.”"
     voice "voices/gh103.ogg"
-    가연 "“我们可以这样一起消失了。”"
+    가연 "“我们能够这样一起消失了。”"
 
 # game/chapter7.rpy:5391
 translate chinese chapter7_3_365cf581:
@@ -12870,43 +12870,43 @@ translate chinese chapter7_3_06c5c029:
 translate chinese chapter7_3_6ab919a0:
 
     # "내가 꼬여버린 시간의 틈새에서 차분히 모습을 잃어가고, 그녀 역시 나와 함께 사라지게 되는 거겠지. "
-    "我在纠缠的时间的缝隙中平静地消失了，她也会和我一起消失吧。"
+    "我的样子在纠缠的时间缝隙中平静地消失了，她也会和我一起消失吧。"
 
 # game/chapter7.rpy:5396
 translate chinese chapter7_3_6fa86762:
 
     # "다행이라는 말은, 이 상황에 정말 어울리는 단어 같았다. "
-    "万幸的是，这句话真的很适合这种情况。"
+    "万幸这个词，好像真的很适合这种情况。"
 
 # game/chapter7.rpy:5400
 translate chinese chapter7_3_3b936bad:
 
     # 나 "“정말, 정말 다행이다.”"
-    나 "“真是万幸。”"
+    나 "“真的，真是万幸。”"
 
 # game/chapter7.rpy:5402
 translate chinese chapter7_3_ee0b1a97:
 
     # "나는 그녀를 조금 더 마음속 깊은 곳까지 껴안았다. "
-    "我把她抱得更紧了一点。"
+    "我把她搂到了距离心中更深一点的地方。"
 
 # game/chapter7.rpy:5404
 translate chinese chapter7_3_d4e0c862:
 
     # "사랑해, 라는 마음속에 담아두고 있던 시시한 단어가 타이밍 좋게 두 사람의 입에서 약속이나 한 듯 동시에 꺼내진다. "
-    "两人不约而同地说出“我爱你”这句原本藏在内心深处的话。"
+    "两人不约而同地说出“我爱你”这句原本藏在内心深处，微不足道的话。"
 
 # game/chapter7.rpy:5405
 translate chinese chapter7_3_303ca600:
 
     # "마냥 시시하다고만 생각했던 그 말은, 왠지 세상의 모든 감정을 한곳에 응축해놓은 단어처럼 느껴졌다. "
-    "原本以为是微不足道的话语，不知怎的，却像是将世间所有的情绪都凝聚在了一处。"
+    "一直以为是微不足道的话，不知怎的，却像是将世间所有的情绪都凝聚在了一处。"
 
 # game/chapter7.rpy:5410
 translate chinese chapter7_3_fce57620:
 
     # "모든 것이 씻겨나가 깃털처럼 변해버린 두 사람의 영혼이, 빛을 내며 사그라들려 하고 있었다. "
-    "两人的灵魂像圣洁的羽毛一样被冲刷干净，正在发光消逝。"
+    "两人的灵魂像圣洁的羽毛一样一切都被冲刷干净，正在发光消逝。"
 
 # game/chapter7.rpy:5415
 translate chinese chapter7_3_9168a644:
@@ -12942,7 +12942,7 @@ translate chinese chapter7_3_1273e9c2:
 translate chinese chapter7_3_60709a80:
 
     # "모두 지금이라는 순간에 씻겨간다. "
-    "一切都在当下被冲刷殆尽。"
+    "一切都在当下瞬间被冲刷干净。"
 
 # game/chapter7.rpy:5436
 translate chinese chapter7_3_4eecedb6:
@@ -12966,13 +12966,13 @@ translate chinese chapter7_3_1c767188:
 translate chinese chapter7_3_49d47fa2:
 
     # "새까만 바탕에 피어오르는, 영혼이 만들어낸 빛의 알갱이들. "
-    "在漆黑的地面上升起的，灵魂创造出的光粒。"
+    "在漆黑的地面上升起的，灵魂所创造出的光粒。"
 
 # game/chapter7.rpy:5443
 translate chinese chapter7_3_78b181e9:
 
     # "나는 그 조각들이 두 사람의 빛이 겹쳐져 만들어낸 것임을, 눈동자에 새길 수 있었다. "
-    "我的眼中铭刻下的那些碎片是由两个人的光叠成的。"
+    "我的眼中能铭刻下的那些碎片是由两个人的光叠成的。"
 
 # game/chapter7.rpy:5448
 translate chinese chapter7_3_d5960f16:
@@ -12990,7 +12990,7 @@ translate chinese chapter7_3_c0477cdd:
 translate chinese chapter7_3_ba6bed7c:
 
     # "비록 그 별빛이 얽혀 만들어낸 이야기가 슬픈 이야기라 하더라도. "
-    "即使那星光交织在一起的故事是一个悲伤的故事。"
+    "即使那星光交织在一起创造出的故事是一个悲伤的故事。"
 
 # game/chapter7.rpy:5451
 translate chinese chapter7_3_089f0540:

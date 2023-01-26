@@ -8068,7 +8068,7 @@ translate chinese ecg11_label_a8800801:
 translate chinese ecg11_label_4ac4fcfc:
 
     # "1인분 치의 요리를 하는 것도 오랜만이었다. "
-    "好久没做一人份的饭了。"
+    "好久没做一人份的料理了。"
 
 # game/chapter5.rpy:3450
 translate chinese ecg11_label_ca953869:
@@ -8080,7 +8080,7 @@ translate chinese ecg11_label_ca953869:
 translate chinese ecg11_label_cc2ad9a5:
 
     # "일주일씩이나 맛없는 병원 밥을 먹어서 뭐든 먹으면 맛있을 줄 알았는데, 소녀가 남겨둔 레시피로 만든 요리는 그저 그랬던 것 같다. "
-    "在医院连续吃了一个星期毫无味道的饭菜，原以为吃什么都会很好吃，但用少女留下的菜谱做的菜好像也没有味道。"
+    "在医院连续吃了一个星期毫无味道的饭菜，原以为吃什么都会很好吃，但用少女留下的菜谱做的料理好像也没有味道。"
 
 # game/chapter5.rpy:3453
 translate chinese ecg11_label_443f759e:

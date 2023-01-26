@@ -5742,7 +5742,7 @@ translate chinese ecg13_label_b53f9120:
 translate chinese ecg13_label_32604ff6:
 
     # "한 발짝 뒤에서 우리의 그런 모습을 바라보고 있던 유미가 내게 말을 건네왔다. "
-    "站在后面的优美目睹了整个过程，开口了。"
+    "站在后面的优美目睹了我们这种样子，对我说。"
 
 # game/chapter6.rpy:2068
 translate chinese ecg13_label_887d4e0c:

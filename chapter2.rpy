@@ -5301,7 +5301,7 @@ translate chinese ecg3_label_90e39d88:
 translate chinese ecg3_label_18b57138:
 
     # "항상 1인분 몫의 음식을 하는 데에 익숙해져 있던 터라, 내 손을 거쳐 요리된 스파게티는 어딘가 엉성해 보이는 모양새를 하고 있었다. "
-    "因为我一直习惯做一人份的食物，所以经过我的手做的意大利面看起来有点粗糙。"
+    "因为我一直习惯做一人份的料理，所以经过我的手做的意大利面看起来有点粗糙。"
 
 # game/chapter2.rpy:2244
 translate chinese ecg3_label_c101430f:
