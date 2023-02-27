@@ -2234,7 +2234,7 @@ translate chinese ecg3_label_1db9cd49:
     소녀 "“大概是吧。”"
 
 # game/chapter2.rpy:944
-translate chinese ecg3_label_3c8450da:
+translate chinese ecg3_label_2172c06f:
 
     # voice ""
     # 나 "“혹시나 해서 그러는데, 도어락 비밀번호는―"

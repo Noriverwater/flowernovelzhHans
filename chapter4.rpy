@@ -78,7 +78,7 @@ translate chinese chapter4_5ebd0fbe:
 translate chinese chapter4_90ce70b8:
 
     # "오컬트부실 구석에 놓여있던, 소녀가 내게 물어본 적 있는 바로 그 ‘{color=#00ccff}텔레이도스코프{/color}’라 이름 붙여진 기계였다."
-    "在超自然部室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜{/color}”的机器。"
+    "在超自然部室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
 
 # game/chapter4.rpy:37
 translate chinese chapter4_d30675b6:
@@ -4676,13 +4676,13 @@ translate chinese ecg7_label_43302ab7:
 translate chinese ecg7_label_2712019e:
 
     # "지극히 편의주의적인 세상에서, 굳이 요리를 한다는 수고를 무릅쓰고 이런 식재료를 구매할 필요는 없으니까. "
-    "在极为机会主义的世界里，没有必要冒着烹饪的辛苦购买这些食材。"
+    "在极为便宜主义的世界里，没有必要冒着烹饪的辛苦购买这些食材。"
 
 # game/chapter4.rpy:2101
 translate chinese ecg7_label_f3398def:
 
     # "나 또한, 그런 편의주의적인 흐름에 물든 사람 중 한 명이었고 말이다."
-    "我也是被这种机会主义义潮流所感染的人之一。"
+    "我也是被这种便宜主义义潮流所感染的人之一。"
 
 # game/chapter4.rpy:2108
 translate chinese ecg7_label_e9a2d505:

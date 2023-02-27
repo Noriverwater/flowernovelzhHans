@@ -228,7 +228,7 @@ translate chinese chapter1_99efd78b:
 translate chinese chapter1_6e4baed8:
 
     # "얼굴에 난감한 티를 잔뜩 묻힌 채, 나는 쭈뼛쭈뼛 유미를 훑어보았다."
-    "脸上沾满了难堪, 我怯生生地打量着优美。"
+    "脸上沾满了难堪，我怯生生地打量着优美。"
 
 # game/chapter1.rpy:186
 translate chinese chapter1_4131eeff:
@@ -553,10 +553,10 @@ translate chinese chapter1_1edd50e4:
     나 "“50名左右吧……”"
 
 # game/chapter1.rpy:385
-translate chinese chapter1_140ca0de:
+translate chinese chapter1_34b21393:
 
     # voice "voices/ya18.ogg"
-    # 유미 "“와, 정말？ 많이 올렸네. 작년 2학기까지만 해도 아슬아슬하게 두 자리 등수였잖아.”"
+    # 유미 "“와, 정말? 많이 올렸네. 작년 2학기까지만 해도 아슬아슬하게 두 자리 등수였잖아.”"
     voice "voices/ya18.ogg"
     유미 "“哇，真的么？进步很大。去年第二学期时还差一点到两位数啊。”"
 
@@ -604,7 +604,7 @@ translate chinese chapter1_4c901531:
 translate chinese chapter1_abcc0485:
 
     # "한껏 기분이 업된 듯한 그녀의 말에 맞장구를 쳐 준다. "
-    "对她那似乎很兴奋的话, 尽可能地附和了一句。"
+    "对她那似乎很兴奋的话，尽可能地附和了一句。"
 
 # game/chapter1.rpy:421
 translate chinese chapter1_7829da79:
@@ -1360,7 +1360,7 @@ translate chinese ecg2_label_6927452a:
 translate chinese ecg2_label_58d03f05:
 
     # 나 "“…… 뭐가 어떻게 된 거지.”"
-    나 "“…… 到底是怎么回事。”"
+    나 "“……到底是怎么回事。”"
 
 # game/chapter1.rpy:792
 translate chinese ecg2_label_2c8f37ee:
@@ -1428,13 +1428,13 @@ translate chinese ecg2_label_186f3b60:
 translate chinese ecg2_label_045ae11d:
 
     # "…… 여긴 도대체 어디지？"
-    "…… 这里到底是哪儿？"
+    "……这里到底是哪儿？"
 
 # game/chapter1.rpy:824
 translate chinese ecg2_label_fceb99e1:
 
     # 나 "“으윽…….”"
-    나 "呃……"
+    나 "“呃……”"
 
 # game/chapter1.rpy:826
 translate chinese ecg2_label_0498283b:
@@ -1566,7 +1566,7 @@ translate chinese ecg2_label_d8d9dd8d:
 translate chinese ecg2_label_f45bfe8e:
 
     # "…… 꿈인가？"
-    "…… 是梦吗？"
+    "……是梦吗？"
 
 # game/chapter1.rpy:877
 translate chinese ecg2_label_4505c6f6:
@@ -1596,7 +1596,7 @@ translate chinese ecg2_label_0aff76a8:
 translate chinese ecg2_label_f946dfc3:
 
     # 나 "‘몸이…… 바뀌기라도 한 건가？’"
-    나 "“身体…… 是被换了吗？”"
+    나 "“身体……是被换了吗？”"
 
 # game/chapter1.rpy:892
 translate chinese ecg2_label_89c1f3e3:
@@ -1674,7 +1674,7 @@ translate chinese ecg2_label_205fc435:
     # voice "voices/ya51.ogg"
     # whoyumi "“후아, 한참을 뛰었네……. 백석 고등학교는 그쪽이 아니라고.”"
     voice "voices/ya51.ogg"
-    whoyumi "“呼啊，跑了好一阵子…… 白石高中不是在那边嘛。”"
+    whoyumi "“呼啊，跑了好一阵子……白石高中不是在那边嘛。”"
 
 # game/chapter1.rpy:922
 translate chinese ecg2_label_04f388ff:
@@ -1834,7 +1834,7 @@ translate chinese ecg2_label_0263bbc2:
 translate chinese ecg2_label_d0a50c7e:
 
     # 나 "“으응…… 잘 부탁해.”"
-    나 "“嗯…… 拜托了。”"
+    나 "“嗯……拜托了。”"
 
 # game/chapter1.rpy:982
 translate chinese ecg2_label_b17357e6:
@@ -1898,7 +1898,7 @@ translate chinese ecg2_label_41df71d6:
     # voice ""
     # "…… 입학식이라고？"
     voice ""
-    "…… 入学典礼？"
+    "……入学典礼？"
 
 # game/chapter1.rpy:999
 translate chinese ecg2_label_a6903d42:
@@ -1954,7 +1954,7 @@ translate chinese ecg2_label_b43afd32:
 translate chinese ecg2_label_396673fa_1:
 
     # 나 "“…….”"
-    나 "……"
+    나 "“……”"
 
 # game/chapter1.rpy:1031
 translate chinese ecg2_label_3a0db903:
@@ -2052,7 +2052,7 @@ translate chinese ecg2_label_523486f6:
     # voice ""
     # "그녀는 소원을 빌듯, 하늘에 대고 말했다."
     voice ""
-    "她像许愿一样，对天空说到。"
+    "她像许愿一样，对天空说道。"
 
 # game/chapter1.rpy:1062
 translate chinese ecg2_label_35eccdcd:
@@ -2362,7 +2362,7 @@ translate chinese ecg2_label_31d98d55:
     # voice ""
     # "단순한 우연이라고 하기엔 너무 편의주의적 상황이 아닐까."
     voice ""
-    "若是单纯地说是偶然，是不是太机会主义了呢？"
+    "若是单纯地说是偶然，是不是太便宜主义了呢？"
 
 # game/chapter1.rpy:1184
 translate chinese ecg2_label_d27ea355:
@@ -4955,7 +4955,7 @@ translate chinese chapter1_2_e1d3aaf8:
     # voice "voices/ga27.ogg"
     # 소녀 "“…… 알겠어요. 먼저 앞장서주세요. 따라갈 테니까요.”"
     voice "voices/ga27.ogg"
-    소녀 "“知道了。请先带头。我会跟着你。”"
+    소녀 "“……知道了。请先带头。我会跟着你。”"
 
 # game/chapter1.rpy:2253
 translate chinese chapter1_2_ef2b4e86:

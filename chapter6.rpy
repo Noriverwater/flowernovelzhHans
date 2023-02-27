@@ -4412,7 +4412,7 @@ translate chinese ecg12_label_c1700853:
 translate chinese ecg12_label_75f48953:
 
     # 나 "“북극성이라면, 폴라리스를 이야기하는 거겠네.”"
-    나 "“如果是北极星的话应该是在说polaris（注：这里应该指勾陈一）吧。”"
+    나 "“如果是北极星的话应该是在说普拉利斯（polaris）（译者注：指勾陈一）吧。”"
 
 # game/chapter6.rpy:1636
 translate chinese ecg12_label_71798e1b:
@@ -4420,7 +4420,7 @@ translate chinese ecg12_label_71798e1b:
     # voice "voices/yf117.ogg"
     # 유미 "“폴라리스? 아냐, 저건 알라이라는 별이라고.”"
     voice "voices/yf117.ogg"
-    유미 "“polaris？不，那是一颗叫errai（注：指少卫增八）的星星。”"
+    유미 "“polaris？不，那是一颗叫阿莱（errai）（译者注：指少卫增八）的星星。”"
 
 # game/chapter6.rpy:1638
 translate chinese ecg12_label_e0c57277:
@@ -4428,7 +4428,7 @@ translate chinese ecg12_label_e0c57277:
     # voice ""
     # 나 "“알라이?”"
     voice ""
-    나 "“errai？”"
+    나 "“阿莱？”"
 
 # game/chapter6.rpy:1641
 translate chinese ecg12_label_df136b4c:
@@ -4464,7 +4464,7 @@ translate chinese ecg12_label_1dc01387:
     # voice "voices/yf119.ogg"
     # 유미 "“가장 가까이 있는 게 늘 같을 수는 없잖아.”"
     voice "voices/yf119.ogg"
-    유미 "“最近的东西不可能总是一样啊。”"
+    유미 "“最近处的东西不可能总是一样啊。”"
 
 # game/chapter6.rpy:1652
 translate chinese ecg12_label_29218aba:
@@ -4554,7 +4554,7 @@ translate chinese ecg12_label_b93ec16d:
 translate chinese ecg12_label_8e23b12c:
 
     # "그 단어가 꼭 암구호라도 되는 것처럼, 나는 멍하니 유미가 가리켰던 알라이라는 별을 바라보았다. "
-    "我呆呆地看着优美所指的名为errai的星星，这个词好像某个暗号。"
+    "我呆呆地看着优美所指的名为阿莱的星星，这个词好像某个暗号。"
 
 # game/chapter6.rpy:1686
 translate chinese ecg12_label_ebe76123:
@@ -4782,7 +4782,7 @@ translate chinese ecg13_label_8524e354:
 translate chinese ecg13_label_8514c726:
 
     # "지극히 편의주의적인 전개. "
-    "极端机会主义的展开。"
+    "极端便宜主义的展开。"
 
 # game/chapter6.rpy:1762
 translate chinese ecg13_label_84d246bb:
@@ -4824,7 +4824,7 @@ translate chinese ecg13_label_91baa63c:
 translate chinese ecg13_label_89cdd2fd:
 
     # "생각해야만 했다. "
-    "我不得不考虑。"
+    "我不得不思考。"
 
 # game/chapter6.rpy:1779
 translate chinese ecg13_label_fe9d75c0:

@@ -1568,7 +1568,7 @@ translate chinese chapter5_94dc19cb:
 translate chinese chapter5_cceb1bec:
 
     # "위와 아래가 뒤바뀐 듯한 풍경이었다. "
-    "上下颠倒的风景。"
+    "好像是上下颠倒的风景。"
 
 # game/chapter5.rpy:646
 translate chinese chapter5_f11e4a6f:
@@ -2288,7 +2288,7 @@ translate chinese chapter5_f65e4289:
     # voice "voices/he1.ogg"
     # 현지 "“말도 안 돼요. 선배, 어떻게 이런 곳을 하루만에 찾은 거예요?” "
     voice "voices/he1.ogg"
-    현지 "“真不像话。前辈，你怎么在一天之内就找到了这样的地方？”"
+    현지 "“真不像话。前辈，怎么在一天之内就找到了这样的地方？”"
 
 # game/chapter5.rpy:917
 translate chinese chapter5_0b0d7b01:
@@ -3614,7 +3614,7 @@ translate chinese chapter5_5e4302ba:
 translate chinese chapter5_137349e1:
 
     # "몇 걸음 정도를 더 걸었을까. "
-    "又走了几步呢？。"
+    "又走了几步呢？"
 
 # game/chapter5.rpy:1527
 translate chinese chapter5_15a01890:
