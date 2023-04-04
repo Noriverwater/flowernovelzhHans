@@ -15,7 +15,7 @@
 - Python 3
 - Ren'Py 8.03
 
-**开始构建**
+**从源代码构建**
 
 1. `git clone https://github.com/Noriverwater/flowernovelzhHans.git`
 
@@ -80,7 +80,7 @@ A：严格来说，这不是制作人的第一部作品。
 A：您大概率已经发现了，这里有一个同样是非官方的粉丝制作模组["다시, 기억의 끝자락에서 피는 꽃"](https://cafe.naver.com/midnightworks/2238)（再一次，在记忆的末尾盛开的花）。
 它添加了优美和贤智的个人线路，**但您务必要在完全达成游戏本篇的结局后安装这个模组，因为这些是在游戏本篇结局后发生的故事**。作为一个非官方的作品，其中的设定应该只是模组团队剧本的想法，应该吧。
 
-这个项目与该模组有良好的兼容性。遗憾的是，我没有翻译这个模组的计划。不过已经有人开坑了：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/hanmin0822/MisakaTranslator)、[MisakaTranslator](
+这个项目与该模组有良好的兼容性。遗憾的是，我没有翻译这个模组的计划。不过已经有人开坑了：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/HIllya51/LunaTranslator)、[MisakaTranslator](
 https://github.com/hanmin0822/MisakaTranslator)等工具帮助你体验模组。在游戏中按下`Shift+C` 可以将当前台词复制到剪贴板。
 
 ### 关于 "여름의 끝에 피는 꽃"
