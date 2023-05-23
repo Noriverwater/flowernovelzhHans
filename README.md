@@ -33,7 +33,7 @@
 
 `tl/chinese`下是 Ren'py 的翻译文件，您可以直接修改其中的译文。screens_zh.rpy 在启动游戏后加载这些文件，以提供非官方的多语言支持，因此，这个项目不会替换原游戏的任何内容。要想贡献翻译，只需要提交 [pull request](https://github.com/Noriverwater/flowernovelzhHans/pulls).
 
-最初的时候，这只是一个在机器翻译基础上润色的项目。后来，虽然许多翻译错误已经被更正，但仍然有很多不尽人意的地方没来得及改——可能与原意差太远了。欢迎您更正错误，或者增加新的功能，我会非常感激的。
+最初的时候，这只是一个在机器翻译基础上润色的项目。后来，虽然大多数多翻译错误已经被更正，但仍然有很多不尽人意的地方没来得及改。欢迎您更正错误。或者增加新的功能，我会非常感激的。目前第二章、第三章、和第四章后半部分有较多错误并需要润色。如果有可能，请优先更正它们。
 
 ## 译文许可证
 
@@ -80,7 +80,7 @@ A：严格来说，这不是制作人的第一部作品。
 A：您大概率已经发现了，这里有一个同样是非官方的粉丝制作模组["다시, 기억의 끝자락에서 피는 꽃"](https://cafe.naver.com/midnightworks/2238)（再一次，在记忆的末尾盛开的花）。
 它添加了优美和贤智的个人线路，**但您务必要在完全达成游戏本篇的结局后安装这个模组，因为这些是在游戏本篇结局后发生的故事**。作为一个非官方的作品，其中的设定应该只是模组团队剧本的想法，应该吧。
 
-这个项目与该模组有良好的兼容性。遗憾的是，我没有翻译这个模组的计划。不过已经有人开坑了：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/HIllya51/LunaTranslator)、[MisakaTranslator](
+好消息是，云恭雀正在翻译这个模组：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/HIllya51/LunaTranslator)、[MisakaTranslator](
 https://github.com/hanmin0822/MisakaTranslator)等工具帮助你体验模组。在游戏中按下`Shift+C` 可以将当前台词复制到剪贴板。
 
 ### 关于 "여름의 끝에 피는 꽃"
@@ -101,7 +101,7 @@ https://github.com/hanmin0822/MisakaTranslator)等工具帮助你体验模组。
 
 - 要想了解这部作品的前世与今生，可以看看制作人写的这篇文章：
 
-    https://cafe.naver.com/midnightworks/2238
+    https://cafe.naver.com/midnightworks/2175
 
 
 - 要想了解有关这部作品的更多信息，[namuwiki](https://namu.wiki/w/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%81%9D%EC%97%90%20%ED%94%BC%EB%8A%94%20%EA%BD%83) 和 [VNDB](https://vndb.org/v30340) 上有更加详细的记载。
