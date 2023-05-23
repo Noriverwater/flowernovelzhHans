@@ -2,6 +2,8 @@
 
 视觉小说[여름의 끝에 피는 꽃（Flowers blooming at the end of summer）](https://store.steampowered.com/app/1173010/)，译名《夏末盛开的花》的非官方，粉丝制作的简体中文化补丁。
 
+“夏末花开”是旧译名。虽然“夏末盛开的花”更加贴合原始标题，但您可以根据自己的喜好随意使用两个译名来称呼这部作品。
+
 [한국어](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_ko.md) [English](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_en.md) [日本語](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_jp.md) 版说明以后再写。
 
 ## 下载
@@ -77,7 +79,7 @@ A：严格来说，这不是制作人的第一部作品。
 
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
-A：您大概率已经发现了，这里有一个同样是非官方的粉丝制作模组["다시, 기억의 끝자락에서 피는 꽃"](https://cafe.naver.com/midnightworks/2238)（再一次，在记忆的末尾盛开的花）。
+A：您大概率已经发现了，这里有一个同样是非官方的粉丝制作模组["다시, 기억의 끝자락에서 피는 꽃"](https://cafe.naver.com/midnightworks/2238)（再次，在记忆的末尾盛开的花）。
 它添加了优美和贤智的个人线路，**但您务必要在完全达成游戏本篇的结局后安装这个模组，因为这些是在游戏本篇结局后发生的故事**。作为一个非官方的作品，其中的设定应该只是模组团队剧本的想法，应该吧。
 
 好消息是，云恭雀正在翻译这个模组：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/HIllya51/LunaTranslator)、[MisakaTranslator](
