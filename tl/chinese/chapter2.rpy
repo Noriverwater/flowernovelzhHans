@@ -4470,7 +4470,7 @@ translate chinese ecg3_label_216a2148:
     # voice ""
     # 나 "“그래？ 난 그제 거기서 처음 봤었는데.”"
     voice ""
-    나 "“是吗？我前天第一次在那里看到。”"
+    나 "“是吗？我前天才第一次在那里看到。”"
 
 # game/chapter2.rpy:1946
 translate chinese ecg3_label_9d829412:
@@ -4478,7 +4478,7 @@ translate chinese ecg3_label_9d829412:
     # voice "voices/hb26.ogg"
     # 현지 "“1년 전부터 기사로도 자주 올라왔었는걸요？ 가끔씩 관제센터에서 로봇들과 연결이 끊어져서 로봇들이 실종되곤 한다면서요.”"
     voice "voices/hb26.ogg"
-    현지 "“从1年前开始也经常作为新闻出现吧？机器人有时会和管制中心脱钩，然后它们就失踪了。”"
+    현지 "“从一年前开始就经常有新闻报道啊？有时候管制中心和机器人的连接断了，机器人就失踪了什么的。”"
 
 # game/chapter2.rpy:1948
 translate chinese ecg3_label_9f3b4ce7:
@@ -4486,19 +4486,19 @@ translate chinese ecg3_label_9f3b4ce7:
     # voice ""
     # 나 "“그런가. 그나저나, 1년 전이라면…….”"
     voice ""
-    나 "“是吗。顺便说一句，如果是一年前……”"
+    나 "“是吗。话说回来，如果是一年前……”"
 
 # game/chapter2.rpy:1951
 translate chinese ecg3_label_dacf33fe:
 
     # "1년이라면, 거기까지다. "
-    "如果说是一年前，就是如此而已。"
+    "如果说是一年前，就到此为止了。"
 
 # game/chapter2.rpy:1952
 translate chinese ecg3_label_e190b50e:
 
     # "나의 온전한 기억이 손을 뻗을 수 있는 마지노선이라고 해야겠지. "
-    "应该说是我的记忆可以延伸到的马其诺防线吧。"
+    "应该说是我完整的记忆可以延伸到的马其诺防线吧。"
 
 # game/chapter2.rpy:1953
 translate chinese ecg3_label_e1ff50fa:
@@ -4510,13 +4510,13 @@ translate chinese ecg3_label_e1ff50fa:
 translate chinese ecg3_label_a7117773:
 
     # "애매모호한 경계선이라는 것이다. "
-    "这是一条模糊的界线。"
+    "这是一条模糊的分界线。"
 
 # game/chapter2.rpy:1956
 translate chinese ecg3_label_4b177d2c:
 
     # "내가 기억의 손을 뻗을 수 있는 곳인지, 그렇지 않은 곳인지……."
-    "我的手可以接触到记忆的哪里呢……"
+    "是我记忆的手能够延伸到的地方，也是不能到达的地方……"
 
 # game/chapter2.rpy:1960
 translate chinese ecg3_label_4399a19a:
@@ -4532,13 +4532,13 @@ translate chinese ecg3_label_15cea5f7:
     # voice ""
     # 나 "“아, 그것도 그렇네.”"
     voice ""
-    나 "“啊，那也是。”"
+    나 "“啊，也是啊。”"
 
 # game/chapter2.rpy:1965
 translate chinese ecg3_label_637bead8:
 
     # "그러고 보니 그 여자애가 유령이 되어버린 것도 1년 정도 되었다고 했었지."
-    "想了想，少女变成幽灵应该也有一年左右了。"
+    "说起来，那个女孩变成幽灵也有一年左右了。"
 
 # game/chapter2.rpy:1966
 translate chinese ecg3_label_1cc5605e:
@@ -4562,7 +4562,7 @@ translate chinese ecg3_label_5d359525:
     # voice "voices/hb29.ogg"
     # 현지 "“아, 맞다. 그것도 그렇죠. 하지만 선배가 초능력자는 아니니까요.”"
     voice "voices/hb29.ogg"
-    현지 "“啊，对了。那也是。但是前辈不是超能力者。”"
+    현지 "“啊，对了。也是啊。但是前辈不是超能力者啊。”"
 
 # game/chapter2.rpy:1973
 translate chinese ecg3_label_f897d660:
@@ -4584,7 +4584,7 @@ translate chinese ecg3_label_cc6c493f:
     # voice "voices/hb30.ogg"
     # 현지 "“혹시, 폴터가이스트 현상은 아닐까요？”"
     voice "voices/hb30.ogg"
-    현지 "“或许，会不会是骚灵现象呢？”"
+    현지 "“或许，会不会是骚灵（Poltergeist）现象呢？”"
 
 # game/chapter2.rpy:1980
 translate chinese ecg3_label_8916a7c6:
@@ -4600,7 +4600,7 @@ translate chinese ecg3_label_ee5b9a1c:
     # voice "voices/hb31.ogg"
     # 현지 "“네. 그 유령이 로봇들을 건드려서 이상행동을 하는 것처럼 보이게 됐다던가…….”"
     voice "voices/hb31.ogg"
-    현지 "“是的。那个幽灵碰了机器人，看上去像是在做异常行为……”"
+    현지 "“对。就是那个幽灵碰了机器人，让它们看起来像是出现了异常行为一样……”"
 
 # game/chapter2.rpy:1985
 translate chinese ecg3_label_2f78fac0:
@@ -4614,7 +4614,7 @@ translate chinese ecg3_label_2f78fac0:
 translate chinese ecg3_label_3a7b9ae8:
 
     # "현지는 그 유령 여자애와 로봇들의 이상 행동이 연관되어 있다고 생각하는 걸까. "
-    "贤智认为那个幽灵少女和机器人的异常行为有关联吗？"
+    "贤智是不是觉得那个幽灵女孩和机器人的异常行为有关呢。"
 
 # game/chapter2.rpy:1990
 translate chinese ecg3_label_dd1e66b7:
@@ -4636,13 +4636,13 @@ translate chinese ecg3_label_a635a3c3:
     # voice ""
     # 나 "“아, 그게…… 그 유령 여자애를 발견한 곳도 바로 거기였거든. 확실히 그 유령 여자애랑 연관되었을 수도 있겠다는 생각이 들기는 한데…….”"
     voice ""
-    나 "“啊，那个……发现那个幽灵少女的地方也是那里。确实有可能和那个幽灵少女有关联……”"
+    나 "“啊，那个……发现那个幽灵女孩的地方也是那里。确实有可能和那个幽灵女孩有关联……”"
 
 # game/chapter2.rpy:1997
 translate chinese ecg3_label_ad73c83f:
 
     # "분명 오작동하고 있던 로봇들 틈새로 고개를 푹 숙인 채 소녀가 걸어가고 있긴 했었지만, 그뿐이었다. "
-    "显然，少女低着头穿过故障机器人之间的缝隙，仅此而已。"
+    "显然，少女低着头穿过故障机器人之间的缝隙，但仅此而已。"
 
 # game/chapter2.rpy:2001
 translate chinese ecg3_label_5de58909:
@@ -4656,7 +4656,7 @@ translate chinese ecg3_label_8dcc9d6a:
     # voice "voices/hb33.ogg"
     # 현지 "“직접 로봇을 건드리지는 않았다는 거네요. 그러면 유령의 존재가 전파의 혼선을 일으키기라도 하는 걸까요？”"
     voice "voices/hb33.ogg"
-    현지 "“没有直接接触机器人。那么，幽灵的存在是否会干扰无线电波？”"
+    현지 "“没有直接接触机器人。那么，幽灵的存在会不会引起电波的混乱呢？”"
 
 # game/chapter2.rpy:2007
 translate chinese ecg3_label_55dff863:
@@ -4664,7 +4664,7 @@ translate chinese ecg3_label_55dff863:
     # voice ""
     # 나 "“글쎄. 같이 다니다 보면 알 수 있지 않을까.”"
     voice ""
-    나 "“是呀。如果之前我们一起走的话不就知道了吗。”"
+    나 "“是呀。一起走走看不就能知道了吗。”"
 
 # game/chapter2.rpy:2012
 translate chinese ecg3_label_23e9fe93:
@@ -4720,7 +4720,7 @@ translate chinese ecg3_label_840a3e7c:
 translate chinese ecg3_label_9b2de491:
 
     # "걷다 보니 어느새 하굣길은 끝이 나 있었다. "
-    "走着走着，不知不觉就到了分歧点。"
+    "走着走着，放学的路就走到了尽头。"
 
 # game/chapter2.rpy:2033
 translate chinese ecg3_label_580c0a87:
@@ -4742,13 +4742,13 @@ translate chinese ecg3_label_2dd5642c:
     # voice ""
     # 나 "“편해지는 것까진 가능할지 몰라도, 친해지기는 아무래도 어렵지 않을까.”"
     voice ""
-    나 "“可能很快就适应在一起生活了，但是拉近距离还是很难的。”"
+    나 "“可能很快就适应在一起生活了，但是拉近距离恐怕还是很难的。”"
 
 # game/chapter2.rpy:2040
 translate chinese ecg3_label_dab6cc7a:
 
     # "손을 흔드는 것을 잠시 뒤로 미뤄두고, 나는 현관문 앞에서 발걸음을 멈춰 세웠다. "
-    "暂时推迟挥手道别，我在门口前停住了脚步。"
+    "暂时把挥手的动作放在一边，我在门口停下了脚步。"
 
 # game/chapter2.rpy:2042
 translate chinese ecg3_label_09a2e755:
@@ -4764,7 +4764,7 @@ translate chinese ecg3_label_db584cbc:
     # voice ""
     # 나 "“으응, 나를 부담스러워 하는 거 같기도 하고.”"
     voice ""
-    나 "“嗯，好像让我感觉到了负担。”"
+    나 "“嗯，感觉我有点不自在。”"
 
 # game/chapter2.rpy:2047
 translate chinese ecg3_label_9dd48486:
@@ -4800,7 +4800,7 @@ translate chinese ecg3_label_b799846f:
     # voice "voices/hb39.ogg"
     # 현지 "“전 선배가 그 유령 여자애랑 친해진다에 걸게요.”"
     voice "voices/hb39.ogg"
-    현지 "“我赌前辈会跟那个幽灵女孩会变得亲近。”"
+    현지 "“我赌前辈能和那个幽灵女孩成为朋友。”"
 
 # game/chapter2.rpy:2057
 translate chinese ecg3_label_db7f2259:
@@ -4808,7 +4808,7 @@ translate chinese ecg3_label_db7f2259:
     # voice ""
     # 나 "“그렇다고 내기까지 할 필요는 없는데…….”"
     voice ""
-    나 "“那也没必要打赌……”"
+    나 "“就算这样，也没必要打赌啊……”"
 
 # game/chapter2.rpy:2060
 translate chinese ecg3_label_3e418cd2:
@@ -4820,13 +4820,13 @@ translate chinese ecg3_label_3e418cd2:
 translate chinese ecg3_label_7285df1f:
 
     # "현지도 나와 같은 생각을 한 건지, 나를 조금은 부담스러울 정도로 빤히 바라보던 시선을 슬쩍 틀고서는 멋쩍은 표정을 지어 보였다. "
-    "贤智可能和我抱有一样的想法，稍微转移了显然对我有点负担的视线，露出了尴尬的表情。"
+    "贤智是不是也有同样的想法，她一直盯着我看，让我有点不自在，然后偷偷地转开了视线，露出了尴尬的表情。"
 
 # game/chapter2.rpy:2064
 translate chinese ecg3_label_4bdd0381:
 
     # "가벼운 헛기침 소리가 들려왔다. "
-    "传来轻微的干咳声。"
+    "传来了轻微的干咳声。"
 
 # game/chapter2.rpy:2068
 translate chinese ecg3_label_e7e0d001:
@@ -4834,7 +4834,7 @@ translate chinese ecg3_label_e7e0d001:
     # voice "voices/hb40.ogg"
     # 현지 "“알겠어요. 그래도 나중에 뭔가 알아낸 게 생기면 꼭 연락 줘야 해요？”"
     voice "voices/hb40.ogg"
-    현지 "“知道了。但是以后有什么发现的话一定要联系我。”"
+    현지 "“知道了。但是以后有什么发现的话，一定要联系我哦？”"
 
 # game/chapter2.rpy:2070
 translate chinese ecg3_label_389a1664:
@@ -4842,7 +4842,7 @@ translate chinese ecg3_label_389a1664:
     # voice ""
     # 나 "“으응, 알겠어. 바로 연락 줄게.”"
     voice ""
-    나 "“啊，我明白了。我很快会你联系的。”"
+    나 "“啊，我明白了。我很快会联系你的。”"
 
 # game/chapter2.rpy:2073
 translate chinese ecg3_label_4be31493:
@@ -4850,7 +4850,7 @@ translate chinese ecg3_label_4be31493:
     # voice "voices/hb41.ogg"
     # 현지 "“히, 그러면 그때 봐요~”"
     voice "voices/hb41.ogg"
-    현지 "“那么到时候再见~”"
+    현지 "“嘻，那就到时候见啦~”"
 
 # game/chapter2.rpy:2075
 translate chinese ecg3_label_e5e81d38:
@@ -4858,7 +4858,7 @@ translate chinese ecg3_label_e5e81d38:
     # voice ""
     # "현지의 눈동자는 어느새 원래의 가벼운 빛을 띠고 있었다. "
     voice ""
-    "贤智的眼睛，恢复了原来的神采。"
+    "贤智的眼睛，又恢复了原来的轻松神色。"
 
 # game/chapter2.rpy:2083
 translate chinese ecg3_label_d058862a:
@@ -4870,7 +4870,7 @@ translate chinese ecg3_label_d058862a:
 translate chinese ecg3_label_f356448f:
 
     # "사라져가는 현지의 뒷모습을 바라보며, 왠지 모르게 가벼운 웃음을 지어 버렸다. "
-    "望着贤智消失的背影，莫名地露出了淡淡的笑容。"
+    "望着贤智消失的背影，我不知怎么地笑了起来。"
 
 # game/chapter2.rpy:2095
 translate chinese ecg3_label_205509a9:
@@ -4906,7 +4906,7 @@ translate chinese ecg3_label_b27ab653:
 translate chinese ecg3_label_297e0a7e:
 
     # 나 "‘어디 갔지……？’"
-    나 "“去哪里了？”"
+    나 "“去哪里了……？”"
 
 # game/chapter2.rpy:2104
 translate chinese ecg3_label_4c764b1e:
@@ -4936,7 +4936,7 @@ translate chinese ecg3_label_13fc4dc6:
 translate chinese ecg3_label_d9f396ce:
 
     # "물줄기 소리에 섞여 또렷이 들리진 않았지만, 분명 노랫소리였다. "
-    "里面夹杂着水声，听不清楚，但绝对是歌声。"
+    "里面夹杂着水声，听不清楚，但是但绝对是歌声。"
 
 # game/chapter2.rpy:2118
 translate chinese ecg3_label_396673fa_2:
@@ -4954,7 +4954,7 @@ translate chinese ecg3_label_6f30abcc:
 translate chinese ecg3_label_9fb61990:
 
     # "소리가 들려오는 곳을 향해 발걸음을 옮기자, 점점 더 또렷이 들려왔다. "
-    "向传来声音的地方移动脚步，声音愈发清晰。"
+    "向传来声音的地方移动脚步，声音就愈发清晰。"
 
 # game/chapter2.rpy:2123
 translate chinese ecg3_label_e258cfd7:
@@ -4978,7 +4978,7 @@ translate chinese ecg3_label_2434794d:
 translate chinese ecg3_label_7717d312:
 
     # "그러니까, 지금 분명 소녀는 이 안에서 샤워를 하고 있는 거겠지. "
-    "所以说现在少女肯定在这里洗澡吧。"
+    "所以说现在少女肯定在里面洗澡吧。"
 
 # game/chapter2.rpy:2131
 translate chinese ecg3_label_837b288b:
@@ -4990,7 +4990,7 @@ translate chinese ecg3_label_837b288b:
 translate chinese ecg3_label_a864f638:
 
     # "잠시 뇌정지가 온 탓에, 문 앞에 서서 멍하니 몇 초 정도 소녀의 허밍 소리를 듣고만 있었다. "
-    "大脑暂时停止运转，只能站在门口呆呆地听着少女的歌声。"
+    "我有一瞬间大脑暂时停止运转，只能站在门口呆呆地听着少女的歌声。"
 
 # game/chapter2.rpy:2136
 translate chinese ecg3_label_e7707c3a:
@@ -5002,7 +5002,7 @@ translate chinese ecg3_label_e7707c3a:
 translate chinese ecg3_label_19fd5a4b:
 
     # "이내 정신을 차린 나는 욕실 안에 있을 소녀에게 최대한 조심스럽게 말을 건네 보았다. "
-    "我立刻回过神来，尽可能小心翼翼地对浴室里的少女说。"
+    "我一下子回过神来，尽可能小心翼翼地对浴室里的少女说。"
 
 # game/chapter2.rpy:2138
 translate chinese ecg3_label_aee04c77:
@@ -5014,19 +5014,19 @@ translate chinese ecg3_label_aee04c77:
 translate chinese ecg3_label_59bc57ed:
 
     # 나 "“저기…… 안에 있어？”"
-    나 "“那个……在里面吗？”"
+    나 "“那个……你在里面吗？”"
 
 # game/chapter2.rpy:2143
 translate chinese ecg3_label_c5a69c8b:
 
     # "나의 목소리가 욕실 안의 소녀에게 확실하게 전해졌는지, 흘러나오던 노랫소리가 뚝 끊어졌다. "
-    "我的声音好像确实传到了浴室里的少女那里，歌声戛然而止。"
+    "我的声音是不是清楚地传到了浴室里的少女那里，原本流淌的歌声突然断了。"
 
 # game/chapter2.rpy:2144
 translate chinese ecg3_label_3de24ac5:
 
     # "욕실에서는 샤워기에서 떨어지고 있을 물줄기 소리만이 눈치 없이 들려올 뿐이었다. "
-    "只剩下淋浴间滴水的声音。"
+    "浴室里只有淋浴器落下的水流声不知趣地响着。"
 
 # game/chapter2.rpy:2146
 translate chinese ecg3_label_9c9f0eac:
@@ -5034,7 +5034,7 @@ translate chinese ecg3_label_9c9f0eac:
     # voice "voices/gb81.ogg"
     # 소녀 "“드, 들어오면 안 돼요!”"
     voice "voices/gb81.ogg"
-    소녀 "“喂，你不能进来！”"
+    소녀 "“不，不要进来！”"
 
 # game/chapter2.rpy:2149
 translate chinese ecg3_label_4b5fe452:
@@ -5042,7 +5042,7 @@ translate chinese ecg3_label_4b5fe452:
     # voice ""
     # 나 "“아, 안 들어갈 거거든？”"
     voice ""
-    나 "“啊，我不进去。”"
+    나 "“啊，我不会进去的？”"
 
 # game/chapter2.rpy:2152
 translate chinese ecg3_label_bb032f3e:
@@ -5056,7 +5056,7 @@ translate chinese ecg3_label_e7ab783c:
     # voice "voices/gb82.ogg"
     # 소녀 "“그, 금방 나갈 거예요…….”"
     voice "voices/gb82.ogg"
-    소녀 "“呃，马上就出去了……”"
+    소녀 "“我，我马上就出来……”"
 
 # game/chapter2.rpy:2155
 translate chinese ecg3_label_6efc46c5:
@@ -5100,7 +5100,7 @@ translate chinese ecg3_label_9c82e56d:
 translate chinese ecg3_label_b514a69f:
 
     # "곧이어 욕실에서 들려오던 소리가 모두 멎자, 정말 심장이 뛰는 소리만이 귓등을 때렸다. "
-    "不久之后，浴室里所有的声音都停止了，只有我的心跳声还在耳后响。"
+    "不久之后，浴室里所有的声音都停止了，只有我的心跳声还在耳后响着。"
 
 # game/chapter2.rpy:2172
 translate chinese ecg3_label_9758e467:
@@ -5148,7 +5148,7 @@ translate chinese ecg3_label_0bc7f747:
     # voice "voices/gb84.ogg"
     # 소녀 "“아, 맞다. 그랬었죠…….”"
     voice "voices/gb84.ogg"
-    소녀 "“啊对。原来是这样……”"
+    소녀 "“啊，对啊。是这样……”"
 
 # game/chapter2.rpy:2191
 translate chinese ecg3_label_2b1e2478:
@@ -5168,7 +5168,7 @@ translate chinese ecg3_label_9fb54ad4:
 translate chinese ecg3_label_8e813f2b:
 
     # "괜히 머쓱해져버려 그런 생각을 하던 도중, 만약을 가정한 상상 하나가 내 머릿속에 떠올라 버린다. "
-    "在我觉得尴尬的时候，脑海中浮现了一个大胆的想法。"
+    "正觉得有些不好意思的时候，我脑海里突然浮现出了一个假设的想象。"
 
 # game/chapter2.rpy:2195
 translate chinese ecg3_label_67223576:
@@ -5210,19 +5210,19 @@ translate chinese ecg3_label_606b29ff:
 translate chinese ecg3_label_01e116f8:
 
     # "갑자기 붉어진 내 얼굴을 보고선 의아한 눈치를 보이는 소녀. "
-    "看到我突然变红的脸，少女露出惊讶的神色。"
+    "看到我突然变红的脸，少女露出了疑惑的神色。"
 
 # game/chapter2.rpy:2210
 translate chinese ecg3_label_c86603c5:
 
     # "나를 바라보는 소녀의 시선이 나의 마음을 읽어내기라도 할까 봐, 나는 대뜸 소녀를 향해 아무 말이나 되는 대로 말해 버렸다. "
-    "怕少女能看穿我的心，我马上解释。"
+    "我怕少女的目光能看穿我的心思，就随便对她说了些话。"
 
 # game/chapter2.rpy:2212
 translate chinese ecg3_label_aace775a:
 
     # 나 "“그, 그나저나, 몰랐네. 유령도 샤워를 해야 하는 줄은.”"
-    나 "“话说回来，我还以为幽灵不需要洗澡呢。”"
+    나 "“那，那个，我不知道。幽灵也要洗澡啊。”"
 
 # game/chapter2.rpy:2214
 translate chinese ecg3_label_5284426f:
@@ -5230,7 +5230,7 @@ translate chinese ecg3_label_5284426f:
     # voice "voices/gb85.ogg"
     # 소녀 "“그, 그건…… 기분의 문제라고요.”"
     voice "voices/gb85.ogg"
-    소녀 "“那，那个……那是心情的问题。”"
+    소녀 "“那，那个……那是心情的问题啦。”"
 
 # game/chapter2.rpy:2216
 translate chinese ecg3_label_2f5378d8:
@@ -5250,13 +5250,13 @@ translate chinese ecg3_label_f065e651:
 translate chinese ecg3_label_8995b66d:
 
     # "정말 아무 말이나 꺼내버렸으니 말이다. "
-    "有点口无遮拦了。"
+    "真的有点口无遮拦了。"
 
 # game/chapter2.rpy:2221
 translate chinese ecg3_label_12f4c544:
 
     # 나 "“어…… 갈아입을 옷도 없는데 괜찮겠어？”"
-    나 "“嗯……也没有可以换的衣服真的没关系吗？”"
+    나 "“嗯……没有换衣服，没关系吗？”"
 
 # game/chapter2.rpy:2223
 translate chinese ecg3_label_818be0c7:
@@ -5264,7 +5264,7 @@ translate chinese ecg3_label_818be0c7:
     # voice "voices/gb86.ogg"
     # 소녀 "“그, 그, 그런 것까지 신경 쓸 필요는 없거든요.”"
     voice "voices/gb86.ogg"
-    소녀 "“那，那，那个，不需要在意。”"
+    소녀 "“那，那，那种事情不用你担心的。”"
 
 # game/chapter2.rpy:2226
 translate chinese ecg3_label_6e1c0b4f:
@@ -5314,7 +5314,7 @@ translate chinese ecg3_label_c101430f:
 translate chinese ecg3_label_debdde6a:
 
     # "접시를 비우고 나서는, 그녀 특유의 목소리로 “잘 먹었습니다.”라고 인사하는 것도, 소녀는 잊지 않고 있었다. "
-    "清空盘子后，少女用不忘她特有的语调说：“多谢款待。”"
+    "清空盘子后，少女不忘用她特有的语调说：“多谢款待。”"
 
 # game/chapter2.rpy:2248
 translate chinese ecg3_label_09216b81:
@@ -5336,7 +5336,7 @@ translate chinese ecg3_label_ada202c5:
     # voice ""
     # 나 "“응, 그러려고. 빠르면 빠를수록 좋잖아.”"
     voice ""
-    나 "“是的，为此。越早越好。”"
+    나 "“嗯，是这样的。越快越好嘛。”"
 
 # game/chapter2.rpy:2259
 translate chinese ecg3_label_39450cfa:
@@ -5348,7 +5348,7 @@ translate chinese ecg3_label_39450cfa:
 translate chinese ecg3_label_2acc660a:
 
     # 나 "“돌아오는 건 저녁쯤이면 될 것 같으니까, 세 군데 정도 돌아다녀 볼 거야.”"
-    나 "“我想我们会在晚上回来，所以大致会去三个地方。”"
+    나 "“回来的话，晚上左右就可以了，所以我打算去看看三个地方。”"
 
 # game/chapter2.rpy:2263
 translate chinese ecg3_label_711f27be:
@@ -5362,7 +5362,7 @@ translate chinese ecg3_label_7dbeb79f:
     # voice "voices/gb88.ogg"
     # 소녀 "“상가 건물이랑, 주택가 쪽이네요. 전에 이야기한 화재 사고가 일어난 곳들이죠？”"
     voice "voices/gb88.ogg"
-    소녀 "“商业区和住宅区附近啊，是发生火灾事故的地方吧？”"
+    소녀 "“是商业区和住宅区附近啊，是发生火灾事故的地方吧？”"
 
 # game/chapter2.rpy:2272
 translate chinese ecg3_label_b0efa1e5:
@@ -5430,7 +5430,7 @@ translate chinese ecg3_label_e5b8704c:
 translate chinese ecg3_label_79a123ea:
 
     # "물론, 이 여행이 소녀에게 시한부 인생을 선사하는 것이라고 생각하면, 그리 유쾌하다고는 생각되지 않겠지만 말이다. "
-    "当然，如果认为这次旅行给少女带来了她在这个世界上的终结，就不会觉得很愉快。"
+    "当然，如果想到这次旅行是给少女带来有限的人生的话，就不会觉得那么愉快了。"
 
 # game/chapter2.rpy:2294
 translate chinese ecg3_label_b9068ea1:
@@ -5442,7 +5442,7 @@ translate chinese ecg3_label_b9068ea1:
 translate chinese ecg3_label_1d61dc19:
 
     # "소녀는 그녀 나름대로는 편하다고 할 수 있는 표정을 짓고 있었다. "
-    "少女做出了一副舒服的表情。"
+    "少女做出了一副可以说是舒服的表情。"
 
 # game/chapter2.rpy:2296
 translate chinese ecg3_label_25037335:
@@ -5466,13 +5466,13 @@ translate chinese ecg3_label_627e79ff:
 translate chinese ecg3_label_a95f3ee1:
 
     # "이미 죽어 영원한 안식을 가졌어야 할, 망자인 것이다. "
-    "已经死了，亡者应该永远安息下去。"
+    "本应该已经死去，享受永恒的安息的，亡者。"
 
 # game/chapter2.rpy:2302
 translate chinese ecg3_label_72100bdc:
 
     # "이름조차 없는 존재하지 않아야 할 존재. "
-    "连名字都没有的不应该存在的存在。"
+    "连名字都没有的，不应该存在的存在。"
 
 # game/chapter2.rpy:2303
 translate chinese ecg3_label_47026da4:
@@ -5514,7 +5514,7 @@ translate chinese ecg3_label_b3cf1e1e:
 translate chinese ecg3_label_1f80eba4:
 
     # "그래도 그리 많은 사람이 돌아다니지 않아서인지, 소녀의 얼굴은 살짝 긴장한 선에서 그쳐 있었다. "
-    "也许是因为没有那么多人走动，少女的脸还是有些紧绷。"
+    "也许是因为没有太多人来来往往，少女的脸上只有一点点紧张。"
 
 # game/chapter2.rpy:2330
 translate chinese ecg3_label_2262cbcb:
@@ -5562,7 +5562,7 @@ translate chinese ecg3_label_4913564b:
     # voice "voices/gb93.ogg"
     # 소녀 "“아뇨. 여기저기 돌아다니긴 했지만, 이렇게 멀리까지 와 본 적은 없어요.”"
     voice "voices/gb93.ogg"
-    소녀 "“不。虽然一直在四处游荡，但我从来没有走这么远。”"
+    소녀 "“不。虽然一直在四处游荡，但从来没有走这么远。”"
 
 # game/chapter2.rpy:2348
 translate chinese ecg3_label_5dc08e7d:
@@ -5576,7 +5576,7 @@ translate chinese ecg3_label_5dc08e7d:
 translate chinese ecg3_label_d610c54d:
 
     # "발걸음을 내디디려다 말고, 소녀는 문득 아까 전의 이야기를 정정이라도 하려는지 무언가 말을 덧붙였다. "
-    "少女想迈开脚步，突然又补充了一些，好像想更正刚才的话。"
+    "少女想迈开脚步，又好像想要纠正刚才的话一样，补充了一句。"
 
 # game/chapter2.rpy:2352
 translate chinese ecg3_label_d0ccdf55:
@@ -5584,7 +5584,7 @@ translate chinese ecg3_label_d0ccdf55:
     # voice "voices/gb94.ogg"
     # 소녀 "“제가 기억 못 하고 있는 걸 수도 있겠지만요.”"
     voice "voices/gb94.ogg"
-    소녀 "“虽然也有可能是我不记得了。”"
+    소녀 "“也许我只是记不起来了吧。”"
 
 # game/chapter2.rpy:2355
 translate chinese ecg3_label_58a114ae:
@@ -5610,13 +5610,13 @@ translate chinese ecg3_label_ac7266d1:
 translate chinese ecg3_label_680c0894:
 
     # "나쁘지 않은 감각이라는 생각이 들었다. "
-    "这感觉还不错。"
+    "我觉得这不是一种不好的感觉。"
 
 # game/chapter2.rpy:2362
 translate chinese ecg3_label_1b6f0235:
 
     # "아니, 오히려 마음에 드는 감촉이라는 쪽이 더 진실에 가까울 것이다. "
-    "不，反倒心仪的触感更接近真相一些。"
+    "不，或者说是一种我喜欢的触感，这样更接近真相。"
 
 # game/chapter2.rpy:2376
 translate chinese ecg3_label_d3d0c0bf:
@@ -5624,7 +5624,7 @@ translate chinese ecg3_label_d3d0c0bf:
     # voice "voices/gb95.ogg"
     # 소녀 "“원래 있던 곳보다 많이 허름해 보이는 거리네요.”"
     voice "voices/gb95.ogg"
-    소녀 "“这条街比原来的地方更破旧啊。”"
+    소녀 "“看起来比原来的地方更破旧啊。”"
 
 # game/chapter2.rpy:2378
 translate chinese ecg3_label_79159914:
