@@ -3778,7 +3778,7 @@ translate chinese ecg3_label_29c782c1:
 translate chinese ecg3_label_2a18c8c3:
 
     # "현관을 나서기 전, 소녀에게 건넨 “다녀올게”라는 인사가 어제보다는 한결 익숙하게 느껴진 것이 달라진 점이라면 달라진 점이겠지. "
-    "和昨天相比，如果说有什么不同的话，那就是对少女道别的话，感觉比昨天要自然多了。
+    "和昨天相比，如果说有什么不同的话，那就是对少女道别的话，感觉比昨天要自然多了。"
 
 # game/chapter2.rpy:1690
 translate chinese ecg3_label_f0c47c96:
