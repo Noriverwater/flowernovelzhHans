@@ -4989,7 +4989,7 @@ translate chinese chapter7_d4447b74:
     # voice "voices/hg29_1.ogg"
     # 현지 "“그 진폭의 시작이나 끝에 존재하는 것들은 볼 수 있어요. 진폭의 끄트머리에 존재하는 것들은, 차원이 달라져도 변위가 달라지지 않는 것들이라고 보면 되겠죠.”"
     voice "voices/hg29_1.ogg"
-    현지 "“在那个振幅的开始或末尾存在的东西都可以看到。在振幅的末尾存在的东西，即使不在同一维度，位移也不会改变。”"
+    현지 "“在那个振幅的开始或末尾存在的东西都可以看到。在振幅的末尾存在的东西，就是即使维度改变了，位移也不会改变的东西吧。”"
 
 # game/chapter7.rpy:2195
 translate chinese chapter7_c52a9e92:
@@ -5013,7 +5013,7 @@ translate chinese chapter7_b5ce13e8:
     # voice "voices/hg29_3.ogg"
     # 현지 "“글쎄요. 진동의 시작점이 같다는 건…….”"
     voice "voices/hg29_3.ogg"
-    현지 "“是啊。振动的起点总是相同……”"
+    현지 "“这个嘛。振动的起点总是相同，就是……”"
 
 # game/chapter7.rpy:2208
 translate chinese chapter7_f7d6ee83:
@@ -5029,7 +5029,7 @@ translate chinese chapter7_972b0acb:
     # voice "voices/hg30.ogg"
     # 현지 "“말 그대로, 같은 차원에서 온 거겠죠.”"
     voice "voices/hg30.ogg"
-    현지 "“如字面意思所说，应该都是从同一个维度来的吧。”"
+    현지 "“就是字面意思，来自同一个维度的东西吧。”"
 
 # game/chapter7.rpy:2215
 translate chinese chapter7_6a51ae52:
@@ -5043,7 +5043,7 @@ translate chinese chapter7_6a51ae52:
 translate chinese chapter7_69fdf83e:
 
     # "그려내었다기보다는 쥐어 짜냈다고 하는 편이 마땅한 가설이었다. "
-    "与其说是描绘出来的，不如说是绞尽脑汁的假设。"
+    "与其说是描绘出来的，不如说是绞尽脑汁硬挤出来的假设。"
 
 # game/chapter7.rpy:2224
 translate chinese chapter7_7d024d8a:
@@ -5051,7 +5051,7 @@ translate chinese chapter7_7d024d8a:
     # voice "voices/hg31.ogg"
     # 현지 "“무수히 많은 차원 중 하나에서, 마치 운명처럼…… 말이에요.”"
     voice "voices/hg31.ogg"
-    현지 "“在无穷多维度之一中，就像命运一样……的意思。”"
+    현지 "“在无穷多维度之一中，就像命运一样……这么说吧。”"
 
 # game/chapter7.rpy:2227
 translate chinese chapter7_98a15ff6:
