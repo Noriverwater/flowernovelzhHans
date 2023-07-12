@@ -764,7 +764,7 @@ translate chinese chapter4_c7608449:
     # voice "voices/hd26.ogg"
     # 현지 "“아얏, 아야야야…….”"
     voice "voices/hd26.ogg"
-    현지 "“哎呀，嘿嘿嘿嘿……”"
+    현지 "“啊呀，啊呀呀呀……”"
 
 # game/chapter4.rpy:334
 translate chinese chapter4_3063c9f6:
@@ -2906,19 +2906,19 @@ translate chinese chapter4_5_2ef2e3da:
 translate chinese chapter4_5_4bb9d192:
 
     # "그날은 D구역 외곽 지역에 있는 소각장을 둘러보기로 한 날이었다. "
-    "那天是决定参观D区外围地区的焚化场的日子。"
+    "那天，我们打算去D区外围的一个焚化炉看看。"
 
 # game/chapter4.rpy:1372
 translate chinese chapter4_5_9df4c24a:
 
     # "길을 찾는 데 조금 헤매는 바람에 해가 넘어가기 시작할 무렵이 되어서야 도착한 소각장에서, 소녀는 익숙한 듯 죽음의 자취를 좇아 소각장을 거닐었다. "
-    "因为找路时有点迷糊，太阳开始下山时才到达焚化场，少女好像很熟悉似的在焚化厂沿着死亡的踪迹漫步。"
+    "因为找路时有点迷糊，等到到达焚化炉的时候，太阳已经开始下山了。在那里，少女像是很熟悉一样，沿着死亡的痕迹，走向了焚化炉。"
 
 # game/chapter4.rpy:1373
 translate chinese chapter4_5_3f3e6d73:
 
     # "나는 그런 소녀의 뒤를 따라 평범하기 그지없는 소각장의 풍경을 관망했다. "
-    "我紧跟在那样的少女后面，观望着平凡无比的焚化场风景。"
+    "我紧跟在那样的少女后面，观望着平凡无比的焚化炉风景。"
 
 # game/chapter4.rpy:1374
 translate chinese chapter4_5_43844056:
@@ -2976,7 +2976,7 @@ translate chinese chapter4_5_6f30ebd2:
 translate chinese chapter4_5_fd185aa9:
 
     # 나 "“아무것도 기억 안 나는가 보네.”"
-    나 "“你好像什么都没记起来。”"
+    나 "“好像什么都没记起来啊。”"
 
 # game/chapter4.rpy:1395
 translate chinese chapter4_5_6dd27856:
@@ -3004,7 +3004,7 @@ translate chinese chapter4_5_5cb4817b:
 translate chinese chapter4_5_fa876216:
 
     # "돌아가자는 이야기를 꺼내려다 말고, 나는 이쪽을 향하는 소녀의 시선을 느끼고는 고개를 들었다. "
-    "我想说回去，可我感受到了少女朝我这边看的视线，于是抬起头来。"
+    "我想说回去但是又忍住了，因为感受到了少女朝我这边看的视线，于是抬起头来。"
 
 # game/chapter4.rpy:1403
 translate chinese chapter4_5_24013353:
@@ -3016,7 +3016,7 @@ translate chinese chapter4_5_24013353:
 translate chinese chapter4_5_3dd3c676:
 
     # "소각로 위에 서서는 나를 내려다보고 있던 소녀가 나의 눈치를 조심스레 살피고 있었다. "
-    "少女站在焚化炉上面俯视着我，小心翼翼地打量着我的脸色。"
+    "少女站在焚化炉上面俯视着我，小心翼翼地打量着我的神色。"
 
 # game/chapter4.rpy:1405
 translate chinese chapter4_5_b43a6513:
@@ -3040,7 +3040,7 @@ translate chinese chapter4_5_27c1dfa9:
 translate chinese chapter4_5_abf176ad:
 
     # "허리 높이의 소각로 위에서 폴짝 뛰어내리려던 소녀는 난데없는 나의 말에 의아한 표정을 지어 보였다. "
-    "少女正要从齐腰高的焚化炉上跳下来，听到我的话突然露出了惊讶的表情。"
+    "少女正要从齐腰高的焚化炉上跳下来，听到我的话后突然露出了疑惑的表情。"
 
 # game/chapter4.rpy:1412
 translate chinese chapter4_5_f39ad204:
@@ -3168,13 +3168,13 @@ translate chinese chapter4_5_11ac8a9c:
     # voice ""
     # 나 "“아, 그러고 보니 씻을 때 빼곤 화장실도 안 가는 것 같더라.”"
     voice ""
-    나 "“啊，这么一看，除了洗漱的时候，连卫生间都不去。”"
+    나 "“啊，对了，除了洗澡，你好像也不去厕所啊。”"
 
 # game/chapter4.rpy:1470
 translate chinese chapter4_5_3b3729e9:
 
     # "분위기를 환기시킨답시고 너무 무리수를 뒀던 걸까. "
-    "难道为了转换氛围，做得太过分了？"
+    "为了缓和气氛，我是不是开了个太过分的玩笑。"
 
 # game/chapter4.rpy:1474
 translate chinese chapter4_5_35ffee41:
@@ -3210,7 +3210,7 @@ translate chinese chapter4_5_5248a4dc:
     # voice "voices/gd6.ogg"
     # 소녀 "“뭘 그리 골똘히 생각하는 건가요.”"
     voice "voices/gd6.ogg"
-    소녀 "“你在专心想什么？”"
+    소녀 "“你在想什么呀。”"
 
 # game/chapter4.rpy:1485
 translate chinese chapter4_5_f4083d4e:
@@ -3218,7 +3218,7 @@ translate chinese chapter4_5_f4083d4e:
     # voice ""
     # 나 "“아, 아냐. 아무것도.”"
     voice ""
-    나 "“啊，不。什么都没有。”"
+    나 "“啊，不。没什么。”"
 
 # game/chapter4.rpy:1488
 translate chinese chapter4_5_fa2ef543:
@@ -3302,19 +3302,19 @@ translate chinese chapter4_5_d5c8e596:
 translate chinese chapter4_5_1af95792:
 
     # 나 "“으음, 난감하네.”"
-    나 "“嗯，真难堪。”"
+    나 "“嗯，真是为难啊。”"
 
 # game/chapter4.rpy:1524
 translate chinese chapter4_5_9b1de43f:
 
     # "신발 밑창이 바닥을 툭툭 두드리고 있었다. "
-    "鞋底敲打着地板。"
+    "鞋底咚咚地敲打着地板。"
 
 # game/chapter4.rpy:1525
 translate chinese chapter4_5_15fa84d9:
 
     # "정말, 이러지도 저러지도 못하는 상황이었다. "
-    "真的是左右为难。"
+    "真的，是进退两难的局面啊。"
 
 # game/chapter4.rpy:1532
 translate chinese chapter4_5_e68e421f:
@@ -3378,7 +3378,7 @@ translate chinese chapter4_5_75fd20f4:
     # voice "voices/gd9.ogg"
     # 소녀 "“저 때문에 일어난 일이니까요. 제게 불평할 권리는 없어요. 그리고 저는 이런 일이 익숙하니까, 오히려 괜찮겠냐고 물어봐야 하는 쪽은 저인걸요.”"
     voice "voices/gd9.ogg"
-    소녀 "“是因为我才发生了这样的事，你没有抱怨自己的权利。而且，这种事我已经习惯了，所以问‘不要紧吗？’的一方应该是我。”"
+    소녀 "“是因为我才发生了这样的事，我没有抱怨的权利。而且，这种事我已经习惯了，所以问‘不要紧吗？’的一方应该是我。”"
 
 # game/chapter4.rpy:1563
 translate chinese chapter4_5_4baa01b5:
@@ -3426,7 +3426,7 @@ translate chinese chapter4_5_ddd5ca83:
 translate chinese chapter4_5_5a2ebe8e:
 
     # "나는 소녀의 옆자리에 앉아 멍하니 눈을 끔뻑였다. "
-    "我坐在少女的旁边，呆呆地眨了眨眼睛。"
+    "我坐在少女的旁边，茫然地眨了眨眼睛。"
 
 # game/chapter4.rpy:1587
 translate chinese chapter4_5_c44e926a:
@@ -3442,13 +3442,13 @@ translate chinese chapter4_5_554612ea:
     # voice ""
     # "음료수를 마시다 말고, 소녀는 역시나 신경 쓰인다는 듯 그 이야기를 꺼냈다. "
     voice ""
-    "喝着饮料，少女还是很在意那件事。"
+    "放下喝了一半的饮料，少女又提起了那件事，似乎很在意。"
 
 # game/chapter4.rpy:1594
 translate chinese chapter4_5_5df5ad2d:
 
     # 나 "“괜찮아. 그렇게 신경 쓸 필요 없어. 어차피 금방 해결할 수 있을 거라 생각하지도 않았고.”"
-    나 "“没关系。没必要那么在意。反正我也没想过就能解决。”"
+    나 "“没关系。没必要那么在意。反正我也没指望能很快解决。”"
 
 # game/chapter4.rpy:1596
 translate chinese chapter4_5_c7ce984e:
@@ -3472,7 +3472,7 @@ translate chinese chapter4_5_d4ffa33e:
 translate chinese chapter4_5_966953da:
 
     # 나 "“아까부터 궁금했던 건데.”"
-    나 "“从刚才开始就很好奇。”"
+    나 "“我一直很好奇。”"
 
 # game/chapter4.rpy:1605
 translate chinese chapter4_5_361e5609:
@@ -3544,7 +3544,7 @@ translate chinese chapter4_5_09d042f1:
     # voice ""
     # 나 "“뭐, 그렇지.”"
     voice ""
-    나 "“是啊。”"
+    나 "“嗯，是啊。”"
 
 # game/chapter4.rpy:1640
 translate chinese chapter4_5_e45cdc38:
@@ -3594,7 +3594,7 @@ translate chinese chapter4_5_4e236a8f:
     # voice ""
     # 나 "“글쎄, 잘 모르겠네. 다음에 같이 슬픈 영화라도 보면 확인할 수 있지 않으려나.”"
     voice ""
-    나 "“是啊，不太清楚。下次一起看悲伤的电影确认一下吧。”"
+    나 "“是啊，不太清楚。下次我们一起看个悲伤的电影，也许就能确认了。”"
 
 # game/chapter4.rpy:1667
 translate chinese chapter4_5_212a11d4:
@@ -3630,7 +3630,7 @@ translate chinese chapter4_5_55a8815c:
 translate chinese chapter4_5_583616bc:
 
     # "하루종일 GPS를 켜둔 탓에, 배터리는 언제 꺼져도 이상하지 않을 정도로 간당간당한 상태였다. "
-    "由于一整天都开着GPS，电池处于随时关机都不奇怪的状态。"
+    "由于一整天都开着GPS，电池处于随时可能关机的危险状态。"
 
 # game/chapter4.rpy:1678
 translate chinese chapter4_5_5816ea6a:
@@ -3690,7 +3690,7 @@ translate chinese chapter4_5_ccca42ef:
     # voice "voices/gd18.ogg"
     # 소녀 "“하지만, 생각해볼 수는 있겠네요.”"
     voice "voices/gd18.ogg"
-    소녀 "“但是，我们可以考虑一下。”"
+    소녀 "“但是，我可以想想看。”"
 
 # game/chapter4.rpy:1710
 translate chinese chapter4_5_1d66f1df:
@@ -3738,7 +3738,7 @@ translate chinese chapter4_5_6b7bc1a9:
     # voice ""
     # 나 "“그러게. 사후에 쓰는 유언장이라니 묘하긴 하지만.”"
     voice ""
-    나 "“是啊。还是死后写的遗嘱，虽然很奇妙。”"
+    나 "“是啊。还是死后写的遗嘱，真是奇怪啊。”"
 
 # game/chapter4.rpy:1723
 translate chinese chapter4_5_e23044bb:
@@ -3746,7 +3746,7 @@ translate chinese chapter4_5_e23044bb:
     # voice "voices/gd20.ogg"
     # 소녀 "“저는 유언 같은 거 남겼을까요?”"
     voice "voices/gd20.ogg"
-    소녀 "“我有留下遗言吗？”"
+    소녀 "“我有留下遗嘱吗？”"
 
 # game/chapter4.rpy:1725
 translate chinese chapter4_5_1683054c:
@@ -3754,7 +3754,7 @@ translate chinese chapter4_5_1683054c:
     # voice ""
     # 나 "“글쎄. 유언은 보통 자신이 죽을 걸 직감한 사람이 남기는 거잖아.”"
     voice ""
-    나 "“是啊。遗言通常是感觉自己会死的人留下的。”"
+    나 "“不知道。遗嘱通常是感觉自己会死的人留下的吧。”"
 
 # game/chapter4.rpy:1727
 translate chinese chapter4_5_fb198d97:
@@ -3762,7 +3762,7 @@ translate chinese chapter4_5_fb198d97:
     # voice "voices/gd21.ogg"
     # 소녀 "“어쩌면 저는 시한부 판정을 받은 인생이었는지도 모르죠.”"
     voice "voices/gd21.ogg"
-    소녀 "“或许我的人生就是被判定为有时限的。”"
+    소녀 "“或许我的人生就是被早早判了死刑呢。”"
 
 # game/chapter4.rpy:1729
 translate chinese chapter4_5_c2415b40:
@@ -3794,7 +3794,7 @@ translate chinese chapter4_5_deaf3a7b:
 translate chinese chapter4_5_afb3c7f4:
 
     # "여러모로 추상적인 결론이었음에도 소녀는 자신의 유언이 썩 마음에 든 모양이었다. "
-    "虽然从各个方面看都是抽象的结论，但少女似乎对自己的遗言非常满意。"
+    "虽然从各个方面看都是抽象的结论，但少女似乎对自己的遗嘱非常满意。"
 
 # game/chapter4.rpy:1743
 translate chinese chapter4_5_e9b702a1:
@@ -3816,7 +3816,7 @@ translate chinese chapter4_5_cc22539a:
     # voice ""
     # "애써 묻지 않으려 했던 것이었지만, 어느새 나는 그걸 질문이랍시고 하고 있었다. "
     voice ""
-    "本来是想努力不问，但不知不觉间，我已把这当作问题提了出来。"
+    "本来是想努力不问，但不知不觉间，已经把这当作问题提了出来。"
 
 # game/chapter4.rpy:1753
 translate chinese chapter4_5_cdf7b56b:
@@ -3848,7 +3848,7 @@ translate chinese chapter4_5_1d982c93:
     # voice "voices/gd23.ogg"
     # 소녀 "“이번엔 당신의 유언을 듣고 싶어요.”"
     voice "voices/gd23.ogg"
-    소녀 "“这次想听你的遗言。”"
+    소녀 "“这次想听你的遗嘱。”"
 
 # game/chapter4.rpy:1771
 translate chinese chapter4_5_9c25ea9c:
@@ -3856,7 +3856,7 @@ translate chinese chapter4_5_9c25ea9c:
     # voice ""
     # 나 "“나한텐 너무 먼 이야기 아닐까?”"
     voice ""
-    나 "“对我来说是不是太远了？”"
+    나 "“这对我来说不是太遥远的话题吗？”"
 
 # game/chapter4.rpy:1773
 translate chinese chapter4_5_a217b81e:
@@ -3888,7 +3888,7 @@ translate chinese chapter4_5_cd19bec5:
 translate chinese chapter4_5_66814b29:
 
     # "하지만 유언이라니, 살아있는 10대 소년에게 그런 걸 생각해보라고 하는 건 너무 난해한 일이다. "
-    "但是作为遗嘱，让一个10多岁的少年想想这些是很难理解的事情。"
+    "但是遗嘱这种东西，让一个活着的十几岁的少年去想，实在是太难了。"
 
 # game/chapter4.rpy:1783
 translate chinese chapter4_5_14c0beeb:
@@ -3912,7 +3912,7 @@ translate chinese chapter4_5_14e7920c:
 translate chinese chapter4_5_24086ebc:
 
     # 나 "“그냥, ‘마지막은 좋아하는 사람과 함께이고 싶다.’ 정도 아닐까?”"
-    나 "“不就是‘想和喜欢的人最后一次在一起’吗？”"
+    나 "“不就是‘想最后和喜欢的人在一起’之类的吗？”"
 
 # game/chapter4.rpy:1800
 translate chinese chapter4_5_95a56af3:
@@ -3940,7 +3940,7 @@ translate chinese chapter4_5_cc019b09:
 translate chinese chapter4_5_89b52789:
 
     # "아직 잠들고 싶지는 않았는지 소녀는 간헐적으로 눈을 떴다 감았다를 반복했다. "
-    "可能还不想睡觉，少女时不时地睁眼闭眼。"
+    "可能还不想睡觉，少女不时地睁开眼睛又闭上，反复了几次。"
 
 # game/chapter4.rpy:1809
 translate chinese chapter4_5_47d3df8c:
@@ -3958,19 +3958,19 @@ translate chinese chapter4_5_1ec31931:
 translate chinese chapter4_5_d314ed9d:
 
     # "잡음이 들려오지 않는 고요한 터미널의 공기가 나의 감정을 미묘한 방향으로 자극했다. "
-    "没有杂音的安静车站的空气刺激着我的感情。"
+    "没有噪音的安静车站的空气刺激着我的感情，让它变得微妙。"
 
 # game/chapter4.rpy:1813
 translate chinese chapter4_5_445630c0:
 
     # "나의 옆에서 아마도 눈을 감고 있을 소녀의 존재 또한, 나의 감정을 그와 같은 방향으로 자극하고 있었겠지. "
-    "也许在我身边闭着眼睛的少女，也刺激着我的感情。"
+    "也许在我身边闭着眼睛的少女，也向着那个方向刺激着我的感情。"
 
 # game/chapter4.rpy:1815
 translate chinese chapter4_5_160e7414:
 
     # 나 "“있잖아.”"
-    나 "“我说，”"
+    나 "“对了。”"
 
 # game/chapter4.rpy:1823
 translate chinese chapter4_5_eaa9189c:
@@ -3982,7 +3982,7 @@ translate chinese chapter4_5_eaa9189c:
 translate chinese chapter4_5_edc74206:
 
     # 나 "“만약 네가 사라지게 된다면 말인데. 내가 그 온기의 주인공이 될 수는 없겠지만, 그 '아름다운 것'을 나와 함께 볼 수 있을까?”"
-    나 "“如果你要消失了，在此之前虽然我不能成为那‘温暖’的主人公，但是能和我一起看那‘美丽的东西’吗？”"
+    나 "“如果你要消失了，虽然我不能成为那‘温暖’的主人公，但是能和我一起看那‘美丽的东西’吗？”"
 
 # game/chapter4.rpy:1827
 translate chinese chapter4_5_ddf7a3ca:
@@ -4022,7 +4022,7 @@ translate chinese chapter4_5_e5654cfe:
 translate chinese chapter4_5_998eaa98:
 
     # "그런 적막이 어색했는지, 소녀는 텅 빈 지 오래인 캔을 입에 갖다 대고는 딴청을 피웠다. "
-    "不知道是不是因为寂寞，少女把空了很久的易拉罐放在嘴边，做着无关紧要的事。"
+    "不知道是不是因为寂寞，少女把空了很久的易拉罐放在嘴边，装作无所谓的样子。"
 
 # game/chapter4.rpy:1845
 translate chinese chapter4_5_62041360:
@@ -4040,7 +4040,7 @@ translate chinese chapter4_5_eb224a2f:
 translate chinese chapter4_5_1f88155e:
 
     # "알루미늄이 맞부딪히는 소리와 함께 빈 캔 두 개가 쓰레기통 속으로 휘리릭 빨려 들어가는 것을 본 소녀가 신기하다는 듯 나를 바라보았다."
-    "少女看到两个空罐随着铝的撞击声被吸入垃圾桶里，惊讶地看着我。"
+    "少女看到两个空罐随着铝的撞击声被吸入垃圾桶里，好像看到了什么神奇的事情一样看着我。"
 
 # game/chapter4.rpy:1851
 translate chinese chapter4_5_95985dd2:
@@ -4070,7 +4070,7 @@ translate chinese chapter4_5_0acfc2ad:
     # voice "voices/gd28.ogg"
     # 소녀 "“이 정도면 거리도 꽤 되는 것 같은데요.”"
     voice "voices/gd28.ogg"
-    소녀 "“这距离相当远了。”"
+    소녀 "“这样的话，距离也相当远了吧。”"
 
 # game/chapter4.rpy:1860
 translate chinese chapter4_5_38c0aa45:
@@ -4084,7 +4084,7 @@ translate chinese chapter4_5_38c0aa45:
 translate chinese chapter4_5_fc9845fb:
 
     # "나는 소녀를 힐긋 바라보며, 넌지시 말을 건넸다."
-    "我看了一眼少女，含蓄地说。"
+    "我微笑着看着少女，悄悄地开口说了。"
 
 # game/chapter4.rpy:1864
 translate chinese chapter4_5_8db9488f:
@@ -4106,13 +4106,13 @@ translate chinese chapter4_5_6932a8e5:
     # voice ""
     # "정면을 응시하며 얼굴을 반쯤 무릎에 파묻은 소녀는 아무래도 깊은 생각에 잠긴 듯 보였다. "
     voice ""
-    "少女直视前方，将脸半埋在了膝盖上，似乎陷入了沉思。"
+    "少女正面望着我，把脸半埋在膝盖里，似乎陷入了沉思。"
 
 # game/chapter4.rpy:1874
 translate chinese chapter4_5_7793f954:
 
     # "더 이상의 목소리는 들려오지 않았다. "
-    "没有听到更多的声音。"
+    "她没有再说话。"
 
 # game/chapter4.rpy:1884
 translate chinese ecg7_label_b1ea65d7:
@@ -4154,7 +4154,7 @@ translate chinese ecg7_label_9ddf493e:
 translate chinese ecg7_label_52b51a26:
 
     # "하지만 그러면서도 의외로 지금처럼 무방비함을 보이는 건, 소녀의 앳된 면으로부터 비롯된 건 아닐까 하는 생각이 들었다. "
-    "但意外的是，像现在这样毫无防备，是不是因为少女稚气未脱？"
+    "但是，她也会像现在这样毫无防备地表现出来，这是不是源于她稚嫩的一面呢，我有这样的想法。"
 
 # game/chapter4.rpy:1893
 translate chinese ecg7_label_8cf4b030:
@@ -4172,13 +4172,13 @@ translate chinese ecg7_label_981f9f44:
 translate chinese ecg7_label_5a1b03e8:
 
     # "어이없으리만치 바보 같은 감정에, 나는 고개를 가로저었다. "
-    "因为荒唐可笑，我摇了摇头。"
+    "对这种荒谬无稽的感情，我摇了摇头。"
 
 # game/chapter4.rpy:1898
 translate chinese ecg7_label_c209b4e8:
 
     # "가속도와 중력을 구분할 수 없는 것처럼, 나는 지금 동질감과 그 감정을 구분하지 못하고 있는 것이리라. "
-    "就像无法区分加速度和重力，我现在分不清认同感和感情。"
+    "就像无法区分加速度和重力一样，我现在也无法区分同情和那种感情。"
 
 # game/chapter4.rpy:1899
 translate chinese ecg7_label_78fac20a:
@@ -4244,7 +4244,7 @@ translate chinese ecg7_label_83da6de7:
 translate chinese ecg7_label_b9fc7881:
 
     # "무언가 생각을 하기도, 행동을 취하기도 전에 소녀의 팔이 나를 덥석 붙잡았다. "
-    "在思考、行动什么之前，少女的胳膊一下子抓住了我。"
+    "还没来得及想什么，做什么，少女就抓住了我的胳膊。"
 
 # game/chapter4.rpy:1922
 translate chinese ecg7_label_b83d361e:
@@ -4256,19 +4256,19 @@ translate chinese ecg7_label_b83d361e:
 translate chinese ecg7_label_450b3837:
 
     # "요즘들어 악몽도 잘 꾸지 않았던 소녀인데, 잠자리가 바뀐 것이 원인인 걸까. "
-    "最近连噩梦都不做的少女出现这样的状况，也许是更换了睡觉的地方。"
+    "最近少女也很少做噩梦了，出现这样的状况，也许是更换了睡觉的地方。"
 
 # game/chapter4.rpy:1924
 translate chinese ecg7_label_b2a585bc:
 
     # "더듬더듬 생각을 해나가던 나는, 항상 소녀가 잠에 들 때면 곁에 있던 인형이 오늘은 사라져있음을 깨달을 수 있었다. "
-    "我摸索着想了想，意识到少女入睡时，总是带在身边的人偶今天不在身旁。"
+    "我边想边发现，平时少女睡觉时总是在身边的玩偶，今天却不见了。"
 
 # game/chapter4.rpy:1926
 translate chinese ecg7_label_612e23b7:
 
     # 나 "“하아아…….”"
-    나 "“哈哈……”"
+    나 "“哈啊……”"
 
 # game/chapter4.rpy:1928
 translate chinese ecg7_label_42726234:
@@ -4280,7 +4280,7 @@ translate chinese ecg7_label_42726234:
 translate chinese ecg7_label_26db98a4:
 
     # "심호흡을 크게 하고선, 옆을 힐긋 돌아보았다. "
-    "我深吸一口气，环顾四周。"
+    "我深吸一口气，侧过头看了看旁边。"
 
 # game/chapter4.rpy:1931
 translate chinese ecg7_label_541caacd:
@@ -4316,25 +4316,25 @@ translate chinese ecg7_label_e56d5396:
 translate chinese ecg7_label_5442e008:
 
     # "결국 나는 그날 밤을 뜬눈으로 지새웠다. "
-    "结果那天我一夜没合眼。"
+    "结果我整个晚上都没睡。"
 
 # game/chapter4.rpy:1947
 translate chinese ecg7_label_6b613e1a:
 
     # "해가 밝아오기 시작했을 무렵, 나는 소녀의 자세를 고쳐 주고는 열차표를 끊기 위해 자리에서 일어났다. "
-    "太阳开始升起的时候，我纠正了少女的姿势，从座位上站了起来，准备买票。"
+    "太阳开始升起的时候，我帮少女调整了一下姿势，然后起身去买车票。"
 
 # game/chapter4.rpy:1954
 translate chinese ecg7_label_abca697e:
 
     # 나 "“일어났어?”"
-    나 "“起来了吗？”"
+    나 "“醒了吗？”"
 
 # game/chapter4.rpy:1956
 translate chinese ecg7_label_e5b99e4f:
 
     # "역내로 돌아오자, 잠에서 깬 소녀가 주변을 두리번거리고 있었다. "
-    "回到站内，睡醒的少女正张望周围。"
+    "回到车站里，刚从睡梦中醒来的少女四处张望着。"
 
 # game/chapter4.rpy:1962
 translate chinese ecg7_label_05ea4cea:
@@ -4382,7 +4382,7 @@ translate chinese ecg7_label_b216a316:
 translate chinese ecg7_label_f46b0ee6:
 
     # "꼬박 몇 시간을 죽은 듯이 잔 건지. "
-    "整整睡了多少小时，像死了一样。"
+    "我到底睡了多少个小时，像死了一样。"
 
 # game/chapter4.rpy:1984
 translate chinese ecg7_label_7515f3cd:
@@ -4394,7 +4394,7 @@ translate chinese ecg7_label_7515f3cd:
 translate chinese ecg7_label_16687fb6:
 
     # "분명 잠들기 전에 저녁이 되면 깨워달라고 소녀에게 부탁을 하긴 했었는데, 소녀가 나를 깨우지 않았을 리는 없고, 아마 내가 죽은 듯이 잠을 자는 바람에 소녀가 나를 그대로 내버려둔 거라 생각했다. "
-    "明明在睡觉前拜托少女一到晚上就叫醒我，但少女没叫醒我，也许是因为我睡得像死了一样，所以少女就把我放在一边了。"
+    "明明在睡觉前拜托少女一到晚上就叫醒我，但少女没叫醒我，也许是因为我睡得像死了一样，所以少女就放弃了吧。"
 
 # game/chapter4.rpy:1987
 translate chinese ecg7_label_cd4392e0:
@@ -4424,7 +4424,7 @@ translate chinese ecg7_label_7d54d554:
 translate chinese ecg7_label_daad9ea9:
 
     # "평소보다 일찍 눈을 뜬 나는 일어나자마자 샤워를 하고는 나갈 채비를 하고 있었다. "
-    "比平时更早睁开眼睛的我一起床就洗澡，准备出门。"
+    "比平时早起的我，一起床就洗了个澡，准备出门。"
 
 # game/chapter4.rpy:1999
 translate chinese ecg7_label_968fb607:
@@ -4506,13 +4506,13 @@ translate chinese ecg7_label_8fc53323:
 translate chinese ecg7_label_7eeab53a:
 
     # "굳이 나가겠다는데 말릴 수도 없고. "
-    "非要出去也不能阻止。"
+    "既然她非要出去，我也拦不住。"
 
 # game/chapter4.rpy:2040
 translate chinese ecg7_label_10753e4a:
 
     # "걱정이 되긴 했지만, 일단은 소녀와 함께 마트로 향하는 수밖엔 없었다. "
-    "虽然很担心，但只能和少女一起去超市。"
+    "虽然很担心，但只能和少女一起去超市了。"
 
 # game/chapter4.rpy:2045
 translate chinese ecg7_label_36ef13f1:
@@ -4524,7 +4524,7 @@ translate chinese ecg7_label_36ef13f1:
 translate chinese ecg7_label_0d4e1150:
 
     # "여전히 더위는 가라앉을 기미를 보이지 않고 있었고, 거기에 더해 습기를 잔뜩 머금은 무거운 공기가 몸을 짓누르는 것 같았다. "
-    "炎热仍然没有消退的迹象，再加上充满湿气的沉重空气似乎压抑着身体。"
+    "炎热仍然没有消退的迹象，加上空气中满满的湿气，让人感觉像是被压得喘不过气来。"
 
 # game/chapter4.rpy:2047
 translate chinese ecg7_label_feafdf52:
@@ -4560,7 +4560,7 @@ translate chinese ecg7_label_3604d031:
 translate chinese ecg7_label_de85f509:
 
     # "자동문이 열리고, 마트로 들어서자 건조한 에어컨 바람이 나와 소녀를 맞이했다. "
-    "进入超市后，自动门打开，凉气扑面而来，迎接我和少女。"
+    "自动门打开了，我和少女走进超市，干燥的空调风迎面吹来。"
 
 # game/chapter4.rpy:2063
 translate chinese ecg7_label_276e8fb5:
@@ -4598,7 +4598,7 @@ translate chinese ecg7_label_12caace0:
     # voice "voices/gd34.ogg"
     # 소녀 "“저기…… 괜찮다면 제가 장을 봐도 될까요?”"
     voice "voices/gd34.ogg"
-    소녀 "“那个……如果可以的话我可以买菜吗？”"
+    소녀 "“那个……如果可以的话，能让我来买东西吗？”"
 
 # game/chapter4.rpy:2072
 translate chinese ecg7_label_4eef2ebb:
@@ -4606,7 +4606,7 @@ translate chinese ecg7_label_4eef2ebb:
     # voice ""
     # 나 "“으응……? 나야 괜찮지만…….”"
     voice ""
-    나 "“嗯……？虽然我没关系……”"
+    나 "“嗯……？我倒是无所谓……”"
 
 # game/chapter4.rpy:2075
 translate chinese ecg7_label_af7c8e0d:
@@ -4640,13 +4640,13 @@ translate chinese ecg7_label_d0bdf1c5:
 translate chinese ecg7_label_9e3cdffc:
 
     # "봐 둔 곳이 있다는 듯, 소녀는 나를 이끌고 어디론가로 향했다. "
-    "好像有看好的地方，少女带着我向某处走去。"
+    "少女好像有什么目的地一样，拉着我往某个地方走去。"
 
 # game/chapter4.rpy:2095
 translate chinese ecg7_label_bca53768:
 
     # "소녀를 따라 카트를 움직여 도착한 곳은, 여러 번 마트를 들르면서도 발길이 닿지 않았던 장소였다. "
-    "移动购物车跟着少女所到达的地方，是我曾多次光顾超市也没到过的地方。"
+    "跟着少女推着购物车到达的地方，是我曾多次光顾超市也没到过的地方。"
 
 # game/chapter4.rpy:2096
 translate chinese ecg7_label_246a3a85:
@@ -4682,7 +4682,7 @@ translate chinese ecg7_label_2712019e:
 translate chinese ecg7_label_f3398def:
 
     # "나 또한, 그런 편의주의적인 흐름에 물든 사람 중 한 명이었고 말이다."
-    "我也是被这种便宜主义义潮流所感染的人之一。"
+    "我也是，被这种便宜主义义潮流所感染的人之一。"
 
 # game/chapter4.rpy:2108
 translate chinese ecg7_label_e9a2d505:
@@ -4712,7 +4712,7 @@ translate chinese ecg7_label_96348cbe:
     # voice "voices/gd37.ogg"
     # 소녀 "“저기, 저 토마토 좀 카트에 담아 주세요.”"
     voice "voices/gd37.ogg"
-    소녀 "“嘿，请把西红柿装进购物车里。”"
+    소녀 "“那边，把那些西红柿放进购物车吧。”"
 
 # game/chapter4.rpy:2116
 translate chinese ecg7_label_1e24c9d5:
@@ -4732,7 +4732,7 @@ translate chinese ecg7_label_8e6ca222:
 translate chinese ecg7_label_9b76ee60:
 
     # "그나저나, 다른 건 기억하지 못하면서 요리 레시피는 기억할 수 있는 건가? "
-    "话说回来，别的都不记得，居然还记得食谱。"
+    "不过，其他的事都记不住，怎么做菜的配方却能记得呢？"
 
 # game/chapter4.rpy:2127
 translate chinese ecg7_label_23bf23d1:
@@ -4744,7 +4744,7 @@ translate chinese ecg7_label_23bf23d1:
 translate chinese ecg7_label_6d0fb55b:
 
     # "소녀가 이끄는 대로 카트를 끌며, 익숙하지 않은 궤도에 몸을 맡긴다. "
-    "由少女引领着购物车，投身于不熟悉的轨道上。"
+    "少女引领着购物车，我投身于不熟悉的轨道上。"
 
 # game/chapter4.rpy:2134
 translate chinese ecg7_label_559e48c9:
@@ -4841,7 +4841,7 @@ translate chinese ecg7_label_60d5f9e0:
 # game/chapter4.rpy:2176
 translate chinese ecg7_label_6c7f4351:
 
-    # 나 "“那就回去吧。”"
+    # 나 "“그럼 돌아갈까.”"
     나 "“那就回去吧。”"
 
 # game/chapter4.rpy:2178
@@ -4862,7 +4862,7 @@ translate chinese ecg7_label_f9e6bf1a:
     # voice "voices/yd1.ogg"
     # 유미 "“긴가민가했는데, 역시 맞았네!”"
     voice "voices/yd1.ogg"
-    유미 "“原本还不太确定，果然如此！”"
+    유미 "“原本还不太确定，果然是你啊！”"
 
 # game/chapter4.rpy:2187
 translate chinese ecg7_label_ca2348a6:
@@ -4870,7 +4870,7 @@ translate chinese ecg7_label_ca2348a6:
     # voice ""
     # "유령처럼 어느새 나의 앞에 불쑥 나타난 유미가 나의 얼굴을 확인하고선 반가운 미소와 함께 인사를 건넸다. "
     voice ""
-    "像幽灵一样，不知不觉间突然出现在我面前的优美在确认了是我之后，露出了高兴的微笑以及送出了问候。"
+    "优美像幽灵一样突然出现在我面前，确认了是我之后，就带着笑容跟我打招呼。"
 
 # game/chapter4.rpy:2189
 translate chinese ecg7_label_3584983e:
@@ -4894,7 +4894,7 @@ translate chinese ecg7_label_d1cfd4d1:
     # voice "voices/yd3.ogg"
     # 유미 "“이거 운명인가? 이러다 다음번엔 다른 곳에서 마주치는 거 아냐?!”"
     voice "voices/yd3.ogg"
-    유미 "“这是命运吗？这样下去下一次会不会在别的地方相遇？！”"
+    유미 "“这是命运吗？这样下去，下一次会不会在别的地方相遇啊？！”"
 
 # game/chapter4.rpy:2197
 translate chinese ecg7_label_1c974035:
@@ -4902,7 +4902,7 @@ translate chinese ecg7_label_1c974035:
     # voice ""
     # 나 "“그렇다고 운명이랄 것까지는…….”"
     voice ""
-    나 "“但也不能说是命运……”"
+    나 "“这样就算是命运……”"
 
 # game/chapter4.rpy:2200
 translate chinese ecg7_label_029f59bb:
@@ -4916,7 +4916,7 @@ translate chinese ecg7_label_03618918:
     # voice "voices/gd40.ogg"
     # 소녀 "“그때 횡단보도에서 같이 있던 여자인가요.”"
     voice "voices/gd40.ogg"
-    소녀 "“是那时候在人行横道上一起的女人吗？”"
+    소녀 "“是那时候在人行横道上一起的女人吗。”"
 
 # game/chapter4.rpy:2207
 translate chinese ecg7_label_3813b5df:
@@ -4950,7 +4950,7 @@ translate chinese ecg7_label_61e0a1da:
     # voice "voices/yd4.ogg"
     # 유미 "“못 본 사이에 뭐 하고 지냈어?”"
     voice "voices/yd4.ogg"
-    유미 "“好久没见，干什么来着？”"
+    유미 "“这段时间你都在做什么？”"
 
 # game/chapter4.rpy:2219
 translate chinese ecg7_label_58790339:
@@ -4966,7 +4966,7 @@ translate chinese ecg7_label_77cdc370:
     # voice "voices/yd5.ogg"
     # 유미 "“그렇구나~”"
     voice "voices/yd5.ogg"
-    유미 "“原来如此~”"
+    유미 "“是吗~”"
 
 # game/chapter4.rpy:2225
 translate chinese ecg7_label_3957a756:
@@ -5008,7 +5008,7 @@ translate chinese ecg7_label_56053e88:
 translate chinese ecg7_label_14e0b80d:
 
     # "나와 재잘재잘 이야기를 나누던 유미가 문득 나를 유심히 살펴보았다. "
-    "和我喋喋不休地交谈的优美突然留心仔细打量着我。"
+    "和我喋喋不休地交谈的优美突然仔细地打量了我一番。"
 
 # game/chapter4.rpy:2240
 translate chinese ecg7_label_b3870228:
@@ -5016,13 +5016,13 @@ translate chinese ecg7_label_b3870228:
     # voice "voices/yd7.ogg"
     # 유미 "“오늘따라 카트에 담긴 물건들 면면이 많이 달라진 것 같아서 말이야. 혹시 집에 가족이라도 오나 했는데 그건 아닌가 보네.”"
     voice "voices/yd7.ogg"
-    유미 "“今天购物车里的东西好像变了很多。我还以为家里有客人来呢，看来不是。”"
+    유미 "“今天购物车里的东西好像变了很多啊。我还以为家里有客人来呢，看来不是。”"
 
 # game/chapter4.rpy:2242
 translate chinese ecg7_label_1184e7c0:
 
     # 나 "“으응……? 별일 아냐. 이건 그냥…….”"
-    나 "“嗯……？没什么事。这只是……”"
+    나 "“嗯……？没什么事。只是……”"
 
 # game/chapter4.rpy:2246
 translate chinese ecg7_label_aa5bb0c9:
@@ -5038,7 +5038,7 @@ translate chinese ecg7_label_479e6506:
     # voice ""
     # "즉흥적으로 뭐라 상황을 지어내려 했는데, 갑자기 전원이 꺼진 것처럼 사고가 멈췄다. "
     voice ""
-    "本想即兴发挥，但对话像断电一样卡壳了。"
+    "我想随便编个理由，但脑子突然像断了电一样卡壳了。"
 
 # game/chapter4.rpy:2250
 translate chinese ecg7_label_0dbf8afb:
@@ -5082,7 +5082,7 @@ translate chinese ecg7_label_ef3a78a9:
 translate chinese ecg7_label_c10687e2:
 
     # "옆으로 힐긋 눈길을 돌리자, 무표정한 얼굴로 나와 유미를 구경하고 있던 소녀가 보였다. "
-    "往旁边一看，少女正面无表情地看着优美。"
+    "我偷偷地看了一眼旁边，看到了少女正面无表情地看着我和优美。"
 
 # game/chapter4.rpy:2273
 translate chinese ecg7_label_bdb60414:
@@ -5094,7 +5094,7 @@ translate chinese ecg7_label_bdb60414:
 translate chinese ecg7_label_42908b5f:
 
     # "유미는 어느새 진실에 꽤나 가까이 다가가 있는 것 같았다. "
-    "优美不知不觉间似乎离真相越来越近了。"
+    "但优美好像离真相越来越近了。"
 
 # game/chapter4.rpy:2280
 translate chinese ecg7_label_e4e5933a:
@@ -5158,7 +5158,7 @@ translate chinese ecg7_label_1854cb34:
     # voice "voices/yd13.ogg"
     # 유미 "“만약 그랬으면 지금도 같이 있었겠지?”"
     voice "voices/yd13.ogg"
-    유미 "“要是真的那样，现在你和她肯定在一起吧？”"
+    유미 "“要是真的那样，你现在还会跟我在一起吗？”"
 
 # game/chapter4.rpy:2306
 translate chinese ecg7_label_e37b2d90:
@@ -5178,7 +5178,7 @@ translate chinese ecg7_label_9282ae27:
 translate chinese ecg7_label_0652ca02:
 
     # "분명 소녀와 나의 사이에는 한치의 불건전함도 없다고 할 수 있겠지만, 섣불리 다른 사람에게 소녀의 존재를 이야기했다간 이상한 사람으로 오해받기 좋을 것 같다는 생각이 들었다. "
-    "少女和我之间的关系虽然可以说没有一丝不健全，但我想如果草率地告诉别人少女的存在，很容易会被误认为是奇怪的人。"
+    "虽然我和少女之间没有一点不正当的关系，但如果草率地告诉别人少女的存在，恐怕会被误会成是什么怪人。"
 
 # game/chapter4.rpy:2316
 translate chinese ecg7_label_412f178c:
@@ -5196,7 +5196,7 @@ translate chinese ecg7_label_a3132183:
 translate chinese ecg7_label_7df6f3f7:
 
     # 나 "“어라, 밖에 비 오고 있었네.”"
-    나 "“哦，外面下雨了。”"
+    나 "“哎呀，外面下雨了。”"
 
 # game/chapter4.rpy:2326
 translate chinese ecg7_label_7739c02f:
@@ -5234,7 +5234,7 @@ translate chinese ecg7_label_a0ddfaa2:
     # voice ""
     # "어젠 하루 종일 잠들어 있었으니, 그런 걸 내가 알 턱이 없었다. "
     voice ""
-    "昨天一整天都在睡觉，我不可能知道。"
+    "昨天一整天都在睡觉，哪里会知道这种事。"
 
 # game/chapter4.rpy:2338
 translate chinese ecg7_label_33f4dd3a:
@@ -5360,7 +5360,7 @@ translate chinese ecg7_label_a07bba49:
     # voice "voices/gd41.ogg"
     # 소녀 "“감이 좋은 여자네요.”"
     voice "voices/gd41.ogg"
-    소녀 "“感觉是个善良的女人啊。”"
+    소녀 "“她是个善良的女人啊。”"
 
 # game/chapter4.rpy:2387
 translate chinese ecg7_label_7808bcb4:
@@ -5374,13 +5374,13 @@ translate chinese ecg7_label_7808bcb4:
 translate chinese ecg7_label_47b1720b:
 
     # "유미가 사라지자, 그제야 나의 옆을 아무 말도 않고 따라오던 소녀가 입을 열었다. "
-    "优美消失后，少女才开口，并跟在我身边。"
+    "等优美走了，一直默默跟在我身边的少女才开了口。"
 
 # game/chapter4.rpy:2391
 translate chinese ecg7_label_a931c870:
 
     # "나는 유미가 건네준 우산을 펼쳐 들고는 소녀에게 우산을 내밀었다. "
-    "我打开优美递过来的雨伞，向少女伸出了雨伞。"
+    "我打开了优美给我的伞，递给了少女。"
 
 # game/chapter4.rpy:2392
 translate chinese ecg7_label_081675f9:
@@ -5422,7 +5422,7 @@ translate chinese ecg8_label_66ab8f25:
     # voice "voices/gd43.ogg"
     # 소녀 "“그나저나…… 우산을 그렇게 들고 있으면 바보 취급받지 않을까요?”"
     voice "voices/gd43.ogg"
-    소녀 "“话说回来……那样拿着雨伞的话会不会被当成傻瓜呢？”"
+    소녀 "“话说回来……你这样拿着伞，不怕被别人当成傻瓜吗？”"
 
 # game/chapter4.rpy:2413
 translate chinese ecg8_label_f4b8ac27:
@@ -5442,13 +5442,13 @@ translate chinese ecg8_label_f4da6aea:
 translate chinese ecg8_label_005d72ab:
 
     # "남들이 보기에 나는 우산을 이상하게 기울인 채 비를 다 맞고 있는 바보처럼 여겨지겠지. "
-    "在别人看来，我会被认为是一个雨伞异常倾斜着，淋着雨的的白痴。"
+    "在别人看来，我会被认为是一个雨伞异常倾斜着，被雨淋个透的白痴。"
 
 # game/chapter4.rpy:2421
 translate chinese ecg8_label_bb4f0b45:
 
     # "하지만 어째서인지 그런 바보같은 행동을 하는 나의 존재가 소녀가 옆에 있음을 증명하고 있는 것 같아, 나는 묘한 웃음을 내뱉았다. "
-    "但是不知为什么，做出这种愚蠢行为的我的存在似乎证明了少女就在身边，我露出了微妙的笑容。"
+    "但是不知为什么，做出这种愚蠢行为的我的存在似乎证明了少女就在身边，我忍不住笑了出来。"
 
 # game/chapter4.rpy:2424
 translate chinese ecg8_label_3e09a025:
@@ -5516,7 +5516,7 @@ translate chinese ecg8_label_17fd94a6:
 translate chinese ecg8_label_8dddfb4e:
 
     # "그렇지만, 분명 내 곁에 있었던 건 분명한 그런 기억이었다. "
-    "可是，曾经陪在我身边的那份记忆很明确。"
+    "可是，我清楚地记得她曾经在我身边的那种感觉。"
 
 # game/chapter4.rpy:2454
 translate chinese ecg8_label_7dd20df1:
@@ -5528,19 +5528,19 @@ translate chinese ecg8_label_7dd20df1:
 translate chinese ecg8_label_842e07a3:
 
     # "그리고 그 따스함이, 분명 언제, 어디에선가 존재했다는 어렴풋한 생각이 들었다. "
-    "而且，我隐约觉得那温暖，分明是在某一时刻，某一地点存在的。"
+    "而且，我隐约觉得那温暖，分明是在某一时刻，某一地点存在过的感觉。"
 
 # game/chapter4.rpy:2458
 translate chinese ecg8_label_1d9ecd48:
 
     # "언제인지도, 어디에서인지도 기억나지는 않지만 말이다. "
-    "虽然不记得是什么时候，在哪里。"
+    "虽然不记得是什么时候，也不记得是在哪里。"
 
 # game/chapter4.rpy:2465
 translate chinese ecg8_label_d3bc752e:
 
     # "집에 도착해 어둑어둑해져 있던 방에 조명을 드리우자, 비에 잔뜩 젖은 소녀의 모습이 눈에 들어왔다. "
-    "一到家，打开昏暗的房间里的灯，就看到了被雨淋湿的少女。"
+    "到了家，打开了昏暗的房间的灯，我看到了被雨淋湿的少女的样子。"
 
 # game/chapter4.rpy:2467
 translate chinese ecg8_label_9e450403:
@@ -5560,7 +5560,7 @@ translate chinese ecg8_label_3f26a978:
     # voice "voices/gd46.ogg"
     # 소녀 "“전 식사 준비하고 있을 테니까, 먼저 씻으세요. 훨씬 많이 젖었잖아요.”"
     voice "voices/gd46.ogg"
-    소녀 "“我会准备饭的。你先洗吧，毕竟淋湿了很多。”"
+    소녀 "“我会准备饭的。你先洗吧，你湿得比我多多了。”"
 
 # game/chapter4.rpy:2481
 translate chinese ecg8_label_a93f56ea:
@@ -5770,7 +5770,7 @@ translate chinese ecg8_label_b5fe952a:
     # voice "voices/gd52.ogg"
     # 소녀 "“…… 다음에 시간 나면 알려 줄게요.”"
     voice "voices/gd52.ogg"
-    소녀 "“……下次有时间的话我会告诉你的。”"
+    소녀 "“……下次有时间的话，我教你吧。”"
 
 # game/chapter4.rpy:2573
 translate chinese ecg8_label_57fdbd5d:
@@ -5778,7 +5778,7 @@ translate chinese ecg8_label_57fdbd5d:
     # voice ""
     # "소녀는 약간 머쓱한 듯 웃음 짓고선, 식사를 계속했다. "
     voice ""
-    "少女略显尴尬地笑了笑，继续吃饭。"
+    "少女微微笑了笑，有些不好意思的样子，继续吃饭。"
 
 # game/chapter4.rpy:2579
 translate chinese ecg8_label_690000db:
@@ -5790,7 +5790,7 @@ translate chinese ecg8_label_690000db:
 translate chinese ecg8_label_92fb0fff:
 
     # "약간은 쌉쌀한 끝 맛이 맴도는 상상이었지만, 오히려 그 쌉쌀함이 지금 이 순간의 맛을 돋우는 것 같기도 했다. "
-    "虽然想象着末尾有点苦涩的味道，但这苦涩反而似乎增强了这一刻的味道。"
+    "虽然想象的末尾有点苦涩，但这苦涩反而似乎增强了这一刻的味道。"
 
 # game/chapter4.rpy:2583
 translate chinese ecg8_label_97f79c86:
@@ -5802,13 +5802,13 @@ translate chinese ecg8_label_97f79c86:
 translate chinese ecg8_label_1684fcf0:
 
     # "접시를 깨끗이 비우고선, 소녀와 함께 뒷정리를 했다. "
-    "把盘子清空后，和少女一起收拾。"
+    "我们把盘子吃得干干净净，然后一起收拾了碗筷。"
 
 # game/chapter4.rpy:2586
 translate chinese ecg8_label_87db29b8:
 
     # "뒷정리가 끝나고서야 소녀는 젖은 몸을 이끌고 욕실로 들어갔다. "
-    "收拾完后，少女拖着湿漉漉的身子走进了浴室。"
+    "收拾完后，少女才拖着湿漉漉的身子走进了浴室。"
 
 # game/chapter4.rpy:2587
 translate chinese ecg8_label_a3592355:
@@ -5820,19 +5820,19 @@ translate chinese ecg8_label_a3592355:
 translate chinese ecg8_label_6cc51b9f:
 
     # "쏟아지는 빗소리에 섞인 채, 샤워기에서 떨어지는 물줄기 소리가 귓가에 울렸다. "
-    "在倾盆大雨声中，浴室里的水流声在耳边回荡。"
+    "在倾盆大雨声中，淋浴器里落下的水流声在我耳边回荡。"
 
 # game/chapter4.rpy:2594
 translate chinese ecg8_label_3188475a:
 
     # "그날 밤에 들었던 물줄기 소리와 마찬가지로, 귓가에 울리는 물줄기의 울림이 너무나도 편안하게 느껴져서인지. "
-    "就像那天晚上听到的水流声一样，耳边的水流的回响让人感到非常舒服。"
+    "也许是因为和那天晚上听到的水流声一样，耳边的水流的回响让人感到非常舒服。"
 
 # game/chapter4.rpy:2597
 translate chinese ecg8_label_cfc550ca:
 
     # "나는 이 순간이 되도록이면 오랫동안 계속되었으면 좋겠다고 생각했다. "
-    "我希望这一刻能持续很久。"
+    "我希望这一刻能尽可能地持续久一些。"
 
 # game/chapter4.rpy:2604
 translate chinese ecg8_label_0494fc03:
@@ -5868,7 +5868,7 @@ translate chinese ecg8_label_fc5e79be:
 translate chinese ecg8_label_118ca0bd:
 
     # "어울린다고 해야 하는 건지, 어울리지 않는다고 해야 하는 건지. "
-    "到底应该说般配，还是应该说不般配。"
+    "到底应该说合拍，还是应该说不合拍。"
 
 # game/chapter4.rpy:2619
 translate chinese ecg8_label_e9cb29ca:
@@ -5938,7 +5938,7 @@ translate chinese ecg8_label_4d38fde1:
     # voice ""
     # 나 "“{color=#00ccff}레인 맨{/color} 같네.”"
     voice ""
-    나 "“就像是{color=#00ccff}雨人{/color}。”"
+    나 "“就像是{color=#00ccff}雨人{/color}一样啊。”"
 
 # game/chapter4.rpy:2649
 translate chinese ecg8_label_51ac2d80:
@@ -5960,7 +5960,7 @@ translate chinese ecg8_label_defc4e11:
 translate chinese ecg8_label_4095657a:
 
     # 나 "“아, 그런 게 있어. 뭐…… 기억 속의 수호천사 같은 거라고나 할까.”"
-    나 "“啊，有这种事。嗯……应该说是记忆中的守护天使吧。”"
+    나 "“啊，有这么个东西。嗯……应该说是记忆中的守护天使吧。”"
 
 # game/chapter4.rpy:2656
 translate chinese ecg8_label_4571d2c8:
@@ -6004,7 +6004,7 @@ translate chinese ecg8_label_151c7232:
     # voice ""
     # 나 "“잘 안 쓰이는 말이거든.”"
     voice ""
-    나 "“不太常用。”"
+    나 "“因为不是常用的词语啊。”"
 
 # game/chapter4.rpy:2669
 translate chinese ecg8_label_b7c53ac2:
@@ -6048,7 +6048,7 @@ translate chinese ecg8_label_7bf1d42e:
 translate chinese ecg8_label_def2711d:
 
     # "그러고 있을 때면 지루하게 시간을 보내고 있던 소녀가 나의 곁으로 스르륵 다가와 “심심해요. 같이 봐도 될까요?”라며 나의 옆자리를 차지했다. "
-    "这时无聊地度过时间的少女悄悄地靠近我说：“好无聊。可以一起看吗？”。"
+    "这时候，无聊地打发时间的少女就会悄悄地靠近我，“好无聊啊。可以一起看吗？”然后占据了我的旁边。”。"
 
 # game/chapter4.rpy:2685
 translate chinese ecg8_label_618e7212:
@@ -6060,7 +6060,7 @@ translate chinese ecg8_label_618e7212:
 translate chinese ecg8_label_1386319e:
 
     # "소녀를 옆에 두고 독서를 할 때면 책의 내용보다 소녀가 페이지 어디쯤을 읽고 있었는지가 더 신경 쓰이긴 했지만, 그건 아무래도 좋았다. "
-    "和少女一起读书的时候，比起书的内容，少女在读哪一页更让人在意，但不管怎么说还是不错的。"
+    "和少女一起读书的时候，比起书的内容，少女在读哪一页更让我在意，但这也无所谓。"
 
 # game/chapter4.rpy:2690
 translate chinese ecg8_label_9c344427:
@@ -6102,7 +6102,7 @@ translate chinese ecg8_label_7c2f533a:
 translate chinese ecg8_label_bdbd638b:
 
     # "이부자리에서 몸을 일으킨 나는 침대 쪽으로 시선을 옮겼다. "
-    "从被褥上站起来的我把视线转向了床上。"
+    "我从床上起身，把视线转向了床上。"
 
 # game/chapter4.rpy:2710
 translate chinese ecg8_label_48f4f7f0:
@@ -6152,7 +6152,7 @@ translate chinese ecg8_label_712c30c8:
     # voice ""
     # "소녀는 당연한 일이라는 듯 나의 말에 간단한 반응만을 보이며 부엌으로 향했다. "
     voice ""
-    "少女似乎理所当然地回应了我的话，走向了厨房。"
+    "少女似乎理所当然地回应了我的话，然后朝厨房走去。"
 
 # game/chapter4.rpy:2731
 translate chinese ecg8_label_d7684679:
@@ -6170,25 +6170,25 @@ translate chinese ecg8_label_b7e04d8b:
 translate chinese ecg8_label_ace73d67:
 
     # "깨어나 보면 꿈이라고 여겨질지도 모르는 지금의 상황에, 나는 사로잡혀 있는 건지도 모르겠다고 생각했다. "
-    "醒来后，我觉得自己是不是还沉浸在梦里，我想也许是被迷住了。"
+    "我想，我是不是被现在这种，可能醒来就是梦的情况所迷住了。"
 
 # game/chapter4.rpy:2738
 translate chinese ecg8_label_f381d480:
 
     # "어젯밤에는 현지가 문자를 보내오기도 했지만, 현지도 그날 이후로 큰 진전은 없는 듯해 보였다. "
-    "昨晚贤智还发来了短信，但贤智从那天起似乎也没有太大进展。"
+    "昨晚贤智还发来了短信，但是看起来她那边也没有太大进展。"
 
 # game/chapter4.rpy:2739
 translate chinese ecg8_label_ead658e7:
 
     # "요 며칠간을 요약하자면 비현실과 현실 사이에 애매하게 끼여버린 단조로운 일상이라고 할 수 있을까. "
-    "如果概括这几天，可以说是夹在非现实和现实之间的单调的日常吗？"
+    "如果概括这几天，可以说是夹在非现实和现实之间的单调的日常吧。"
 
 # game/chapter4.rpy:2744
 translate chinese ecg8_label_37bffe9b:
 
     # "그리고 나는, 그러한 일상에 익숙해지려 하고 있었다. "
-    "而且，我正试图习惯这种日常生活。"
+    "而且，我正在习惯这种日常生活。"
 
 # game/chapter4.rpy:2745
 translate chinese ecg8_label_ddf450b5:
@@ -6348,7 +6348,7 @@ translate chinese ecg8_label_f4083d4e:
 translate chinese ecg8_label_4bce721b:
 
     # "잠깐 그런 생각에 빠져있던 내게 소녀가 의아한 기색을 보였다. "
-    "少女对暂时陷入这种想法的我露出了惊讶的神色。"
+    "少女对暂时陷入这种想法的我露出了疑惑的神色。"
 
 # game/chapter4.rpy:2811
 translate chinese ecg8_label_78643aaa:
@@ -6434,7 +6434,7 @@ translate chinese ecg8_label_ccb56358:
 translate chinese ecg8_label_ed98e593:
 
     # "어쩌면 집 밖으로 나온 것보다는 아무런 부담 없이 우산 아래에서 길을 걷는다는 사실이 소녀의 목소리를 가볍게 만든 이유였을지도 모르겠다. "
-    "也许比起出门，毫无负担地在雨伞下走路的事实让少女的声音变得更轻快。"
+    "也许比起出门，毫无负担地在雨伞下走路的事实让少女的声音变得更轻快了。"
 
 # game/chapter4.rpy:2832
 translate chinese ecg8_label_50539790:
@@ -6452,7 +6452,7 @@ translate chinese ecg8_label_a8ffef68:
 translate chinese ecg8_label_99e8edca:
 
     # "드문드문 보이는 물웅덩이로 떨어지는 물방울의 파문이 가느다란 호를 그린다. "
-    "落入水坑的稀稀拉拉的水滴的波纹画出了细长的弧线。"
+    "零星出现的水坑里落下的水滴泛起了细细的涟漪。"
 
 # game/chapter4.rpy:2838
 translate chinese ecg8_label_7ecd6818:
@@ -6464,25 +6464,25 @@ translate chinese ecg8_label_7ecd6818:
 translate chinese ecg8_label_8fc66919:
 
     # "물방울에게 비쳐지는 나는 홀로 우산을 쓴 채 거리를 걷고 있을 뿐이겠지. "
-    "被水滴映出的我，只是独自撑着雨伞在街上走着。"
+    "在水滴的映照下，我只是一个独自撑着雨伞走在街上的人罢了。"
 
 # game/chapter4.rpy:2840
 translate chinese ecg8_label_a47d212b:
 
     # "고개를 돌려 바라본 그곳에, 소녀는 분명 존재하고 있었다. "
-    "稍微侧过头，少女肯定存在于那里。"
+    "我转过头看去，那里，少女确实存在着。"
 
 # game/chapter4.rpy:2841
 translate chinese ecg8_label_61665987:
 
     # "투명한 물웅덩이에도, 희미한 조명이 새어 나오는 가게 유리창에도 비쳐지지 않는 소녀의 모습이 어째서 나의 눈동자에만 새겨지는 걸까. "
-    "即使是在透明的水坑里，即使是在透出微弱灯光的商店玻璃窗上，也无法映出的少女的身影为何只出现在我的瞳孔里？"
+    "即使是在透明的水坑里，即使是在透出微弱灯光的商店玻璃窗上，也无法映出的少女的身影为何只在我的眼睛里才能刻下？"
 
 # game/chapter4.rpy:2843
 translate chinese ecg8_label_f5634b50:
 
     # "혼자만의 생각에 잠겨 소녀를 바라보던 중, 나의 옆에 붙어 가만히 길을 걷던 소녀가 내게 넌지시 말을 꺼냈다. "
-    "就在我若有所思地看着少女的时候，静静走在我身边的少女对我说："
+    "就在我若有所思地看着少女的时候，这时，紧贴着我一起走路的少女轻轻地对我说了一句话。"
 
 # game/chapter4.rpy:2845
 translate chinese ecg8_label_61d12c76:
@@ -6490,7 +6490,7 @@ translate chinese ecg8_label_61d12c76:
     # voice "voices/gd70.ogg"
     # 소녀 "“그나저나, 비가 와서 안 좋은 점이 하나 있었네요.”"
     voice "voices/gd70.ogg"
-    소녀 "“话说回来，下雨有一点不好。”"
+    소녀 "“话说，下雨有一点不好。”"
 
 # game/chapter4.rpy:2847
 translate chinese ecg8_label_411fe0b1:
@@ -6506,7 +6506,7 @@ translate chinese ecg8_label_52f95c97:
     # voice "voices/gd71.ogg"
     # 소녀 "“손을 잡고 싶어도, 그러지 못하잖아요.”"
     voice "voices/gd71.ogg"
-    소녀 "“即使想牵手也做不到了。”"
+    소녀 "“即使想牵手，也做不到了。”"
 
 # game/chapter4.rpy:2852
 translate chinese ecg8_label_ffc632bf:
@@ -6582,7 +6582,7 @@ translate chinese ecg8_label_580d9961:
     # voice ""
     # 나 "“맞아. 기분 전환하는 데엔 달콤한 게 최고니까, 라고 누가 말하더라고.”"
     voice ""
-    나 "“对。有人说，在改变心情方面，甜蜜是最好的。”"
+    나 "“对。要转换心情的话，甜甜的东西最好了，有人这么说过。”"
 
 # game/chapter4.rpy:2874
 translate chinese ecg8_label_4ce49c0e:
@@ -6650,13 +6650,13 @@ translate chinese ecg8_label_70a92f8a:
 translate chinese ecg8_label_1eb1a1cd:
 
     # "뿌듯하면서도 묘한 감정이 선을 이룬다. "
-    "欣慰而又微妙的感情形成了线。"
+    "我感到十分满足，但也有些微妙情绪交织形成了线。"
 
 # game/chapter4.rpy:2896
 translate chinese ecg8_label_a5049a89:
 
     # "순간과 순간이 얽히고설켜 이루어진 감정선이 미묘한 종착지를 향해 가고 있음을, 나는 다시 한번 실감했다. "
-    "我再次切身感受到了，瞬间和瞬间交错在一起的感情线正走向微妙的终点。"
+    "我再次切身感受到了，瞬间和瞬间交错在一起的感情线正朝着微妙的终点前进。"
 
 # game/chapter4.rpy:2901
 translate chinese ecg8_label_a15049a9:
@@ -6686,13 +6686,13 @@ translate chinese ecg8_label_567e8b39:
 translate chinese ecg8_label_5bd5dd5a:
 
     # "골목길을 걷기 시작했다. "
-    "开始走在小巷里。"
+    "我开始走在小巷里。"
 
 # game/chapter4.rpy:2914
 translate chinese ecg8_label_c107bea1:
 
     # "그러자 문득, 소녀가 우산 밖으로 손을 내밀었다. "
-    "突然，少女把手伸出了雨伞。"
+    "突然，少女突然伸出手到雨伞外面。"
 
 # game/chapter4.rpy:2918
 translate chinese ecg8_label_f743f67f:
@@ -6756,7 +6756,7 @@ translate chinese ecg8_label_b51502c2:
 translate chinese ecg8_label_0af42909:
 
     # "꽤나 밝아 보이는, 네댓 살 정도의 나이 차가 있어 보이는 남매의 모습 같았다. "
-    "看起来是长得挺亮眼的兄妹，年龄大概相差四五岁的样子。"
+    "看起来很开心的，大概有四岁左右的年龄差的兄妹模样。"
 
 # game/chapter4.rpy:2938
 translate chinese ecg8_label_25d7dc59:
@@ -6768,7 +6768,7 @@ translate chinese ecg8_label_25d7dc59:
 translate chinese ecg8_label_14ce3674:
 
     # "우산이 들려있는 맞은편 손에 누군가의 손길이 닿았다. "
-    "某人伸出的手碰到了对面拿着雨伞的手。"
+    "在拿着伞的另一只手上，感觉到了谁的手指。"
 
 # game/chapter4.rpy:2947
 translate chinese ecg8_label_465db120:
@@ -6784,19 +6784,19 @@ translate chinese ecg8_label_c2e8fe3f:
     # voice ""
     # "서로의 손길이 전해지자, 우리는 누가 먼저랄 것도 없이 어색하게 고개를 치켜들었다. "
     voice ""
-    "不管是谁先伸出手来，彼此的手一触碰我们便尴尬地抬起头来。"
+    "不管是谁先伸出手来，感受到彼此的手指时，我们不约而同地尴尬地抬起了头。"
 
 # game/chapter4.rpy:2958
 translate chinese ecg8_label_92d5a1f5:
 
     # "새까만 하늘을 바라보려 했지만, 그보다 먼저 눈에 들어온 것이 있었다. "
-    "本想仰望漆黑的夜空，但有些东西比它先映入眼帘。"
+    "本想仰望漆黑的夜空，但是先入眼帘的是另一样东西。"
 
 # game/chapter4.rpy:2960
 translate chinese ecg8_label_dc393980:
 
     # "가로등이 내뱉는 백색광이 산만해진 공기층에 부딪혀 가시광선의 스펙트럼을 이루고 있었다. "
-    "路灯发出的白光轰击着分散的空气层，形成了可见光的光谱。"
+    "路灯发出的白光在分散的空气层中折射，形成了可见光的光谱。"
 
 # game/chapter4.rpy:2961
 translate chinese ecg8_label_b6eef2b7:
@@ -6818,13 +6818,13 @@ translate chinese ecg8_label_20ecad42:
     # voice ""
     # "나와 같은 곳을 바라보고 있던 소녀가 먼저 감상을 말했다. "
     voice ""
-    "和我看向同一个地方的少女首先说了出感想。"
+    "和我看向同一个地方的少女首先说出了感想。"
 
 # game/chapter4.rpy:2967
 translate chinese ecg8_label_eab5995d:
 
     # "더할 나위 없이 군더더기 없는 감상이라, 나는 그만 웃음을 터뜨렸다. "
-    "再也没有多余的感想，我忍不住笑出声。"
+    "实在是太简洁明了的感想了，我不禁笑了出来。"
 
 # game/chapter4.rpy:2969
 translate chinese ecg8_label_bc7d4325:
@@ -6858,7 +6858,7 @@ translate chinese ecg8_label_9ce44c28:
 translate chinese ecg8_label_9235a237:
 
     # "가로등마다 펼쳐진 자그마한 무지개를 따라 걸었다. "
-    "沿着每个路灯上的小彩虹走。"
+    "我们沿着每个路灯下展开的小小的彩虹走着。"
 
 # game/chapter4.rpy:2979
 translate chinese ecg8_label_b5c618ed:
@@ -6870,13 +6870,13 @@ translate chinese ecg8_label_b5c618ed:
 translate chinese ecg8_label_a9131fda:
 
     # "그렇게나 많은 무지개를 연달아 볼 수 있었던 것도. "
-    "我能连续看到那么多彩虹。"
+    "我能连续看到那么多彩虹也是。"
 
 # game/chapter4.rpy:2984
 translate chinese ecg8_label_800b8452:
 
     # "위를 향해 치켜든 소녀의 옆모습을 그토록 오랫동안 바라볼 수 있었던 것도. "
-    "能够长久地注视着少女向上看去的侧影。"
+    "能够长久地注视着少女向上看去的侧影也是。"
 
 # game/chapter4.rpy:2993
 translate chinese ecg8_label_d5617357:
@@ -6894,19 +6894,19 @@ translate chinese ecg8_label_787d08b7:
 translate chinese ecg8_label_2346731e:
 
     # "하지만 어느덧 소녀의 죽음을 찾아 헤매는 일은 슬슬 끝을 보이고 있었다. "
-    "不知不觉间，寻找少女死亡的事情渐渐接近尾声。"
+    "不知不觉间，寻找少女死亡的事情也渐渐接近了尾声。"
 
 # game/chapter4.rpy:3002
 translate chinese ecg8_label_e666ee94:
 
     # "네 시간 정도 열차를 타고 도착한 F구역 터미널에서 버스로 갈아타서는 한 시간을 더 달렸다. "
-    "在乘坐4个小时左右的列车到达F区域车站之后，换乘公共汽车又花了一个小时。"
+    "在乘坐4个小时左右的列车到达F区域车站之后，然后换乘公共汽车又跑了一个小时。"
 
 # game/chapter4.rpy:3003
 translate chinese ecg8_label_1021aa09:
 
     # "버스에서 내린 뒤 인적 드문 도로를 따라 30분 정도를 걷자 목적지로 했던 다리가 보였다. "
-    "从公交车上下来后，沿着人迹罕至的道路走了30分钟左右，就到了目的地。"
+    "从公交车上下来后，沿着人迹罕至的道路走了30分钟左右，就到了目的地的桥。"
 
 # game/chapter4.rpy:3005
 translate chinese ecg8_label_95929f5a:
@@ -6978,13 +6978,13 @@ translate chinese ecg8_label_7921fb55:
 translate chinese ecg8_label_14d5cf48:
 
     # 나 "“아아, 모를 수도 있겠다. E구역은 올해 초에 폐쇄됐어. 그쪽 발전소에서 대형 화재가 일어나는 바람에 구역 일대가 마비됐거든.”"
-    나 "“啊啊，你可能不知道。E区今年年初被完全封锁了。因为那边的发电站发生了大型火灾，所以整个区域的供电都瘫痪了。”"
+    나 "“啊啊，你可能不知道。E区今年年初被完全封锁了。因为那边的发电厂发生了大型火灾，所以整个区域的供电都瘫痪了。”"
 
 # game/chapter4.rpy:3027
 translate chinese ecg8_label_5c96f4f9:
 
     # 나 "“그런 일이 있고 난 뒤에 주민들을 모두 여기 F구역으로 대피시켰고, 지금은 들어가는 길이 모두 막혀 있는 걸로 알고 있어.”"
-    나 "“发生那种事后，居民们都暂时躲到了F区，现在进去的路都堵上了。”"
+    나 "“听说发生那种事后，就把居民们都疏散到了这里的F区，现在进去的路都堵上了。”"
 
 # game/chapter4.rpy:3028
 translate chinese ecg8_label_0d2edd5b:
@@ -7000,7 +7000,7 @@ translate chinese ecg8_label_ac193241:
     # voice ""
     # "소녀는 무언가 마음에 걸리는 게 있는 듯 미간을 살며시 찡그려 보였지만, 이내 표정을 풀고 주변을 살피기 시작했다. "
     voice ""
-    "少女似乎有什么不对劲，微微皱起眉头，但很快就放松了表情，开始观察周围。"
+    "少女好像有什么心事一样轻轻皱了皱眉，但很快就放松了表情，开始观察周围。"
 
 # game/chapter4.rpy:3034
 translate chinese ecg8_label_0f65cc76:
@@ -7030,7 +7030,7 @@ translate chinese ecg8_label_d87f4065:
 translate chinese ecg8_label_830d6dec:
 
     # "소녀와 함께 죽음의 색을 찾아 돌아다니는 것도 오늘이 마지막이겠거니 하고 시선을 정면으로 돌리려는데. "
-    "想着今天也是最后一次和少女一起寻找死亡的颜色，想把视线转向正面。"
+    "想着今天也是最后一次和少女一起寻找死亡的颜色，想把视线转向正面时。"
 
 # game/chapter4.rpy:3041
 translate chinese ecg8_label_0a9fd6b9:
@@ -7042,7 +7042,7 @@ translate chinese ecg8_label_0a9fd6b9:
 translate chinese ecg8_label_7de2aa8a:
 
     # "전화를 받아들자 현지의 목소리가 들렸다. "
-    "一接电话，就听到了贤智的声音。"
+    "接通电话后，听到了贤智的声音。"
 
 # game/chapter4.rpy:3048
 translate chinese ecg8_label_811e205f:
@@ -7072,7 +7072,7 @@ translate chinese ecg8_label_624342f3:
     # voice "voices/hd118.ogg"
     # 현지 "“아…… 그게, 텔레이도스코프 관련해서 말인데요. 학교 옥상 안테나로는 텔레이도스코프의 출력이 부족한 것 같아서요.”"
     voice "voices/hd118.ogg"
-    현지 "“啊……那是关于远华镜的。看来，远华镜的输出功率对于学校屋顶天线来说是不够的。”"
+    현지 "“啊……那，是关于远华镜的。看来，远华镜的输出功率对于学校屋顶天线来说是不够的。”"
 
 # game/chapter4.rpy:3059
 translate chinese ecg8_label_25a5945b:
@@ -7088,7 +7088,7 @@ translate chinese ecg8_label_5a87a170:
     # voice ""
     # 나 "“그거 조금 난감한 상황 아니야? 다른 장소라니, 쉽게 찾을 수 있을 것 같진 않은데.”"
     voice ""
-    나 "“那个是不是有点勉强？别的地方，我想不太容易找到。”"
+    나 "“那个是不是有点勉强？别的地方，感觉不是那么容易找到啊。”"
 
 # game/chapter4.rpy:3063
 translate chinese ecg8_label_493e4a44:
@@ -7096,7 +7096,7 @@ translate chinese ecg8_label_493e4a44:
     # voice "voices/hd120.ogg"
     # 현지 "“그래서 선배한테도 이렇게 부탁하는 거예요.”"
     voice "voices/hd120.ogg"
-    현지 "“所以也拜托前辈了。”"
+    현지 "“所以才想请前辈帮忙啊。”"
 
 # game/chapter4.rpy:3065
 translate chinese ecg8_label_966811cc:
@@ -7208,7 +7208,7 @@ translate chinese ecg8_label_accfd91f:
 translate chinese ecg8_label_0a290816:
 
     # "몸을 완전히 난간대에서 떼어내고선 뒤를 돌아보자 나를 기다리고 있던 소녀와 눈을 마주쳤다. "
-    "身体完全从栏杆上离开，一回头，与正在等着我的少女的目光重合了。"
+    "身体完全离开栏杆后，我转过身，与正在等着我的少女的目光重合了。"
 
 # game/chapter4.rpy:3100
 translate chinese ecg8_label_e2fb8ce5:
@@ -7220,7 +7220,7 @@ translate chinese ecg8_label_e2fb8ce5:
 translate chinese ecg8_label_b21cccbd:
 
     # 나 "“어떻게 됐어? 기억나는 건…….”"
-    나 "“怎么样了？记起了……”"
+    나 "“怎么样了？有想起什么吗……”"
 
 # game/chapter4.rpy:3103
 translate chinese ecg8_label_22eca580:
@@ -7262,7 +7262,7 @@ translate chinese ecg8_label_64ee7c01:
     # voice "voices/gd85.ogg"
     # 소녀 "“아뇨, 그게 아니라…… 보이지 않았거든요. 죽음의 색 말이에요.”"
     voice "voices/gd85.ogg"
-    소녀 "“不，不对……因为看不见，死亡的颜色。”"
+    소녀 "“不，不对…… 我没看到。死亡的颜色。”"
 
 # game/chapter4.rpy:3118
 translate chinese ecg8_label_f5d0c2c7:
@@ -7836,7 +7836,7 @@ translate chinese ecg8_label_bc7cc408:
 translate chinese ecg8_label_e06343d0:
 
     # "그때는 알지 못했던 것 같다. "
-    "那时候好像还不知道。"
+    "那时候我好像还不知道。"
 
 # game/chapter4.rpy:3348
 translate chinese ecg8_label_8ff8f007:
@@ -7848,7 +7848,7 @@ translate chinese ecg8_label_8ff8f007:
 translate chinese ecg8_label_0721fff3:
 
     # "벤치에서 일어나려다 말고, 소녀가 몸을 휘청였다. "
-    "想从长椅上站起来，少女摇晃着身子。"
+    "想从长椅上站起来，少女身体一晃。"
 
 # game/chapter4.rpy:3351
 translate chinese ecg8_label_c626b065:
@@ -7904,7 +7904,7 @@ translate chinese ecg8_label_e217c93b:
 translate chinese ecg8_label_a51209e9:
 
     # "소녀는 아무래도 죽음의 흔적 같은 건 이곳에서 찾을 수 없었는지 이따금 기분을 전환하려는 듯 심호흡을 내쉬었다. "
-    "少女可能在这里找不到死亡的痕迹，偶尔会像为了转换心情一样做深呼吸。"
+    "少女可能在这里找不到死亡的痕迹，时不时会像为了转换心情一样做深呼吸。"
 
 # game/chapter4.rpy:3374
 translate chinese ecg8_label_6a3fbdd1:
@@ -8126,7 +8126,7 @@ translate chinese ecg9_label_e195a09a:
 translate chinese ecg9_label_a69fbc86:
 
     # "소녀는 여태껏 고양이를 만져보지 못했던 한을 풀듯 마음껏 고양이를 쓰다듬었다. "
-    "少女好像解开了从来没有摸过猫的怨恨，尽情地抚摸猫。"
+    "少女好像发泄着从来没有摸过猫的怨恨，尽情地抚摸猫。"
 
 # game/chapter4.rpy:3483
 translate chinese ecg9_label_0abc349f:
