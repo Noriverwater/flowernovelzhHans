@@ -76,7 +76,7 @@ translate chinese chapter1_db5ad915:
     # voice "voices/ya2.ogg"
     # 유미 "“있지, 여기서 파는 크레페는 특히 더 맛있는 것 같아. 그렇지 않아？”"
     voice "voices/ya2.ogg"
-    유미 "“你知道的，这里卖的可丽饼特别好吃。不是吗？”"
+    유미 "“呐，这里卖的可丽饼特别好吃。不是吗？”"
 
 # game/chapter1.rpy:90
 translate chinese chapter1_2bc5057f:
