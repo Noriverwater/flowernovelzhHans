@@ -8000,7 +8000,7 @@ translate chinese ecg14_label_a304a3f0:
     # voice ""
     # 나 "“너와 이어지지 못한 목소리가 있었어. 어쩌면 그 목소리에, 정답이 담겨 있었을지도 몰라.”"
     voice ""
-    나 "“有一句话没能传达给你。说不定在那句话里，有答案。”"
+    나 "“有一句话没能与你相连。说不定在那句话里，有答案。”"
 
 # game/chapter6.rpy:2858
 translate chinese ecg14_label_272b5c51:
