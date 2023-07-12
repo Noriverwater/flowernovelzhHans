@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2021-08-15 22:43
+# TODO: Translation updated at 2021-08-15 22:43
 
 # game/chapter7.rpy:6
 translate chinese chapter7_6b829acf:
 
     # "감긴 눈 위를 덮은 햇살에 눈을 떴을 땐 밤하늘에 펼쳐져 있던 먹빛 잔해는 흔적도 없이 사라진 채, 나와 소녀를 꿈속으로 안내하던 수면 유도등은 잠을 쫓는 아침의 햇살이 되어 나를 비추고 있었다. "
-    "在阳光下睁开眼睛时夜空中的墨色残骸已经不留任何痕迹，引导我和少女入梦的睡眠诱导灯与早晨的阳光一起，照亮了我，驱散了睡意。"
+    "在闭着眼睛所遮掩的阳光下睁开眼睛时，夜空中的墨色残骸已经不留任何痕迹，带领我和少女进入梦境的睡眠诱导灯，变成了早晨驱赶睡意的阳光，照在我身上。"
 
 # game/chapter7.rpy:11
 translate chinese chapter7_c8a4b851:
 
     # "고개를 돌린 곳에 소녀가 있었다. "
-    "转过头，少女近在咫尺。"
+    "转过头，少女就在那里。"
 
 # game/chapter7.rpy:12
 translate chinese chapter7_1b4e2c8a:
@@ -22,13 +22,13 @@ translate chinese chapter7_1b4e2c8a:
 translate chinese chapter7_c42c0205:  
 
     # "소녀의 숨소리가 내 심장에 조금만 더 가깝게 다가왔다면, 그대로 잠에서 깨어버리지 않았을까. "
-    "如果少女的呼吸声再靠近我的心脏一点，我就会直接从睡梦中醒来。"
+    "如果少女的呼吸声再靠近我的心脏一点，会不会直接从睡梦中醒来呢。"
 
 # game/chapter7.rpy:14
 translate chinese chapter7_e037387a:
 
     # "아니, 만약 소녀가 나의 심장 쪽을 향해 조금만 더 가까이 있었다면 그 심장박동에 그대로 잠에서 깨어버렸을지도 모르겠다. "
-    "不，如果少女再靠近我的心脏一点，就会被心脏的跳动直接惊醒了。"
+    "不，如果少女再靠近我的心脏一点点，会不会直接被那心跳声惊醒呢。"
 
 # game/chapter7.rpy:16
 translate chinese chapter7_d4e43f68:
@@ -46,7 +46,7 @@ translate chinese chapter7_396673fa:
 translate chinese chapter7_00c14367:
 
     # "다행인 건지, 뒤척이는 소리 뒤에 들려온 건 방금과 다름없는 얕은 숨소리였다. "
-    "也许是万幸，翻身之后传来的是和刚才一样的浅呼吸声。"
+    "也许是万幸，翻身之后传来的是和刚才一样的浅浅的呼吸声。"
 
 # game/chapter7.rpy:24
 translate chinese chapter7_fce1a929:
@@ -64,19 +64,19 @@ translate chinese chapter7_4c5f0a6f:
 translate chinese chapter7_8ea06893:
 
     # "평화롭게 흘러가고 있는 지금의 순간을 말이다. "
-    "时间正在平静地流逝。"
+    "就是这平静地流淌着的现在的瞬间。"
 
 # game/chapter7.rpy:30
 translate chinese chapter7_f4aec881:
 
     # "눈을 감고 조용히 떠올린 건, 아무래도 어제의 일이었다. "
-    "闭上眼睛静静地想来，还是昨天的事。"
+    "闭上眼睛静静地想起来的，还是昨天的事。"
 
 # game/chapter7.rpy:31
 translate chinese chapter7_c4065a43:
 
     # "머릿속에 텔레이도스코프가 펼쳐진 것처럼, 평소보다 배로는 길었던 것처럼 느껴지는 어제의 일이 스치듯 지나간다. "
-    "就像启用了远华镜那样，昨天的事情在脑海里像走马灯一样倒放。感觉昨天似乎比平时更长。"
+    "就像启用了远华镜那样，昨天的事情在脑海里像走马灯一样倒放。感觉比平时要长两倍。"
 
 # game/chapter7.rpy:35
 translate chinese chapter7_44ca268b:
@@ -88,19 +88,19 @@ translate chinese chapter7_44ca268b:
 translate chinese chapter7_a73deba3:
 
     # "소녀가 사라진 회색빛의 세상, "
-    "少女消失的灰色世界，"
+    "少女消失了的灰色世界，"
 
 # game/chapter7.rpy:43
 translate chinese chapter7_26e5e993:
 
     # "알코올로 물든 선홍색의 세상, "
-    "被酒精浸染的鲜红世界，"
+    "被酒精浸染的绯红色世界，"
 
 # game/chapter7.rpy:47
 translate chinese chapter7_8a3a119c:
 
     # "별무리를 바라보았을 때의 순백색 세상, "
-    "仰望群星的纯白色世界，"
+    "仰望群星时的纯白色世界，"
 
 # game/chapter7.rpy:51
 translate chinese chapter7_5c4f0a87:
@@ -130,7 +130,7 @@ translate chinese chapter7_e3b6ba71:
 translate chinese chapter7_481f18ac:
 
     # "감은 눈 위로 덮이는 아침 햇살과 뒤섞인 그때의 색을, 나는 영원히 기억하고 싶다고 생각했다. "
-    "闭上眼睛那时的颜色和晨曦混在一起，我想永远记住。"
+    "闭着眼睛所遮掩的晨光和那时的颜色混在一起，我想永远记住那种颜色。"
 
 # game/chapter7.rpy:65
 translate chinese chapter7_99d070f4:
@@ -148,13 +148,13 @@ translate chinese chapter7_700586ec:
 translate chinese chapter7_2ff89828:
 
     # "그곳에서 들었던 이어지지 못한 목소리가 소녀에게 이어진다면, 소녀는 잃어버렸던 기억들 모두를 되찾을지도 모른다. "
-    "如果在那里听到的无法延续的声音能与少女相接，少女可能会找回所有丢失的记忆。"
+    "如果在那里听到的没能与少女相连的声音传达给了少女，少女可能会找回所有丢失的记忆。"
 
 # game/chapter7.rpy:71
 translate chinese chapter7_cf42ff9a:
 
     # "그리고 어쩌면, 자신이 사라지지 못했던 이유를 떠올린 소녀는 사라지는 방법을 깨닫고는 서서히 행복하게, 아주 잠깐의 유예기간을 가지며 자신을 내 앞에서 지워나갈지도 모른다. "
-    "也许，想起自己无法消失的理由的少女领悟到消失的方法后，会慢慢地幸福地过一段非常短暂的时光，将自己从我面前抹去。"
+    "也许，想起自己无法消失的理由的少女领悟到消失的方法后，会慢慢地幸福地过一段非常短暂的犹豫期间，然后将自己从我面前抹去。"
 
 # game/chapter7.rpy:72
 translate chinese chapter7_7f038c9b:
@@ -166,7 +166,7 @@ translate chinese chapter7_7f038c9b:
 translate chinese chapter7_bb98ae91:
 
     # "그리고 나는, 다시 과거로 돌아가겠지. "
-    "而我，将回到过去。"
+    "而我，会再次回到过去吧。"
 
 # game/chapter7.rpy:77
 translate chinese chapter7_dd1e66b7:
@@ -184,13 +184,13 @@ translate chinese chapter7_a9ea65f1:
 translate chinese chapter7_be49f88f:
 
     # "여러모로 낙관적인 상상들만이 머릿속에 펼쳐진 건, 머릿속에 붙잡아두려 했던 그 빛깔 때문이 아니었을까. "
-    "脑海中只有乐观的想象，这不正是因为要留住脑海中的色彩吗？"
+    "脑海中展开的只有乐观的想象，是不是因为想要抓住的那种颜色呢。"
 
 # game/chapter7.rpy:81
 translate chinese chapter7_e8127277:
 
     # "어쨌거나, 결국 중요한 건 내가 그곳에서 들었던 그 목소리가 소녀와 이어져야 한다는 점이다. "
-    "不管怎样，最重要的是我在那里听到的那个声音要和少女连接起来。"
+    "不管怎样，最终重要的是我在那里听到的那个声音能和少女相连的事。"
 
 # game/chapter7.rpy:82
 translate chinese chapter7_d9256a5e:
@@ -202,7 +202,7 @@ translate chinese chapter7_d9256a5e:
 translate chinese chapter7_bcf40586:
 
     # "목소리가 들려오기 전, 나의 머릿속을 채웠던 건 다름 아닌 한없이 붉은 빛이었다. "
-    "在听到声音之前，填满我脑海的正是无限的红色。"
+    "在听到声音之前，填满我脑海的正是无尽的红色。"
 
 # game/chapter7.rpy:87
 translate chinese chapter7_57ef3316:
@@ -214,7 +214,7 @@ translate chinese chapter7_57ef3316:
 translate chinese chapter7_9a15471b:
 
     # "그리고 어디선가 들려온 목소리는, 돌이켜보면 그 붉은색 위에 덧대져 나를 감싸 안았다. "
-    "还有不知从哪里传来的声音，回过头来，叠在那红色的上面，拥抱了我。"
+    "而从某处传来的声音，回想起来是覆盖在那红色上，拥抱了我。"
 
 # game/chapter7.rpy:96
 translate chinese chapter7_768ba411:
@@ -226,13 +226,13 @@ translate chinese chapter7_768ba411:
 translate chinese chapter7_27590824:
 
     # "누군가와도 이어지지 못한 채, 나 혼자만이 간직한 기억으로 녹아내려 버린 것이다. "
-    "与谁都无法相连，只有我一个人珍藏的记忆融化了。"
+    "没有和任何人相连，只有我一个人珍藏的记忆融化了。"
 
 # game/chapter7.rpy:113
 translate chinese chapter7_620a0f27:
 
     # whol "“너, 레인 맨이라는 영화 본 적 있어?”"
-    whol "“你看过一部叫《雨人》的电影吗？”"
+    whol "“你，看过一部叫《雨人》的电影吗？”"
 
 # game/chapter7.rpy:120
 translate chinese chapter7_8a099227:
@@ -244,7 +244,7 @@ translate chinese chapter7_8a099227:
 translate chinese chapter7_cf1475ce:
 
     # "이건 단순한 목소리가 아닌 기억이라고, 목소리가 그려낸 그녀와 내가 말하고 있었다. "
-    "这不是单纯的声音，而是记忆，声音描绘出来的她和我在说话。"
+    "这不是单纯的声音，而是记忆，声音描绘出了她和我说话的样子。"
 
 # game/chapter7.rpy:123
 translate chinese chapter7_aea2b004:
@@ -276,7 +276,7 @@ translate chinese chapter7_f2e6ab12:
     # voice "voices/gg1.ogg"
     # 소녀 "“우으음…….”"
     voice "voices/gg1.ogg"
-    소녀 "“呜呜……”"
+    소녀 "“呜嗯……”"
 
 # game/chapter7.rpy:133
 translate chinese chapter7_875ad71f:
@@ -296,7 +296,7 @@ translate chinese chapter7_f36840a0:
 translate chinese chapter7_00d30e12:
 
     # "그런 소녀 위로 환한 햇살이 비추었다. "
-    "灿烂的阳光照耀着她。"
+    "明亮的阳光照在了那样的少女身上。"
 
 # game/chapter7.rpy:141
 translate chinese chapter7_69d40a0b:
