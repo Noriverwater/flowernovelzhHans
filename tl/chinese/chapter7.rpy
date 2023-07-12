@@ -358,13 +358,13 @@ translate chinese chapter7_6d1b8716:
     # voice ""
     # "프라이팬에 남아있던 볶음밥의 잔해를 맛본 소녀는 그렇게 말하며, 옆에 놓인 레시피를 적어 두었던 메모용 마그넷에 ‘간장 반 큰술 더!’라는 말을 자그맣게 적어 넣었다. "
     voice ""
-    "尝过平底锅里剩下的炒饭后她这样说，又在旁边的食谱上写下一行小字：‘再放大半勺酱油’。"
+    "尝过平底锅里剩下的炒饭后她这样说，又在旁边写着食谱的便签磁铁上写下一行小字：‘再放大半勺酱油！’。"
 
 # game/chapter7.rpy:171
 translate chinese chapter7_a03e7b5b:
 
     # "몇 분 정도가 지나, 소녀의 손을 거쳐 아침상에 올려진 볶음밥은 단순히 간장 반 큰술의 차이라고 하기엔 뭔가 다른 맛이 느껴졌다. "
-    "过了几分钟左右，经过少女的重新烹饪的炒饭被放在了餐桌上，单纯地说是差了大半勺酱油似乎是不对的。"
+    "过了几分钟，经过少女的手放在早餐桌上的炒饭，感觉不只是多加了半汤匙酱油的区别，有些不同的味道。"
 
 # game/chapter7.rpy:172
 translate chinese chapter7_41530699:
@@ -382,13 +382,13 @@ translate chinese chapter7_72f658b5:
 translate chinese chapter7_4d773719:
 
     # "F구역 터미널에 도착해 발을 내디디자, 휑하다고도 할 수 있을 것만 같은 한산한 바람이 여름의 끝을 장식하듯 불어왔다. "
-    "到达F区车站后，清冷的风像装饰夏天的末尾一样吹来了。"
+    "到达F区车站后，清冷的风可以说是畅通无阻像装饰夏天的末尾一样吹来了。"
 
 # game/chapter7.rpy:184
 translate chinese chapter7_64f50f4d:
 
     # "그 뒤로는 강을 낀 도로와 아치교, 그리고 좁은 골목길을 순서대로 걸었다. "
-    "之后是桥洞、沿河的道路和狭窄的小巷。"
+    "之后然后按顺序走过了桥洞、沿河的道路和狭窄的小巷。"
 
 # game/chapter7.rpy:185
 translate chinese chapter7_7c514d89:
@@ -402,7 +402,7 @@ translate chinese chapter7_cc00e25c:
     # voice "voices/gg4.ogg"
     # 소녀 "“여기 봐요, 고양이예요.”"
     voice "voices/gg4.ogg"
-    소녀 "“看，这有只猫。”"
+    소녀 "“看，是猫呢。”"
 
 # game/chapter7.rpy:193
 translate chinese chapter7_fc065657:
@@ -416,7 +416,7 @@ translate chinese chapter7_fc065657:
 translate chinese chapter7_0a346cc5:
 
     # "마치 우리가 이곳으로 올 것이라는 걸 알고 있었다는 듯 등장한 그 고양이가 마냥 반가웠는지, 소녀는 무릎을 쪼그리고 앉아 고양이에게 살며시 손을 뻗었다. "
-    "猫好像知道我们还会到这里来一样，少女蹲下向猫伸出手。"
+    "猫好像知道我们还会到这里来一样很高兴，少女蹲下身子，轻轻地伸出手去摸那只猫。"
 
 # game/chapter7.rpy:198
 translate chinese chapter7_a1d7eb95:
@@ -450,7 +450,7 @@ translate chinese chapter7_d43e8d60:
 translate chinese chapter7_e73ec75b:
 
     # "이대로, 뭐든 잘되지 않으려나. "
-    "就这样，一切都会好起来吧。"
+    "就这样，一切都会顺利吧。"
 
 # game/chapter7.rpy:206
 translate chinese chapter7_7a9b6002:
@@ -468,13 +468,13 @@ translate chinese chapter7_28d13bec:
 translate chinese chapter7_c9a40b3e:
 
     # "단순히 이곳에 도착하기만 하면 소녀와 이어지지 못했던 그 목소리를 들을 수 있을 거란 내 짐작은 애초부터 틀려먹었던 것이었다. "
-    "我一开始就觉得只要到了这里，就可以听到那个不连续的声音。"
+    "我以为只要到了这里就能听到要和少女相连的那个声音，但我的猜测从一开始就错了。"
 
 # game/chapter7.rpy:214
 translate chinese chapter7_c7b67d3b:
 
     # "혹여나 어디선가 그날 들었던 긴 목소리가 다시 한번 내게 들려오지 않을까 귀를 쫑긋 세우며 폐전신국 주변을 소녀와 함께 맴돌았지만, 들려오는 거라곤 타인의 목덜미를 단 한 번도 거치지 않았을 휑한 마른 바람 소리뿐이었다. "
-    "或许那天听到的长长的声音会再次传到我身边，竖起耳朵，在废电信局周围和少女一起徘徊，但听到的只有掠过脖颈的凛冽的风声。"
+    "或许哪里会再次传来那天听到的长声音，我竖起耳朵和少女一起在废电信局周围转悠，但听到的只有掠过脖颈的凛冽的风声。"
 
 # game/chapter7.rpy:223
 translate chinese chapter7_8253ecb0:
@@ -530,7 +530,7 @@ translate chinese chapter7_063daac8:
     # voice ""
     # 나 "“이걸로 장사하면 분명 금세 부자 되겠다.”"
     voice ""
-    나 "“用这个做生意的话，肯定会很快成为富翁的。”"
+    나 "“用这个做生意的话，肯定会很快发财的。”"
 
 # game/chapter7.rpy:247
 translate chinese chapter7_368c4f00:
@@ -582,7 +582,7 @@ translate chinese chapter7_39df1615:
     # voice "voices/gg10.ogg"
     # 소녀 "“저와 이어져야 했을 그 목소리 말이에요. 이번엔 어떤 잊고 있던 기억을 떠올리게 했을지, 궁금해서요.”"
     voice "voices/gg10.ogg"
-    소녀 "“是说那个应该和我相连的声音。我很好奇这次会想起什么忘却的记忆。”"
+    소녀 "“是说那个应该和我相连的声音。这次又让你想起了什么忘记的记忆呢，我很好奇。”"
 
 # game/chapter7.rpy:262
 translate chinese chapter7_3047401a:
@@ -606,7 +606,7 @@ translate chinese chapter7_82885885:
     # voice ""
     # "조용히 주먹밥을 우물거리며 무슨 이야기를 해야 할지 생각하고 있던 내게, 소녀가 다시 말을 건넨다. "
     voice ""
-    "我正在思考着该说些什么，静静地嚼着饭团的少女又说道。"
+    "我一边悠闲地吃着饭团，一边想着该说些什么，少女又对我说话了。"
 
 # game/chapter7.rpy:270
 translate chinese chapter7_5cee2f92:
@@ -622,7 +622,7 @@ translate chinese chapter7_b1be6ddf:
     # voice ""
     # "나만이 볼 수 있는 희미한 미소를, 입가에 띄우며 말이다. "
     voice ""
-    "她的嘴角挂着只有我能看到的淡淡的微笑。"
+    "她一边说着，一边露出了只有我能看到的微弱的笑容。"
 
 # game/chapter7.rpy:275
 translate chinese chapter7_bf2417e0:
@@ -630,7 +630,7 @@ translate chinese chapter7_bf2417e0:
     # voice "voices/gg13.ogg"
     # 소녀 "“그렇다곤 해도…… 목소리가 들려오게 할 방법을 찾는 게 먼저겠네요.”"
     voice "voices/gg13.ogg"
-    소녀 "“就算是那样……首先要找到让声音出现的方法。”"
+    소녀 "“就算是那样……首先要找到让声音出现的方法才行。”"
 
 # game/chapter7.rpy:277
 translate chinese chapter7_5b04e46b:
@@ -646,7 +646,7 @@ translate chinese chapter7_77ab658c:
     # voice "voices/gg14.ogg"
     # 소녀 "“어째서였을까요? 그 목소리는, 왜 우리를 이어줬던 걸까요?”"
     voice "voices/gg14.ogg"
-    소녀 "“是怎么回事呢？为什么那个声音会把我们连在一起？”"
+    소녀 "“是怎么回事呢？为什么，那个声音会把我们连在一起？”"
 
 # game/chapter7.rpy:282
 translate chinese chapter7_79edfcba:
@@ -672,7 +672,7 @@ translate chinese chapter7_e7660eda:
 translate chinese chapter7_3c136e98:
 
     # "만약 목소리를 찾는다면, 그에 대한 힌트를 조금이나마 얻을 수 있을까? "
-    "找到声音后，能不能得到一些提示？"
+    "如果找到了那个声音，能不能得到一点关于它的提示呢？"
 
 # game/chapter7.rpy:288
 translate chinese chapter7_f6f8380d:
@@ -704,7 +704,7 @@ translate chinese chapter7_4fc1608f:
     # voice ""
     # "그러고 보니, 정말 아무렇지도 않게 유령과 이야기를 나누고 있었구나 하는 생각이 들었다. "
     voice ""
-    "想来，确实若无其事地在和幽灵说话。"
+    "说起来，我真的若无其事地和幽灵聊天了，我这样想着。"
 
 # game/chapter7.rpy:298
 translate chinese chapter7_d0c69301:
@@ -1108,7 +1108,7 @@ translate chinese chapter7_b6ebfecf:
 translate chinese chapter7_6c6253a3:
 
     # "숨을 고르며 머릿속에 현지를 받아냈을 때의 상황을 그린다. "
-    "脑海中想起之前喘着气接住贤智时的情况。"
+    "我调整着呼吸，脑海中想起之前喘着气接住贤智时的情况。"
 
 # game/chapter7.rpy:456
 translate chinese chapter7_3d8645df:
@@ -1186,7 +1186,7 @@ translate chinese chapter7_d345a417:
 translate chinese chapter7_c86837cb:
 
     # "아무것도 들려오지 않았다. "
-    "什么也没听见。"
+    "什么也听不到了。"
 
 # game/chapter7.rpy:486
 translate chinese chapter7_2a5879b2:
@@ -1204,7 +1204,7 @@ translate chinese chapter7_a998ce67:
 translate chinese chapter7_32a9e8d9:
 
     # "황급히 주위를 돌아보았지만, 주변은 원래 그랬다는 것처럼 아무도 보이지 않았다. "
-    "慌忙环顾周围，但周围一个人也没有。"
+    "我急忙四处张望，但周围像是一直这样，没有任何人的影子。"
 
 # game/chapter7.rpy:490
 translate chinese chapter7_259bfee1:
@@ -1222,7 +1222,7 @@ translate chinese chapter7_ebd43886:
 translate chinese chapter7_1a734dc3:
 
     # "허공을 붙잡고 있던 손이 제자리를 찾았다. "
-    "抓住空气的手回到了原位。"
+    "抓住空气的手，回到了原位。"
 
 # game/chapter7.rpy:497
 translate chinese chapter7_94369701:
@@ -1240,13 +1240,13 @@ translate chinese chapter7_738565eb:
 translate chinese chapter7_79113c72:
 
     # "그토록 바랐던 결말이 이런 형태로 다가올 거라곤 생각조차 못 했는데. "
-    "做梦也没有想到期待已久的结局会以这种形式出现。"
+    "我从没想过，我所期待的结局，会以这样的形式出现。"
 
 # game/chapter7.rpy:503
 translate chinese chapter7_cde2a7b2:
 
     # "소녀는 애초에 존재하지 않았던 것처럼, 일말의 잔향조차 남기지 않은 채 사라져버린 뒤였다. "
-    "少女就像当初不存在一样，连一丝余香都没有留下就消失了。"
+    "少女就像当初不存在一样，连一丝余响都没有留下就消失了。"
 
 # game/chapter7.rpy:504
 translate chinese chapter7_e41cd437:
@@ -1264,7 +1264,7 @@ translate chinese chapter7_f61f5075:
 translate chinese chapter7_6871a06d:
 
     # "어쨌거나 소녀가 사라지게 되었다면, 이걸로 된 걸까. "
-    "不管怎样，少女要是消失了，这样就可以了吗？"
+    "不管怎样，反正少女已经消失了，这样就算是结束了吗。"
 
 # game/chapter7.rpy:515
 translate chinese chapter7_48bf2ee7:
@@ -1306,7 +1306,7 @@ translate chinese chapter7_a21984bc:
     # voice "voices/gg35.ogg"
     # 소녀 "“대답 좀 해달라니까요?!”"
     voice "voices/gg35.ogg"
-    소녀 "“都说了请回答我！？”"
+    소녀 "“能不能回答我啊！？”"
 
 # game/chapter7.rpy:533
 translate chinese chapter7_9780732e:
@@ -1314,13 +1314,13 @@ translate chinese chapter7_9780732e:
     # voice ""
     # "그 목소리와 함께 양팔에 느껴진 익숙한 감촉이 나의 정신을 깨웠다. "
     voice ""
-    "那声音和双臂的熟悉感觉让我恢复了神智。"
+    "随着那个声音，我感觉到了双臂上熟悉的触感，让我清醒了过来。"
 
 # game/chapter7.rpy:540
 translate chinese chapter7_4e98ef64:
 
     # 나 "“…… 아, 으응.”"
-    나 "“……呃，嗯。”"
+    나 "“……啊，嗯。”"
 
 # game/chapter7.rpy:542
 translate chinese chapter7_3de5d785:
@@ -1328,7 +1328,7 @@ translate chinese chapter7_3de5d785:
     # voice "voices/gg36.ogg"
     # 소녀 "“아까부터 아무런 말도 안 해서…… 걱정했잖아요?!”"
     voice "voices/gg36.ogg"
-    소녀 "“从刚才开始什么话都不说……在担心什么啊？！”"
+    소녀 "“从刚才开始什么话都不说……我担心死了，知道吗？！”"
 
 # game/chapter7.rpy:548
 translate chinese chapter7_f30dabbd:
@@ -1604,7 +1604,7 @@ translate chinese chapter7_c1355fa6:
     # voice "voices/gg45.ogg"
     # 소녀 "“좋네요. 이런 거.”"
     voice "voices/gg45.ogg"
-    소녀 "“这样就不错了。”"
+    소녀 "“这样，就不错了。”"
 
 # game/chapter7.rpy:658
 translate chinese chapter7_86a04c05:
@@ -1612,13 +1612,13 @@ translate chinese chapter7_86a04c05:
     # voice ""
     # "소녀의 말을 곧이곧대로 받아들이지 못한 나는, 힐긋 고개를 돌려 그녀가 바라보고 있던 곳으로 시선을 향한다. "
     voice ""
-    "没能理解少女的话的我，看向她的目光所指的地方。"
+    "没能理解少女的话的我，微微转过头，看向她所望着的地方。"
 
 # game/chapter7.rpy:660
 translate chinese chapter7_bd57322e:
 
     # "그와 동시에 고개를 옆으로 향한 소녀가, 그대로 나와 시선을 마주친다. "
-    "与此同时，歪着头的少女和我的目光相汇。"
+    "与此同时，歪着头的少女和我的目光相汇了。"
 
 # game/chapter7.rpy:662
 translate chinese chapter7_4f95ab1b:
@@ -1650,7 +1650,7 @@ translate chinese chapter7_a6b8853e:
     # voice "voices/gg46.ogg"
     # 소녀 "“뭘 그렇게 고민하고 있는 거예요?”"
     voice "voices/gg46.ogg"
-    소녀 "“你在苦恼什么？”"
+    소녀 "“你在苦恼什么呢？”"
 
 # game/chapter7.rpy:669
 translate chinese chapter7_8d527964:
@@ -5581,7 +5581,7 @@ translate chinese chapter7_533246e9:
     # voice "voices/gg105.ogg"
     # 소녀 "“말했잖아요. 저는 그때 불길 속에서 저를 구해준 누군가를 원망하고 있었다고요. 그러니까 더더욱, 저는 그 사람과 만나선 안 돼요.”"
     voice "voices/gg105.ogg"
-    소녀 "“不是说了吗。我还在埋怨把我从大火中解救出来的那个人。所以，我更不能和他见面。”"
+    소녀 "“不是说了吗。我还在埋怨把我从大火中解救出来的那个人。所以，我更不能和他交往。”"
 
 # game/chapter7.rpy:2426
 translate chinese chapter7_107a64ff:
