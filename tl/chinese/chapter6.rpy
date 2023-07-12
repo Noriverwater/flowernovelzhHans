@@ -7400,7 +7400,7 @@ translate chinese ecg14_label_0507d10f:
     # voice "voices/gf80.ogg"
     # 소녀 "“이런 제 모습, 되게 흉하고 한심하게 보이겠죠.”"
     voice "voices/gf80.ogg"
-    소녀 "“这样的我一定很凶很令人心寒吧。”"
+    소녀 "“这样的我，一定看起来很丑陋很令人心寒吧。”"
 
 # game/chapter6.rpy:2625
 translate chinese ecg14_label_911ae337:
@@ -7408,7 +7408,7 @@ translate chinese ecg14_label_911ae337:
     # voice ""
     # "대답 대신, 나는 소녀에게 익숙한 웃음을 흘려 보일 뿐이었다. "
     voice ""
-    "代替回答，我只是对少女露出熟悉的笑容。"
+    "我没有回答，只是对少女露出熟悉的笑容。"
 
 # game/chapter6.rpy:2628
 translate chinese ecg14_label_d85fe289:
@@ -7416,7 +7416,7 @@ translate chinese ecg14_label_d85fe289:
     # voice "voices/gf81.ogg"
     # 소녀 "“어쩌면 경멸할지도 모른다고 생각했어요. 당신의 등 위가 아니었다면, 이런 이야기 못 했을 거예요.”"
     voice "voices/gf81.ogg"
-    소녀 "“我想也许我会鄙视他。如果不是在你的背上，我不会说这些话。”"
+    소녀 "“也许你会鄙视我。如果不是在你的背上，我不会说这些话。”"
 
 # game/chapter6.rpy:2630
 translate chinese ecg14_label_d24fc5d0:
@@ -7448,7 +7448,7 @@ translate chinese ecg14_label_d0bd782d:
 translate chinese ecg14_label_7d51f0c9:
 
     # "갈대가 쓰러지듯, 소녀는 나에게로 넘어지듯 안겨버려서는 엉켜있던 감정의 실을 몇 분에 걸쳐 풀어냈다. "
-    "少女就像翻倒的芦苇一样，倒在我的怀里，用几分钟的时间解开了交织在一起的感情线。"
+    "少女就像翻倒的芦苇一样，倒在我的怀里，一点点解开了交织在一起的感情线。"
 
 # game/chapter6.rpy:2642
 translate chinese ecg14_label_eebc3d7b:
@@ -7466,19 +7466,19 @@ translate chinese ecg14_label_51595c67:
 translate chinese ecg14_label_6421ee8f:
 
     # "그리고 그런 소녀를 보며, 나는 무언가 기시감을 느끼고 있었던 건지도 모르겠다. "
-    "看着这样的少女，我也许感受到了某种既视感。"
+    "看着这样的少女，我也许感受到了某种无言的既视感。"
 
 # game/chapter6.rpy:2650
 translate chinese ecg14_label_b44dc5e8:
 
     # "오랜만에 방 안에 산뜻한 향이 감돌기 시작했다. "
-    "房间里散发出久违的香气。"
+    "房间里久违地飘起了清新的香气。"
 
 # game/chapter6.rpy:2651
 translate chinese ecg14_label_70606d83:
 
     # "샤워를 끝마치고 침대에 걸터앉은 소녀에게선 익숙한 향기가 새어 나오고 있었다. "
-    "少女洗完澡坐在床上，传来了洗发水的味道。"
+    "洗完澡坐在床上的少女身上散发着熟悉的气味。"
 
 # game/chapter6.rpy:2655
 translate chinese ecg14_label_bbd5876e:
@@ -7500,7 +7500,7 @@ translate chinese ecg14_label_683c04a1:
     # voice ""
     # 나 "“그냥. 이젠 어떻게 하면 좋을지에 관한 생각.”"
     voice ""
-    나 "“就那样吧。我想我现在该怎么办。”"
+    나 "“没什么。就是关于现在该怎么办的事。”"
 
 # game/chapter6.rpy:2664
 translate chinese ecg14_label_c99c5a5d:
@@ -7550,7 +7550,7 @@ translate chinese ecg14_label_8c1a71af:
 translate chinese ecg14_label_b978b76c:
 
     # "와닿지 않는 충고였다. "
-    "这是一个不切实际的忠告。"
+    "这是一句不太有说服力的劝告。"
 
 # game/chapter6.rpy:2681
 translate chinese ecg14_label_82e34beb:
@@ -7600,7 +7600,7 @@ translate chinese ecg14_label_7a313bc7:
 translate chinese ecg14_label_b12f2a3a:
 
     # 나 "“확실히 말하긴 어렵지만, 그리 자랑할만한 사람은 아니지 않았을까.”"
-    나 "“虽然很难说，但应该不是值得炫耀的人吧。”"
+    나 "“虽然很难说，但应该不是值得骄傲的人吧。”"
 
 # game/chapter6.rpy:2701
 translate chinese ecg14_label_22ca7b50:
@@ -7608,7 +7608,7 @@ translate chinese ecg14_label_22ca7b50:
     # voice "voices/gf87.ogg"
     # 소녀 "“왜요?”"
     voice "voices/gf87.ogg"
-    소녀 "“怎么说？”"
+    소녀 "“为什么？”"
 
 # game/chapter6.rpy:2703
 translate chinese ecg14_label_5d1e2f78:
@@ -7616,7 +7616,7 @@ translate chinese ecg14_label_5d1e2f78:
     # voice ""
     # "‘왜요’라니, 질문의 난이도가 한 층 더 높아진 느낌이었다. "
     voice ""
-    "“怎么说”，提问的难度更高了一层。"
+    "“为什么”，提问的难度更高了一层。"
 
 # game/chapter6.rpy:2706
 translate chinese ecg14_label_67463ddb:
@@ -7628,7 +7628,7 @@ translate chinese ecg14_label_67463ddb:
 translate chinese ecg14_label_0e0e899e:
 
     # 나 "“가족 관계라거나, 이름이라거나, 나이 같은 기본적으로 드러나는 나에 대한 것들은 기억나지만. 그런 내가 아닌, 내면의 내 모습은 기억 속에서 사라져버렸거든.”"
-    나 "“我想起了家庭关系、名字、年龄等有关我的基本信息，我不是那样。我内心的样子已经从记忆中消失了。”"
+    나 "“像是家庭关系啊，名字啊，年龄之类的基本的东西我还记得。但是那些不是我，而是我内心的样子却从记忆里消失了。”"
 
 # game/chapter6.rpy:2708
 translate chinese ecg14_label_02108254:
@@ -7650,13 +7650,13 @@ translate chinese ecg14_label_29eadd68:
     # voice ""
     # "만족스러운 대답은 아니었겠지만, 더 이상의 질문이 이어지지는 않았다. "
     voice ""
-    "虽然不是令人满意的回答，但再也没有出现更多问题。"
+    "虽然不是令人满意的回答，但她没有再问下去。"
 
 # game/chapter6.rpy:2716
 translate chinese ecg14_label_71b324e6:
 
     # "어색한 자세를 되돌려, 다시 시선을 소녀에게로 향했다. "
-    "改变尴尬的姿势，再次将视线转向少女。"
+    "我恢复了尴尬的姿势，又把视线转向少女。"
 
 # game/chapter6.rpy:2717
 translate chinese ecg14_label_b9d52594:
@@ -7676,7 +7676,7 @@ translate chinese ecg14_label_0931f821:
     # voice "voices/gf89.ogg"
     # 소녀 "“저, 만약 돌아가지 않는 이유가 저 때문이라면. 그러지 않아도 돼요.”"
     voice "voices/gf89.ogg"
-    소녀 "“如果不回去的理由是因为我的话。不用这样。”"
+    소녀 "“我，如果不能回去是因为我的原因的话。不用那样。”"
 
 # game/chapter6.rpy:2730
 translate chinese ecg14_label_380c6d91:
@@ -7692,7 +7692,7 @@ translate chinese ecg14_label_dc8c1c94:
     # voice "voices/gf90.ogg"
     # 소녀 "“너, 너무 주제넘은 이야기였나요.”"
     voice "voices/gf90.ogg"
-    소녀 "“你是不是太在乎我了？”"
+    소녀 "“是，是不是太冒昧了。”"
 
 # game/chapter6.rpy:2735
 translate chinese ecg14_label_64dea53f:
@@ -7722,13 +7722,13 @@ translate chinese ecg14_label_c7d7a489:
 translate chinese ecg14_label_1ba63b58:
 
     # "소녀의 표정에 의아함이 감돈다. "
-    "少女的表情充满惊讶。"
+    "少女的表情里带着疑惑。"
 
 # game/chapter6.rpy:2755
 translate chinese ecg14_label_bb1355fa:
 
     # 나 "“텔레이도스코프를 통해 과거로 돌아간 순간, 다른 차원에서의 기억은 거의 나지 않을 거래. 어쩌면 내가 그곳에 존재했다는 것 정도만, 머릿속에 남을지도 몰라.”"
-    나 "“通过远华镜回到过去的瞬间，其他维度的记忆几乎就会消失。我的脑海中可能只剩下我曾在未来存在过。”"
+    나 "“通过远华镜回到过去的瞬间，其他维度的记忆几乎就会消失。我的脑海中可能只剩下，只有我在那里存在过这件事。”"
 
 # game/chapter6.rpy:2756
 translate chinese ecg14_label_90ea17f8:
@@ -7752,7 +7752,7 @@ translate chinese ecg14_label_037cdd61:
     # voice "voices/gf93.ogg"
     # 소녀 "“…… 과한 친절이에요.”"
     voice "voices/gf93.ogg"
-    소녀 "“……太客气了。”"
+    소녀 "“……是过分的好心。”"
 
 # game/chapter6.rpy:2768
 translate chinese ecg14_label_e15eaa12:
@@ -7760,7 +7760,7 @@ translate chinese ecg14_label_e15eaa12:
     # voice ""
     # "소녀에게서 흘러나오는 편안한 향에 취해, 나는 이야기를 이어간다. "
     voice ""
-    "沉醉在少女身上的清香中，我继续讲故事。"
+    "沉醉在少女身上的清香中，我继续说。"
 
 # game/chapter6.rpy:2774
 translate chinese ecg14_label_668dc9a7:
@@ -7774,7 +7774,7 @@ translate chinese ecg14_label_826402e2:
     # voice "voices/gf94_1.ogg"
     # 소녀 "“그럼, 남은 시간을 차라리 다른 행복한 일에 쓰는 게 낫지 않을까요.”"
     voice "voices/gf94_1.ogg"
-    소녀 "“那么，剩下的时间干脆用在其他幸福的事情上吧。”"
+    소녀 "“那么，剩下的时间不如用来做些其他快乐的事情。”"
 
 # game/chapter6.rpy:2779
 translate chinese ecg14_label_f4a2fa33:
@@ -7782,7 +7782,7 @@ translate chinese ecg14_label_f4a2fa33:
     # voice "voices/gf94_2.ogg"
     # 소녀 "“여기서 만든 친구라거나, 그때 봤던 같은 동아리의 여학생이라거나…….”"
     voice "voices/gf94_2.ogg"
-    소녀 "“和你在这里认识的朋友，或者是同一社团的女生……”"
+    소녀 "“和你在这里认识的朋友，或者那次见过的同社团的女生啊……”"
 
 # game/chapter6.rpy:2781
 translate chinese ecg14_label_00b99ef3:
@@ -7806,7 +7806,7 @@ translate chinese ecg14_label_ca115794:
     # voice ""
     # 나 "“너를 불행하게 내버려 둔 채 돌아갈 수는 없는걸.”"
     voice ""
-    나 "“不能就此回去，让你不幸地呆在这里。”"
+    나 "“我不能回去，抛下不幸的你。”"
 
 # game/chapter6.rpy:2789
 translate chinese ecg14_label_a179b0e4:
@@ -7814,7 +7814,7 @@ translate chinese ecg14_label_a179b0e4:
     # voice "voices/gf96.ogg"
     # 소녀 "“저는 신경 쓰지 않아도 된다는 이야기, 귓등으로도 안 들었군요.”"
     voice "voices/gf96.ogg"
-    소녀 "“我不会在意的，当没听见就好了。”"
+    소녀 "“你根本没听我的话呢，说过不用在意。”"
 
 # game/chapter6.rpy:2791
 translate chinese ecg14_label_1fbf0303_1:
@@ -7840,7 +7840,7 @@ translate chinese ecg14_label_3ffbbbb9:
 translate chinese ecg14_label_e6022c36:
 
     # "인생도, 가치관도, 내가 해야 할 일도. "
-    "人生、价值观、我要做的事情。"
+    "人生也好，价值观也好，我该做的事也好。"
 
 # game/chapter6.rpy:2798
 translate chinese ecg14_label_059b6181:
@@ -7848,7 +7848,7 @@ translate chinese ecg14_label_059b6181:
     # voice "voices/gf97.ogg"
     # 소녀 "“있죠, 저는 괜찮아요. 설령 사라지지 못한다고 하더라도요.”"
     voice "voices/gf97.ogg"
-    소녀 "“嗯，我没事。即使不能消失。”"
+    소녀 "“嗯，我没事。即使不能消失也没关系。”"
 
 # game/chapter6.rpy:2803
 translate chinese ecg14_label_b9b44c88:
@@ -7864,7 +7864,7 @@ translate chinese ecg14_label_491f031b:
     # voice "voices/gf98.ogg"
     # 소녀 "“앞으로 이곳에 남겨져 영원히 세상을 떠돌더라도, 가끔씩 당신과 있었던 일을 생각하며 웃을 수 있을 테니까요. 그럼…… 행복할 거예요.”"
     voice "voices/gf98.ogg"
-    소녀 "“就算我留在这里。永远在这个世界上漂泊，也会偶尔想起和你在一起的事情而发笑。那么……会幸福的。”"
+    소녀 "“以后就算我留在这里。永远在这个世界上漂泊，也会偶尔想起和你在一起的事情而发笑。那么……就会幸福的。”"
 
 # game/chapter6.rpy:2808
 translate chinese ecg14_label_fa6ea105:
@@ -7880,7 +7880,7 @@ translate chinese ecg14_label_89f34e09:
     # voice "voices/gf99.ogg"
     # 소녀 "“맞아요. 거짓말이에요.”"
     voice "voices/gf99.ogg"
-    소녀 "“是的。是骗人的。”"
+    소녀 "“是的。是谎言。”"
 
 # game/chapter6.rpy:2813
 translate chinese ecg14_label_1fbf0303_2:
@@ -7894,7 +7894,7 @@ translate chinese ecg14_label_1fbf0303_2:
 translate chinese ecg14_label_92ef18b4:
 
     # "너무나도 간단히 나의 부정을 긍정한 소녀가, 조금 더 떨리는 목소리로 말했다. "
-    "少女极为简单地肯定了我的否定，声音抖得更厉害了。"
+    "少女极为简单地肯定了我的否定，然后用更加颤抖的声音说道。"
 
 # game/chapter6.rpy:2820
 translate chinese ecg14_label_69eb08c0:
@@ -7902,7 +7902,7 @@ translate chinese ecg14_label_69eb08c0:
     # voice "voices/gf100.ogg"
     # 소녀 "“실은, 자주 떠올릴 거예요. 어쩌면 한시도 빼놓지 않고 떠올릴지도 모르죠……. 그러니까, 제게 행복했던 기억을 아주 조금만 더 만들어 줄 수 있을까요?”"
     voice "voices/gf100.ogg"
-    소녀 "“其实，我会经常想起你的。也许会一刻也不落下……所以，能再给我制造一点幸福的记忆吗？”"
+    소녀 "“其实，我会经常想起你的。也许一刻也不会忘记……所以，能再给我制造一点幸福的记忆吗？”"
 
 # game/chapter6.rpy:2822
 translate chinese ecg14_label_afb50867:
@@ -7910,7 +7910,7 @@ translate chinese ecg14_label_afb50867:
     # voice ""
     # 나 "“그런 일방적인 기억, 너무 잔인하지 않아?”"
     voice ""
-    나 "“那种单方面的记忆是不是太残忍了？”"
+    나 "“那种单方面的记忆，是不是太残忍了？”"
 
 # game/chapter6.rpy:2825
 translate chinese ecg14_label_41a83c7a:
@@ -7918,7 +7918,7 @@ translate chinese ecg14_label_41a83c7a:
     # voice "voices/gf101_1.ogg"
     # 소녀 "“괜찮아요. 이건, 죗값이니까요. 살아생전에 큰 죄를 지었던, 제게 주어진 죗값.”"
     voice "voices/gf101_1.ogg"
-    소녀 "“没关系。这是赎罪。我生前犯下了大罪，这是我付出的代价。”"
+    소녀 "“没关系。这是赎罪。活着的时候犯了大罪，给我的罪付出的代价。”"
 
 # game/chapter6.rpy:2828
 translate chinese ecg14_label_910b3950:
@@ -7940,7 +7940,7 @@ translate chinese ecg14_label_67a954fc:
 translate chinese ecg14_label_a966f54b:
 
     # "그렇지만 순수하기 그지없는 소녀의 진심에는, 어찌할 수 없는 쌉싸름함이 잔뜩 담겨 있었다. "
-    "但是纯真无比的少女的真心想法中，充满了无可奈何的苦涩。"
+    "但是纯真无比的少女的真心想法中，充满了无法避免的苦涩。"
 
 # game/chapter6.rpy:2834
 translate chinese ecg14_label_3a454e81:
@@ -7948,7 +7948,7 @@ translate chinese ecg14_label_3a454e81:
     # voice "voices/gf102.ogg"
     # 소녀 "“그리고 설령 저를 신경 쓴다더라도, 뭔가 할 수 있는 일도 없잖아요.”"
     voice "voices/gf102.ogg"
-    소녀 "“还有，就算你关心我，也没有什么能做的。”"
+    소녀 "“还有，就算你关心我，也没有什么能做的不是吗。”"
 
 # game/chapter6.rpy:2836
 translate chinese ecg14_label_35fa705e:
@@ -7970,7 +7970,7 @@ translate chinese ecg14_label_d09d983c:
     # voice "voices/gf103.ogg"
     # 소녀 "“네에……?”"
     voice "voices/gf103.ogg"
-    소녀 "“诶……？”"
+    소녀 "“是……吗？”"
 
 # game/chapter6.rpy:2845
 translate chinese ecg14_label_74ecf3db:
@@ -7978,13 +7978,13 @@ translate chinese ecg14_label_74ecf3db:
     # voice ""
     # "소녀에게 이어져야 했던 마지막 목소리. "
     voice ""
-    "与少女相接的最后的声音。"
+    "本该传达给少女的最后一句话。"
 
 # game/chapter6.rpy:2852
 translate chinese ecg14_label_09a49620:
 
     # 나 "“우리가 마지막으로 헤어졌던 곳, 거기에 가자.”"
-    나 "“走吧，去我们最后分手的地方。”"
+    나 "“我们最后一次分开的地方，去那里吧。”"
 
 # game/chapter6.rpy:2853
 translate chinese ecg14_label_7868422e:
@@ -8000,7 +8000,7 @@ translate chinese ecg14_label_a304a3f0:
     # voice ""
     # 나 "“너와 이어지지 못한 목소리가 있었어. 어쩌면 그 목소리에, 정답이 담겨 있었을지도 몰라.”"
     voice ""
-    나 "“有一个声音无法与你相接。或许答案就在那个声音里。”"
+    나 "“有一句话没能传达给你。说不定在那句话里，有答案。”"
 
 # game/chapter6.rpy:2858
 translate chinese ecg14_label_272b5c51:
@@ -8020,7 +8020,7 @@ translate chinese ecg14_label_b08f5610:
     # voice "voices/gf105.ogg"
     # 소녀 "“…… 저, 졸려요.”"
     voice "voices/gf105.ogg"
-    소녀 "“……但是我困了。”"
+    소녀 "“……我，困了。”"
 
 # game/chapter6.rpy:2864
 translate chinese ecg14_label_a6ad38db:
@@ -8040,7 +8040,7 @@ translate chinese ecg14_label_8c594c5b:
 translate chinese ecg14_label_01f10060:
 
     # "적당한 밝기의 수면 유도등만이 남아 나와 소녀를 비추고, 소녀는 그대로 그 자리에서 움직이지 않은 채 눈을 감아버렸다. "
-    "只剩下适当亮度的睡眠诱导灯，照亮了少女，少女就那样闭上了眼睛。"
+    "只剩下适当亮度的睡眠诱导灯，照亮了我和少女，少女就那样闭上了眼睛。"
 
 # game/chapter6.rpy:2872
 translate chinese ecg14_label_7edff0df:
