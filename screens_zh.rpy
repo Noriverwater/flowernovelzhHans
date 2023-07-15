@@ -10,7 +10,8 @@ screen infoscreen:
         ypos 0
         at windowtrans
         add "gui/staff/infobg.png"
-        imagebutton idle 'gui/staff/cn_idle.png' hover 'gui/staff/cn_hover.png' action ShowMenu("infocnscreen") xpos 440 ypos 289 xalign 0.0 yalign 0.0
+        if _preferences.language == "chinese":
+            imagebutton idle 'gui/staff/cn_idle.png' hover 'gui/staff/cn_hover.png' action ShowMenu("infocnscreen") xpos 440 ypos 289 xalign 0.0 yalign 0.0
         if renpy.android or renpy.ios:
             window:
                 style "default_window"
@@ -150,7 +151,7 @@ screen infocnscreen:
         at windowtrans
         add "gui/staff/infocn.png"
         text "关于《夏末盛开的花》非官方中文化补丁 2.1" color "#ffffffc5" font "fonts/NanumSquareB.ttf" xpos 71 ypos 42 size 40
-        text "您好，我是codeforker。看到这意味着您已经启用了\"{font=fonts/NanumSquareacEB.ttf}여름의 끝에 피는 꽃(Flowers Blooming at the End of Summer){/font}\"的粉丝汉化补丁 2.1。\n这个补丁由几位热爱这部作品的人制作，目前由我维护。请注意，最重要的事情是，这个补丁以完全免费的形式公开，译文也以 {a=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh}CC-BY-NC-SA 4.0{/a} 的形式托管在Github上。实际上，游戏本体也是以完全免费的形式{a=https://store.steampowered.com/app/1173010}发行{/a}的，尽管也有赞助性质，价格6元，游戏本体内容与免费版一致的Steam Edition。因此，严禁将本补丁用于任何形式的商业用途，如果您花了钱才体验到这个补丁的内容，说明您被忽悠了。\n其次，这个补丁与 MidnightWorks 官方无关，仅供学习参考使用。补丁所提供的部分译文可能非常不靠谱，因此不能与原版游戏等同。如果您有能力建议游玩原版游戏以获得最好的游戏体验。\n这个补丁的公开发布已获得官方的许可，在已阅读并同意以上文字，且遵循发行商 PsychoFlux Entertainment 的{a=https://www.psychoflux.com/legal/video-policy/}规则{/a}，您被赋予在流媒体视频网站上直播或录播该补丁内容的权力。\n继续使用该补丁意味着您已知悉以上内容，且已确认游戏内容完全符合您所在地相关法律法规、宗教和风俗的要求。\n这个补丁首发于百度贴吧galgame吧（已不再更新）和Steam社区指南（已经被ban了），其余注意事项和疑问详见{a=https://github.com/Noriverwater/flowernovelzhHans/}github{/a}页。只要这个补丁能对您有帮助，我就已经很高兴了。" color "#ffffff90" font "fonts/NanumSquareB.ttf" xpos 71 ypos 118 xmaximum 1140 size 20 line_spacing 20
+        text "您好，看到这意味着您已经启用了\"{font=fonts/NanumSquareacEB.ttf}여름의 끝에 피는 꽃(Flowers Blooming at the End of Summer){/font}\"的粉丝汉化补丁 2.1。\n请注意，最重要的事情是，这个补丁以完全免费的形式公开，译文也以 {a=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh}CC-BY-NC-SA 4.0{/a} 的形式托管在Github上。实际上，游戏本体也是以完全免费的形式{a=https://store.steampowered.com/app/1173010}发行{/a}的，尽管也有赞助性质，价格6元，游戏本体内容与免费版一致的Steam Edition。因此，严禁将本补丁用于任何形式的商业用途，如果您花了钱才体验到这个补丁的内容，说明您被忽悠了。\n其次，这个补丁与 MidnightWorks 官方无关，仅供学习参考使用。补丁所提供的部分译文可能非常不靠谱，因此不能与原版游戏等同。如果您有能力建议游玩原版游戏以获得最好的游戏体验。\n这个补丁的公开发布已获得官方的许可，在已阅读并同意以上文字，且遵循发行商 PsychoFlux Entertainment 的{a=https://www.psychoflux.com/legal/video-policy/}规则{/a}，您被赋予在流媒体视频网站上直播或录播该补丁内容的权力。\n继续使用该补丁意味着您已知悉以上内容，且已确认游戏内容完全符合您所在地相关法律法规、宗教和风俗的要求。\n这个补丁首发于百度贴吧galgame吧（已不再更新）和Steam社区指南（已经被ban了），其余注意事项和疑问详见{a=https://github.com/Noriverwater/flowernovelzhHans/}github{/a}页。只要这个补丁能对您有帮助，我就已经很高兴了。" color "#ffffff90" font "fonts/NanumSquareB.ttf" xpos 71 ypos 118 xmaximum 1140 size 20 line_spacing 20
         imagebutton idle 'gui/staff/btnclose_idle.png' hover 'gui/staff/btnclose_hover.png' action Hide("infocnscreen") xpos 1108 ypos 553 xalign 0.0 yalign 0.0
 
 
@@ -166,7 +167,10 @@ screen licensescreen_1:
         ypos 0
         at windowtrans
         add "gui/license/licensedark2.png"
-        imagebutton idle 'gui/license/licenselink1.png' hover 'gui/license/licenselink1_.png' xpos 380 ypos 296 action OpenURL("https://www.renpy.org/doc/html/license.html")
+        if _preferences.language == "chinese":
+            imagebutton idle 'gui/license/licenselink1.png' hover 'gui/license/licenselink1_.png' xpos 380 ypos 296 action OpenURL("https://www.renpy.org/doc/html/license.html")
+        else:
+            imagebutton idle 'gui/license/licenselink1.png' hover 'gui/license/licenselink1_.png' xpos 328 ypos 299 action OpenURL("https://www.renpy.org/doc/html/license.html")
         imagebutton idle 'gui/license/licenselink2.png' hover 'gui/license/licenselink2_.png' xpos 372 ypos 380 action OpenURL("https://www.renpy.org/doc/html/license.html")
         if renpy.windows or renpy.macintosh or renpy.linux:
             imagebutton idle 'gui/license/openfolder_idle.png' hover 'gui/license/openfolder_hover.png' action Function(folder_open, config.gamedir + "/License/Open Source License") xpos 70 ypos 206 xalign 0.0 yalign 0.0
@@ -225,12 +229,18 @@ screen licensescreen_2:
             xpos 670
             ypos 275
             spacing -1
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Noto Sans Mono CJK") ]
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/975maru") ]
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Yozai Font") ]
-            imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/LxgwWenKai") ]
+            if _preferences.language == "chinese":
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/975maru") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Yozai Font") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/LxgwWenKai") ]
+            else:
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Naver Nanum Fonts") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Naver Nanum Fonts") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Naver Nanum Fonts") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Naver Nanum Fonts") ]
+                imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Arita Fonts") ]
         
         if renpy.windows or renpy.macintosh or renpy.linux:
             imagebutton idle 'gui/license/openfolder_idle.png' hover 'gui/license/openfolder_hover.png' action Function(folder_open, config.gamedir + "/License/Fonts") xpos 71 ypos 624 xalign 0.0 yalign 0.0
