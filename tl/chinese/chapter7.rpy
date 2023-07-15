@@ -2607,7 +2607,7 @@ translate chinese chapter7_396673fa_1:
 translate chinese chapter7_1fde8b77:
 
     # "오른손을 움직이려다 말고, 나의 손을 잡고 있던 소녀와 눈이 마주쳤다. "
-    "右手没有动，和一个握着我手的少女对视了。"
+    "想要动右手但没成功，我和一个握着我手的少女对视了。"
 
 # game/chapter7.rpy:1092
 translate chinese chapter7_2b949a6c:
@@ -8729,7 +8729,7 @@ translate chinese chapter7_2_bab91893:
     # voice "voices/gh14.ogg"
     # 가연o "“어, 어떡해…….”"
     voice "voices/gh14.ogg"
-    가연o "“怎么办……”"
+    가연o "“啊，怎么办……”"
 
 # game/chapter7.rpy:3796
 translate chinese chapter7_2_2dd6c561:
@@ -9393,7 +9393,7 @@ translate chinese chapter7_2_053152b7:
     # voice "voices/gh23.ogg"
     # 가연o "“미, 미안. 아파서 정신이 없었나 봐…….”"
     voice "voices/gh23.ogg"
-    가연o "“对不起。病得没有精神了……”"
+    가연o "“对，对不起。病得没有精神了……”"
 
 # game/chapter7.rpy:4077
 translate chinese chapter7_2_8761bd86:
@@ -9401,7 +9401,7 @@ translate chinese chapter7_2_8761bd86:
     # voice ""
     # 나o "“그러는 이젠 좀 괜찮아졌나 보네.”"
     voice ""
-    나o "“看来现在好多了。”"
+    나o "“这样看来现在好多了。”"
 
 # game/chapter7.rpy:4080
 translate chinese chapter7_2_53ec6a75:
@@ -9679,7 +9679,7 @@ translate chinese chapter7_2_74a8016e:
 translate chinese chapter7_2_cb83f33e:
 
     # naro "어쩌면 가연은 나를 수상하게 바라보고 있는 걸지도 모르겠다는 생각이 들었다. "
-    naro "也许佳妍在奇怪地看着我。"
+    naro "我想，也许佳妍在奇怪地看着我。"
 
 # game/chapter7.rpy:4191
 translate chinese chapter7_2_969a5795:
@@ -9837,7 +9837,7 @@ translate chinese chapter7_2_6f5edab5:
 translate chinese chapter7_2_aa2123aa:
 
     # naro "7회 말 수비, 점수는 일곱 점 차, 노아웃에 주자는 1, 2루. "
-    naro "现在是第7局末防守，分数差7分，一二垒选手已经出局。"
+    naro "现在是第7局末防守，分数差七分，1、2垒选手已经出局。"
 
 # game/chapter7.rpy:4255
 translate chinese chapter7_2_9b3960bf:
@@ -9941,7 +9941,7 @@ translate chinese chapter7_2_788cb2d2:
     # voice ""
     # 나o "“으응. 아마 다음 주 금요일 같은 시간쯤에……?”"
     voice ""
-    나o "“呃姆。大概下周五的同一时间……？”"
+    나o "“嗯。大概下周五的同一时间……？”"
 
 # game/chapter7.rpy:4287
 translate chinese chapter7_2_c67232bc:
@@ -10229,7 +10229,7 @@ translate chinese chapter7_2_c9321c8e:
 translate chinese chapter7_2_88d95dbe:
 
     # naro "나는 패배주의가 만연했던 야구부에, 무언가 착각 같은 기운을 불어넣을 수 있었다. "
-    naro "我给失败主义蔓延的棒球部注入一种错觉。"
+    naro "我能给失败主义蔓延的棒球部，无言地注入一种错觉。"
 
 # game/chapter7.rpy:4396
 translate chinese chapter7_2_27a817cc:
@@ -10247,7 +10247,7 @@ translate chinese chapter7_2_ceaeabac:
 translate chinese chapter7_2_79f13083:
 
     # naro "빗맞든, 정타가 되든, 어쨌거나 공이 배트에 맞는 일이 줄어들게 된다면 무언가가 일어나는 빈도수도 줄어들게 된다. "
-    naro "无论是打偏还是正打，只要球被球棒击中的次数减少，发生某些事的频率也会减少。"
+    naro "无论是打偏，还是正打，只要球被球棒击中的次数减少，发生某些事的频率也会减少。"
 
 # game/chapter7.rpy:4399
 translate chinese chapter7_2_13bd40e4:
@@ -10329,7 +10329,7 @@ translate chinese chapter7_2_4965afea:
     # voice "voices/gh50.ogg"
     # 가연o "“좌타자들은 그 공 몸쪽에 붙이니까 꼼짝도 못 하던데, 제구만 잘 되면 앞으로도 잘 써먹을 수 있겠다.”"
     voice "voices/gh50.ogg"
-    가연o "“那个球贴在左打者们的身体内侧所以来不及动。一旦控好球后就能了不起地运用了。”"
+    가연o "“那个球贴在左打者们的身体内侧所以他们来不及动。一旦控好球后就能了不起地运用了。”"
 
 # game/chapter7.rpy:4437
 translate chinese chapter7_2_f400189c:
@@ -10617,7 +10617,7 @@ translate chinese chapter7_2_c2e43013:
 translate chinese chapter7_2_7b9383c0:
 
     # 남학생o "“몰랐어? 쟤, 1학년 때부터 왕따였잖아. 소문 못 들었냐? 작년에 어떤 애 가족이 다 화재로 죽어버렸다는 거. 쟤가 바로 그 애라고.”"
-    남학생o "“不知道吗？那孩子，从一年级开始就被孤立了。没听到传闻吗。去年有个孩子的家人都被大火烧死了。她就是那个孩子。”"
+    남학생o "“不知道吗？那孩子，从一年级开始就被孤立了。没听到传闻吗？去年有个孩子的家人都被大火烧死了。她就是那个孩子。”"
 
 # game/chapter7.rpy:4544
 translate chinese chapter7_2_e2ee2a5e:
@@ -11429,7 +11429,7 @@ translate chinese chapter7_2_b269e7f4:
 translate chinese chapter7_2_613340e0:
 
     # naro "‘어때?’라며 웃으며 내게 말을 걸어오는 가연에게 여태껏 먹어봤던 음식 중에 제일 맛있었다는 이야기를 하자 그녀는 내게 불효자라며 핀잔을 주었다. "
-    naro "“怎么样？”佳妍笑着问我，当我说这是吃过的最好吃的食物时，她指责我过于客气了。"
+    naro "“怎么样？”佳妍笑着问我，当我对她说这是迄今为止吃过的最好吃的食物时，她指责我过于客气了。"
 
 # game/chapter7.rpy:4840
 translate chinese chapter7_2_31ac6aaa:
@@ -11579,7 +11579,7 @@ translate chinese chapter7_2_d2289461:
 translate chinese chapter7_2_53208293:
 
     # naro "새로운 학년, 그리고 새로운 반이 배정되었다. "
-    naro "新学年，新班级。"
+    naro "新学年，还有新班级。"
 
 # game/chapter7.rpy:4902
 translate chinese chapter7_2_2bf7faab:
@@ -11937,7 +11937,7 @@ translate chinese chapter7_2_163346db:
 translate chinese chapter7_2_8f24ee11:
 
     # naro "착각처럼 지워졌던 패배주의에 관한 이야기를, 날카롭게 쏘아붙였다. "
-    naro "曾像错觉一样被抹去的失败主义，他们恶狠狠地挖苦道。"
+    naro "曾像错觉一样被抹去的有关失败主义的话，他们恶狠狠地挖苦道。"
 
 # game/chapter7.rpy:5048
 translate chinese chapter7_2_a4e6aa0e:
@@ -12009,7 +12009,7 @@ translate chinese chapter7_2_5736878a:
 translate chinese chapter7_2_316cf5a5:
 
     # naro "나는 이제에서야, 알 수 있었다. "
-    naro "我现在才知道。"
+    naro "我现在，才知道了。"
 
 # game/chapter7.rpy:5069
 translate chinese chapter7_2_834e9344:
@@ -12027,7 +12027,7 @@ translate chinese chapter7_2_2f722eca:
 translate chinese chapter7_2_b7b1b92d:
 
     # naro "나는 그곳에서, 공포에 휩싸여 죽어갔던 것이다. "
-    naro "在那里，我被恐惧包围着死去。"
+    naro "在那里，我被恐惧包裹着死去。"
 
 # game/chapter7.rpy:5094
 translate chinese chapter7_3_6efca282:
@@ -12183,7 +12183,7 @@ translate chinese chapter7_3_2731f3bd:
 translate chinese chapter7_3_5942311a:
 
     # "그렇기에 착각했던 것이다. "
-    "因此，才产生了错觉。"
+    "因此，才产生过错觉。"
 
 # game/chapter7.rpy:5143
 translate chinese chapter7_3_ddcda5f7:
@@ -12361,7 +12361,7 @@ translate chinese chapter7_3_5e15a492:
 translate chinese chapter7_3_f563b227:
 
     # who "“아 진짜~ 경찰서 불려갔을 땐 큰일 나는 줄 알았다니까?”"
-    who "“啊真是的~被警察叫去的时候还以为会出啥大事呢？”"
+    who "“啊真是的~ 被警察叫去的时候还以为会出啥大事呢？”"
 
 # game/chapter7.rpy:5206
 translate chinese chapter7_3_45ec5843:
@@ -12373,7 +12373,7 @@ translate chinese chapter7_3_45ec5843:
 translate chinese chapter7_3_ddfaf666:
 
     # who "“우리 아빠가 높으신 분이잖아~ 금방 수습해주더라고.”"
-    who "“我爸爸不是高人嘛~很快就帮我收拾了。”"
+    who "“我爸爸不是高人嘛~ 很快就帮我收拾了。”"
 
 # game/chapter7.rpy:5210
 translate chinese chapter7_3_740fbcc6:
