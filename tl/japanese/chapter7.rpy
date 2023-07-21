@@ -7286,7 +7286,7 @@ translate japanese chapter7_lastwish_log_3fc73c96:
 translate japanese chapter7_lastwish_log_b1a31c28:
 
     # 나l "“…… 학예제 때 쓰려고 했던 폭죽들 맞지?”"
-    나l "「……学芸祭のときに使おうとした花火だろ？」"
+    나l "「……学芸祭のときに使おうとした爆竹だろ？」"
 
 # game/chapter7.rpy:3274
 translate japanese chapter7_lastwish_log_f1396eff:
