@@ -22,10 +22,10 @@ translate japanese strings:
     new "5次元"
 
     old "나"
-    new "俺"
+    new "おれ"
 
     old "소녀"
-    new "少女"
+    new "しょうじょ"
 
     old "유미"
     new "ユミ"
@@ -37,5 +37,5 @@ translate japanese strings:
     new "カヨン"
 
     old "남학생"
-    new "男子生徒"
+    new "だんしせいと"
 
