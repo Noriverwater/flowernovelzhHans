@@ -2905,13 +2905,15 @@ translate chinese ecg3_label_0c311eac:
 translate chinese ecg3_label_a1c2c33a:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 사랑해 줄 수 있을까？{/color} "
-    "{color=#00ccff}连这个样子的国家也能爱上吗？{/color}"
+    # 这句话的另一个解释是，“她也能爱上这个样子的我吗？”
+    "{color=#00ccff}他连这个样子的国家也能爱上吗？{/color}"
 
 # game/chapter2.rpy:1302
 translate chinese ecg3_label_acd759ef:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 이해해 줄 수 있을까？{/color} "
-    "{color=#00ccff}连这个样子的国家也能理解吗？{/color}"
+    # “她也能理解这个样子的我吗？”
+    "{color=#00ccff}他连这个样子的国家也能理解吗？{/color}"
 
 # game/chapter2.rpy:1307
 translate chinese ecg3_label_247ab09b:
