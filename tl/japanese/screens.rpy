@@ -66,30 +66,3 @@ translate japaneseanese strings:
     old "빈 슬롯"
     new "空のスロット"
 
-translate japanese python:
-    gui.system_font = u'mod/zhfonts/DreamHanSans.ttf'
-    gui.font = u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style choice_pick_text:
-    font u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style default:
-    font u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style menu_choice:
-    font u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style history_text:
-    font u'mod/zhfonts/975maru.ttf'
-
-translate japanese style history_name_text:
-    font u'mod/zhfonts/LxgwZhenKai.ttf'
-
-translate japanese style mod_message:
-    font u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style button_license:
-    font u'mod/zhfonts/DreamHanSans.ttf'
-
-translate japanese style menu_choice:
-    font u'mod/zhfonts/DreamHanSans.ttf'
