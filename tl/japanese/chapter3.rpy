@@ -436,7 +436,7 @@ translate japanese chapter3_39172550:
 translate japanese chapter3_00cf9476:
 
     # "불현듯 가게에서 보았던 노파의 얼굴이 다시 한번 떠올랐다."
-    "ふと店で見た老夫婦の顔がもう一度浮かんだ。"
+    "ふと店で見た老婆さんの顔がもう一度浮かんだ。"
 
 # game/chapter3.rpy:177
 translate japanese chapter3_f351eaa5:
@@ -454,7 +454,7 @@ translate japanese chapter3_07025c68:
 translate japanese chapter3_6346637c:
 
     # "나의 몸이 아니지만, 나는 나다."
-    "私の体ではないけれど、私は私だ。"
+    "俺の体ではないけれど、私は私だ。"
 
 # game/chapter3.rpy:185
 translate japanese chapter3_b0445de2:
@@ -478,7 +478,7 @@ translate japanese chapter3_837d6f22:
 translate japanese chapter3_4b92bd48:
 
     # "나는, 죽은 건가?"
-    "私は、死んだのか？"
+    "俺は、死んだのか？"
 
 # game/chapter3.rpy:193
 translate japanese chapter3_2a70c11b:
@@ -514,7 +514,7 @@ translate japanese chapter3_40c09318:
 translate japanese chapter3_f4b745c6:
 
     # "나는 벽에 기대어 선 채, 오랜만에 가족과 있었던 일들을 어렴풋이 회상했다."
-    "私は壁にもたれて立ったまま、久しぶりに家族と過ごしたことをぼんやりと回想した。"
+    "俺は壁にもたれて立ったまま、久しぶりに家族と過ごしたことをぼんやりと回想した。"
 
 # game/chapter3.rpy:202
 translate japanese chapter3_150fc2ab:
