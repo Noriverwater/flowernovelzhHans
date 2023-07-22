@@ -4,8 +4,6 @@
 
 “夏末花开”是旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
 
-[한국어](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_ko.md) [English](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_en.md) [日本語](https://github.com/Noriverwater/flowernovelzhHans/blob/main/README_jp.md) 版说明以后再写。
-
 ## 下载
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/2.0)
