@@ -6420,7 +6420,7 @@ translate japanese ecg5_label_acdec395:
 translate japanese ecg5_label_2c4362b6:
 
     # shnvl_hy "선배! 혹시 지금까지 알아낸 거 있어요? (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
-    shnvl_hy "선배! 혹시 지금까지 알아낸 거 있어요? (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
+    shnvl_hy "先輩！もしかして今まで調べたことあるんですか？ (　{font=fonts/GothicA1-Regular.ttf}ﾟ{/font}д{font=fonts/GothicA1-Regular.ttf}ﾟ{/font})??"
 
 # game/chapter3.rpy:2734
 translate japanese ecg5_label_6b4f572e:
