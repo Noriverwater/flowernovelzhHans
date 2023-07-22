@@ -7112,7 +7112,7 @@ translate japanese ecg3_label_043b7831:
 translate japanese ecg3_label_c3a01354:
 
     # "혼자서 2인분 치의 음식을 시키면 이상하게 바라보지는 않을까 걱정하기도 했는데, 그런 걱정은 기우였다는 듯 노파는 아무런 동요도 없이 나의 주문을 받아들였다. "
-    "一人で二人分くらいの食べ物を頼んだら変な目で見られないか心配したけど、その心配は杞憂だったようで老爺さんは何の動揺もなく僕の注文を受け入れた。"
+    "一人で二人分くらいの食べ物を頼んだら変な目で見られないか心配したけど、その心配は杞憂だったようで老婆さんは何の動揺もなく僕の注文を受け入れた。"
 
 # game/chapter2.rpy:2983
 translate japanese ecg3_label_bb5f1620:
@@ -7250,7 +7250,7 @@ translate japanese ecg3_label_70ca7341:
 translate japanese ecg3_label_5cdf7c33:
 
     # "나에게 아무런 신경도 쓰지 않고 있는 줄로만 알았던 노파가, 식탁에 음식을 내려놓으며 조심스레 이야기를 꺼내는 것이었다. "
-    "僕には何の関心もないと思っていた老爺さんが、食卓に食べ物を置きながら慎重に話し始めるのだった。"
+    "俺には何の関心もないと思っていた老婆さんが、食卓に食べ物を置きながら慎重に話し始めるのだった。"
 
 # game/chapter2.rpy:3026
 translate japanese ecg3_label_7410d235:
@@ -7290,7 +7290,7 @@ translate japanese ecg3_label_7736805f:
 translate japanese ecg3_label_ba2f5dd1:
 
     # "나의 사고회로를 극한까지 끌어올리는 듯한 냉랭한 감각이었다. "
-    "僕の思考回路を極限まで引き上げるような冷たい感覚だった。"
+    "俺の思考回路を極限まで引き上げるような冷たい感覚だった。"
 
 # game/chapter2.rpy:3038
 translate japanese ecg3_label_8a999fed:
@@ -7358,13 +7358,13 @@ translate japanese ecg3_label_468fc299:
 translate japanese ecg3_label_3a216064:
 
     # "노파는 연신 작은 목소리로 민주라는 이름을 되뇌며, 카운터 쪽으로 느린 발걸음을 옮겼다. "
-    "老爺さんはひたすら小さな声でミンジュという名前を呟きながら、カウンターの方にゆっくりと足を運んだ。"
+    "老婆さんはひたすら小さな声でミンジュという名前を呟きながら、カウンターの方にゆっくりと足を運んだ。"
 
 # game/chapter2.rpy:3054
 translate japanese ecg3_label_55f03da3:
 
     # "분명, 저 노파의 손녀가 민주라는 여학생이었던 거겠지. "
-    "きっと、あの老爺さんの孫娘がミンジュという女子生徒だったんだろうな。"
+    "きっと、あの老婆さんの孫娘がミンジュという女子生徒だったんだろうな。"
 
 # game/chapter2.rpy:3065
 translate japanese ecg3_label_71afcfcd:
@@ -7392,7 +7392,7 @@ translate japanese ecg3_label_f4807718:
 translate japanese ecg3_label_682935cc:
 
     # "카운터로 향한 노파는 사진틀 속에 멈춰 있는 시간을 지그시 응시했다. "
-    "カウンターに向かった老爺さんは写真立ての中に止まっている時間をそっと見つめた。"
+    "カウンターに向かった老婆さんは写真立ての中に止まっている時間をそっと見つめた。"
 
 # game/chapter2.rpy:3073
 translate japanese ecg3_label_51c85007:
@@ -7416,7 +7416,7 @@ translate japanese ecg3_label_917b9463:
 translate japanese ecg3_label_c46f6b22:
 
     # "노파는 내가 2인분 치의 음식을 시켰다는 것을 전혀 이상하게 생각하지 않고 있는 듯해 보였다. "
-    "老爺さんは僕が二人分くらいの食べ物を頼んだことを全くおかしく思っていないように見えた。"
+    "老婆さんは僕が二人分くらいの食べ物を頼んだことを全くおかしく思っていないように見えた。"
 
 # game/chapter2.rpy:3083
 translate japanese ecg3_label_a5c3568f:
@@ -7444,13 +7444,13 @@ translate japanese ecg3_label_d5b95de6:
 translate japanese ecg3_label_12ad8a32:
 
     # "주인 노파가 어딘가 이상하다는 걸 눈치챈 건, 내가 식사를 마치고 계산까지 끝낸 뒤의 일이었다. "
-    "店主の老爺さんがどこかおかしいと気づいたのは、僕が食事を終えて会計まで済ませた後のことだった。"
+    "店主の老婆さんがどこかおかしいと気づいたのは、僕が食事を終えて会計まで済ませた後のことだった。"
 
 # game/chapter2.rpy:3096
 translate japanese ecg3_label_385c8306:
 
     # "가게를 걸어 나오는 나의 등 뒤로 접시를 정리하는 노파의 의아한 눈치가 느껴졌다만, 아무 일도 없었다는 듯 나는 가게 밖으로 발걸음을 옮겼다. "
-    "店を歩いて出る僕の背中に皿を片付ける老爺さんの不思議そうな様子が感じられたけど、何事もなかったように僕は店の外に足を踏み出した。"
+    "店を歩いて出る僕の背中に皿を片付ける老婆さんの不思議そうな様子が感じられたけど、何事もなかったように僕は店の外に足を踏み出した。"
 
 # game/chapter2.rpy:3100
 translate japanese ecg3_label_006ac8fd:
