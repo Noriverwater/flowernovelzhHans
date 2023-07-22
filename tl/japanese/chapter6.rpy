@@ -162,7 +162,7 @@ translate japanese chapter6_91ec9f79:
     # voice "voices/hf3.ogg"
     # 현지 "“유미 언니 많이 피곤해 보이죠?”"
     voice "voices/hf3.ogg"
-    현지 "「ユミさんすごく疲れて見えませんか？」"
+    현지 "「ユミ姉さんすごく疲れて見えませんか？」"
 
 # game/chapter6.rpy:70
 translate japanese chapter6_085c8575:
