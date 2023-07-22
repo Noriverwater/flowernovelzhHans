@@ -7597,7 +7597,7 @@ translate chinese ecg5_label_68e5f0a2:
     # voice "voices/hc30.ogg"
     # 현지 "“{color=#00ccff}저, 그 일 도와줄 수 있어요.{/color}”"
     voice "voices/hc30.ogg"
-    현지 "“{color=#00ccff}那，能帮我做那件事吗。{/color}”"
+    현지 "“{color=#00ccff}我，能帮忙做到那件事情。{/color}”"
 
 # game/chapter3.rpy:3139
 translate chinese ecg5_label_139d94d6:
