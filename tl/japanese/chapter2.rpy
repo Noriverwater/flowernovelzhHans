@@ -282,7 +282,7 @@ translate japanese chapter2_7a90eda2:
     # voice "voices/gb8.ogg"
     # 소녀 "“괜찮아요. 잘 먹겠습니다.”"
     voice "voices/gb8.ogg"
-    소녀 "「大丈夫です。よく食べます。」"
+    소녀 "「大丈夫です。いただきます。」"
 
 # game/chapter2.rpy:164
 translate japanese chapter2_58a114ae:
