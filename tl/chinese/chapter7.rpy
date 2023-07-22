@@ -12433,13 +12433,13 @@ translate chinese chapter7_3_cde0a0a9:
 translate chinese chapter7_3_0da4d3f4:
 
     # "그는 이런 모습의 나라도 사랑해 줄 수 있을까? "
-    "连这个样子的国家她也能爱上吗？"
+    "他也能爱上这个样子的我吗？"
 
 # game/chapter7.rpy:5236
 translate chinese chapter7_3_f088262f:
 
     # "그는 이런 모습의 나라도 이해해 줄 수 있을까? "
-    "连这个样子的国家她也能理解吗？"
+    "他也能理解这个样子的我吗？"
 
 # game/chapter7.rpy:5240
 translate chinese chapter7_3_bd688954:
