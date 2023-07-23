@@ -5432,7 +5432,7 @@ translate japanese ecg13_label_8d2414be:
 translate japanese ecg13_label_09e4727b:
 
     # "나는 다만 차분히 숨을 고르며, 소녀의 들려올 목소리를 기다렸다. "
-    "私はただ静かに息を整えながら、少女の聞こえてくる声を待った。"
+    "俺はただ静かに息を整えながら、少女の聞こえてくる声を待った。"
 
 # game/chapter6.rpy:1964
 translate japanese ecg13_label_396673fa_1:
@@ -5488,7 +5488,7 @@ translate japanese ecg13_label_66d1475f:
     # voice ""
     # 나 "“…… 좋아해. 너를.”"
     voice ""
-    나 "「……好きだ。お前を。」"
+    나 "「……好きだ。君を。」"
 
 # game/chapter6.rpy:1985
 translate japanese ecg13_label_147e2504:
@@ -5516,13 +5516,13 @@ translate japanese ecg13_label_e19d090f:
 translate japanese ecg13_label_cbf078f1:
 
     # "어느새 가까워진 둘 사이의 거리가 이번엔 숨소리가 아닌 나의 심장 박동을 허락한다. "
-    "いつの間にか近づいた二人の距離が今度は息ではなく私の心臓の鼓動を許す。"
+    "いつの間にか近づいた二人の距離が今度は息ではなく俺の心臓の鼓動を許す。"
 
 # game/chapter6.rpy:1994
 translate japanese ecg13_label_021b6ea8:
 
     # "소녀에게 닿은 나의 소리가, 내 목소리와 더해진다. "
-    "少女に届いた私の音が、私の声と重なる。"
+    "少女に届いた俺の音が、俺の声と重なる。"
 
 # game/chapter6.rpy:1995
 translate japanese ecg13_label_85b93823:
@@ -5540,7 +5540,7 @@ translate japanese ecg13_label_2dc0808d:
 translate japanese ecg13_label_319c2c5c:
 
     # 나 "“좋아해, 너를. 정말로.”"
-    나 "「好きだ、お前を。本当に。」"
+    나 "「好きだ、君を。本当に。」"
 
 # game/chapter6.rpy:1999
 translate japanese ecg13_label_acbfdb9f:
