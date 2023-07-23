@@ -290,7 +290,7 @@ translate english chapter1_4599686c:
     # voice "voices/ya8.ogg"
     # 유미 "“지, 지금 네 취향 물어본 게 아니잖아?!”"
     voice "voices/ya8.ogg"
-    유미 "\"You, you weren't asking for my preference just now, were you?!\""
+    유미 "\"You, you weren't talking about your preference just now, were you?!\""
 
 # game/chapter1.rpy:235
 translate english chapter1_a3363289:
