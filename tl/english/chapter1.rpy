@@ -1656,7 +1656,7 @@ translate english ecg2_label_cbf78c6e:
     # voice "voices/ya50.ogg"
     # whoyumi "“거기 있어?”"
     voice "voices/ya50.ogg"
-    whoyumi "Are you in there?"
+    whoyumi "\"Are you in there?\""
 
 # game/chapter1.rpy:918
 translate english ecg2_label_85e029e4:
