@@ -95,3 +95,18 @@ translate japanese strings:
 
     old "이 대사의 장면으로 돌아갈까요?"
     new "そのセリフのシーンに戻りましょうか？"
+
+translate japanese python:
+    gui.system_font = u'fonts/NotoSansMonoCJKkr-Regular.otf'
+    gui.font = u'fonts/NotoSansMonoCJKkr-Regular.otf'
+
+translate japanese style default:
+    font u'fonts/NotoSansMonoCJKkr-Regular.otf'
+
+translate japanese style history_text:
+    font u'fonts/NotoSansMonoCJKkr-Regular.otf'
+    language "japanese-normal"
+
+translate japanese style choice_pick_text:
+    font u'fonts/NotoSansMonoCJKkr-Regular.otf'
+    language "japanese-normal"
