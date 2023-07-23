@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-07-21 14:01
 
-translate japaneseanese strings:
+translate japanese strings:
 
     # game/screens.rpy:1199
     old "Start Game"
@@ -56,13 +56,39 @@ translate japaneseanese strings:
 
     # game/screens.rpy:1776
     old "AUTOSAVE"
-    new "オートセーブ"
+    new "AUTOSAVE"
 
     # game/screens.rpy:1776
     old "QUICKSAVE"
-    new "クイックセーブ"
+    new "QUICKSAVE"
 
     # game/screens.rpy:1954
     old "빈 슬롯"
     new "空のスロット"
 
+    old "해당 장면으로 바로 이동할까요?"
+    new "そのシーンに直接移動しますか？"
+
+    old "이전으로 (Back)"
+    new "前に戻る (Back)"
+
+    old "복사 (Copy)"
+    new "コピー (Copy)"
+    
+    old "{alpha=0.34}하단의 LOG에서도 지나간 대사를 볼 수 있어요.{/alpha}"
+    new "{alpha=0.34}下部のLOGでも過ぎ去った台詞を見ることができます。{/alpha}"
+
+    old "{alpha=0.5}소녀{/alpha}"
+    new "{alpha=0.5}少女{/alpha}"
+
+    old "{alpha=0.5}기타 등장인물{/alpha}"
+    new "{alpha=0.5}その他の登場人物{/alpha}"
+
+    old "{alpha=0.5}현지{/alpha}"
+    new "{alpha=0.5}ヒョンジ{/alpha}"
+
+    old "{alpha=0.5}유미{/alpha}"
+    new "{alpha=0.5}ユミ{/alpha}"
+
+    old "{alpha=0.5}명령어를 입력하세요.{/alpha}"
+    new "{alpha=0.5}コマンドを入力してください。{/alpha}"
