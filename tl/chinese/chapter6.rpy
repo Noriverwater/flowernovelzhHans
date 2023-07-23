@@ -5472,7 +5472,7 @@ translate chinese ecg13_label_7e60ddef:
 translate chinese ecg13_label_cbbb6ec1:
 
     # 나 "“좋아하는 것 같아.”"
-    나 "“我好像很喜欢……”"
+    나 "“我好像很喜欢。”"
 
 # game/chapter6.rpy:1978
 translate chinese ecg13_label_7cdbab3e:
@@ -5480,7 +5480,7 @@ translate chinese ecg13_label_7cdbab3e:
     # voice "voices/gf22.ogg"
     # 소녀 "“네…… 에?”"
     voice "voices/gf22.ogg"
-    소녀 "“什么……啊？”"
+    소녀 "“你……诶？”"
 
 # game/chapter6.rpy:1981
 translate chinese ecg13_label_66d1475f:
@@ -5488,7 +5488,7 @@ translate chinese ecg13_label_66d1475f:
     # voice ""
     # 나 "“…… 좋아해. 너를.”"
     voice ""
-    나 "“……我喜欢你……”"
+    나 "“……我喜欢你。”"
 
 # game/chapter6.rpy:1984
 translate chinese ecg13_label_147e2504:
