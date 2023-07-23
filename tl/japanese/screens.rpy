@@ -92,3 +92,6 @@ translate japanese strings:
 
     old "{alpha=0.5}명령어를 입력하세요.{/alpha}"
     new "{alpha=0.5}コマンドを入力してください。{/alpha}"
+
+    old "이 대사의 장면으로 돌아갈까요?"
+    new "そのセリフのシーンに戻りましょうか？"
