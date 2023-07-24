@@ -4690,7 +4690,7 @@ translate english chapter5_75ac3363:
     # voice "voices/ge107.ogg"
     # 소녀 "“살인귀에게 그렇게까지 신경 쓸 필요 없어요.”"
     voice "voices/ge107.ogg"
-    소녀 "\"You don't need to care so much about a murderer.\""
+    소녀 "\"You don't need to care so much about a killer-ghost.\""
 
 # game/chapter5.rpy:1967
 translate english chapter5_a342f174:
