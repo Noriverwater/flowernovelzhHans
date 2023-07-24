@@ -3556,7 +3556,7 @@ translate japanese chapter1_2_b75f870b:
 translate japanese chapter1_2_ffd85120:
 
     # "작별인사치고는 특이한 미사여구가 붙은 말을 유미에게 건네고선, 나는 횡단보도를 건너 집으로 향했다."
-    "別れの挨拶としては珍しい言い回しをユミに渡してから、俺は横断歩道を渡って家に向かった。"
+    "別れの挨拶としては美辞麗句が付いた言葉をユミに渡してから、俺は横断歩道を渡って家に向かった。"
 
 # game/chapter1.rpy:1635
 translate japanese chapter1_2_4d2fafb4:
