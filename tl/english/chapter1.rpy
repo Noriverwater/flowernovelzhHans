@@ -10,25 +10,25 @@ translate english prologue_466c17b0:
 translate english prologue_3af24308:
 
     # "그런 조각난 파편들 속에서도, 유난히 눈에 띄는 조각들이 있다. "
-    "Among those shattered debris, some stand out. "
+    "Among those shattered pieces, some stand out."
 
 # game/chapter1.rpy:26
 translate english prologue_255a3efa:
 
     # "흔히 추억이라 불리는, 그런 조각들 말이다. "
-    "They are commonly known as reminiscences, those debris. "
+    "They are commonly known as reminiscences, those fragments. "
 
 # game/chapter1.rpy:29
 translate english prologue_06bfe242:
 
     # "손을 뻗어 붙잡은 추억 두 조각이, 한여름 밤의 별빛처럼 반짝이고 있었다. "
-    "Two bits of reminiscence that I grabbed with my hand, sparkled like the starlight of a midsummer night. "
+    "Two bits of reminiscence that I grasped with my hand sparkled like the starlight of a midsummer night. "
 
 # game/chapter1.rpy:32
 translate english prologue_b463473e:
 
     # "몇 광년은 족히 떨어져 있을 두 별처럼 아득하면서도, 한쪽에서 손을 뻗으면 금세 닿을 것만 같은 그 추억의 조각들이. "
-    "The debris of reminiscence that seemed far like two stars that were at least light-years apart, but also seemed near when I reached out from one side. "
+    "The fragments of reminiscence that seemed far like two stars that were at least light-years apart, but also seemed near when I reached out from one side. "
 
 # game/chapter1.rpy:34
 translate english prologue_3149fd0c:
