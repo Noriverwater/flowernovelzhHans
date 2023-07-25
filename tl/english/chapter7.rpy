@@ -13118,7 +13118,7 @@ translate english chapter7_3_089f0540:
 # Within the sad memories that were scattered in two
 
 # 하나가 된 추억의 조각들은
-# The debris of reminiscence that became one
+# The fragments of reminiscence that became one
 
 # 그때의 우린 찾을 수 없어도
 # Even if we can't find it from that time
@@ -13130,4 +13130,4 @@ translate english chapter7_3_089f0540:
 # Your figure that left with the summer
 
 # 행복한 꿈이였다 말 할테니
-# I will say to have been a happy dream
+# I will say it was a happy dream
