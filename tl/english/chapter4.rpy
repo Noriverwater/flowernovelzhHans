@@ -196,7 +196,7 @@ translate english chapter4_9db65584:
     # voice "voices/hd7.ogg"
     # 현지 "“잠시만요. 확인해 볼게요.”"
     voice "voices/hd7.ogg"
-    현지 "“Just a moment. I'll check it out.”"
+    현지 "\"Just a moment. I'll check it out.\""
 
 # game/chapter4.rpy:86
 translate english chapter4_f333f9f5:
@@ -216,7 +216,7 @@ translate english chapter4_d49a109f:
 translate english chapter4_b0b4d9dc:
 
     # 나 "“뭐 하는 거야?”"
-    나 "“What are you doing?”"
+    나 "\"What are you doing?\""
 
 # game/chapter4.rpy:95
 translate english chapter4_9f10d893:
@@ -224,7 +224,7 @@ translate english chapter4_9f10d893:
     # voice "voices/hd8.ogg"
     # 현지 "“디지털 신호를 최대한 아날로그 신호와 가깝게 변환하고 있어요. 시간은 아날로그 형태의 정보니까요.”"
     voice "voices/hd8.ogg"
-    현지 "“I'm converting the digital signal as close as possible to the analog signal. Time is analog information, you know.”"
+    현지 "\"I'm converting the digital signal as close as possible to the analog signal. Time is analog information, you know.\""
 
 # game/chapter4.rpy:98
 translate english chapter4_c85126b4:
@@ -264,7 +264,7 @@ translate english chapter4_fab99346:
     # voice "voices/hd9.ogg"
     # 현지 "“아, 됐다. 자요, 이거 한 번 써 봐요.”"
     voice "voices/hd9.ogg"
-    현지 "“Ah, done. Here, try this.”"
+    현지 "\"Ah, done. Here, try this.\""
 
 # game/chapter4.rpy:109
 translate english chapter4_984821aa:
@@ -272,7 +272,7 @@ translate english chapter4_984821aa:
     # voice ""
     # 나 "“잠깐만. 그래도 이게 뭔지는 설명해 줘야지.”"
     voice ""
-    나 "“Wait a minute. You have to explain what this is, at least.”"
+    나 "\"Wait a minute. You have to explain what this is, at least.\""
 
 # game/chapter4.rpy:113
 translate english chapter4_552d8a11:
@@ -298,7 +298,7 @@ translate english chapter4_9d4b404d:
     # voice "voices/hd10.ogg"
     # 현지 "“그럼 시작할게요.”"
     voice "voices/hd10.ogg"
-    현지 "“Then I'll start.”"
+    현지 "\"Then I'll start.\""
 
 # game/chapter4.rpy:127
 translate english chapter4_e66e38d0:
@@ -418,7 +418,7 @@ translate english chapter4_3499da5f:
     # voice "voices/hd13.ogg"
     # whohy "“선배가 오컬트부 부장인가요?”"
     voice "voices/hd13.ogg"
-    whohy "“Are you the head of the occult club, senpai?”"
+    whohy "\"Are you the head of the occult club, senpai?\""
 
 # game/chapter4.rpy:192
 translate english chapter4_1e24c9d5:
@@ -2440,7 +2440,7 @@ translate english chapter4_4_44c95186:
     # voice "voices/hd96.ogg"
     # 현지 "“선배 지금 생각 없이 내뱉은 거죠?!”"
     voice "voices/hd96.ogg"
-    현지 "\"You just blurted that out without thinking, right?!\""
+    현지 "\"You just blurted that out without thinking, senpei?!\""
 
 # game/chapter4.rpy:1120
 translate english chapter4_4_cbaa72c2:
