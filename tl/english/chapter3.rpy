@@ -6366,7 +6366,7 @@ translate english ecg5_label_236ea19a:
 translate english ecg5_label_a15d8995:
 
     # "가족에 대해서조차 아무것도 기억하지 못하는 소녀가 기억할 만한 사람이라면, 분명 그녀에겐 무척이나 소중한 존재가 아니었을까."
-    "If she was someone worth remembering for the girl who didn't remember anything about her family, she must have been very precious to her."
+    "If he was someone worth remembering for the girl who didn't remember anything about her family, he must have been very precious to her."
 
 # game/chapter3.rpy:2700
 translate english ecg5_label_3f2dc34b:
