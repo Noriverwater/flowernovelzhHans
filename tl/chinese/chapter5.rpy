@@ -560,7 +560,7 @@ translate chinese chapter5_ba1879da:
 translate chinese chapter5_78b3fde8:
 
     # "오렌지색으로 물들어가는 그라운드 한귀퉁이에서, 나는 오랜만에 그 소리를 들을 수 있었다. "
-    "在染成橙色的球场一角，我久违地听到了那声音。"
+    "在染成橙色的球场一角，我能够久违地听到了那些声音。"
 
 # game/chapter5.rpy:238
 translate chinese chapter5_31695660:
