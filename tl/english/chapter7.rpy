@@ -2678,7 +2678,7 @@ translate english chapter7_187bb289:
 translate english chapter7_a8c770a1:
 
     # "하지만 어째서인지, 소녀는 자신이라는 불씨 하나만을 남겨 두고선 모조리 사그라들어버린 꿈만 같은 현실을 아무렇지도 않게 바라보고 있었다. "
-    "But for some reason, the girl was looking at this reality that seemed like a dream that had completely collapsed, leaving only herself as a spark, without any discomfort."
+    "I don't know why, But the girl stared at this reality that seemed like a dream that had completely collapsed. It looks like she is the only one who left here, like little ember buried in dark."
 
 # game/chapter7.rpy:1138
 translate english chapter7_03c0a2ff:
@@ -12434,13 +12434,13 @@ translate english chapter7_3_cde0a0a9:
 translate english chapter7_3_0da4d3f4:
 
     # "그는 이런 모습의 나라도 사랑해 줄 수 있을까? "
-    "Could he still love me even in this state?"
+    "Will he still love me when he knows I'm such a twisted person?"
 
 # game/chapter7.rpy:5236
 translate english chapter7_3_f088262f:
 
     # "그는 이런 모습의 나라도 이해해 줄 수 있을까? "
-    "Could he understand me even in this state?"
+    "Will he still understand me when he knows I'm such a twisted person?"
 
 # game/chapter7.rpy:5240
 translate english chapter7_3_bd688954:
