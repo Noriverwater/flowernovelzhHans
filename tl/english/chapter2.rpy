@@ -2906,13 +2906,13 @@ translate english ecg3_label_0c311eac:
 translate english ecg3_label_a1c2c33a:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 사랑해 줄 수 있을까?{/color} "
-    "{color=#00ccff}Could she still love me even in this state?{/color}"
+    "{color=#00ccff}Will he still love me when he knows I'm such a twisted person?{/color}"
 
 # game/chapter2.rpy:1303
 translate english ecg3_label_acd759ef:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 이해해 줄 수 있을까?{/color} "
-    "{color=#00ccff}Could she understand me even in this state?{/color}"
+    "{color=#00ccff}Will he still understand me when he knows I'm such a twisted person?{/color}"
 
 # game/chapter2.rpy:1308
 translate english ecg3_label_247ab09b:
