@@ -2905,15 +2905,13 @@ translate chinese ecg3_label_0c311eac:
 translate chinese ecg3_label_a1c2c33a:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 사랑해 줄 수 있을까？{/color} "
-    # 这句话的另一个解释是，“他能爱上这个样子的国家吗？”。主体是나（我）还是나라（国家），不同的人有不同的答案。
-    "{color=#00ccff}她也能爱上这个样子的我吗？{/color}"
+    "{color=#00ccff}他还能爱上这个样子的我吗？{/color}"
 
 # game/chapter2.rpy:1302
 translate chinese ecg3_label_acd759ef:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 이해해 줄 수 있을까？{/color} "
-    # “他能理解这个样子的国家吗？”
-    "{color=#00ccff}她也能理解这个样子的我吗？{/color}"
+    "{color=#00ccff}他还能理解这个样子的我吗？{/color}"
 
 # game/chapter2.rpy:1307
 translate chinese ecg3_label_247ab09b:
