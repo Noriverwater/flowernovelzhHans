@@ -2559,7 +2559,7 @@ translate chinese chapter7_753c6011:
 translate chinese chapter7_1cc2f7e8:
 
     # "마치 꿈이 희미해지듯, 주변이 무너져갔다. "
-    "就像梦变模糊一样，周围崩塌了。"
+    "就像梦变得模糊，周围崩塌了。"
 
 # game/chapter7.rpy:1069
 translate chinese chapter7_2007e5f3:
@@ -2571,7 +2571,7 @@ translate chinese chapter7_2007e5f3:
 translate chinese chapter7_5b761ae8:
 
     # "그 외침은 힘없이 타고 있던 성냥불처럼 덧없이 사그라들 뿐이었다. "
-    "那喊声像无力燃烧的火柴一样，毫无生气地熄灭了。"
+    "那喊声像无力燃烧的火苗一样，毫无生气地熄灭了。"
 
 # game/chapter7.rpy:1079
 translate chinese chapter7_baa23bc1:
@@ -2607,13 +2607,13 @@ translate chinese chapter7_396673fa_1:
 translate chinese chapter7_1fde8b77:
 
     # "오른손을 움직이려다 말고, 나의 손을 잡고 있던 소녀와 눈이 마주쳤다. "
-    "想要动右手但没成功，我和一个握着我手的少女对视了。"
+    "想要动右手但没成功，然后我和一个握着我手的少女对视了。"
 
 # game/chapter7.rpy:1092
 translate chinese chapter7_2b949a6c:
 
     # "소녀는 나를 이상하다는 눈빛으로, 그리고 걱정스러운 눈빛으로 쳐다보고 있었다. "
-    "少女用奇怪而担忧的表情看着我。"
+    "少女用奇怪的眼神，以及担忧的表情看着我。"
 
 # game/chapter7.rpy:1093
 translate chinese chapter7_6d0b80dd:
@@ -2653,13 +2653,13 @@ translate chinese chapter7_450d0548:
 translate chinese chapter7_bf8d8c20:
 
     # "꿈일 거라는 징조는 언제나 있었다. "
-    "总是有梦境的征兆。"
+    "总是有征兆表明这只是一场梦。"
 
 # game/chapter7.rpy:1120
 translate chinese chapter7_45bc23c3:
 
     # "어제도, 그제도, 눈을 떴을 때의 모든 순간이 꿈이라 해도 전혀 이상할 건 없었으니까. "
-    "无论昨天还是前天，即使睁开眼睛的所有瞬间都是梦，也没有什么奇怪的。"
+    "无论昨天，还是前天，即使睁开眼睛的所有瞬间都是梦，也没有什么奇怪的。"
 
 # game/chapter7.rpy:1124
 translate chinese chapter7_8e58d9c4:
@@ -2677,7 +2677,7 @@ translate chinese chapter7_187bb289:
 translate chinese chapter7_a8c770a1:
 
     # "하지만 어째서인지, 소녀는 자신이라는 불씨 하나만을 남겨 두고선 모조리 사그라들어버린 꿈만 같은 현실을 아무렇지도 않게 바라보고 있었다. "
-    "但是不知为什么，少女只留下自己唯一的佛事，若无其事地看着全部消失的梦境般的现实。"
+    "但是不知为什么，少女像是黑暗中留下的唯一的小火苗一样，若无其事地盯着梦境般的现实。"
 
 # game/chapter7.rpy:1138
 translate chinese chapter7_03c0a2ff:
@@ -2710,8 +2710,8 @@ translate chinese chapter7_a06c6874:
 # game/chapter7.rpy:1145
 translate chinese chapter7_6d0f821a:
 
-    # "这是一会儿就要醒来的漫长的梦。"
-    "这是一会儿就要醒来的漫长的梦。"
+    # "잠시 후면 깨어나야 할, 길었던 꿈 말이다."
+    "这是一会儿就要醒来的，漫长的梦。"
 
 # game/chapter7.rpy:1147
 translate chinese chapter7_4f7304db:
@@ -2729,7 +2729,7 @@ translate chinese chapter7_c6afe6fc:
 translate chinese chapter7_a055f922:
 
     # "유미도, 지나가던 사람들도, 주변의 모든 것이 감쪽같이 녹아내린 지금의 상황이 소녀에겐 전혀 이상하게 느껴지지 않는 것일까? "
-    "优美，路过的人，周围的一切都神不知鬼不觉地融化了，少女难道一点都不觉得奇怪吗？"
+    "优美也是，路过的人也是，周围的一切都神不知鬼不觉地融化了，少女难道一点都不觉得奇怪吗？"
 
 # game/chapter7.rpy:1160
 translate chinese chapter7_0d1988c3:
@@ -12433,13 +12433,13 @@ translate chinese chapter7_3_cde0a0a9:
 translate chinese chapter7_3_0da4d3f4:
 
     # "그는 이런 모습의 나라도 사랑해 줄 수 있을까? "
-    "他也能爱上这个样子的我吗？"
+    "他还能爱上这个样子的我吗？"
 
 # game/chapter7.rpy:5236
 translate chinese chapter7_3_f088262f:
 
     # "그는 이런 모습의 나라도 이해해 줄 수 있을까? "
-    "他也能理解这个样子的我吗？"
+    "他还能理解这个样子的我吗？"
 
 # game/chapter7.rpy:5240
 translate chinese chapter7_3_bd688954:
