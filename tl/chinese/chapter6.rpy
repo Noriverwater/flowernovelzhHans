@@ -800,13 +800,13 @@ translate chinese chapter6_0d9c5d41:
 translate chinese chapter6_540f39d2:
 
     # "소녀는 그때, 내가 만든 인형을 보기 좋게 골랐던 것이다. "
-    "少女当时挑选的人偶。"
+    "少女当时，挑选出的我所制作的最喜欢的人偶。"
 
 # game/chapter6.rpy:309
 translate chinese chapter6_77762b54:
 
     # 나 "‘뿌듯해해야 하는 건가.’"
-    나 "“我应该为此感到骄傲吗？”"
+    나 "“我应该为此感到骄傲吗。”"
 
 # game/chapter6.rpy:314
 translate chinese chapter6_2cdb0b9d:
@@ -896,7 +896,7 @@ translate chinese chapter6_9b493016:
 translate chinese chapter6_5a885210:
 
     # "신발을 신고 현관문을 나서려는데, 다시금 문자가 도착했다. "
-    "穿上鞋走出玄关，短信又来了。"
+    "穿上鞋走出玄关，结果短信又来了。"
 
 # game/chapter6.rpy:351
 translate chinese chapter6_7ba21180:
@@ -1184,7 +1184,7 @@ translate chinese ecg12_label_5d85812a:
 translate chinese ecg12_label_87f07574:
 
     # 나 "“이 시간에 학교에 누가 남아있다고. 아무도 없었거든.”"
-    나 "“这个时间没有人会留在学校里。”"
+    나 "“这个时间在学校里还剩下谁。谁都没有。”"
 
 # game/chapter6.rpy:474
 translate chinese ecg12_label_8e3d6fac:
@@ -1246,7 +1246,7 @@ translate chinese ecg12_label_32f9e53b:
 translate chinese ecg12_label_e8e2c78c:
 
     # "하긴, 비품 창고 안에서 얼마나 더 앉아있으려는 건지. "
-    "是啊，也不知道要在备品仓库里坐多久。"
+    "是啊，也不知道还要在备品仓库里坐多久。"
 
 # game/chapter6.rpy:503
 translate chinese ecg12_label_e0f08e26:
@@ -1522,13 +1522,13 @@ translate chinese ecg12_label_862b0b44:
 translate chinese ecg12_label_c3113dcd:
 
     # "단둘만이 남겨진 학교 복도에는 묘한 적막감이 감돌았다. "
-    "只剩下两个人的学校走廊里充满了微妙的寂寞。"
+    "只剩下两个人的学校走廊里笼罩着微妙的寂寞感。"
 
 # game/chapter6.rpy:607
 translate chinese ecg12_label_cd15a7dc:
 
     # "평소에는 항상 이런저런 소리로 가득 차 있던 복도는 단 두 사람만의 소리로는 가득 차지 않는구나, 라는 생각이 들려는 즈음이었다. "
-    "平时总是充满各种声音的走廊，并不是只有两个人的声音。"
+    "这个时候就会觉得走廊里通常充满了各种声音，但并不是只有两个人的声音。"
 
 # game/chapter6.rpy:618
 translate chinese ecg12_label_17ac3b82:
@@ -1578,7 +1578,7 @@ translate chinese ecg12_label_ec958748:
 translate chinese ecg12_label_b8d754f7:
 
     # "손사래를 치던 유미는 나의 말에 의외라는 표정을 지어 보이며 반응했다. "
-    "摆手的优美听了我的话，露出一个意外的表情。"
+    "挥舞着手的优美听了我的话，露出一个意外的表情。"
 
 # game/chapter6.rpy:633
 translate chinese ecg12_label_39659202:
