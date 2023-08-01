@@ -3456,7 +3456,7 @@ translate chinese ecg12_label_107c3aa7:
 translate chinese ecg12_label_14dccc76:
 
     # "나는 유미가 자동문 너머로 사라지는 것을 본 뒤에서야 겨우 발걸음을 돌릴 수 있었다. "
-    "我看到优美从自动门那边消失，才转过身来。"
+    "我看到优美从自动门那边消失后，才勉强转过身来。"
 
 # game/chapter6.rpy:1319
 translate chinese ecg12_label_dd1e66b7:
@@ -3604,7 +3604,7 @@ translate chinese ecg12_label_2f88580d:
 translate chinese ecg12_label_ef471cda:
 
     # "허무하리만치 느껴질 정도의 편안함이, 나를 감싸안고 있었다. "
-    "一种虚无缥缈的舒适感，拥抱着我。"
+    "一种莫名其妙的安心感，拥抱了我。"
 
 # game/chapter6.rpy:1390
 translate chinese ecg12_label_396673fa_3:
@@ -3640,7 +3640,7 @@ translate chinese ecg12_label_68816dab:
 translate chinese ecg12_label_486911b1:
 
     # 나 "“우윽…….”"
-    나 "“呜呜……”"
+    나 "“呜呃……”"
 
 # game/chapter6.rpy:1399
 translate chinese ecg12_label_6b2246e7:
