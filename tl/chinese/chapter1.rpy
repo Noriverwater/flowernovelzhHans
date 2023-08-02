@@ -4435,7 +4435,7 @@ translate chinese chapter1_2_db54b6bf:
     # voice "voices/ga11.ogg"
     # 소녀 "“뭔가요, 그 반응은. 어째서 의심하지 않는 거죠？ 자기 앞에 나타나 다리를 건 사람이 대뜸 자신을 유령이라고 소개하는데.”"
     voice "voices/ga11.ogg"
-    소녀 "“什么呀，那个反应。为什么不怀疑呢？出现在你面前搭上桥的人马上就介绍自己是个幽灵。”"
+    소녀 "“什么呀，那个反应。为什么不怀疑呢？出现在你面前搭讪的人马上就介绍自己是个幽灵。”"
 
 # game/chapter1.rpy:2016
 translate chinese chapter1_2_55ca85c4:
