@@ -76,7 +76,7 @@ translate chinese chapter6_71d926ea:
     # voice ""
     # 나 "“이래저래 바빠 보이네.”"
     voice ""
-    나 "“看起来很忙啊。”"
+    나 "“这样看起来很忙啊。”"
 
 # game/chapter6.rpy:33
 translate chinese chapter6_5b934613:
@@ -84,7 +84,7 @@ translate chinese chapter6_5b934613:
     # voice "voices/yf4.ogg"
     # 유미 "“뭐어, 매번 그렇지.”"
     voice "voices/yf4.ogg"
-    유미 "“什么啊，一直都是。”"
+    유미 "“什么啊，一直都是这样。”"
 
 # game/chapter6.rpy:39
 translate chinese chapter6_1b4f2c99:
@@ -182,7 +182,7 @@ translate chinese chapter6_44b754b8:
 translate chinese chapter6_b8b795c9:
 
     # "집으로 돌아가는 길도 현지와 함께였다. "
-    "和贤智一起回家。"
+    "回家的路上也和贤智一起。"
 
 # game/chapter6.rpy:78
 translate chinese chapter6_8a45cb11:
@@ -214,7 +214,7 @@ translate chinese chapter6_3eaaa421:
     # voice "voices/hf4.ogg"
     # 현지 "“이제 학예제 준비도 다 끝났는데, 남아있는 방학은 어떻게 보낼 생각이에요?”"
     voice "voices/hf4.ogg"
-    현지 "“现在学艺祭的准备工作都完成了。剩下的假期打算怎么度过？”"
+    현지 "“现在学艺祭的准备工作都完成了。剩下的假期打算怎么度过呢？”"
 
 # game/chapter6.rpy:88
 translate chinese chapter6_9af39a92:
@@ -222,7 +222,7 @@ translate chinese chapter6_9af39a92:
     # voice ""
     # "나와 눈을 마주친 현지가 곧장 내게 말을 걸어왔다. "
     voice ""
-    "和我对视的贤智径直对我说。"
+    "和我对视的贤智立刻对我说。"
 
 # game/chapter6.rpy:91
 translate chinese chapter6_c6f2bd67:
@@ -262,7 +262,7 @@ translate chinese chapter6_f53f6d6c:
 translate chinese chapter6_cf60e2de:
 
     # 나 "“그나저나, 왜 내 눈에만 그 유령이 보였던 걸까?”"
-    나 "“话说回来，为什么只有我看到了那个幽灵？”"
+    나 "“不管怎样，为什么只有我看到了那个幽灵？”"
 
 # game/chapter6.rpy:108
 translate chinese chapter6_2a6a4da3:
@@ -296,13 +296,13 @@ translate chinese chapter6_908db3dd:
     # voice ""
     # "다시 한번 옆을 바라보았다. "
     voice ""
-    "再一次向旁边看。"
+    "再一次向旁边看去。"
 
 # game/chapter6.rpy:117
 translate chinese chapter6_bdf0a763:
 
     # "횡단보도를 절반쯤 걸었을까, 초록빛을 발하는 보행자 신호가 깜빡이기 시작했다. "
-    "人行横道走了一半左右，绿色的通行信号灯开始闪烁。"
+    "人行横道走了一半左右，绿色的通行信号灯开始闪烁了。"
 
 # game/chapter6.rpy:118
 translate chinese chapter6_37b01358:
@@ -352,7 +352,7 @@ translate chinese chapter6_369267ab:
 translate chinese chapter6_cbf77111:
 
     # "잠시 생각할 시간을 주었다는 듯, 현지가 이야기를 이어갔다. "
-    "似乎给了我一点思考的时间，贤智接着说。"
+    "似乎要给我一点思考的时间，贤智接着说。"
 
 # game/chapter6.rpy:131
 translate chinese chapter6_1a34454c:
@@ -360,7 +360,7 @@ translate chinese chapter6_1a34454c:
     # voice "voices/hf9.ogg"
     # 현지 "“사람은 우연과 필연을 구분하지 못하니까요. 그러니까 우연이든, 필연이든 모두 소중한 거 아닐까요.”"
     voice "voices/hf9.ogg"
-    현지 "“人分不清偶然和必然。所以说，无论是偶然还是必然，都是非常珍贵的。”"
+    현지 "“人分不清偶然和必然。所以说，无论是偶然还是必然，都是非常珍贵的吧。”"
 
 # game/chapter6.rpy:133
 translate chinese chapter6_80c1608b:
@@ -386,13 +386,13 @@ translate chinese chapter6_4deb43f1:
 translate chinese chapter6_dedec9f0:
 
     # "죽음의 색이라거나, 인간의 운명이라거나. "
-    "死亡的颜色或者是人类的命运。"
+    "死亡的颜色，或者是人类的命运。"
 
 # game/chapter6.rpy:140
 translate chinese chapter6_005d5129:
 
     # "어쩌면 우연과 필연을 구분하지 못하는 것은 인간에게 주어진 일종의 축복이 아닐까, 그런 생각이 들었다. "
-    "也许无法区分偶然和必然是人类的一种幸运。"
+    "也许无法区分偶然和必然是人类的一种幸运，产生了这样的想法。"
 
 # game/chapter6.rpy:142
 translate chinese chapter6_ed160ace:
@@ -454,13 +454,13 @@ translate chinese chapter6_150dff88:
 translate chinese chapter6_00074634:
 
     # "현지의 말이 맞다는 것을 어렴풋이 짐작하고 있었다. "
-    "模模糊糊地猜到贤智的话是对的。"
+    "模模糊糊地觉得贤智的话是正确的。"
 
 # game/chapter6.rpy:161
 translate chinese chapter6_208a1cc1:
 
     # "의아했던 사건들이 하나둘씩 머릿속에서 그것 나름대로의 이유와 함께 맞아 떨어져가고 있었다. "
-    "令人惊讶的事件一个接一个地在脑海中浮现，与自己的理由相吻合。"
+    "令人惊诧的事件一个接一个地在脑海中浮现，与它们各自的理由相吻合。"
 
 # game/chapter6.rpy:170
 translate chinese chapter6_cc3a9992:
