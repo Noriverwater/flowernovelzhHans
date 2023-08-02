@@ -10545,7 +10545,7 @@ translate chinese chapter7_2_c856e235:
 translate chinese chapter7_2_257862ab:
 
     # naro "그날도 수업을 마치고 복도로 먼저 빠져나간 가연에게 말을 걸어보려 했지만, 그녀는 이미 빠른 걸음으로 나를 뿌리치고 시야에서 사라져버린 뒤였다. "
-    naro "虽然那天我也想和下课后先到走廊的佳妍搭话，但是她已经快步离开我，消失在视线之外了。"
+    naro "虽然那天我也想和下课后先逃到走廊的佳妍搭话，但是她已经快步甩开我，消失在视线之外了。"
 
 # game/chapter7.rpy:4519
 translate chinese chapter7_2_d98a1b50:
@@ -12475,7 +12475,7 @@ translate chinese chapter7_3_1c45dc01:
 translate chinese chapter7_3_469e8e4f:
 
     # "다만 원한을 잔뜩 머금어, 미련을 잔뜩 머금어 사라지지 못하고 차안{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}(此岸){/font}{/size}을 떠도는 두 원귀가 이곳에 있다는 것만이 우리가 알 수 있는 사실이었다. "
-    "我们能知道的，只有满怀怨恨，满怀迷恋、无法消失漂泊在{size=-5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}的两只冤鬼就在这里。"
+    "我们能知道的，只有满怀怨恨，满怀迷恋、无法消失漂泊在{size=+5}{font=fonts/MPLUSRounded1c-Regular.ttf}此岸{/font}{/size}的两只冤鬼就在这里。"
 
 # game/chapter7.rpy:5257
 translate chinese chapter7_3_cbf7cd1f:
@@ -12609,13 +12609,13 @@ translate chinese chapter7_3_3bfd3fd7:
 translate chinese chapter7_3_b96d4aba:
 
     # "그렇다고 구름이 떠다니지도 않았고, 비가 주룩주룩 내리는 것도 아니다. "
-    "但也不是云飘来飘去，雨哗哗地下。"
+    "也没有飘来飘去的云，哗哗地下的雨。"
 
 # game/chapter7.rpy:5295
 translate chinese chapter7_3_90acf954:
 
     # "그저 우리는 너라는 존재만이 느껴지는 세상을, 손을 잡고 터벅터벅 걸었다. "
-    "我们只是牵着手，吃力地走在只有你的存在的世界上。"
+    "我们只是牵着手，拖着步子走在只有感受到你的存在的世界上。"
 
 # game/chapter7.rpy:5300
 translate chinese chapter7_3_9dfdf98b:
