@@ -4722,13 +4722,13 @@ translate chinese ecg12_label_9c943496:
 translate chinese ecg12_label_f42f788f:
 
     # "도대체 누가 이렇게 찝찝한 함정을 애써 만들어서는, 왜 나를 그곳에 밀어넣은 걸까. "
-    "到底是谁制造了这么不舒服的陷阱，为什么把我推到那里呢？"
+    "到底是谁制造了这么不舒服的陷阱，为什么要把我推进去呢？"
 
 # game/chapter6.rpy:1734
 translate chinese ecg12_label_85299886:
 
     # "길을 찾아갈만한 실타래를 아무리 찾아보려 해도, 허공에서 잡히는 거라고는 무력함이 전부였다. "
-    "无论怎么寻找谜团的真相，都只剩下握住空虚的无力感。"
+    "无论怎么寻找谜团的真相，我从半空中握住的都只剩下无力感。"
 
 # game/chapter6.rpy:1743
 translate chinese ecg13_label_dcd44a6f:
@@ -4770,7 +4770,7 @@ translate chinese ecg13_label_c6be521b:
 translate chinese ecg13_label_7a4f6e06:
 
     # "모든 것이 뒤틀려 인과율이라고는 전혀 상관치 않는 세상을 마주하는 것 같았다. "
-    "仿佛我们处于一个一切都扭曲，完全与因果律无关的世界。"
+    "仿佛处于一个一切都扭曲，完全与因果律无关的世界。"
 
 # game/chapter6.rpy:1760
 translate chinese ecg13_label_8524e354:
@@ -4860,7 +4860,7 @@ translate chinese ecg13_label_1f585338:
 translate chinese ecg13_label_b7d42f7d:
 
     # 나 "“…… 그래서 너를 찾아 온 거라고.”"
-    나 "“……所以才来找你。”"
+    나 "“……所以才来找你了。”"
 
 # game/chapter6.rpy:1791
 translate chinese ecg13_label_ba762d11:
@@ -4878,13 +4878,13 @@ translate chinese ecg13_label_4ff94877:
 translate chinese ecg13_label_5f78cc28:
 
     # "소녀와 다시 마주하게 된 것도, 소녀의 그 차가운 표정을 보는 것도. "
-    "再次与少女相遇，看着少女冰冷的表情。"
+    "再次面对少女，看着少女那冰冷的表情。"
 
 # game/chapter6.rpy:1795
 translate chinese ecg13_label_868aa38e:
 
     # "소리 죽인 발자국 소리가 나를 향한다. "
-    "无声的脚步朝向我。"
+    "无声的脚步向我袭来。"
 
 # game/chapter6.rpy:1796
 translate chinese ecg13_label_a1c4e21a:
@@ -4904,7 +4904,7 @@ translate chinese ecg13_label_cce3e6a3:
     # voice "voices/gf4.ogg"
     # 소녀 "“그게 무슨 소리예요. 제가 기다리고 있겠다고 했다니.”"
     voice "voices/gf4.ogg"
-    소녀 "“那是什么意思啊？我竟然说会等。”"
+    소녀 "“那是什么意思啊。我竟然说会等。”"
 
 # game/chapter6.rpy:1801
 translate chinese ecg13_label_b7cc849e:
@@ -4912,7 +4912,7 @@ translate chinese ecg13_label_b7cc849e:
     # voice ""
     # 나 "“정말이야. 네가 내게서 사라진 뒤로, 어떤 목소리가 나를 계속 불렀었어. 여태껏 그 목소리가 과거의 기억인 줄로만 알았는데. 그 목소리는, 네 목소리였어.”"
     voice ""
-    나 "“真的。你从我身边消失后，有个声音一直在叫我。那个声音是过去的记忆，我发现那声音，是你的声音。”"
+    나 "“真的。你从我身边消失后，有个声音一直在呼唤我。那个声音是过去的记忆，我发现那声音，是你的声音。”"
 
 # game/chapter6.rpy:1803
 translate chinese ecg13_label_91e4ba75:
@@ -4974,7 +4974,7 @@ translate chinese ecg13_label_cf13ac18:
     # voice "voices/gf8.ogg"
     # 소녀 "“그런 염치 없는 이야기, 했을 리가 없잖아요.”"
     voice "voices/gf8.ogg"
-    소녀 "“我怎么可能说出这么羞耻的话啊。”"
+    소녀 "“这么羞耻的话，我怎么可能说出口啊。”"
 
 # game/chapter6.rpy:1820
 translate chinese ecg13_label_07a1da57:
@@ -4982,7 +4982,7 @@ translate chinese ecg13_label_07a1da57:
     # voice ""
     # 나 "“하지만 텔레파시처럼 들렸는걸. 네 목소리가…….”"
     voice ""
-    나 "“但听起来像心灵感应一样。明明你的声音……”"
+    나 "“但听起来像心灵感应一样。你的声音……”"
 
 # game/chapter6.rpy:1823
 translate chinese ecg13_label_6f2e62ee:
@@ -6164,7 +6164,7 @@ translate chinese ecg13_label_041a4cc9:
 translate chinese ecg13_label_27af8a57:
 
     # "그러고는 잘 가라는 인사를 건네려다 말고, 잠시 행동을 멈춘 채 유미의 얼굴을 응시했다. "
-    "然后，本想向优美道别。但我却犹豫了一下。"
+    "然后，本想向优美道别。但我却犹豫了一下，只是凝视着她的脸。"
 
 # game/chapter6.rpy:2206
 translate chinese ecg13_label_d6ba7654:
@@ -6218,13 +6218,13 @@ translate chinese ecg14_label_e9f725dd:
     # voice ""
     # "출입문이 닫히고, 나는 사라져가는 호버크라프트를 소녀를 업은 채 모습이 보이지 않을 때까지 바라보았다. "
     voice ""
-    "门关上了，我背着少女，目送气垫船离开。"
+    "出入门关上了，背着少女的我看着逐渐消失的气垫船，直至她的身影在我的视线里消失。"
 
 # game/chapter6.rpy:2236
 translate chinese ecg14_label_e42bae34:
 
     # "집으로 돌아가는 길. "
-    "回家的路。"
+    "走在回家的路上。"
 
 # game/chapter6.rpy:2237
 translate chinese ecg14_label_35527011:
@@ -6312,7 +6312,7 @@ translate chinese ecg14_label_74cbc564:
 translate chinese ecg14_label_5f4d3435:
 
     # "허밍을 하다 말고 위화감을 느끼고선 뒤를 돌아보았을 땐, 언제부턴가 눈을 동그랗게 뜨고 있던 소녀가 나를 빤히 바라보고 있었다. "
-    "在哼唱的过程中，感受到了违和感，回头一看，不知从何时起，少女睁开了眼睛盯着我。"
+    "在哼唱的过程中，感受到了违和感。回头一看，不知从何时起，少女睁开了眼睛盯着我。"
 
 # game/chapter6.rpy:2271
 translate chinese ecg14_label_19d4e899:
@@ -7806,7 +7806,7 @@ translate chinese ecg14_label_ca115794:
     # voice ""
     # 나 "“너를 불행하게 내버려 둔 채 돌아갈 수는 없는걸.”"
     voice ""
-    나 "“我不能回去，抛下不幸的你。”"
+    나 "“我不能这样回去，抛下不幸的你。”"
 
 # game/chapter6.rpy:2789
 translate chinese ecg14_label_a179b0e4:
