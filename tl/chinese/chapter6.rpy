@@ -1816,13 +1816,13 @@ translate chinese ecg12_label_0699c602:
 translate chinese ecg12_label_544405c4:
 
     # "사뿐사뿐 걸음을 옮기는 유미를 따라 창가 좌석에 자리를 잡고선, 메뉴판을 훑어보기 시작했다. "
-    "优美轻快地移动脚步，我紧跟其后，坐在窗边的座位上，开始浏览菜单。"
+    "优美轻飘飘地移动脚步，我紧跟其后，在靠窗的位置坐下，开始翻阅菜单。"
 
 # game/chapter6.rpy:725
 translate chinese ecg12_label_04407278:
 
     # 나 "“여긴 뭐가 맛있어?”"
-    나 "“这里有什么好吃的？”"
+    나 "“这有什么好吃的？”"
 
 # game/chapter6.rpy:727
 translate chinese ecg12_label_c5d93642:
@@ -1830,7 +1830,7 @@ translate chinese ecg12_label_c5d93642:
     # voice "voices/yf33.ogg"
     # 유미 "“난 이거 좋아하는데, 요것도 맛있고, 이것도 맛있어.”"
     voice "voices/yf33.ogg"
-    유미 "“我喜欢这个、这个、这个也好吃，这个也好吃。”"
+    유미 "“我喜欢这个、不过这个也很好吃，这个也是。”"
 
 # game/chapter6.rpy:729
 translate chinese ecg12_label_cba054ce:
@@ -1850,7 +1850,7 @@ translate chinese ecg12_label_6e485412:
 translate chinese ecg12_label_7ed96ba3:
 
     # "고개를 들어 바라본 곳에서는, 유미가 호기심 어린 눈빛으로 옆에 얌전히 놓여있던 와인잔을 만지작대는 중이었다. "
-    "优美好奇地抚摸着旁边静静放着的酒杯。"
+    "循着声音抬起头望去，只见优美好奇地抚摸着旁边静静放着的酒杯。"
 
 # game/chapter6.rpy:737
 translate chinese ecg12_label_9fda500b:
@@ -1866,7 +1866,7 @@ translate chinese ecg12_label_cebcfce8:
     # voice ""
     # 나 "“…… 갑자기 웬 와인이야.”"
     voice ""
-    나 "“……突然什么喝葡萄酒啊。”"
+    나 "“……突然喝什么葡萄酒啊。”"
 
 # game/chapter6.rpy:742
 translate chinese ecg12_label_ffeb4971:
@@ -1874,7 +1874,7 @@ translate chinese ecg12_label_ffeb4971:
     # voice "voices/yf35.ogg"
     # 유미 "“왜, 분위기도 좋은데.”"
     voice "voices/yf35.ogg"
-    유미 "“怎么了？气氛也很好啊。”"
+    유미 "“怎么，气氛也很合适啊。”"
 
 # game/chapter6.rpy:745
 translate chinese ecg12_label_7bd33073:
@@ -1888,7 +1888,7 @@ translate chinese ecg12_label_7bd33073:
 translate chinese ecg12_label_9115a36f:
 
     # "그렇다면 목적과는 동떨어져도 너무 동떨어진 어린애같은 웃음을 지은 채, 유미는 내게서 메뉴판을 뺏아 들었다. "
-    "那么，即使与目的相去甚远，带着孩子般的笑容，优美从我这里抢走了菜单。"
+    "那么，即使与目的相去甚远，但优美脸上还是露出了与成年人的笑容相去甚远的孩子般的笑容，从我这里抢走了菜单。"
 
 # game/chapter6.rpy:751
 translate chinese ecg12_label_ca3aea4e:
@@ -1904,7 +1904,7 @@ translate chinese ecg12_label_6ff9d83d:
     # voice ""
     # 나 "“어차피 시키지도 못하는 것들이잖아.”"
     voice ""
-    나 "“反正都是点不到的东西。”"
+    나 "“反正都是不能点的东西。”"
 
 # game/chapter6.rpy:756
 translate chinese ecg12_label_a2a70197:
@@ -1926,7 +1926,7 @@ translate chinese ecg12_label_0231481c:
 translate chinese ecg12_label_3b165d8b:
 
     # "곁눈질로 눈치를 주듯, 나는 유미의 교복을 바라보았다. "
-    "侧目而视，我打量优美的校服。"
+    "使了个眼色，我打量着优美的校服。"
 
 # game/chapter6.rpy:762
 translate chinese ecg12_label_61cbee24:
@@ -1988,7 +1988,7 @@ translate chinese ecg12_label_fdfac50f:
     # voice "voices/yf41.ogg"
     # 유미 "“휴, 다행히 여기 말소리는 안 들리는 모양이다.”"
     voice "voices/yf41.ogg"
-    유미 "“呼，幸好听不到这里。”"
+    유미 "“呼，幸好这里听不到。”"
 
 # game/chapter6.rpy:786
 translate chinese ecg12_label_a6e4355c:
@@ -2072,7 +2072,7 @@ translate chinese ecg12_label_020bb8f2:
 translate chinese ecg12_label_18d64563:
 
     # 나 "“저기요―――”"
-    나 "“嘿——”"
+    나 "“哎——”"
 
 # game/chapter6.rpy:819
 translate chinese ecg12_label_5bb151cf:
@@ -2126,7 +2126,7 @@ translate chinese ecg12_label_da5c7182:
     # voice "voices/yf47.ogg"
     # 유미 "“뭐야아아…… 재미없게.”"
     voice "voices/yf47.ogg"
-    유미 "“什么啊啊啊……没意思……”"
+    유미 "“什么啊啊……没意思……”"
 
 # game/chapter6.rpy:838
 translate chinese ecg12_label_53726fc7:
@@ -2144,7 +2144,7 @@ translate chinese ecg12_label_08921cb3:
 translate chinese ecg12_label_aba800a7:
 
     # "마냥 뾰루퉁한 표정으로 나를 바라보고 있었지만, 조명에 비치는 유미의 얼굴에서는 알게 모르게 피로감이 잔뜩 느껴졌다. "
-    "虽然以气鼓鼓的表情看着我，但是在灯光下却分明显现出疲劳。"
+    "虽然以气鼓鼓的表情看着我，但是在灯光下优美的脸上却不知不觉中浮现出疲劳。"
 
 # game/chapter6.rpy:845
 translate chinese ecg12_label_81a63477:
@@ -2156,7 +2156,7 @@ translate chinese ecg12_label_81a63477:
 translate chinese ecg12_label_dcc2546d:
 
     # 나 "“피곤해보이네.”"
-    나 "“看起来好累啊。”"
+    나 "“看起来很累啊。”"
 
 # game/chapter6.rpy:851
 translate chinese ecg12_label_6676b662:
@@ -2164,7 +2164,7 @@ translate chinese ecg12_label_6676b662:
     # voice "voices/yf48.ogg"
     # 유미 "“어라, 그렇게 보여?”"
     voice "voices/yf48.ogg"
-    유미 "“哦，看起来是那样吗？”"
+    유미 "“哎呀，看起来吗？”"
 
 # game/chapter6.rpy:853
 translate chinese ecg12_label_3da1ef9a:
@@ -2208,7 +2208,7 @@ translate chinese ecg12_label_f6b6514a:
     # voice "voices/yf50.ogg"
     # 유미 "“아하핫, 괜찮아, 괜찮아.”"
     voice "voices/yf50.ogg"
-    유미 "“啊哈哈没关系没关系。”"
+    유미 "“啊哈哈，没关系，没关系。”"
 
 # game/chapter6.rpy:873
 translate chinese ecg12_label_f008eb6f:
@@ -2240,7 +2240,7 @@ translate chinese ecg12_label_ffaf9cb7:
 translate chinese ecg12_label_fd671741:
 
     # "그다지 주의 깊게 바라보지 않은 야경이었지만, 밝다는 인상이나 반짝인다는 느낌은 분명히 내게 전해진 듯했다. "
-    "虽然没仔细看夜景，但明亮的印象和闪耀的感觉分明传达给了我。"
+    "虽然没仔细看夜景，但明亮的印象和闪耀的感觉分明传达到了我这一边。"
 
 # game/chapter6.rpy:885
 translate chinese ecg12_label_b61b12ab:
@@ -2290,13 +2290,13 @@ translate chinese ecg12_label_aa9fd196:
 translate chinese ecg12_label_66ad4b5a:
 
     # "그 날, E구역에서 보았던 그 별빛을. "
-    "那天在E区看到的星光。"
+    "那天，在E区看到的星光。"
 
 # game/chapter6.rpy:903
 translate chinese ecg12_label_e998ff67:
 
     # "언젠가 유미에게 보여줄 날이 올지도 모르니까. "
-    "总有一天会给优美看的。"
+    "说不定有一天会给优美看的。"
 
 # game/chapter6.rpy:911
 translate chinese ecg12_label_9983f9b0:
@@ -2340,7 +2340,7 @@ translate chinese ecg12_label_2e0390cd:
     # voice ""
     # "와인잔에는 천천히 자색 액체가 꼴꼴대는 소리를 내며 부어져가고 있었다. "
     voice ""
-    "葡萄酒杯里慢慢注入了紫色液体，发出咕噜咕噜声，逐渐浮起。"
+    "葡萄酒杯里慢慢地注满了紫色的液体，发出咕嘟咕嘟的声音。"
 
 # game/chapter6.rpy:927
 translate chinese ecg12_label_6f41bd8c:
@@ -5488,13 +5488,13 @@ translate chinese ecg13_label_66d1475f:
     # voice ""
     # 나 "“…… 좋아해. 너를.”"
     voice ""
-    나 "“……我喜欢你。”"
+    나 "“……我喜欢，你。”"
 
 # game/chapter6.rpy:1984
 translate chinese ecg13_label_147e2504:
 
     # "라고, 말이다. "
-    "是这么说的。"
+    "这么，说的话。"
 
 # game/chapter6.rpy:1986
 translate chinese ecg13_label_08b2f67c:
@@ -5540,7 +5540,7 @@ translate chinese ecg13_label_2dc0808d:
 translate chinese ecg13_label_319c2c5c:
 
     # 나 "“좋아해, 너를. 정말로.”"
-    나 "“我喜欢你。真的。”"
+    나 "“我喜欢，你。真的。”"
 
 # game/chapter6.rpy:1998
 translate chinese ecg13_label_acbfdb9f:
@@ -5568,7 +5568,7 @@ translate chinese ecg13_label_42eccad4:
 translate chinese ecg13_label_e4bf1f28:
 
     # "너무 늦지 않았던 거라면 좋겠는데. "
-    "要是早一点就好了。"
+    "希望没有太晚。"
 
 # game/chapter6.rpy:2005
 translate chinese ecg13_label_9eb9877e:
@@ -5616,7 +5616,7 @@ translate chinese ecg13_label_17dc0823:
     # voice "voices/gf26.ogg"
     # 소녀 "“바보같은 이야기는 그만 두세요―――”"
     voice "voices/gf26.ogg"
-    소녀 "“不要再说傻话了。”"
+    소녀 "“不要再说傻话了————”"
 
 # game/chapter6.rpy:2020
 translate chinese ecg13_label_c41cdb04:
@@ -5624,7 +5624,7 @@ translate chinese ecg13_label_c41cdb04:
     # voice ""
     # "본래라면 거절을 나타내야 할 그 한 마디는, 때늦은 철 떨어지는 여린 봄꽃처럼, 힘없이 나풀거렸다. "
     voice ""
-    "本应表示拒绝的那句话，却如晚秋凋零的春花一般，无力地飘扬。"
+    "本应表示拒绝的那句话，却如晚秋凋零的春花一般，无力地飘扬着。"
 
 # game/chapter6.rpy:2024
 translate chinese ecg13_label_4ec43dc6:
@@ -5654,7 +5654,7 @@ translate chinese ecg13_label_8dd817a1:
     # voice "voices/gf28.ogg"
     # 소녀 "“그렇게 되면, 저도 붙잡고 싶어져 버리잖아요…….”"
     voice "voices/gf28.ogg"
-    소녀 "“不那样的话，我也想紧握住你……”"
+    소녀 "“不那样的话，我也想紧抱住你……”"
 
 # game/chapter6.rpy:2034
 translate chinese ecg13_label_8eb1f729:
@@ -5668,13 +5668,13 @@ translate chinese ecg13_label_8eb1f729:
 translate chinese ecg13_label_fc85c600:
 
     # "내가 할 수 있는 일이라고는 한 가지 정도뿐이라는 걸, 나도 잘 알고 있다. "
-    "我也很清楚我能做的只有一件事。"
+    "我也很清楚，我能做的只有一件事。"
 
 # game/chapter6.rpy:2037
 translate chinese ecg13_label_ab3c27f0:
 
     # "멍하니 나를 바라보고만 있던 소녀에게, 나는 손을 내밀었다. "
-    "我向茫然地望着我的少女伸出了手。"
+    "向茫然地望着我的少女，伸出了我的手。"
 
 # game/chapter6.rpy:2038
 translate chinese ecg13_label_db3f2d87:
@@ -5706,7 +5706,7 @@ translate chinese ecg13_label_07be8981:
     # voice ""
     # "그런 소녀의 손을, 나는 살며시 어루만져주었다. "
     voice ""
-    "我轻轻地抚摸着少女的手。"
+    "我轻轻地抚摸着，那少女的手。"
 
 # game/chapter6.rpy:2054
 translate chinese ecg13_label_7729dd75:
@@ -5766,7 +5766,7 @@ translate chinese ecg13_label_57443a68:
     # voice "voices/yf131.ogg"
     # 유미 "“그 유령 여자애가 뭐래? 같이 돌아간대?”"
     voice "voices/yf131.ogg"
-    유미 "“那个幽灵少女说了什么？要一起回去吗？”"
+    유미 "“那个幽灵女孩说了什么？要一起回去吗？”"
 
 # game/chapter6.rpy:2074
 translate chinese ecg13_label_e27cb895:
@@ -5788,7 +5788,7 @@ translate chinese ecg13_label_dcdda40d:
     # voice "voices/yf132.ogg"
     # 유미 "“그럼, 조금만 더 있다 가자.”"
     voice "voices/yf132.ogg"
-    유미 "“那么，再过一会儿再走吧。”"
+    유미 "“那么，待一会儿再走吧。”"
 
 # game/chapter6.rpy:2080
 translate chinese ecg13_label_038fef28:
@@ -5796,7 +5796,7 @@ translate chinese ecg13_label_038fef28:
     # voice ""
     # "여전히 허공을 껴안은 채로 보였을 내게, 유미가 말했다. "
     voice ""
-    "优美对仍然拥抱虚空的我说。"
+    "对看起来仍然拥抱虚空的我，优美说。"
 
 # game/chapter6.rpy:2083
 translate chinese ecg13_label_4fb2910c:
@@ -5804,7 +5804,7 @@ translate chinese ecg13_label_4fb2910c:
     # voice "voices/yf133.ogg"
     # 유미 "“여기 별, 되게 예쁘단 말이야.”"
     voice "voices/yf133.ogg"
-    유미 "“这里的星星真的很漂亮。”"
+    유미 "“这里的星星，真的很漂亮。”"
 
 # game/chapter6.rpy:2086
 translate chinese ecg13_label_9c0610cd:
@@ -5828,7 +5828,7 @@ translate chinese ecg13_label_5e1a2d6b:
     # voice ""
     # "어딘가 아련한 눈빛으로 별빛을 응시하는 소녀의 모습에서, 묘한 쓸쓸함이 느껴졌다. "
     voice ""
-    "少女用朦胧的眼睛凝视着星光，从中可以感受到微妙的孤独感。"
+    "看着少女用朦胧的眼睛凝视着星光，一种微妙的孤独感油然而生。"
 
 # game/chapter6.rpy:2093
 translate chinese ecg13_label_bb94b03e:
@@ -5840,7 +5840,7 @@ translate chinese ecg13_label_bb94b03e:
 translate chinese ecg13_label_f5192ef1:
 
     # "돌아갈 수 있을까. "
-    "能回到过去吗。"
+    "能恢复吗。"
 
 # game/chapter6.rpy:2095
 translate chinese ecg13_label_d54daeff:
@@ -5858,7 +5858,7 @@ translate chinese ecg13_label_ad527c70:
 translate chinese ecg13_label_951e67f2:
 
     # "F구역에 도착해 호버크라프트를 잡아타고선 집으로 돌아오는 길. "
-    "到达F区，在乘上气垫船回家的路上。"
+    "到达F区后，我们乘上气垫船，走在回家的路上。"
 
 # game/chapter6.rpy:2103
 translate chinese ecg13_label_be994f0c:
@@ -5872,7 +5872,7 @@ translate chinese ecg13_label_e322f30e:
     # voice "voices/yf134.ogg"
     # 유미 "“그 유령 여자애랑은 더 이야기 안 해?”"
     voice "voices/yf134.ogg"
-    유미 "“不跟那个幽灵少女再谈谈吗？”"
+    유미 "“不跟那个幽灵女孩再谈谈吗？”"
 
 # game/chapter6.rpy:2109
 translate chinese ecg13_label_26637d61:
