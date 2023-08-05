@@ -7003,13 +7003,13 @@ translate chinese chapter7_5786bbb9:
 translate chinese ecg15_label_c081a9b1:
 
     # "옥상 문은 뭔가 김샌다는 느낌이 들 정도로 활짝 열린 채 나를 기다리고 있었다. "
-    "屋顶的门大开着，觉得有点泄气。"
+    "屋顶的门大开着，好像满怀期待地迎接着我。"
 
 # game/chapter7.rpy:3034
 translate chinese ecg15_label_720540f1:
 
     # "그곳에 발을 내딛자, 가장 먼저 익숙한 바람이 불어와 나를 반겼다. "
-    "一踏上那里，首先吹来的是熟悉的风。"
+    "一踏上那里，首先拥抱我的是熟悉的微风。"
 
 # game/chapter7.rpy:3035
 translate chinese ecg15_label_de80ae72:
@@ -7045,7 +7045,7 @@ translate chinese ecg15_label_4d303124:
 translate chinese ecg15_label_36883516:
 
     # "손에 무언가를 들고서 나를 빤히 바라보는 현지, 그리고 그 옆에 기대어 서 있는 유미. "
-    "手里拿着什么东西，盯着我的贤智，还有靠在旁边的优美。"
+    "手里拿着什么东西盯着我的贤智，还有靠在旁边的优美。"
 
 # game/chapter7.rpy:3049
 translate chinese ecg15_label_4a87fb0e:
@@ -7069,7 +7069,7 @@ translate chinese ecg15_label_1fb7556e:
 translate chinese ecg15_label_c2c76e57:
 
     # "대화의 요령이 부족한 건 현지도 마찬가지였을까. "
-    "贤智也一样缺乏对话技巧吗？"
+    "贤智也一样缺乏对话技巧吗。"
 
 # game/chapter7.rpy:3062
 translate chinese ecg15_label_9a404bc9:
@@ -7080,7 +7080,7 @@ translate chinese ecg15_label_9a404bc9:
 # game/chapter7.rpy:3064
 translate chinese ecg15_label_bc4d0594:
 
-    # 나 "“谢谢。”"
+    # 나 "“고마워.”"
     나 "“谢谢。”"
 
 # game/chapter7.rpy:3066
@@ -7145,7 +7145,7 @@ translate chinese ecg15_label_ebc0cf15:
     # voice "voices/hg54.ogg"
     # 현지 "“선배가 가면 이제 저한테 밥 사줄 사람도 안 남는 거잖아요. 같이 카페에서 이야기할 사람도, 제 시시한 이야기 들어줄 사람도…….”"
     voice "voices/hg54.ogg"
-    현지 "“前辈走了，连请我吃饭的人都没有了。没有可以一起在咖啡馆聊天的人，没有可以听我讲无聊的故事的人……”"
+    현지 "“前辈走了，连请我吃饭的人都没有了。不再有可以一起在咖啡馆聊天的人，不再有可以听我讲无聊的话的人……”"
 
 # game/chapter7.rpy:3104
 translate chinese ecg15_label_d20e61d8:
@@ -7211,7 +7211,7 @@ translate chinese ecg15_label_21a8c4ca:
     # voice ""
     # 나 "“잠깐만, 시간이 좀 필요할 것 같아.”"
     voice ""
-    나 "“等一下，我想我们需要点时间。”"
+    나 "“等一下，感觉还要等一会。”"
 
 # game/chapter7.rpy:3141
 translate chinese ecg15_label_471c9ec1:
@@ -7595,7 +7595,7 @@ translate chinese chapter7_1_c0dc6cc7:
 translate chinese chapter7_1_492e674f:
 
     # "밤하늘을 가득 메운 그 꽃잎들은, 여름의 끝을 수놓는다. "
-    "填满夜空的花瓣，点缀着夏末。"
+    "那填满夜空的花瓣，点缀着夏末。"
 
 # game/chapter7.rpy:3377
 translate chinese chapter7_1_31c63582:
@@ -7625,7 +7625,7 @@ translate chinese chapter7_1_07d48088:
 translate chinese chapter7_1_9570b594:
 
     # "붉은빛이 새어 나왔다. "
-    "露出红色的光芒。"
+    "渗出红色的光芒。"
 
 # game/chapter7.rpy:3387
 translate chinese chapter7_1_8c3afea0:
@@ -7637,7 +7637,7 @@ translate chinese chapter7_1_8c3afea0:
 translate chinese chapter7_1_0338f785:
 
     # "빛의 사그라듦을 신호로 몸이 떠오르는 것 같은 느낌이 들었다. "
-    "我的身体好像在上升，光芒逐渐消退了。"
+    "光芒逐渐消退了的时候，我感觉身体好像浮起来了。"
 
 # game/chapter7.rpy:3389
 translate chinese chapter7_1_73741a81:
