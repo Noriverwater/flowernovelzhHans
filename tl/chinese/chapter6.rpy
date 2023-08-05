@@ -5894,7 +5894,7 @@ translate chinese ecg13_label_8a0239e2:
     # voice "voices/yf135.ogg"
     # 유미 "“이제 돌아가선 어떡하려고?”"
     voice "voices/yf135.ogg"
-    유미 "“现在回去后该怎么办？”"
+    유미 "“那么回去后该怎么办？”"
 
 # game/chapter6.rpy:2116
 translate chinese ecg13_label_dcdb0a21:
@@ -5902,7 +5902,7 @@ translate chinese ecg13_label_dcdb0a21:
     # voice ""
     # 나 "“다시 알아봐야지. 이 유령 여자애에 대해서.”"
     voice ""
-    나 "“应该要重新调查一下。关于这个幽灵少女的事。”"
+    나 "“应该要重新调查一下。关于这个幽灵女孩的事。”"
 
 # game/chapter6.rpy:2119
 translate chinese ecg13_label_32c3e3c4:
@@ -5910,7 +5910,7 @@ translate chinese ecg13_label_32c3e3c4:
     # voice "voices/yf136.ogg"
     # 유미 "“괜찮겠어? 그 유령 여자애, 사람을 죽였다며.”"
     voice "voices/yf136.ogg"
-    유미 "“没关系吗？那个幽灵少女说自己杀了人。”"
+    유미 "“没关系吗？那个幽灵少女，说自己杀了人。”"
 
 # game/chapter6.rpy:2121
 translate chinese ecg13_label_3e28369b:
@@ -5918,7 +5918,7 @@ translate chinese ecg13_label_3e28369b:
     # voice ""
     # 나 "“분명 뭔가 이유가 있을 거야. 그런 기억을 갖게 된 이유가.”"
     voice ""
-    나 "“她之所以会有这样的记忆，肯定有什么理由。”"
+    나 "肯定有什么理由。她之所以会有这样的记忆的理由。”"
 
 # game/chapter6.rpy:2124
 translate chinese ecg13_label_1e6213b6:
@@ -5926,7 +5926,7 @@ translate chinese ecg13_label_1e6213b6:
     # voice "voices/yf137.ogg"
     # 유미 "“다시 알아본다는 건, 계획은 있는 거고?”"
     voice "voices/yf137.ogg"
-    유미 "“有什么计划吗？”"
+    유미 "“有计划，再去调查一下吗？”"
 
 # game/chapter6.rpy:2126
 translate chinese ecg13_label_59840bba:
@@ -5934,7 +5934,7 @@ translate chinese ecg13_label_59840bba:
     # voice ""
     # 나 "“…… 놓친 게 있을 거야.”"
     voice ""
-    나 "“……感觉肯定放跑了。”"
+    나 "“……感觉肯定忽视了。”"
 
 # game/chapter6.rpy:2129
 translate chinese ecg13_label_9ff747cf:
@@ -5942,7 +5942,7 @@ translate chinese ecg13_label_9ff747cf:
     # voice "voices/yf138.ogg"
     # 유미 "“놓친 거?”"
     voice "voices/yf138.ogg"
-    유미 "“放跑了？”"
+    유미 "“忽视了？”"
 
 # game/chapter6.rpy:2131
 translate chinese ecg13_label_ef25539e:
@@ -5950,7 +5950,7 @@ translate chinese ecg13_label_ef25539e:
     # voice ""
     # 나 "“잘은 모르겠지만…… 그럴 거라는 생각이 들어.”"
     voice ""
-    나 "“虽然不太清楚……会有这样的想法。”"
+    나 "“虽然不太清楚……但觉得会是那样。”"
 
 # game/chapter6.rpy:2134
 translate chinese ecg13_label_ec14303c:
@@ -5958,7 +5958,7 @@ translate chinese ecg13_label_ec14303c:
     # voice "voices/yf139.ogg"
     # 유미 "“참, 대책 없는 건 여전하네.”"
     voice "voices/yf139.ogg"
-    유미 "“哦，还是没有对策啊。”"
+    유미 "“唉，还是没有对策啊。”"
 
 # game/chapter6.rpy:2137
 translate chinese ecg13_label_5d3f6a56:
@@ -5966,7 +5966,7 @@ translate chinese ecg13_label_5d3f6a56:
     # voice ""
     # "걱정스러운 표정을 지어 보이는 유미였지만, 나를 말릴 생각은 없어 보였다."
     voice ""
-    "虽然看起来很担心，但看起来并没有想阻止我。"
+    "虽然优美看起来很担心，但看起来并没有想阻止我。"
 
 # game/chapter6.rpy:2140
 translate chinese ecg13_label_367f61d9:
@@ -6010,7 +6010,7 @@ translate chinese ecg13_label_e9445dd0:
     # voice ""
     # 나 "“그거야, 중요한 일이라거나…….”"
     voice ""
-    나 "“呃，珍贵的事情……”"
+    나 "“那应该，是重要的事情……”"
 
 # game/chapter6.rpy:2154
 translate chinese ecg13_label_883879b5:
@@ -6018,7 +6018,7 @@ translate chinese ecg13_label_883879b5:
     # voice "voices/yf142.ogg"
     # 유미 "“난 나에게 가장 소중한 건 항상 곁에 있어서 익숙해진 일이라고 생각하거든.”"
     voice "voices/yf142.ogg"
-    유미 "“我觉得对我来说，最珍贵的事是总是在我身边，而成为习惯的事情。”"
+    유미 "“我觉得对我来说，最珍贵的事是总是在我身边，已经习惯了的事情。”"
 
 # game/chapter6.rpy:2156
 translate chinese ecg13_label_de750dfe:
@@ -6038,7 +6038,7 @@ translate chinese ecg13_label_a466fb99:
 translate chinese ecg13_label_4dc0d08c:
 
     # "파편처럼 흩어진 생각들을 정리할 시간이 필요했다. "
-    "需要时间来整理像碎片一样分散的思绪。"
+    "需要时间来整理像破片一样分散的思绪。"
 
 # game/chapter6.rpy:2164
 translate chinese ecg13_label_364e70a0:
@@ -6100,19 +6100,19 @@ translate chinese ecg13_label_5c28dceb:
 translate chinese ecg13_label_2264c849:
 
     # "망자로 만난 엇나간 인연의 두 사람이 목소리로 연결되어 있는 건. "
-    "作为亡者背离相遇的两个有缘人通过声音连接在一起。"
+    "为什么作为亡者不该有缘分相遇的两个人，却通过声音连接在了一起。"
 
 # game/chapter6.rpy:2181
 translate chinese ecg13_label_3bd046eb:
 
     # "단순한 착각이라 치부하기엔 너무나도 따스하게 들려온 소녀의 목소리가 이번에도 머릿속을 빙글빙글 맴돌았다. "
-    "少女那温暖的声音，让人难以相信这只是单纯的错觉，这次也在脑海中盘旋。"
+    "少女那温暖的声音，让我难以相信这只是单纯的错觉，这次也在脑海中盘旋。"
 
 # game/chapter6.rpy:2182
 translate chinese ecg13_label_275069e6:
 
     # "긴 아치교를 지나, 익숙한 사거리에 도착할 때까지도 말이다. "
-    "穿过长长的拱桥，直到到达熟悉的十字路口为止。"
+    "穿过长长的拱桥，直到到达熟悉的十字路口才停下来。"
 
 # game/chapter6.rpy:2187
 translate chinese ecg13_label_ed55a362:
@@ -6130,7 +6130,7 @@ translate chinese ecg13_label_6af199ec:
 translate chinese ecg13_label_afd23e2a:
 
     # "여전히 새근새근 잠들어 있는 소녀를 흔들어 깨워보려 했지만, 소녀는 힘없이 시트에 몸을 맡길 뿐 잠에서 깨어날 기미가 보이지 않았다. "
-    "试图把仍然睡着的少女摇醒，但少女却无力地倒在座椅上，没有睡醒的迹象。"
+    "我试图把仍然睡着的少女摇醒，但少女却无力地倒在座椅上，丝毫没有睡醒的迹象。"
 
 # game/chapter6.rpy:2192
 translate chinese ecg13_label_1614a9b9:
@@ -6158,7 +6158,7 @@ translate chinese ecg13_label_f9de1a4e:
 translate chinese ecg13_label_041a4cc9:
 
     # "유미의 말에 손사래를 친 나는 미동조차 하지 않는 소녀를 조심스레 업어 들었다. "
-    "听了优美的话向她摆手，我小心翼翼地把熟睡的少女背在肩上。"
+    "听了优美的话，我挥了挥手，小心翼翼地把熟睡的少女背在肩上。"
 
 # game/chapter6.rpy:2202
 translate chinese ecg13_label_27af8a57:
@@ -6520,7 +6520,7 @@ translate chinese ecg14_label_598f19e4:
     # voice "voices/gf41.ogg"
     # 소녀 "“사람을 죽였다거나, 하는 거 말이에요.”"
     voice "voices/gf41.ogg"
-    소녀 "“比如说杀了人之类的。”"
+    소녀 "“比如说，杀了人之类的。”"
 
 # game/chapter6.rpy:2342
 translate chinese ecg14_label_37bd1014:
@@ -6528,7 +6528,7 @@ translate chinese ecg14_label_37bd1014:
     # voice ""
     # 나 "“…… 그런 농담, 재미없거든.”"
     voice ""
-    나 "“……那种玩笑没意思。”"
+    나 "“……那个玩笑，没意思。”"
 
 # game/chapter6.rpy:2345
 translate chinese ecg14_label_b994beb4:
@@ -6536,7 +6536,7 @@ translate chinese ecg14_label_b994beb4:
     # voice "voices/gf42.ogg"
     # 소녀 "“그런가요.”"
     voice "voices/gf42.ogg"
-    소녀 "“是吗？”"
+    소녀 "“是吗。”"
 
 # game/chapter6.rpy:2347
 translate chinese ecg14_label_44de1613:
@@ -6560,7 +6560,7 @@ translate chinese ecg14_label_0449391a:
     # voice ""
     # 나 "“이야기할 틈이 없었던 거야. 딱히 이야기하지 않아도 괜찮을 거라 생각했었으니까.”"
     voice ""
-    나 "“没时间说。我以为不说也没关系。”"
+    나 "“没机会说。我觉得不说也没关系。”"
 
 # game/chapter6.rpy:2354
 translate chinese ecg14_label_e2ca3784:
@@ -6704,7 +6704,7 @@ translate chinese ecg14_label_bf1a144e:
     # voice ""
     # 나 "“글쎄…… 그건 아직도 잘 모르겠어. 그렇지만 그 목소리들이, 분명 너와 연결되어 있었다고 한다면. 이것도 믿어줄 수 있을까?”"
     voice ""
-    나 "“这个嘛……还不太清楚。但是如果说那些声音和你连在一起的话，这个你也相信吗？”"
+    나 "“这个嘛……还不太清楚。但是如果说那些声音和你连在一起的话，这个你也能相信吗？”"
 
 # game/chapter6.rpy:2396
 translate chinese ecg14_label_aa01f1ab:
@@ -6932,7 +6932,7 @@ translate chinese ecg14_label_8a864519:
     # voice "voices/gf57.ogg"
     # 소녀 "“저는 어쩌면 당신이 생각하는 것보다 기대 이하의 사람이었던 걸지도 몰라요.”"
     voice "voices/gf57.ogg"
-    소녀 "“我可能没你想象的那么好。”"
+    소녀 "“我可能没有你所期望的的那么好。”"
 
 # game/chapter6.rpy:2468
 translate chinese ecg14_label_323c8b12:
