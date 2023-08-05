@@ -7126,7 +7126,7 @@ translate chinese ecg14_label_9b1e8774:
     # voice "voices/gf68.ogg"
     # 소녀 "“그리고 저는 그날부터, 그런 제 모습을 드러내기 무서워서 도망쳐버린 거고요.”"
     voice "voices/gf68.ogg"
-    소녀 "“而且从那天起，就害怕露出我那样的样子，所以逃跑了。”"
+    소녀 "“从那天起，我就开始逃避，因为我害怕暴露自己的这一面。”"
 
 # game/chapter6.rpy:2535
 translate chinese ecg14_label_60be048e:
@@ -7142,7 +7142,7 @@ translate chinese ecg14_label_00c53602:
     # voice "voices/gf69.ogg"
     # 소녀 "“무의식중에 드러난 진심이었어요.”"
     voice "voices/gf69.ogg"
-    소녀 "“这是我不经意间流露出来的真实想法。”"
+    소녀 "“这是我无意识中流露出的真心。”"
 
 # game/chapter6.rpy:2540
 translate chinese ecg14_label_0dd58b7f:
@@ -7172,7 +7172,7 @@ translate chinese ecg14_label_f4ae74cd:
 translate chinese ecg14_label_1eb82fe4:
 
     # "따뜻하다는 단어를 떠올리고 싶었지만, 목덜미는 거짓말을 하지 못했다. "
-    "虽然想起了温暖一词，脖子后面不会说谎。"
+    "虽然想起了温暖一词，但脖子后面不会说谎。"
 
 # game/chapter6.rpy:2553
 translate chinese ecg14_label_117228f4:
@@ -7188,7 +7188,7 @@ translate chinese ecg14_label_fb0a2b60:
     # voice "voices/gf71_2.ogg"
     # 소녀 "“이런 이야기를 해버리면 정말 저를 혐오스러운 시선으로 바라볼까 봐, 겁났던 거예요.”"
     voice "voices/gf71_2.ogg"
-    소녀 "“我真害怕如果说出这样的故事，你会用厌恶的眼神看着我。”"
+    소녀 "“我真害怕如果说出这样的话，你会用厌恶的眼神看着我。”"
 
 # game/chapter6.rpy:2561
 translate chinese ecg14_label_07540860:
@@ -7220,7 +7220,7 @@ translate chinese ecg14_label_fc1ccfe6:
     # voice "voices/gf71_6.ogg"
     # 소녀 "“여태껏 당신이 준 따스함이 너무 기분 좋아서. 그래서 이런 짓을 해 버린 거라고 한다면, 너무 변명 같네요.”"
     voice "voices/gf71_6.ogg"
-    소녀 "“‘一直以来你都给我温暖，我真的很高兴，所以才做了这样的事’，那未免太像狡辩了。”"
+    소녀 "“如果我说，我这样做是因为你给了我温暖，感觉太好了，那未免太像狡辩了。”"
 
 # game/chapter6.rpy:2571
 translate chinese ecg14_label_6ffce39c:
@@ -7228,7 +7228,7 @@ translate chinese ecg14_label_6ffce39c:
     # voice ""
     # 나 "“…… 학교 옥상에서는, 어떤 기억이 났었어?”"
     voice ""
-    나 "“……在学校屋顶想起了什么？”"
+    나 "“……在学校屋顶，想起了什么？”"
 
 # game/chapter6.rpy:2574
 translate chinese ecg14_label_04c8f36c:
@@ -7272,7 +7272,7 @@ translate chinese ecg14_label_fbc34029:
     # voice ""
     # 나 "“…… 그래서, 죽고 싶다는 생각을 옥상에서 했던 거야?”"
     voice ""
-    나 "“……所以在屋顶上想过死吗？”"
+    나 "“……所以，在屋顶上想过死吗？”"
 
 # game/chapter6.rpy:2585
 translate chinese ecg14_label_559d236f:
@@ -7280,7 +7280,7 @@ translate chinese ecg14_label_559d236f:
     # voice "voices/gf74.ogg"
     # 소녀 "“누군가에게, 그곳에서 ‘죽고 싶어’라는 말을 했나 봐요.”"
     voice "voices/gf74.ogg"
-    소녀 "“好像对某人在那里说了‘想死’。”"
+    소녀 "“对某人，好像在那里说了‘想死’。”"
 
 # game/chapter6.rpy:2587
 translate chinese ecg14_label_1fbf0303:
@@ -7294,13 +7294,13 @@ translate chinese ecg14_label_1fbf0303:
 translate chinese ecg14_label_84d9fa4c:
 
     # "무슨 이야기를 꺼내야 할까. "
-    "该说什么呢？"
+    "该说什么呢。"
 
 # game/chapter6.rpy:2591
 translate chinese ecg14_label_eec68830:
 
     # "갈피를 잡지 못하고 현관 앞에 멈춰 서서는 멀뚱히 숨을 죽이고 있는데, 등 뒤에서 중얼대는 소리가 들려왔다. "
-    "我完全摸不着头脑，茫然地停在玄关前。屏住呼吸，从背后传来了小声的嘀咕。"
+    "我完全摸不着头脑，茫然地停在玄关前。屏住呼吸，这时从背后传来了小声的嘀咕。"
 
 # game/chapter6.rpy:2593
 translate chinese ecg14_label_6a411ea6:
@@ -7528,7 +7528,7 @@ translate chinese ecg14_label_8b1256d2:
     # voice ""
     # 나 "“그렇게 급한 일은 아냐. 신경 쓰고 있던 건 다른 일.”"
     voice ""
-    나 "“不急。我在意的是另一件事。”"
+    나 "“那个事不急。我在意的是另一件事。”"
 
 # game/chapter6.rpy:2672
 translate chinese ecg14_label_e02632fb:
