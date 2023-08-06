@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-15 22:43
-
-translate chinese strings:
+﻿translate schinese strings:
 
     # game/screens.rpy:1798
     old "Start Game"
@@ -52,7 +50,7 @@ translate chinese strings:
 
     # game/screens.rpy:2643
     old "빈 슬롯"
-    new "空存档位"
+    new "存档为空"
 
     old "여름의 끝에 피는 꽃"
     new "夏末盛开的花"
@@ -65,6 +63,9 @@ translate chinese strings:
 
     old "복사 (Copy)"
     new "复制 (Copy)"
+    
+    old "이 대사의 장면으로 돌아갈까요?"
+    new "要回到这段台词所在的场景吗？"
     
     # game/screens.rpy:4048
     old "{alpha=0.34}하단의 LOG에서도 지나간 대사를 볼 수 있어요.{/alpha}"
@@ -97,10 +98,20 @@ translate chinese strings:
     old "퀵세이브에는 임의로 저장할 수 없어요!\n대신 1페이지로 넘어갈까요?"
     new "快速存档位不能用于普通存档。\n要跳转到存档的第一页吗？"
 
-    old "정말로 종료할까요?\n{size=30}'유려한 인터페이스'를 적용하려면 종료 후 재시작이 필요합니다.\n종료된 후, 다시 앱을 실행해주세요.{/size}"
-    new "您确定要退出吗？\n{size=30}退出后需要重新启动才能应用该选项。\n退出后，请再次运行游戏。{/size}"
 
-    old "정말로 종료할까요?\n{size=30}'유려한 인터페이스'를 해제하려면 종료 후 재시작이 필요합니다.\n종료된 후, 다시 앱을 실행해주세요.{/size}"
-    new "您确定要退出吗？\n{size=30}退出后需要重新启动才能禁用该选项。\n退出后，请再次运行游戏。{/size}"
+# TODO: Translation updated at 2023-05-04 15:27
 
+translate schinese strings:
+
+    # game/screens.rpy:1813
+    old "PAGE{}"
+    new "PAGE{}"
+
+    # game/screens.rpy:1813
+    old "AUTOSAVE"
+    new "AUTOSAVE"
+
+    # game/screens.rpy:1813
+    old "QUICKSAVE"
+    new "QUICKSAVE"
 

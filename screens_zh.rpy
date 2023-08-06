@@ -1,4 +1,4 @@
-define config.language = "chinese"
+define config.language = "schinese"
         
 screen infoscreen:
     modal True
@@ -10,7 +10,7 @@ screen infoscreen:
         ypos 0
         at windowtrans
         add "gui/staff/infobg.png"
-        if _preferences.language == "chinese":
+        if _preferences.language == "schinese":
             imagebutton idle 'gui/staff/cn_idle.png' hover 'gui/staff/cn_hover.png' action ShowMenu("infocnscreen") xpos 440 ypos 289 xalign 0.0 yalign 0.0
         if renpy.android or renpy.ios:
             window:
@@ -167,7 +167,7 @@ screen licensescreen_1:
         ypos 0
         at windowtrans
         add "gui/license/licensedark2.png"
-        if _preferences.language == "chinese":
+        if _preferences.language == "schinese":
             imagebutton idle 'gui/license/licenselink1.png' hover 'gui/license/licenselink1_.png' xpos 380 ypos 296 action OpenURL("https://www.renpy.org/doc/html/license.html")
         else:
             imagebutton idle 'gui/license/licenselink1.png' hover 'gui/license/licenselink1_.png' xpos 328 ypos 299 action OpenURL("https://www.renpy.org/doc/html/license.html")
@@ -229,7 +229,7 @@ screen licensescreen_2:
             xpos 670
             ypos 275
             spacing -1
-            if _preferences.language == "chinese":
+            if _preferences.language == "schinese":
                 imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/975maru") ]
                 imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
                 imagebutton idle 'gui/license/licensebtn.png' hover 'gui/license/licensebtn_.png' action [ ShowMenu("licensewindow"), SetVariable("load_license", "Fonts/Source Han") ]
