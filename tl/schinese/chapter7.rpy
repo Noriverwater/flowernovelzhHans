@@ -6137,7 +6137,7 @@ translate schinese chapter7_a72264f6:
     # voice ""
     # 나 "“이제 막 생각하려던 참이야. …… 잘 생각 안 난다는 게 문제지만.”"
     voice ""
-    나 "“我正要想呢………问题是想不起来。”"
+    나 "“正要想呢。………问题是想不出来。”"
 
 # game/chapter7.rpy:2643
 translate schinese chapter7_9d07de20:
@@ -6241,7 +6241,7 @@ translate schinese chapter7_8db4f09e:
     # voice ""
     # "소리 내어 웃음 짓는 소녀. "
     voice ""
-    "少女笑了。"
+    "少女大声地笑了。"
 
 # game/chapter7.rpy:2675
 translate schinese chapter7_1412736e:
@@ -6259,7 +6259,7 @@ translate schinese chapter7_7fd64a64:
 translate schinese chapter7_5e33247f:
 
     # "나는 소녀의 손을, 살며시 쓰다듬어 주었다. "
-    "我轻轻地抚摸少女的手。"
+    "我轻轻地抚摸，少女的手。"
 
 # game/chapter7.rpy:2681
 translate schinese chapter7_dba9d734:
@@ -6281,7 +6281,7 @@ translate schinese chapter7_e3c68728:
     # voice ""
     # 나 "“…… 사실, 나도 그래.”"
     voice ""
-    나 "“……其实我也是。”"
+    나 "“……其实，我也是。”"
 
 # game/chapter7.rpy:2693
 translate schinese chapter7_c3847f3c:
