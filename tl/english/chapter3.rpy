@@ -3334,7 +3334,7 @@ translate english chapter3_5c6a64ca:
 translate english chapter3_98b7a76a:
 
     # "의자를 살짝 뒤로 밀고선, 기지개를 켜며 등 뒤의 소녀를 향해 시선을 슬쩍 옮겼다."
-    "Pushing the chair slightly back, he stretched and glanced back at the girl behind him."
+    "Pushing the chair slightly back, I stretched and glanced back at the girl behind me."
 
 # game/chapter3.rpy:1216
 translate english chapter3_3a9bd2d4:
@@ -3352,19 +3352,19 @@ translate english chapter3_c4fd792f:
 translate english chapter3_8083dd9d:
 
     # "꿈에서 본 것이 아니라면, 분명 언젠가, 어디선가 본 적이 있었던 교복이었다."
-    "It was a uniform that he had seen somewhere, sometime, if not in a dream."
+    "It was a uniform that I had seen somewhere, sometime, if not in a dream."
 
 # game/chapter3.rpy:1222
 translate english chapter3_4dfbe845:
 
     # "다만 문제라면 그 언젠가가 언제인지도, 어디선가가 어디에서인지도 명확하게 기억나지 않는다는 것."
-    "The problem was that he couldn't remember clearly when or where he had seen it."
+    "The problem was that I couldn't remember clearly when or where I had seen it."
 
 # game/chapter3.rpy:1224
 translate english chapter3_8d936c55:
 
     # "소녀의 출신 중학교를 알게 된다면 의외로 쉽게 문제 해결의 핵심에 다가갈 수 있을지도 모르겠다고 생각했지만, 소녀가 입고 있는 교복이 어느 중학교의 것인지를 알아내는 건 쉬운 일이 아니었다."
-    "He thought that if he knew the girl's middle school, he might be able to get closer to the core of the problem solving easily, but finding out which middle school the uniform belonged to was not an easy task."
+    "I thought that if I knew the girl's middle school, I might be able to get closer to the core of the problem solving easily, but finding out which middle school the uniform belonged to was not an easy task."
 
 # game/chapter3.rpy:1226
 translate english chapter3_c475737e:
@@ -3376,7 +3376,7 @@ translate english chapter3_c475737e:
 translate english chapter3_5e3361bd:
 
     # "오랫동안 주변 중학교의 웹 페이지를 찾아보았지만, 소녀가 입고 있는 것과 같은 디자인의 교복은 보이지 않았다."
-    "He searched for the web pages of nearby middle schools for a long time, but he couldn't find any uniform with the same design as the one the girl was wearing."
+    "I searched for the web pages of nearby middle schools for a long time, but I couldn't find any uniform with the same design as the one the girl was wearing."
 
 # game/chapter3.rpy:1228
 translate english chapter3_daafcc03:

@@ -3252,7 +3252,7 @@ translate english chapter7_a6b0ad21:
 translate english chapter7_3e44f4b2:
 
     # "난간에 얹은 양팔 속으로 얼굴을 파묻어, 달빛을 등졌다. "
-    "Burying his face in his arms resting on the balustrade, he turned his back to the moonlight."
+    "Burying my face in arms resting on the balustrade, I turned my back to the moonlight."
 
 # game/chapter7.rpy:1353
 translate english chapter7_e55a5709:
@@ -3264,19 +3264,19 @@ translate english chapter7_e55a5709:
 translate english chapter7_de67a983:
 
     # "속으로 자조 섞인 웃음을 삼켰다. "
-    "He swallowed a self-mocking laugh within."
+    "I swallowed a self-mocking laugh within."
 
 # game/chapter7.rpy:1355
 translate english chapter7_13bdb554:
 
     # "침묵이 다가올 거라고만 생각했다. "
-    "He had only expected silence to follow."
+    "I had only expected silence to follow."
 
 # game/chapter7.rpy:1356
 translate english chapter7_1aa83e8f:
 
     # "그랬기에, 귓가로 속삭이듯 들려온 소녀의 목소리는 정말 의외였다. "
-    "Therefore, the girl's voice whispering in his ear was truly unexpected."
+    "Therefore, the girl's voice whispering in my ear was truly unexpected."
 
 # game/chapter7.rpy:1360
 translate english chapter7_57e0fbf3:
@@ -3292,13 +3292,13 @@ translate english chapter7_feb1a962:
     # voice ""
     # "고개를 아주 살짝 들어, 한쪽 눈으로 소녀를 바라보았다. "
     voice ""
-    "He slightly lifted his head and looked at the girl with one eye."
+    "I slightly lifted my head and looked at the girl with one eye."
 
 # game/chapter7.rpy:1364
 translate english chapter7_445e5458:
 
     # "소녀는 내 쪽으로 어느새 가까이 다가와, 고개를 파묻고 있던 나를 쓰다듬어 주듯 내려보고 있었다. "
-    "The girl had quietly approached him and was looking down at him as if to comfort him, his head buried in his arms."
+    "The girl had quietly approached me and was looking down at me as if to comfort me, my head buried in my arms."
 
 # game/chapter7.rpy:1366
 translate english chapter7_350f1b80:
@@ -3320,7 +3320,7 @@ translate english chapter7_1dc91f3e:
 translate english chapter7_ec30626b:
 
     # "소녀를 따라, 나 역시 고개를 들어 밤하늘의 한 편을 바라보았다. "
-    "Following the girl's gaze, he too looked up at a piece of the night sky."
+    "Following the girl's gaze, I too looked up at a piece of the night sky."
 
 # game/chapter7.rpy:1376
 translate english chapter7_0b10b116:
