@@ -50,7 +50,7 @@ translate schinese chapter7_00c14367:
 translate schinese chapter7_fce1a929:
 
     # "소녀의 존재를, 다시 한번 느낀다. "
-    "再一次意识到，少女确实存在于此。"
+    "少女的存在，再一次感受到。"
 
 # game/chapter7.rpy:25
 translate schinese chapter7_4c5f0a6f:
@@ -420,7 +420,7 @@ translate schinese chapter7_0a346cc5:
 translate schinese chapter7_a1d7eb95:
 
     # "“갸르르르르릉…….”"
-    "“呼噜噜……”"
+    "“咕噜噜噜噜噜……”"
 
 # game/chapter7.rpy:200
 translate schinese chapter7_3444f636:
@@ -442,7 +442,7 @@ translate schinese chapter7_d43e8d60:
     # voice ""
     # "자신의 손등을 핥는 고양이를 바라보며 천진난만한 웃음을 짓는 소녀를 바라보고 있자니 왠지 저 검은 고양이가 행운의 상징이라도 된 것 같다는 생각이 들었다. "
     voice ""
-    "黑猫舔着少女的手，少女露出了天真烂漫的笑容。不知为何觉得那黑猫好像成了幸运的象征。"
+    "看着少女一边天真烂漫地笑着，一边看着猫咪舔她的手的样子，我莫名地觉得这只黑猫似乎是好运的象征。"
 
 # game/chapter7.rpy:205
 translate schinese chapter7_e73ec75b:
@@ -454,7 +454,7 @@ translate schinese chapter7_e73ec75b:
 translate schinese chapter7_7a9b6002:
 
     # "나도 잠시, 그런 낙관적인 생각과 함께 소녀를 바라보며 실없이 웃었다. "
-    "我也抱着乐观的想法，看着少女傻笑起来。"
+    "那一瞬间，我也抱着乐观的想法，看着少女傻笑起来。"
 
 # game/chapter7.rpy:212
 translate schinese chapter7_28d13bec:
@@ -8031,7 +8031,7 @@ translate schinese chapter7_2_2fcd6c10:
     # voice "voices/gh2.ogg"
     # 소녀o "“괜한 짓이라고요.”"
     voice "voices/gh2.ogg"
-    소녀o "“是无谓的举动。”"
+    소녀o "“是无谓的举动啊。”"
 
 # game/chapter7.rpy:3528
 translate schinese chapter7_2_3cd3a08b:
@@ -8141,7 +8141,7 @@ translate schinese chapter7_2_fefaf7e5:
 translate schinese chapter7_2_ff0d3801:
 
     # naro "다만, 그 학생이 단순히 1학년 E반의 누군가라는 웅성거림에 나는 그 소녀가 나와 같은 학교에다가 같은 학년이었던 학생이라는 것만을 알 수 있었다. "
-    naro "唯一的线索指向一年级E班，我只知道那个少女是我同一学校同一年级的学生。"
+    naro "只是，在那些嘈杂声中唯一的线索单纯地指向一年级E班，我只能知道那个少女是我同一学校同一年级的学生。"
 
 # game/chapter7.rpy:3569
 translate schinese chapter7_2_d968b4ab:
@@ -8165,7 +8165,7 @@ translate schinese chapter7_2_090e9566:
 translate schinese chapter7_2_f1d9c6db:
 
     # naro "자신의 뒤에서 인기척이 느껴지자 여학생은 고개를 힐긋 돌려 뒤를 돌아보았다. "
-    naro "听到自己身后有动静，女生转过头来。"
+    naro "听到自己身后有动静，女生轻轻地转过头来。"
 
 # game/chapter7.rpy:3577
 translate schinese chapter7_2_8efbb7f2:
