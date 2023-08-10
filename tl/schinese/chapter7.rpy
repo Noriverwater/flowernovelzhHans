@@ -50,7 +50,7 @@ translate schinese chapter7_00c14367:
 translate schinese chapter7_fce1a929:
 
     # "소녀의 존재를, 다시 한번 느낀다. "
-    "再一次意识到少女确实存在于此。"
+    "再一次意识到，少女确实存在于此。"
 
 # game/chapter7.rpy:25
 translate schinese chapter7_4c5f0a6f:
@@ -6605,13 +6605,13 @@ translate schinese chapter7_6c87c62a:
     # voice ""
     # 나 "“그래야…… 겠지.”"
     voice ""
-    나 "“那样才能……”"
+    나 "“那样才……是啊。”"
 
 # game/chapter7.rpy:2842
 translate schinese chapter7_83e43127:
 
     # "네가 행복하지 않다면. "
-    "如果你不幸福。"
+    "如果你不会幸福。"
 
 # game/chapter7.rpy:2843
 translate schinese chapter7_a7b65e9c:
@@ -6655,7 +6655,7 @@ translate schinese chapter7_e3c0632a:
     # voice ""
     # 나 "“뭐, 그렇지. 꼭 아름다운 걸 보여주고 싶었거든. 불꽃놀이라거나.”"
     voice ""
-    나 "“是啊。很想给大家看美丽的东西，比如说烟花。”"
+    나 "“是啊。很想给大家看美丽的东西，比如说烟花什么的。”"
 
 # game/chapter7.rpy:2868
 translate schinese chapter7_4f9c06a0:
@@ -6663,7 +6663,7 @@ translate schinese chapter7_4f9c06a0:
     # voice "voices/gg130.ogg"
     # 소녀 "“…… 이미 넘칠 만큼 아름다워요.”"
     voice "voices/gg130.ogg"
-    소녀 "“……已经很美了。”"
+    소녀 "“……已经美到溢出了。”"
 
 # game/chapter7.rpy:2870
 translate schinese chapter7_d1868de6:
@@ -6783,7 +6783,7 @@ translate schinese chapter7_9c66da9d:
 translate schinese chapter7_8d2df239:
 
     # "또한, 나의 등 뒤에서 느껴지는 소녀의 감촉을, 가능한 오랫동안 기억하려 애썼다. "
-    "另外，我尽量长时间地记住在我身后感受到的少女的感觉。"
+    "另外，我尽量长时间地记住在我身后感受到的，少女的感觉。"
 
 # game/chapter7.rpy:2922
 translate schinese chapter7_4d24bf16:
@@ -6839,7 +6839,7 @@ translate schinese chapter7_80ad917c:
 translate schinese chapter7_dcd98367:
 
     # "좋은 기분만을 남겨놓고, 마음에 앓아두고 있었던 감정들은 모두 가져가 버리는 듯한, 그런 바람이었다. "
-    "心里的感情好像都被风带走了，只留下开心的事。"
+    "就是这样一阵风，似乎带走了我心中所有的情绪，只留下美的感觉。"
 
 # game/chapter7.rpy:2955
 translate schinese chapter7_5aa76229:
@@ -6851,7 +6851,7 @@ translate schinese chapter7_5aa76229:
 translate schinese chapter7_071ec6ee:
 
     # "슬슬 다리의 움직임이 무뎌지기 시작할 무렵, 나의 허리를 껴안고 있던 소녀가 내게 말을 건네왔다. "
-    "当腿的活动变迟钝的时候，抱着我腰的少女开口了。"
+    "当腿的活动变迟钝的时候，一直搂着着我的腰的少女开口了。"
 
 # game/chapter7.rpy:2958
 translate schinese chapter7_246e04eb:
