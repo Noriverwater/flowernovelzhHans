@@ -4553,7 +4553,7 @@ translate schinese chapter7_0a6ab3e5:
     # voice "voices/hg12.ogg"
     # 현지 "“아아, 그게. 텔레이도스코프를 조금 튜닝한 거예요. 간단히 말하자면 유령과 몸체가 분리되려는 걸 억지로 다시 봉합시켜 놓은 거랄까요? 조금 특수한 빛을 이용해 차원 사이를 간섭해서요.”"
     voice "voices/hg12.ogg"
-    현지 "“啊啊，那个。我把远华镜调整了一下，简单地说就是把灵魂和身体分离的东西勉强强行缝合了。我利用一些特殊的光来干涉不同维度之间。”"
+    현지 "“啊啊，那个。我把远华镜调整了一下，简单地说就是把灵魂和分离的身体勉强强行缝合了吗？我利用一些特殊的光来干涉不同的维度之间。”"
 
 # game/chapter7.rpy:2026
 translate schinese chapter7_19eabdff:
@@ -4633,7 +4633,7 @@ translate schinese chapter7_e1159fad:
 translate schinese chapter7_5abb731c:
 
     # "고개를 돌려 소녀와 눈을 마주쳤다. "
-    "回头和少女对视。"
+    "回过头与少女对视了。"
 
 # game/chapter7.rpy:2050
 translate schinese chapter7_c64d9d51:
@@ -4731,7 +4731,7 @@ translate schinese chapter7_0b36c91f:
 translate schinese chapter7_7a878f2f:
 
     # "멍한 표정을 지으며, 느릿느릿 손가락을 까닥이며. "
-    "神情恍惚，缓缓地拨弄着手指。"
+    "她面无表情，磨磨蹭蹭地掰着手指。"
 
 # game/chapter7.rpy:2086
 translate schinese chapter7_31312590:
@@ -4739,7 +4739,7 @@ translate schinese chapter7_31312590:
     # voice "voices/hg21_1.ogg"
     # 현지 "“유령을 조종하는 건 선배의 무의식이에요. 그리고 감각기관을 조종하는 건 선배의 의식이고요.”"
     voice "voices/hg21_1.ogg"
-    현지 "“前辈的潜意识操控灵魂。前辈的意识操纵感官。”"
+    현지 "“前辈的潜意识操控灵魂。还有前辈的意识操纵感官。”"
 
 # game/chapter7.rpy:2091
 translate schinese chapter7_7a36dcde:
@@ -4787,7 +4787,7 @@ translate schinese chapter7_5950b08b:
     # voice "voices/hg23_1.ogg"
     # 현지 "“그건 아마도, 무의식과 의식이 원래 있었어야 할 두 차원 사이를 진동하고 있기 때문이었을 거예요.”"
     voice "voices/hg23_1.ogg"
-    현지 "“那可能是因为，潜意识和意识在原本应该存在的两个维度间隙之间发生了振动。”"
+    현지 "“那可能是因为，潜意识和意识在它们原本应该存在于的两个维度间隙之间发生了振动。”"
 
 # game/chapter7.rpy:2118
 translate schinese chapter7_4ed60212:
@@ -4827,7 +4827,7 @@ translate schinese chapter7_eac5a7c5:
     # voice ""
     # 나 "“그 실이 끊어지면, 어떻게 돼?”"
     voice ""
-    나 "“那条线断了会怎么样？”"
+    나 "“那条线断了，会怎么样？”"
 
 # game/chapter7.rpy:2134
 translate schinese chapter7_e7e2c4e6:
@@ -4895,7 +4895,7 @@ translate schinese chapter7_0ddcdaf5:
 translate schinese chapter7_3f61dc8a:
 
     # "차원이라는 이야기는, 소녀에게서 비슷한 형태로도 들어본 적이 없었으니 말이다. "
-    "因为从未从少女那里听到过类似维度的故事。"
+    "因为维度之类的类似语境的话，从未从少女那里听到过。"
 
 # game/chapter7.rpy:2156
 translate schinese chapter7_8f8055c9:
@@ -4917,7 +4917,7 @@ translate schinese chapter7_2aa2e52b:
     # voice ""
     # 나 "“…… 잘 상상이 안 가는데.”"
     voice ""
-    나 "“……很难想象。”"
+    나 "“……很难想象啊。”"
 
 # game/chapter7.rpy:2169
 translate schinese chapter7_46e060a0:
@@ -5253,7 +5253,7 @@ translate schinese chapter7_db5165d9:
     # voice ""
     # 나 "“그런가. 아 참, 불꽃놀이도 보고 싶었는데.”"
     voice ""
-    나 "“是吗？啊，对了，我还想看烟花呢。”"
+    나 "“是吗。啊，对了，我还想看烟花呢。”"
 
 # game/chapter7.rpy:2318
 translate schinese chapter7_9764959e:
@@ -5275,7 +5275,7 @@ translate schinese chapter7_eb150950:
 translate schinese chapter7_f6fa44b2:
 
     # "나의 실없는 이야기를 들으며, 현지는 초록빛을 내던 자그마한 기구를 만지작댔다. "
-    "听了我无聊的请求，贤智摆弄起那个放出绿光的小器具。"
+    "听了我无聊的请求，贤智开始摆弄起那个放出绿光的小器具。"
 
 # game/chapter7.rpy:2325
 translate schinese chapter7_0a32bd2b:
