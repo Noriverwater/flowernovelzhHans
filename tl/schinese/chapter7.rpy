@@ -6405,7 +6405,7 @@ translate schinese chapter7_3dd7ebe4:
 translate schinese chapter7_d566d563:
 
     # 나 "“일단, 예쁘잖아.”"
-    나 "“首先你很漂亮啊。”"
+    나 "“首先，你很漂亮啊。”"
 
 # game/chapter7.rpy:2753
 translate schinese chapter7_81fe3d88:
@@ -9167,7 +9167,7 @@ translate schinese chapter7_2_0e87bcf5:
 translate schinese chapter7_2_b307fcf2:
 
     # naro "마치 악몽을 꾸고 있는 것처럼, 이라고 그때의 나는 생각했다. "
-    naro "那时的我，就像在做噩梦一样。"
+    naro "就像在做噩梦一样，那时我想。"
 
 # game/chapter7.rpy:3990
 translate schinese chapter7_2_ce7eb848:
@@ -9309,7 +9309,7 @@ translate schinese chapter7_2_ecb3da49:
 translate schinese chapter7_2_1ae6aa0f:
 
     # naro "그녀가 잠든 것을 확인하고 다시금 침대에서 일어나려는데, 이번에도 나의 손에 뜨거운 손길이 닿은 것이 느껴졌다. "
-    naro "确认她睡着了，我准备离开，一只温暖的手拉住了我。"
+    naro "当我确认她已经睡着后，试图再次从床上爬起来时，我的手再次感受到了火热的触感。"
 
 # game/chapter7.rpy:4039
 translate schinese chapter7_2_bae88b7c:
@@ -9339,7 +9339,7 @@ translate schinese chapter7_2_2efa7f6a:
 translate schinese chapter7_2_c41e600a:
 
     # naro "눈을 뜨고선 자신의 손이 나의 손을 붙잡고 있었다는 것을 깨달은 가연은 다시금 몇 시간 전에 지었던 아리송한 표정과 그에 덧대 당혹스러운 표정을 지어 보였다. "
-    naro "睁开眼睛，佳妍意识到自己的手抓住了我的手，再次露出了几个小时前的困惑表情。"
+    naro "睁开眼睛的时候，佳妍意识到自己的手抓住了我的手，再次露出了几个小时前的困惑表情。"
 
 # game/chapter7.rpy:4057
 translate schinese chapter7_2_087253eb:
@@ -9361,7 +9361,7 @@ translate schinese chapter7_2_042282f4:
 translate schinese chapter7_2_dc5d49fa:
 
     # naro "나에게서 미적지근하게 식은 손을 홱 빼낸 그녀가 이해할 수 없다는 표정을 다시 한번 지어 보였다. "
-    naro "她从我身上猛地抽出她那不冷不热的手，又一次做出了我无法理解的表情。"
+    naro "她从我身上猛地抽出她那不冷不热的手，又一次露出了难以理解的表情。"
 
 # game/chapter7.rpy:4068
 translate schinese chapter7_2_df1414ee:
@@ -9375,7 +9375,7 @@ translate schinese chapter7_2_0ad4d2bc:
     # voice "voices/gh22.ogg"
     # 가연o "“어, 언제부터 그러고 있었던 거야?”"
     voice "voices/gh22.ogg"
-    가연o "“哦，什么时候开始的？”"
+    가연o "“喔，什么时候开始的？”"
 
 # game/chapter7.rpy:4072
 translate schinese chapter7_2_bac0ef2e:
@@ -9399,7 +9399,7 @@ translate schinese chapter7_2_8761bd86:
     # voice ""
     # 나o "“그러는 이젠 좀 괜찮아졌나 보네.”"
     voice ""
-    나o "“这样看来现在好多了。”"
+    나o "“看来现在好多了。”"
 
 # game/chapter7.rpy:4080
 translate schinese chapter7_2_53ec6a75:
@@ -9433,7 +9433,7 @@ translate schinese chapter7_2_a7091526:
 translate schinese chapter7_2_a6ee38b6:
 
     # naro "분명, 내 배에서 눈치 없이 들려온 소리였겠지. "
-    naro "肯定是从我肚子里传来的。"
+    naro "肯定，是从我肚子里传来的。"
 
 # game/chapter7.rpy:4089
 translate schinese chapter7_2_ff508281:
@@ -9491,7 +9491,7 @@ translate schinese chapter7_2_1cc6d560:
 translate schinese chapter7_2_9861d9e9:
 
     # naro "그런 가연이, 나와 조금씩 가까워지고 있었다. "
-    naro "这样的佳妍和我渐渐亲近起来。"
+    naro "这样的佳妍，和我渐渐亲近起来。"
 
 # game/chapter7.rpy:4123
 translate schinese chapter7_2_5e4e60d9:
@@ -9503,7 +9503,7 @@ translate schinese chapter7_2_5e4e60d9:
 translate schinese chapter7_2_c80283f1:
 
     # naro "여름 방학이 되어, 자연스럽게 내가 그녀와 이야기를 나눌 수 있는 시간도 늘어가고 있었다. "
-    naro "到了暑假，自然地和她聊天的时间增加了。"
+    naro "随着暑假的到来，我和她聊天的时间自然也增加了。"
 
 # game/chapter7.rpy:4125
 translate schinese chapter7_2_c399566f:
@@ -9515,7 +9515,7 @@ translate schinese chapter7_2_c399566f:
 translate schinese chapter7_2_372515e2:
 
     # naro "밤늦게 집에 돌아와 방에 들어가려다 부엌을 배회하던 가연과 마주치게 된 일이 그것을 알게 된 계기였다. "
-    naro "我深夜回家，遇到了在厨房徘徊的佳妍，这是我知道这一事实的契机。"
+    naro "我深夜回家时，遇到了在厨房徘徊的佳妍，这是我知道这一事实的契机。"
 
 # game/chapter7.rpy:4133
 translate schinese chapter7_2_e2bc3886:
