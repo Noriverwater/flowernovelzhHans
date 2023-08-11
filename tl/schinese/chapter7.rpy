@@ -1822,7 +1822,7 @@ translate schinese chapter7_4f79c2c7:
     # voice "voices/gg52.ogg"
     # 소녀 "“너무 위험하잖아요, 그런 거.”"
     voice "voices/gg52.ogg"
-    소녀 "“太危险了。”"
+    소녀 "“太危险了，那个。”"
 
 # game/chapter7.rpy:725
 translate schinese chapter7_b1eafd86:
@@ -1843,7 +1843,7 @@ translate schinese chapter7_13b0174c:
     # voice "voices/gg53.ogg"
     # 소녀 "“지금에 와서 너무 늦은 것 같긴 하지만.”"
     voice "voices/gg53.ogg"
-    소녀 "“虽然现在才来，感觉有点晚了。”"
+    소녀 "“虽然现在才这么想，感觉有点晚了。”"
 
 # game/chapter7.rpy:731
 translate schinese chapter7_0ff6d485:
@@ -1867,7 +1867,7 @@ translate schinese chapter7_3c2a02fb:
     # voice ""
     # "나의 손등을 덮은 소녀의 손은 마치 한겨울을 이불처럼 감싼 눈송이처럼 차갑고도, 따뜻했다. "
     voice ""
-    "盖住我手背的少女的手像寒冬里包裹雪花的被子一样冰冷而温暖。"
+    "盖住我手背的少女的手像寒冬里包裹雪花的被子一样冰冷，而温暖。"
 
 # game/chapter7.rpy:739
 translate schinese chapter7_2e0a9804:
@@ -1919,7 +1919,7 @@ translate schinese chapter7_6d15705c:
     # voice "voices/gg57.ogg"
     # 소녀 "“제 기억을 찾아주기 위해, 그리고 저를 없애주기 위해 더 애써주지 않아도 괜찮아요. 아니, 그러지 말아 주세요. 어제도 말했다고요. 과잉친절이라고…….”"
     voice "voices/gg57.ogg"
-    소녀 "“为了找回我的记忆，为了除掉我，其实不做这样的努力也没关系。不，昨天也说过了我没你想象中那么好……”"
+    소녀 "“为了找回我的记忆，为了除掉我，其实不做这样的努力也没关系。不，不要那样，昨天也说过了。是过分的好心……”"
 
 # game/chapter7.rpy:755
 translate schinese chapter7_0b14326d:
@@ -1943,7 +1943,7 @@ translate schinese chapter7_b45a3987:
     # voice ""
     # "그런 이야기와 함께 고개를 든 소녀가 싱긋 웃어 보였다. "
     voice ""
-    "说完这样的话，抬起头的少女微微一笑。"
+    "说完那样的话，抬起头的少女微微一笑。"
 
 # game/chapter7.rpy:764
 translate schinese chapter7_e53af9bf:
@@ -2033,7 +2033,7 @@ translate schinese chapter7_4a93b434:
 translate schinese chapter7_ee60156c:
 
     # "막상 위화감을 느끼기 시작한 건, F구역의 터미널에 도착하고 난 직후였다. "
-    "真正感到违和感是到达F区的客运站后。"
+    "真正感到违和感，是到达F区的客运站后。"
 
 # game/chapter7.rpy:818
 translate schinese chapter7_a52f0b91:
@@ -2067,7 +2067,7 @@ translate schinese chapter7_05747541:
 translate schinese chapter7_2527ec84:
 
     # 나 "“그런가.”"
-    나 "“是吗？”"
+    나 "“是吗。”"
 
 # game/chapter7.rpy:836
 translate schinese chapter7_c2fa89d4:
@@ -2103,7 +2103,7 @@ translate schinese chapter7_ea615f2a:
 translate schinese chapter7_815413ea:
 
     # "역내의 안내방송이 들려오고, 반대편의 열차가 정차하고, 목적지로 향하는 방향의 열차가 도착한다. "
-    "车站内传来广播，开往目的地的列车快要到了。"
+    "可以听到车站的广播，可以看到对面的列车停下来，列车到达目的地的方向。"
 
 # game/chapter7.rpy:850
 translate schinese chapter7_88d5ee47:
@@ -2121,7 +2121,7 @@ translate schinese chapter7_7b2b4b1c:
 translate schinese chapter7_1be55666:
 
     # "종착지인 A구역 터미널에 도착했을 땐, 나의 앞에 서 있던 소녀가 내 어깨를 두드리며 잠을 깨우고 있었다. "
-    "到达终点站A区车站时，少女拍着我的肩膀叫醒我。"
+    "到达终点站A区车站时，站在我面前的少女，轻轻拍着我的肩膀把我唤醒。"
 
 # game/chapter7.rpy:858
 translate schinese chapter7_efeb55d1:
@@ -2245,7 +2245,7 @@ translate schinese chapter7_87dde787:
     # voice "voices/yg1.ogg"
     # 유미 "“오늘은 이런 곳에서 보네?”"
     voice "voices/yg1.ogg"
-    유미 "“今天就在这种地方见面啊？”"
+    유미 "“今天就在这种地方见面了啊？”"
 
 # game/chapter7.rpy:924
 translate schinese chapter7_0a6e865f:
@@ -2259,7 +2259,7 @@ translate schinese chapter7_0a6e865f:
 translate schinese chapter7_c30c0be6:
 
     # "어디서부터 유미는 나를 발견했던 걸까. "
-    "优美是从哪里开始发现我的呢？"
+    "优美是从哪里开始发现我的呢。"
 
 # game/chapter7.rpy:927
 translate schinese chapter7_cc5c66e1:
@@ -2279,7 +2279,7 @@ translate schinese chapter7_78fa4c7d:
     # voice "voices/yg2.ogg"
     # 유미 "“아아, 그게~ 저기 공원에서 잠깐 산책이나 한다고.”"
     voice "voices/yg2.ogg"
-    유미 "“啊啊，那个~去公园散散步。”"
+    유미 "“啊啊，那个~ 去公园散散步。”"
 
 # game/chapter7.rpy:933
 translate schinese chapter7_a7eaac9f:
@@ -2303,7 +2303,7 @@ translate schinese chapter7_657a98f3:
     # voice ""
     # "심호흡으로 숨 고르기를 마무리한 유미가 발걸음을 옮기기 시작했고, 나도, 소녀도, 멈췄던 움직임을 계속했다. "
     voice ""
-    "调整完呼吸的优美开始移动脚步，我和少女也迈开了步子。"
+    "调整完呼吸的优美开始移动脚步，我，还有少女也迈开了步子。"
 
 # game/chapter7.rpy:946
 translate schinese chapter7_5c6f05b0:
@@ -2325,7 +2325,7 @@ translate schinese chapter7_dbc43482:
     # voice ""
     # 나 "“아, 으음……. 글쎄.”"
     voice ""
-    나 "“啊，呃……怎么说呢。”"
+    나 "“啊，嗯……怎么说呢。”"
 
 # game/chapter7.rpy:953
 translate schinese chapter7_25a8f3f8:
@@ -2379,7 +2379,7 @@ translate schinese chapter7_19851466:
     # voice ""
     # 나 "“어…… 그때 그 장소 말이야.”"
     voice ""
-    나 "“嗯……有那种地方……”"
+    나 "“嗯……是说之前那个地方……”"
 
 # game/chapter7.rpy:979
 translate schinese chapter7_88020a5a:
