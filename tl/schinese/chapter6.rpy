@@ -2786,7 +2786,7 @@ translate schinese ecg12_label_0a03d2bc:
 translate schinese ecg12_label_01be10b6:
 
     # voice "voices/yf77.ogg"
-    # 유미 "“哎呀，什么啊。没意思。“"
+    # 유미 "“에이, 뭐야아. 재미없게.“"
     voice "voices/yf77.ogg"
     유미 "“哎呀，什么啊。没意思。”"
 
@@ -3000,7 +3000,7 @@ translate schinese ecg12_label_d9696087:
     # voice ""
     # "나에게, 연주의 끝을 기다리고 있겠다는 말을 건넸다. "
     voice ""
-    "对我说，我会等到演奏的结束。"
+    "对我说，会等到演奏的结束。"
 
 # game/chapter6.rpy:1155
 translate schinese ecg12_label_ab31b571:
