@@ -8474,7 +8474,7 @@ translate schinese ecg11_label_f741dc77:
 translate schinese ecg11_label_587367aa:
 
     # "이렇게 아무렇지도 않게 이야기해도 되는 걸까, 하는 의구심이 들긴 했다. "
-    "我可以这样若无其事地说出口吗？"
+    "我可以若无其事地说出口吗，产生了这样的疑问。"
 
 # game/chapter5.rpy:3592
 translate schinese ecg11_label_77b5fb1f:
@@ -8764,7 +8764,7 @@ translate schinese ecg11_label_cb8995ca:
     # voice "voices/he104.ogg"
     # 현지 "“그, 그런 건 아니거든요.”"
     voice "voices/he104.ogg"
-    현지 "“那个，不是那样的。”"
+    현지 "“那，那个，不是那样的。”"
 
 # game/chapter5.rpy:3689
 translate schinese ecg11_label_d5d2e689:
