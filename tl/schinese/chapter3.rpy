@@ -4338,7 +4338,7 @@ translate schinese chapter3_374a9683:
     # voice ""
     # 나 "“아냐, 나중에 나랑 같이 들어가자. 어차피 여기만 와보려 했으니까 시간도 충분하고. 수업이 끝난 뒤에 슬쩍 들어가면 될 것 같아.”"
     voice ""
-    나 "“不，回头跟我一起去吧。反正我只想来这里，所以时间很充足。我们可以下课后悄悄地进去。”"
+    나 "“不，回头跟我一起去吧。反正我们只是来这里，所以时间很充足。我们可以下课后悄悄地进去。”"
 
 # game/chapter3.rpy:1650
 translate schinese chapter3_00329dbb:
@@ -4376,7 +4376,7 @@ translate schinese chapter3_911744df:
 translate schinese chapter3_38efd398:
 
     # "머뭇대며 바로 말을 꺼내지 못하는 소녀였지만, 무슨 말을 하고 싶은지는 충분히 알 것 같았다."
-    "她犹豫了一下，不能马上开口，但她似乎完全明白自己要说什么。"
+    "虽然少女犹豫了一下，没能马上开口，但我好像完全明白了她要说什么。"
 
 # game/chapter3.rpy:1674
 translate schinese chapter3_d018688f:
@@ -4404,13 +4404,13 @@ translate schinese chapter3_e070edaf:
 translate schinese chapter3_0f549984:
 
     # "맛없는 요리를 먹으면서도, 불편한 시간을 보내면서도 항상 선의의 거짓말을 해주었던 소녀라도 이것까지는 무리인 모양이었다."
-    "即使是吃着无味的料理，生活不愉快，但总是说善意的谎言的少女，似乎也没办法做到这一点。"
+    "即使是吃着无味的料理，生活不愉快，但总是说善意的谎言的少女，似乎也很难接受这一点。"
 
 # game/chapter3.rpy:1695
 translate schinese chapter3_9454b870:
 
     # "그나저나, 내 몸이 내 몸 같지 않아서일까."
-    "话说回来，难道是因为我的身体不像我的身体吗？"
+    "话说回来，难道是因为我的身体不像我的身体吗。"
 
 # game/chapter3.rpy:1696
 translate schinese chapter3_edbabde3:
