@@ -7386,7 +7386,7 @@ translate schinese ecg8_label_6f991e91:
 translate schinese ecg8_label_7e86d9b9:
 
     # "물살의 폭이 줄어들기 시작하고, 맞닿은 하늘과 어울리는 색을 찾아가고 있었다. "
-    "水的流量开始变小，正在寻找与天空相接的合适颜色。"
+    "水的流量开始变小，似乎正在寻找与天空相接的合适颜色。"
 
 # game/chapter4.rpy:3162
 translate schinese ecg8_label_d37495bf:
@@ -7558,7 +7558,7 @@ translate schinese ecg8_label_5ea09aba:
     # voice "voices/gd98.ogg"
     # 소녀 "“먼저 첫 번째 가능성은, 그 여학생이 죽은 장소가 이곳이 아니었다는 거예요.”"
     voice "voices/gd98.ogg"
-    소녀 "“首先第一个可能性是那个女生死的地方不是这里。”"
+    소녀 "“首先第一个可能性是，那个女生死的地方不是这里。”"
 
 # game/chapter4.rpy:3238
 translate schinese ecg8_label_630cc6c8:
@@ -7634,7 +7634,7 @@ translate schinese ecg8_label_3126e804:
     # voice "voices/gd102.ogg"
     # 소녀 "“두 번째 가능성은, 여기서 발견된 시신이 바로 저일 수도 있다는 거예요.”"
     voice "voices/gd102.ogg"
-    소녀 "“第二个可能性是在这里发现的尸体有可能就是我。”"
+    소녀 "“第二个可能性是，在这里发现的尸体有可能就是我。”"
 
 # game/chapter4.rpy:3259
 translate schinese ecg8_label_29c66513:
@@ -7702,7 +7702,7 @@ translate schinese ecg8_label_ba105d33:
     # voice ""
     # "그렇다는 건, 소녀는 누군가에게 살해당한 뒤 강에 버려졌다는 걸까. "
     voice ""
-    "这意味着少女被人杀害后扔到河里了吗？"
+    "这意味着， 少女被人杀害后扔到河里了吗？"
 
 # game/chapter4.rpy:3289
 translate schinese ecg8_label_3360ad9f:
