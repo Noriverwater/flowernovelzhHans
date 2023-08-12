@@ -2626,7 +2626,7 @@ translate japanese ecg3_label_9e21d623:
     # voice ""
     # "학교가 끝나고, 나와 유미는 정말로 영화관에 도착해 어떤 영화를 볼지 이야기를 나누며 상영 시간표를 바라보고 있었다. "
     voice ""
-    "学校が終わって、私とユミは本当に映画館に着いて、どんな映画を見るか話をしながら上映時間表を見ていた。"
+    "学校が終わって、俺とユミは本当に映画館に着いて、どんな映画を見るか話をしながら上映時間表を見ていた。"
 
 # game/chapter2.rpy:1133
 translate japanese ecg3_label_d2974603:
@@ -2772,7 +2772,7 @@ translate japanese ecg3_label_d5d21bd1:
 translate japanese ecg3_label_c11bb4f8:
 
     # "자리에 앉아 상영관 한가운데의 무대를 바라보며, 나는 유미에게 물었다. "
-    "席に座って上映室の真ん中の舞台を見ながら、私はユミに聞いた。"
+    "席に座って上映室の真ん中の舞台を見ながら、俺はユミに聞いた。"
 
 # game/chapter2.rpy:1232
 translate japanese ecg3_label_948cde4e:
@@ -2894,7 +2894,7 @@ translate japanese ecg3_label_d10ff1bc:
 translate japanese ecg3_label_5c27f5e3:
 
     # "내가 그토록 사랑하던 이를 죽여버린 그들을 향한 복수. "
-    "俺が心から愛していたあの人を殺してしまった奴らへの復讐。"
+    "私が心から愛していたあの人を殺してしまった奴らへの復讐。"
 
 # game/chapter2.rpy:1298
 translate japanese ecg3_label_0c311eac:
@@ -2906,13 +2906,13 @@ translate japanese ecg3_label_0c311eac:
 translate japanese ecg3_label_a1c2c33a:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 사랑해 줄 수 있을까?{/color} "
-    "{color=#00ccff}彼はこんな姿の俺でも愛してくれるだろうか？{/color}"
+    "{color=#00ccff}彼はこんな姿の私でも愛してくれるだろうか？{/color}"
 
 # game/chapter2.rpy:1303
 translate japanese ecg3_label_acd759ef:
 
     # "{color=#00ccff}그는 이런 모습의 나라도 이해해 줄 수 있을까?{/color} "
-    "{color=#00ccff}彼はこんな姿の俺でも理解してくれるだろうか？{/color}"
+    "{color=#00ccff}彼はこんな姿の私でも理解してくれるだろうか？{/color}"
 
 # game/chapter2.rpy:1308
 translate japanese ecg3_label_247ab09b:
@@ -2924,31 +2924,31 @@ translate japanese ecg3_label_247ab09b:
 translate japanese ecg3_label_f888507c:
 
     # "일순간, 내뱉은 숨결에 묻어난 감정들이 나를 붙잡는다. "
-    "一瞬、吐き出した息に混じった感情たちが俺を引き止める。"
+    "一瞬、吐き出した息に混じった感情たちが私を引き止める。"
 
 # game/chapter2.rpy:1311
 translate japanese ecg3_label_e5092e87:
 
     # "광기는 붉은색. 그리고 나는 붉은색으로 물든다. "
-    "狂気は赤色。そして俺は赤色に染まる。"
+    "狂気は赤色。そして私は赤色に染まる。"
 
 # game/chapter2.rpy:1312
 translate japanese ecg3_label_4ec5a925:
 
     # "도무지 적응되지 않는 광기 속에서, 나는 몸을 떨고, 눈물을 흘린다. "
-    "どうにも馴染まない狂気の中で、俺は体を震わせ、涙を流す。"
+    "どうにも馴染まない狂気の中で、私は体を震わせ、涙を流す。"
 
 # game/chapter2.rpy:1314
 translate japanese ecg3_label_4ba800de:
 
     # "붉은색의 눈물이 나를 감싼다. "
-    "赤色の涙が俺を包む。"
+    "赤色の涙が私を包む。"
 
 # game/chapter2.rpy:1315
 translate japanese ecg3_label_9e5c80cd:
 
     # "갈 곳을 잃은 광기에 휩싸여, 나의 몸이 무너져 내린다. "
-    "行き場を失った狂気に巻き込まれ、俺の体が崩れていく。"
+    "行き場を失った狂気に巻き込まれ、私の体が崩れていく。"
 
 # game/chapter2.rpy:1318
 translate japanese ecg3_label_853db0fc:
@@ -2984,7 +2984,7 @@ translate japanese ecg3_label_b641f57a:
 translate japanese ecg3_label_7a0399f0:
 
     # "나와 유미도 빈 팝콘 트레이와 콜라 컵을 손에 쥐고는 상영관 밖으로 발걸음을 옮겼다. "
-    "私とユミも空のポップコーントレイとコーラカップを手に持って上映室の外に足を運んだ。"
+    "俺とユミも空のポップコーントレイとコーラカップを手に持って上映室の外に足を運んだ。"
 
 # game/chapter2.rpy:1337
 translate japanese ecg3_label_099e02f2:
@@ -2998,7 +2998,7 @@ translate japanese ecg3_label_b6fbde6e:
     # voice "voices/yb22.ogg"
     # 유미 "“난 재미있게 봤는데, 너는?”"
     voice "voices/yb22.ogg"
-    유미 "「私は面白く見たけど、君は？」"
+    유미 "「私は面白く見たけど、お前は？」"
 
 # game/chapter2.rpy:1341
 translate japanese ecg3_label_9802b008:
@@ -3006,7 +3006,7 @@ translate japanese ecg3_label_9802b008:
     # voice ""
     # 나 "“으응, 나도 오랜만에 영화 보니까 재밌었던 것 같아.”"
     voice ""
-    나 "「うん、僕も久しぶりに映画を見て楽しかったと思う。」"
+    나 "「うん、俺も久しぶりに映画を見て楽しかったと思う。」"
 
 # game/chapter2.rpy:1349
 translate japanese ecg3_label_eb7b4a6f:
@@ -3030,7 +3030,7 @@ translate japanese ecg3_label_dba088cb:
     # voice "voices/yb24.ogg"
     # 유미 "“그런데 말이야, 너는 어떻게 생각해?”"
     voice "voices/yb24.ogg"
-    유미 "「でもね、君はどう思う？」"
+    유미 "「でもね、お前はどう思う？」"
 
 # game/chapter2.rpy:1362
 translate japanese ecg3_label_a205a461:
@@ -3096,7 +3096,7 @@ translate japanese ecg3_label_5971a7c9:
     # voice "voices/yb27.ogg"
     # 유미 "“넌 AI는 사람이 될 수 없다고 생각하는 쪽이야?”"
     voice "voices/yb27.ogg"
-    유미 "「君はAIは人間になれないと思ってる方？」"
+    유미 "「あなたはAIは人間になれないと思ってる方？」"
 
 # game/chapter2.rpy:1395
 translate japanese ecg3_label_7ea678e5:
@@ -3360,7 +3360,7 @@ translate japanese ecg3_label_69441a9e:
 translate japanese ecg3_label_86e547fc:
 
     # "내 인사가 어색하게만 느껴졌는지, 소녀도 침대에서 몸을 일으키고는 애매한 반응을 보였다. "
-    "私の挨拶がぎこちなく感じられたのか、少女もベッドから体を起こして微妙な反応を見せた。"
+    "俺の挨拶がぎこちなく感じられたのか、少女もベッドから体を起こして微妙な反応を見せた。"
 
 # game/chapter2.rpy:1515
 translate japanese ecg3_label_c5bcf6f5:
