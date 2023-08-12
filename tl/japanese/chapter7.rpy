@@ -12776,7 +12776,7 @@ translate japanese chapter7_3_8af3b35a:
     # voice ""
     # "나도 그녀가 바라본 곳으로 시선을 떨구었다. "
     voice ""
-    "私も彼女が見たところに視線を落とした。"
+    "俺も彼女が見たところに視線を落とした。"
 
 # game/chapter7.rpy:5366
 translate japanese chapter7_3_b1855977:
@@ -12810,7 +12810,7 @@ translate japanese chapter7_3_b4705030:
 translate japanese chapter7_3_85d1e8b0:
 
     # "사람의 신체가 죽어 흙으로 돌아가듯, 나와 그녀의 영혼은 빛이라는 형태로 천천히 변해가고 있었다. "
-    "人間の身体が死んで土に帰るように、私と彼女の魂は光という形にゆっくりと変わっていった。"
+    "人間の身体が死んで土に帰るように、俺と彼女の魂は光という形にゆっくりと変わっていった。"
 
 # game/chapter7.rpy:5374
 translate japanese chapter7_3_6886ebee:
@@ -12844,7 +12844,7 @@ translate japanese chapter7_3_962d99fe:
 translate japanese chapter7_3_7ec5473b:
 
     # "나는 그녀의 뺨에서 흘러내린 눈물을 닦아주고는, 머릿결을 차분히 쓰다듬었다. "
-    "私は彼女の頬から流れ落ちた涙を拭ってやって、髪の毛を静かに撫でた。"
+    "俺は彼女の頬から流れ落ちた涙を拭ってやって、髪の毛を静かに撫でた。"
 
 # game/chapter7.rpy:5386
 translate japanese chapter7_3_33834ead:
@@ -12860,19 +12860,19 @@ translate japanese chapter7_3_365cf581:
     # voice ""
     # "그녀의 존재가 나의 증명이고, 나의 존재가 그녀의 증명이다. "
     voice ""
-    "彼女の存在が私の証明であり、私の存在が彼女の証明だ。"
+    "彼女の存在が俺の証明であり、俺の存在が彼女の証明だ。"
 
 # game/chapter7.rpy:5393
 translate japanese chapter7_3_06c5c029:
 
     # "그렇기에 나는 그녀가 있어 존재하고, 그녀 역시 내가 있어 존재한다. "
-    "だから私は彼女がいて存在し、彼女も私がいて存在する。"
+    "だから俺は彼女がいて存在し、彼女も俺がいて存在する。"
 
 # game/chapter7.rpy:5395
 translate japanese chapter7_3_6ab919a0:
 
     # "내가 꼬여버린 시간의 틈새에서 차분히 모습을 잃어가고, 그녀 역시 나와 함께 사라지게 되는 거겠지. "
-    "私がねじれた時間の隙間から静かに姿を失っていき、彼女も私と一緒に消えていくのだろう。"
+    "俺がねじれた時間の隙間から静かに姿を失っていき、彼女も私と一緒に消えていくのだろう。"
 
 # game/chapter7.rpy:5396
 translate japanese chapter7_3_6fa86762:
@@ -12890,7 +12890,7 @@ translate japanese chapter7_3_3b936bad:
 translate japanese chapter7_3_ee0b1a97:
 
     # "나는 그녀를 조금 더 마음속 깊은 곳까지 껴안았다. "
-    "私は彼女をもう少し心の奥まで抱きしめた。"
+    "俺は彼女をもう少し心の奥まで抱きしめた。"
 
 # game/chapter7.rpy:5404
 translate japanese chapter7_3_d4e0c862:
@@ -12950,13 +12950,13 @@ translate japanese chapter7_3_60709a80:
 translate japanese chapter7_3_4eecedb6:
 
     # "그 무엇도 남지 않은 순수한 행복에, 나와 그녀는 온몸을 맡긴다. "
-    "何も残らない純粋な幸せに、私と彼女は全身を委ねる。"
+    "何も残らない純粋な幸せに、俺と彼女は全身を委ねる。"
 
 # game/chapter7.rpy:5437
 translate japanese chapter7_3_5166c225:
 
     # "지금 우리에게 남은 건, 그저 서로의 존재뿐이었다. "
-    "今私たちに残っているのは、ただ互いの存在だけだった。"
+    "今俺たちに残っているのは、ただ互いの存在だけだった。"
 
 # game/chapter7.rpy:5441
 translate japanese chapter7_3_1c767188:
@@ -12974,7 +12974,7 @@ translate japanese chapter7_3_49d47fa2:
 translate japanese chapter7_3_78b181e9:
 
     # "나는 그 조각들이 두 사람의 빛이 겹쳐져 만들어낸 것임을, 눈동자에 새길 수 있었다. "
-    "私はその欠片が二人の光が重なって作り出したものであることを、瞳に刻むことができた。"
+    "俺はその欠片が二人の光が重なって作り出したものであることを、瞳に刻むことができた。"
 
 # game/chapter7.rpy:5448
 translate japanese chapter7_3_d5960f16:
@@ -12998,7 +12998,7 @@ translate japanese chapter7_3_ba6bed7c:
 translate japanese chapter7_3_089f0540:
 
     # "나는 그저, 그녀의 빛과 나의 빛이 얽혀있다는 사실이 너무나도 기쁠 뿐이다."
-    "私はただ、彼女の光と私の光が絡み合っているという事実がとても嬉しいだけだ。"
+    "俺はただ、彼女の光と俺の光が絡み合っているという事実がとても嬉しいだけだ。"
 
 
 # "스러져가는 빛을 향해, 작별인사를 건넸다."
