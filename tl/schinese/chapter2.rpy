@@ -3077,7 +3077,7 @@ translate schinese ecg3_label_d68583a5:
     # voice "voices/yb26.ogg"
     # 유미 "“{color=#00ccff}왜？ 자기가 사랑하던 존재가 억울하게 죽어버렸는데, 그럴 수도 있지 않아？{/color} 그렇다고 알아주는 사람이나 위로해주는 사람도 없고, 법의 도움도 받지 못하고.”"
     voice "voices/yb26.ogg"
-    유미 "“{color=#00ccff}为什么？自己深爱的存在委屈地死去了，也有那种可能吧？{/color} 即便如此，也没有人知道，也没有人安慰，法律也帮不了他。”"
+    유미 "“{color=#00ccff}为什么？自己深爱的存在委屈地死去了，也有那种可能吧？{/color} 即便如此，也没有人知道，也没有人安慰，法律也帮不了。”"
 
 # game/chapter2.rpy:1384
 translate schinese ecg3_label_f57584e4:
