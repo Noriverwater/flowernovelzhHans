@@ -6732,7 +6732,7 @@ translate schinese ecg14_label_480199ab:
     # voice "voices/gf51.ogg"
     # 소녀 "“목소리가 저와 연결되어 있다는 건, 비유적인 표현이겠죠?”"
     voice "voices/gf51.ogg"
-    소녀 "“这是一个比喻，对吧？”"
+    소녀 "“说声音与我相连是一个比喻，对吧？”"
 
 # game/chapter6.rpy:2406
 translate schinese ecg14_label_8bdab4cb:
@@ -7044,7 +7044,7 @@ translate schinese ecg14_label_65fb1bb6:
 translate schinese ecg14_label_fa530265:
 
     # "소녀가, 자신을 이야기 속에 담은 건. "
-    "少女，把自己融进话里。"
+    "少女，把自己融进故事里。"
 
 # game/chapter6.rpy:2504
 translate schinese ecg14_label_4431ea08:
@@ -7620,13 +7620,13 @@ translate schinese ecg14_label_5d1e2f78:
 translate schinese ecg14_label_67463ddb:
 
     # 나 "“뭐라고 할까, 사실 나도 기억이 잘 안 나. 과거의 내가 정확히 어떤 사람이었는지. 나에 대해서 기억이 모호한 부분이 있다고나 할까.”"
-    나 "“该怎么说呢？其实我也不记得了过去的我到底是什么样的人。可以说原来的记忆有些模糊。”"
+    나 "“该怎么说呢？其实我也不记得过去的我到底是什么样的人。可以说原来的记忆有些模糊。”"
 
 # game/chapter6.rpy:2707
 translate schinese ecg14_label_0e0e899e:
 
     # 나 "“가족 관계라거나, 이름이라거나, 나이 같은 기본적으로 드러나는 나에 대한 것들은 기억나지만. 그런 내가 아닌, 내면의 내 모습은 기억 속에서 사라져버렸거든.”"
-    나 "“像是家庭关系啊，名字啊，年龄之类的基本的东西我还记得。但是那些不是我，而是我内心的样子却从记忆里消失了。”"
+    나 "“像是家庭关系啊，名字啊，年龄之类的基本的东西我还记得。但是我的那些部分却不记得了，我内心的样子已经从记忆里消失了。”"
 
 # game/chapter6.rpy:2708
 translate schinese ecg14_label_02108254:
@@ -8044,7 +8044,7 @@ translate schinese ecg14_label_01f10060:
 translate schinese ecg14_label_7edff0df:
 
     # "숨소리가 맞닿을 정도의 거리. "
-    "能触及到少女的气息。"
+    "距离近到能触及彼此呼出的气息。"
 
 # game/chapter6.rpy:2874
 translate schinese ecg14_label_96819e4e:
