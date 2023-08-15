@@ -4052,7 +4052,7 @@ translate schinese chapter3_15743e65:
     # voice ""
     # "그런 이야기를 소녀는 아무렇지도 않게 읊조렸다."
     voice ""
-    "少女漫不经心地吟诵着那样的故事。"
+    "少女漫不经心地吟诵着那样的话。"
 
 # game/chapter3.rpy:1531
 translate schinese chapter3_9cbbb4ef:
@@ -4064,7 +4064,7 @@ translate schinese chapter3_9cbbb4ef:
 translate schinese chapter3_751b5dfe:
 
     # "소녀의 눈동자에서 느껴지던 공허함이 오늘따라 더욱 싸늘하게 다가왔으니까."
-    "少女的眼睛里的空虚，今天格外冰冷。"
+    "因为少女的眼睛里的空虚，今天格外冰冷。"
 
 # game/chapter3.rpy:1539
 translate schinese chapter3_f7209602:
@@ -4112,7 +4112,7 @@ translate schinese chapter3_7ec435ce:
 translate schinese chapter3_df1400f3:
 
     # 나 "“미처 생각 못했네. 아직 중학교는 방학이 아니었을 줄은.”"
-    나 "“没想到初中还没有放假。”"
+    나 "“没想到啊。初中还没有放假。”"
 
 # game/chapter3.rpy:1555
 translate schinese chapter3_0a5d6e0c:
@@ -4188,7 +4188,7 @@ translate schinese chapter3_8a00f9c5:
 translate schinese chapter3_0d85d1e6:
 
     # "여느 때 보다 치열했고, 누구보다 간절했던 그 순간이었으련만, 어째서인지 그 기억은 흐릿하게 남아 막연한 감정만을 남겨 두고 있었다."
-    "当时的比赛比任何时候都激烈，比任何人都恳切，但不知为什么，当时的记忆已变得模糊，只留下了茫然的感情。"
+    "当时的比赛比任何时候都激烈，比任何人都恳切，但不知为什么，那记忆已变得模糊，只留下了茫然的感情。"
 
 # game/chapter3.rpy:1578
 translate schinese chapter3_2e46540c:
