@@ -264,13 +264,13 @@ translate schinese chapter3_08746cdd:
 translate schinese chapter3_60821b9a:
 
     # "두어 블록 정도를 더 걸어가서, 나와 소녀는 화재가 일어났던 것으로 추정되는 장소에 다다를 수 있었다."
-    "再走两条街左右，我和少女就找到了起火地点。"
+    "再走两条街左右，我和少女就能找到可疑的起火地点了。"
 
 # game/chapter3.rpy:120
 translate schinese chapter3_dbed4a05:
 
     # 나 "“사람이 사는 것 같아 보이진 않지？”"
-    나 "“它看上去没人住，对吧？”"
+    나 "“看上去没人住，对吧？”"
 
 # game/chapter3.rpy:122
 translate schinese chapter3_3607383b:
@@ -310,13 +310,13 @@ translate schinese chapter3_3e0e9f64:
 translate schinese chapter3_224cf543:
 
     # "불길의 흔적이 이어진 곳을 찬찬히 바라보며, 익숙한 장소를 찾아온 것처럼 발걸음을 옮겼다."
-    "凝视着火焰痕迹延伸的地方，像找到了熟悉的地方一样迈开脚步。"
+    "不紧不慢地凝视着火焰痕迹延伸的地方，像找到了熟悉的地方一样迈开脚步。"
 
 # game/chapter3.rpy:136
 translate schinese chapter3_16fecc88:
 
     # "실제로는 단 한 번도 와 본 적 없는 낯선 곳임에도 불구하고, 어딘가 정겨운 구석이 느껴지는 모습이었다."
-    "虽然是我一次也没有来过的陌生地方，但总觉得那里有一种很亲切的感觉。"
+    "虽然实际是我一次也没有来过的陌生地方，但总觉得那里有一种很亲切的感觉。"
 
 # game/chapter3.rpy:137
 translate schinese chapter3_0666619c:
@@ -428,7 +428,7 @@ translate schinese chapter3_851fcc06:
 translate schinese chapter3_39172550:
 
     # "아니, 어쩌면 ‘잘 지냈을까？’라고 묻는 것이 옳은 것일지도 모르겠다."
-    "不，也许问“这段时间过得好吗？”才是正确的。"
+    "不，也许问“现在过得好吗？”才是正确的。"
 
 # game/chapter3.rpy:174
 translate schinese chapter3_00cf9476:
