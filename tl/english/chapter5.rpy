@@ -8294,7 +8294,7 @@ translate english ecg11_label_64c74f60:
     # voice "voices/he83.ogg"
     # 현지 "“아, 선배. 그 유령은 어떻게 됐어요? 지금도 옆에 있어요?”"
     voice "voices/he83.ogg"
-    현지 "\"Ah, Senpai. What happened to the ghost? Is it still with you?\""
+    현지 "\"Ah, Senpai. What happened to the ghost? Is she still with you?\""
 
 # game/chapter5.rpy:3532
 translate english ecg11_label_914498d5:
@@ -8334,7 +8334,7 @@ translate english ecg11_label_cf15d5c1:
     # voice ""
     # 나 "“그게…… 사라졌어. 집에 돌아와도 안 보이더라고.”"
     voice ""
-    나 "\"Well... It disappeared. I couldn't see it even when I got home.\""
+    나 "\"Well... She disappeared. I couldn't see her even when I got home.\""
 
 # game/chapter5.rpy:3545
 translate english ecg11_label_52d00e0e:
@@ -8356,7 +8356,7 @@ translate english ecg11_label_72614163:
 translate english ecg11_label_d40ed6d1:
 
     # 나 "“어쩌면 그때 E구역에서 나랑 떨어지기로 마음먹었던 건 아닐까 생각해.”"
-    나 "\"I've been wondering if maybe it decided to leave me back when we were in E district.\""
+    나 "\"I've been wondering if maybe she decided to leave me back when we were in E district.\""
 
 # game/chapter5.rpy:3555
 translate english ecg11_label_6755ca5f:
@@ -8372,7 +8372,7 @@ translate english ecg11_label_5a03fa4b:
     # voice ""
     # 나 "“글쎄, 왜 그랬는지는 잘 모르겠지만. 그런 이야기를 했거든. 자신은 살인자였음에 틀림 없다고.”"
     voice ""
-    나 "\"Well, I'm not sure why, but it said that it was undoubtedly a murderer.\""
+    나 "\"Well, I'm not sure why, but she said that it was undoubtedly a murderer.\""
 
 # game/chapter5.rpy:3560
 translate english ecg11_label_bb83f6af:
@@ -8404,13 +8404,13 @@ translate english ecg11_label_e8ee47b4:
     # voice ""
     # 나 "“맞아. 화마가 다 태워버린 거라고 하면 되려나. 그래서인 것 같아.”"
     voice ""
-    나 "\"Right. Maybe it's because the flames burned everything. That's what I think happened.\""
+    나 "\"Right. Maybe she's because the flames burned everything. That's what I think happened.\""
 
 # game/chapter5.rpy:3568
 translate english ecg11_label_70eb1e6f:
 
     # 나 "“말없이 사라진 이유도 내가 더는 살인귀인 자신을 보지 않았으면 해서 나의 앞에서 사라진 게 아닐까, 그렇게 생각해…….”"
-    나 "\"And I think the reason it disappeared without a word is because it didn't want me to see it as a murderer anymore... That's what I think.\""
+    나 "\"And I think the reason she disappeared without a word is because she didn't want me to see her as a murderer anymore... That's what I think.\""
 
 # game/chapter5.rpy:3569
 translate english ecg11_label_2cfdee94:
