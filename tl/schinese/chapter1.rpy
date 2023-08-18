@@ -7232,7 +7232,7 @@ translate schinese chapter1_2_336e76ad:
     # voice "voices/ha48.ogg"
     # 현지 "“냉정한 게 아니라, 친절한 거라고 해야 할까요？”"
     voice "voices/ha48.ogg"
-    현지 "“应该不是冷情，而是亲切吗？”"
+    현지 "“应该不是冷情，而是温柔吗？”"
 
 # game/chapter1.rpy:3187
 translate schinese chapter1_2_afc22be7:
