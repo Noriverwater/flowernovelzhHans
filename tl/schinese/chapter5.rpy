@@ -48,7 +48,7 @@ translate schinese chapter5_5b98c595:
 translate schinese chapter5_d14462e9:
 
     # "주변을 살펴보던 나는, 이 철조망이 E구역 경계선을 가로지르고 있다는 것을 알아챌 수 있었다. "
-    "我环顾四周，发现这根铁丝网正好是E区的边界。"
+    "我环顾四周，能猜出这根铁丝网横跨了E区的边界线。"
 
 # game/chapter5.rpy:25
 translate schinese chapter5_ff45b533:
@@ -206,7 +206,7 @@ translate schinese chapter5_bb13245c:
 translate schinese chapter5_2ba67473:
 
     # 나 "“내일 곧장 세계가 멸망한다면 이런 모습이려나.”"
-    나 "“如果明天世界灭亡的话，会是这样吗？”"
+    나 "“如果明天世界灭亡的话，会是这样吗。”"
 
 # game/chapter5.rpy:85
 translate schinese chapter5_ea1b4c07:
@@ -436,7 +436,7 @@ translate schinese chapter5_35b47ee1:
 translate schinese chapter5_e2f54d9e:
 
     # "어딘가에 도착한 검은 고양이는 그리 높아 보이지 않는 펜스를 훌쩍 타고 그 안으로 넘어갔다. "
-    "到达某处的黑猫翻过了看起来不太高的栅栏，跳了进去。"
+    "到达某处的黑猫突然翻过了看起来不太高的栅栏，跳了进去。"
 
 # game/chapter5.rpy:185
 translate schinese chapter5_06b5f8ff:
@@ -448,7 +448,7 @@ translate schinese chapter5_06b5f8ff:
 translate schinese chapter5_b0462bcd:
 
     # "그리 멀지 않은 곳에서 출입구를 발견할 수 있었다. "
-    "入口就在不远处。"
+    "能发现出入口就在不远处。"
 
 # game/chapter5.rpy:191
 translate schinese chapter5_f2919f66:
