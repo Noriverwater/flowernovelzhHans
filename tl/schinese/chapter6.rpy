@@ -7132,7 +7132,7 @@ translate schinese ecg14_label_60be048e:
     # voice ""
     # 나 "“죽지 못했다는 건, 그런 이야기였구나.”"
     voice ""
-    나 "“‘没死’，原来是这样的意思。”"
+    나 "“‘竟然没死’，原来是这样的意思。”"
 
 # game/chapter6.rpy:2538
 translate schinese ecg14_label_00c53602:
