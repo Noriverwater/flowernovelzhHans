@@ -1050,13 +1050,13 @@ translate schinese chapter7_3110ecb5:
 translate schinese chapter7_7aa13a49:
 
     # "나는 그런 소녀를 멍하니 바라볼 뿐이었다. "
-    "我只是呆呆地看着她。"
+    "我只是呆呆地看着她那样做。"
 
 # game/chapter7.rpy:441
 translate schinese chapter7_fadc71ae:
 
     # "얼마 지나지 않아 모습을 드러낸 소녀가 내게 손을 흔들어 보이며 위치를 알렸다. "
-    "没过多久，少女向我挥手示意。"
+    "没过多久，少女就出现了，向我挥手示意她所在的位置。"
 
 # game/chapter7.rpy:442
 translate schinese chapter7_3a42312f:
@@ -1084,7 +1084,7 @@ translate schinese chapter7_08a88a0e:
 translate schinese chapter7_7f800265:
 
     # "조금씩, 심장박동이 빨라지는 것이 느껴졌다. "
-    "一点一点，感觉心跳加快。"
+    "一点一点，感觉心跳加快了。"
 
 # game/chapter7.rpy:450
 translate schinese chapter7_46e2d33d:
@@ -1092,7 +1092,7 @@ translate schinese chapter7_46e2d33d:
     # voice "voices/gg33.ogg"
     # 소녀 "“저…… 잘 받아 줘야 해요?!”"
     voice "voices/gg33.ogg"
-    소녀 "“……要好好接住我？！”"
+    소녀 "“要好好接住……我？！”"
 
 # game/chapter7.rpy:452
 translate schinese chapter7_b6ebfecf:
@@ -1100,7 +1100,7 @@ translate schinese chapter7_b6ebfecf:
     # voice ""
     # 나 "“알겠어―――”"
     voice ""
-    나 "“知道了——”"
+    나 "“知道了―――”"
 
 # game/chapter7.rpy:455
 translate schinese chapter7_6c6253a3:
@@ -1142,19 +1142,19 @@ translate schinese chapter7_8d5771bd:
 translate schinese chapter7_88243e40:
 
     # "걱정은 마치 기우였다는 듯, 공주님처럼 내게 안긴 소녀가 조금은 부끄러운 듯 얼굴을 붉힌다. "
-    "之前的担心就像是杞人忧天一样，少女看到我用出了公主抱，脸都红了。"
+    "之前的担心就像杞人忧天，少女像公主一样依偎在我身边，脸微微泛红，似乎有些不好意思。"
 
 # game/chapter7.rpy:475
 translate schinese chapter7_dd8a5812:
 
     # "하지만 소녀는 그 자세가 마음에 들었는지, 그대로 눈을 감고선 자신에게 이어질 목소리를 가만히 기다린다. "
-    "少女可能很喜欢这个姿势，闭着眼睛静静地等待着属于自己的声音出现。"
+    "少女可能很喜欢这个姿势，闭着眼睛静静地等待着与她自己相连的声音出现。"
 
 # game/chapter7.rpy:476
 translate schinese chapter7_413f3eb5:
 
     # "그러자 익숙한 목소리가 나를 부르고, 담쟁이덩굴처럼 뻗어 나온 운명의 실이 소녀와 이어진다. "
-    "熟悉的声音呼唤我，像爬山虎一样伸出的命运之线与少女相连。"
+    "然后熟悉的声音呼唤着我，像常春藤一样伸出的命运之线与少女相连。"
 
 # game/chapter7.rpy:477
 translate schinese chapter7_42274373:
@@ -1392,13 +1392,13 @@ translate schinese chapter7_df712e74:
 translate schinese chapter7_fffafd51:
 
     # "소녀가 아직 사라지지 않고, 나의 앞에 존재한다는 사실이. "
-    "少女还没有在我面前消失。"
+    "少女还没有在我面前消失，还存在于我的面前的事实。"
 
 # game/chapter7.rpy:573
 translate schinese chapter7_263195cd:
 
     # "우스울 정도로, 그리고 한편으로는 한심할 정도로 기뻤다. "
-    "高兴得可笑而又可悲。"
+    "让我高兴得可笑，同时又可悲。"
 
 # game/chapter7.rpy:574
 translate schinese chapter7_9110d4a2:
@@ -1510,13 +1510,13 @@ translate schinese chapter7_1a4bc468:
 translate schinese chapter7_badcc122:
 
     # "조금이나마 생각이 쌓이려는 기미가 보이면, 그 생각의 조각들은 금세 바람에 불려 날아갈 뿐이었다. "
-    "即使想起了一点线索，那些想法的碎片也很快就会被风吹走。"
+    "即使想起了一点点线索，那些想法的碎片也很快就会被风吹走。"
 
 # game/chapter7.rpy:616
 translate schinese chapter7_49191de9:
 
     # "소녀가 잠깐이나마 사라졌다고 착각했던 그 순간의 일이, 머릿속에서 날카로운 바람이 되어 생각의 조각을 산산이 흩날렸다. "
-    "误以为少女暂时消失的那一瞬间，在脑海中变成了凛冽的风，把思想的碎片都吹散了。"
+    "误以为少女暂时消失的那一瞬间，在脑海中变成了凛冽的风，将我的思绪吹得支离破碎。"
 
 # game/chapter7.rpy:617
 translate schinese chapter7_62cdfd47:
@@ -1610,7 +1610,7 @@ translate schinese chapter7_86a04c05:
     # voice ""
     # "소녀의 말을 곧이곧대로 받아들이지 못한 나는, 힐긋 고개를 돌려 그녀가 바라보고 있던 곳으로 시선을 향한다. "
     voice ""
-    "没能理解少女的话的我，微微转过头，看向她所望着的地方。"
+    "没能理解少女的话的我，微微转过头，把目光投向了她看的地方。"
 
 # game/chapter7.rpy:660
 translate schinese chapter7_bd57322e:
@@ -1656,7 +1656,7 @@ translate schinese chapter7_8d527964:
     # voice ""
     # "바람에 뒤섞여, 소녀의 목소리가 들려온다. "
     voice ""
-    "风中夹杂着少女的声音。"
+    "混杂在风中，少女的声音传到我耳边。"
 
 # game/chapter7.rpy:675
 translate schinese chapter7_2cd96262:
@@ -1678,7 +1678,7 @@ translate schinese chapter7_4820c7b1:
     # voice ""
     # "한쪽 어깨에, 소녀의 체중이 실린다. "
     voice ""
-    "一侧肩膀上承载着着少女的体重。"
+    "一侧肩膀上，承载着着少女的体重。"
 
 # game/chapter7.rpy:682
 translate schinese chapter7_9ff56ef5:
