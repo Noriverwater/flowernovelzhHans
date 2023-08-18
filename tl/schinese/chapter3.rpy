@@ -2620,7 +2620,7 @@ translate schinese chapter3_045b3827:
 translate schinese chapter3_e8264a51:
 
     # "기억에 남아있는 멜로디가 다 연주 되었을 때쯤, 소녀는 오컬트부실에서 보았던 그 편안한 얼굴을 한 채 새근새근 잠에 들어 있었다."
-    "当记忆中的旋律已经唱完时，少女已经像在超自然部室里见过的那张平静的脸一样睡熟了。"
+    "当记忆中的旋律已经唱完时，少女已经像在超自然部活动室里见过的那张平静的脸一样睡熟了。"
 
 # game/chapter3.rpy:938
 translate schinese chapter3_d6cf2ea2:

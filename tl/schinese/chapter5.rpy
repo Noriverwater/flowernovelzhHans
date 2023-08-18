@@ -1360,7 +1360,7 @@ translate schinese chapter5_22fe603d:
     # voice ""
     # 나 "“아니. 그때 네가 오컬트부실에서 봤던 상자처럼 생긴 기계, 기억나？”"
     voice ""
-    나 "“不。你记得那时候在超自然部室看到的像微波炉一样的机器吗？”"
+    나 "“不。你记得那时候在超自然部活动室看到的像微波炉一样的机器吗？”"
 
 # game/chapter5.rpy:581
 translate schinese chapter5_38adb0c1:
@@ -1660,7 +1660,7 @@ translate schinese chapter5_5a1ab5e2:
     # voice "voices/ge45.ogg"
     # 소녀 "“그렇지만 아까, 제가 부실에서 봤던 기계가 유령을 소멸시키는 데에 쓰인다고 말했잖아요. 그렇다는 건, 예전부터 이런 일이 있을 걸 알고 있었다는 거 아닌가요？”"
     voice "voices/ge45.ogg"
-    소녀 "“但是，你之前不是提到过，我在部室中看到的机器是用来消灭幽灵的嘛。那不是说你早就知道会有这样的事情吗？”"
+    소녀 "“但是，你之前不是提到过，我在活动室中看到的机器是用来消灭幽灵的嘛。那不是说你早就知道会有这样的事情吗？”"
 
 # game/chapter5.rpy:672
 translate schinese chapter5_c4aef8a0:
@@ -8234,13 +8234,13 @@ translate schinese ecg11_label_f21a7e91:
 translate schinese ecg11_label_cf09be93:
 
     # "2층 복도 맨 끝에 위치한 오컬트부 부실로 들어서자, 나를 기다리고 있던 현지가 내게 반가이 인사를 건넸다. "
-    "进入2楼走廊尽头的超自然部室，等待我的贤智高兴地向我打招呼。"
+    "进入2楼走廊尽头的超自然部活动室，等待我的贤智高兴地向我打招呼。"
 
 # game/chapter5.rpy:3511
 translate schinese ecg11_label_7e900421:
 
     # "내가 병원에 있는 동안 부실은 학예제를 위한 단장을 어느 정도 끝마치고 마무리 단계만을 남겨 둔 것으로 보였다. "
-    "我在医院的时候，部室一定程度上结束了为学艺祭的装潢工作，只剩下收尾环节。"
+    "我在医院的时候，活动室室一定程度上结束了为学艺祭的装潢工作，只剩下收尾环节。"
 
 # game/chapter5.rpy:3513
 translate schinese ecg11_label_6415eda7:
@@ -8262,7 +8262,7 @@ translate schinese ecg11_label_2c41bb51:
     # voice ""
     # 나 "“그래도 부실 꾸미는 것 정도는 무리 없이 할 수 있는데.”"
     voice ""
-    나 "“即便如此，部室的装饰工作并不是不能完成。”"
+    나 "“即便如此，活动室的装饰工作并不是不能完成。”"
 
 # game/chapter5.rpy:3521
 translate schinese ecg11_label_05597b98:
@@ -8270,7 +8270,7 @@ translate schinese ecg11_label_05597b98:
     # voice "voices/he82.ogg"
     # 현지 "“저도 부실 꾸미는 것 정도는 혼자서도 무리 없이 할 수 있다고요.”"
     voice "voices/he82.ogg"
-    현지 "“我一个人也能毫不费力地完成装饰部室的事。”"
+    현지 "“我一个人也能毫不费力地完成装饰活动室的事。”"
 
 # game/chapter5.rpy:3524
 translate schinese ecg11_label_59b716be:
@@ -8856,5 +8856,5 @@ translate schinese ecg11_label_9a4c254c:
 translate schinese ecg11_label_df354a9f:
 
     # "부실을 꾸미는 일도 다 끝났기에, 나는 슬그머니 문을 열고 복도로 발걸음을 내디뎠다. "
-    "部室的装饰工作也做完了，我悄悄地开门向走廊走去。"
+    "活动室的装饰工作也做完了，我悄悄地开门向走廊走去。"
 

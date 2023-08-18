@@ -76,7 +76,7 @@ translate schinese chapter4_5ebd0fbe:
 translate schinese chapter4_90ce70b8:
 
     # "오컬트부실 구석에 놓여있던, 소녀가 내게 물어본 적 있는 바로 그 ‘{color=#00ccff}텔레이도스코프{/color}’라 이름 붙여진 기계였다."
-    "在超自然部室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
+    "在超自然部活动室的角落里，那个少女问过我的那个名叫“{color=#00ccff}远华镜（Teleidoscope）{/color}”的机器。"
 
 # game/chapter4.rpy:37
 translate schinese chapter4_d30675b6:
@@ -328,7 +328,7 @@ translate schinese chapter4_442c3cd5:
 translate schinese chapter4_1ec9cf27:
 
     # "만화경 같은 빛이 눈앞을 스쳐 지나갔다."
-    "万华镜般的光芒掠过眼前。"
+    "万花筒般的光芒掠过眼前。"
 
 # game/chapter4.rpy:147
 translate schinese chapter4_bce67efe:
@@ -478,7 +478,7 @@ translate schinese chapter4_aef0c093:
     # voice "voices/hd15.ogg"
     # 현지 "“부실 분위기가 되게 좋네요. 인테리어는 직접 꾸민 거죠？”"
     voice "voices/hd15.ogg"
-    현지 "“部室的气氛很好啊。室内装饰是你亲自布置的吧？”"
+    현지 "“活动室的气氛很好啊。室内装饰是你亲自布置的吧？”"
 
 # game/chapter4.rpy:225
 translate schinese chapter4_6518a773:
@@ -508,7 +508,7 @@ translate schinese chapter4_fa4a6249:
 translate schinese chapter4_2a733c8f:
 
     # "부실을 둘러보며 가벼운 이야기로 떠들썩한 현지와는 달리, 나는 그녀의 말에 어색한 맞장구만을 치고 있을 뿐이었다."
-    "与正打量着部室，因无关紧要的话而喧哗的贤智不同，我只是不自然地附和着她的话而已。"
+    "与正打量着活动室，因无关紧要的话而喧哗的贤智不同，我只是不自然地附和着她的话而已。"
 
 # game/chapter4.rpy:233
 translate schinese chapter4_4352ec14:
@@ -798,7 +798,7 @@ translate schinese chapter4_c8d6d86e:
 translate schinese chapter4_b57d2832:
 
     # "여름 방학이 끝나고 열릴 학예제를 준비하기 위해 부실에 모인 나와 현지는, 어째서인지 둘 사이에선 아무런 접점도 보이지 않는 인형 만들기에 열심이었다."
-    "为了准备暑假结束后举行的学艺祭，我和贤智聚在部室里，不知为什么两人都热衷于制作看不出任何共同点的人偶。"
+    "为了准备暑假结束后举行的学艺祭，我和贤智聚在活动室里，不知为什么两人都热衷于制作看不出任何共同点的人偶。"
 
 # game/chapter4.rpy:354
 translate schinese chapter4_42174d73:
@@ -1316,7 +1316,7 @@ translate schinese chapter4_6caf621d:
 translate schinese chapter4_519b57bf:
 
     # "그렇다면, 오컬트부에서 현지를 처음 만났을 때 말했던 ‘유체 이탈을 하고 싶어’라는 소원은 이렇게 이뤄지게 된 걸까. "
-    "那么，在超自然部室第一次见到贤智时所说的“想灵魂出窍”的愿望就这样实现了吗？"
+    "那么，在超自然部活动室第一次见到贤智时所说的“想灵魂出窍”的愿望就这样实现了吗？"
 
 # game/chapter4.rpy:587
 translate schinese chapter4_7798232e:
@@ -1798,7 +1798,7 @@ translate schinese chapter4_1390fe9e:
     # voice "voices/hd69.ogg"
     # 현지 "“음…… 역시 부실에 놔두는 편이 안전하겠네요. 선배가 케이블 좀 뽑아올 수 있나요？”"
     voice "voices/hd69.ogg"
-    현지 "“嗯……还是放在部室比较安全。前辈能帮我拔一下电缆吗？”"
+    현지 "“嗯……还是放在活动室比较安全。前辈能帮我拔一下电缆吗？”"
 
 # game/chapter4.rpy:812
 translate schinese chapter4_d7eacddc:
@@ -1806,7 +1806,7 @@ translate schinese chapter4_d7eacddc:
     # voice ""
     # "텔레이도스코프를 챙겨 오컬트부 부실에 놓아두고는, 근처 식당으로 향했다. "
     voice ""
-    "我收拾了远华镜并把它放在超自然部室，向附近的食堂走去。"
+    "我收拾了远华镜并把它放在超自然部活动室动室，向附近的食堂走去。"
 
 # game/chapter4.rpy:815
 translate schinese chapter4_54e805fe:

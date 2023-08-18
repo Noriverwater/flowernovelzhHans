@@ -4295,7 +4295,7 @@ translate schinese chapter7_3ef24d01:
     # voice "voices/hg9.ogg"
     # 현지 "“지금 바로 오컬트부실로 와 줄 수 있어요?”"
     voice "voices/hg9.ogg"
-    현지 "“现在能马上来超自然部室吗？”"
+    현지 "“现在能马上来超自然部活动室吗？”"
 
 # game/chapter7.rpy:1917
 translate schinese chapter7_14c94d95:
@@ -4405,7 +4405,7 @@ translate schinese chapter7_cfbf157c:
 translate schinese chapter7_1e041391:
 
     # "오컬트부실에 도착해 문을 열고선 안을 살폈다. "
-    "到了超自然部室，打开门往里面看。"
+    "到了超自然部活动室，打开门往里面看。"
 
 # game/chapter7.rpy:1964
 translate schinese chapter7_72c021a4:
@@ -4433,7 +4433,7 @@ translate schinese chapter7_6ddcf6d0:
     # voice ""
     # "나와 함께 오컬트부실 안을 살피던 소녀가 그렇게 말하며 안으로 들어섰다. "
     voice ""
-    "和我一起看着超自然部室的少女说道，走进了里面。"
+    "和我一起看着超自然部活动室的少女说道，走进了里面。"
 
 # game/chapter7.rpy:1973
 translate schinese chapter7_66ceb903:
@@ -4451,7 +4451,7 @@ translate schinese chapter7_a54ee0ad:
 translate schinese chapter7_430a8c22:
 
     # "5분여 정도가 지났을까, 마치 초자연현상이 일어나듯, 덜컥하는 소리와 함께 부실 문이 열렸다. "
-    "过了5分钟左右，就像发生了超自然现象一样，随着哐当一声部室门被打开了。"
+    "过了5分钟左右，就像发生了超自然现象一样，随着哐当一声活动室门被打开了。"
 
 # game/chapter7.rpy:1981
 translate schinese chapter7_4772a820:
@@ -4995,7 +4995,7 @@ translate schinese chapter7_c52a9e92:
     # voice "voices/hg29_2.ogg"
     # 현지 "“요컨대 이 부실이라거나, 제가 손대지 않은 탁상 위의 인형 같은 것들요.”"
     voice "voices/hg29_2.ogg"
-    현지 "“总之，就像这个部室，或者我没有碰过桌子上的人偶之类的。”"
+    현지 "“总之，就像这个活动室，或者我没有碰过桌子上的人偶之类的。”"
 
 # game/chapter7.rpy:2197
 translate schinese chapter7_41eea804:
@@ -5441,7 +5441,7 @@ translate schinese chapter7_0c9082fd:
 translate schinese chapter7_5b36e51c:
 
     # "오컬트부실을 나온 나는 소녀와 함께 유미가 있을 법한 장소로 향했다. "
-    "走出超自然部室，我和少女一起走向了优美所在的地方。"
+    "走出超自然部活动室，我和少女一起走向了优美所在的地方。"
 
 # game/chapter7.rpy:2384
 translate schinese chapter7_a1283fec:

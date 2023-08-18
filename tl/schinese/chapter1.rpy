@@ -5141,20 +5141,20 @@ translate schinese chapter1_2_c0c1c5fa:
 translate schinese chapter1_2_8f3c88e3:
 
     # "내가 소녀와 함께 도착한 곳은 오컬트부실이었다."
-    "我和少女一起到达的地方是超自然部室。"
+    "我和少女一起到达的地方是超自然部活动室。"
 
 # game/chapter1.rpy:2338
 translate schinese chapter1_2_164dc3b4:
 
     # "여태껏 바닥을 향해 얼굴을 파묻고 있던 소녀는 드디어 고개를 들고선 오컬트부실이 신기한 듯 주변을 이리저리 살폈다."
-    "一直把脸埋在地板上的少女终于抬起头来，似乎好奇地到处环顾超自然部室的周围。"
+    "一直把脸埋在地板上的少女终于抬起头来，似乎好奇地到处环顾超自然部活动室的周围。"
 
 # game/chapter1.rpy:2339
 translate schinese chapter1_2_41977050:
 
     # "내 멋대로 꾸민 오컬트부실은 다른 교실과는 달리 제법 아날로그틱한 분위기를 자아내고 있었다."
     # Analogue
-    "我随便收拾的超自然部室与其他教室不同，营造出相当质朴的氛围。"
+    "我随便收拾的超自然部活动室与其他教室不同，营造出相当质朴的氛围。"
 
 # game/chapter1.rpy:2346
 translate schinese chapter1_2_a8075fe6:
@@ -5406,7 +5406,7 @@ translate schinese chapter1_2_22a0b08a:
     # voice ""
     # "소녀는 시선을 돌려 오컬트부실의 반대편을 둘러보았다."
     voice ""
-    "少女掉转视线，看向了超自然部室的另一边。"
+    "少女掉转视线，看向了超自然部活动室的另一边。"
 
 # game/chapter1.rpy:2420
 translate schinese chapter1_2_43de8cdb:
@@ -5462,7 +5462,7 @@ translate schinese chapter1_2_4a4bf797:
 translate schinese chapter1_2_de0383a2:
 
     # "아무래도 오컬트부실 특유의 아날로그틱한 분위기가 그녀의 마음에 들었는지, 소녀는 그 뒤로도 주변을 찬찬히 둘러보았다."
-    "或许是喜欢超自然部室特有的质朴气氛吧，这之后少女仔细地观察了四周。"
+    "或许是喜欢超自然部活动室特有的质朴气氛吧，这之后少女仔细地观察了四周。"
 
 # game/chapter1.rpy:2451
 translate schinese chapter1_2_c1c095af:
@@ -5508,7 +5508,7 @@ translate schinese chapter1_2_41b68fe5:
 translate schinese chapter1_2_222e9bcc:
 
     # "소녀는 부실 구석에 놓여있던 전자레인지 정도 크기의 물체를 가리키고 있었다."
-    "少女指着放在部室角落里的一个微波炉大小的物体。"
+    "少女指着放在部活动室角落里的一个微波炉大小的物体。"
 
 # game/chapter1.rpy:2465
 translate schinese chapter1_2_0260de06:
@@ -5660,7 +5660,7 @@ translate schinese chapter1_2_83a4a7ea:
 translate schinese chapter1_2_9b6f905c:
 
     # "소녀를 맴돌던 음침한 분위기가 오컬트부실 특유의 분위기와 맞물려 그림자를 이룬다."
-    "萦绕在少女周围的阴郁气息，与超自然部室特有的气氛相契合，成为一体。"
+    "萦绕在少女周围的阴郁气息，与超自然部活动室特有的气氛相契合，成为一体。"
 
 # game/chapter1.rpy:2527
 translate schinese chapter1_2_652a61b2:
@@ -6082,13 +6082,13 @@ translate schinese chapter1_2_f296d680:
 translate schinese chapter1_2_4e5f635f:
 
     # "나는 부실 밖으로 발걸음을 옮겼다."
-    "我把脚步移到了部室外。"
+    "我把脚步移到了活动室外。"
 
 # game/chapter1.rpy:2691
 translate schinese chapter1_2_632bca07:
 
     # "오컬트부실 옆 화장실에서 핏자국을 닦아내고 복도를 걸어오던 나는, 부실 앞에서 익숙한 사람 한 명을 발견할 수 있었다."
-    "在超自然部室旁边的卫生间擦掉血迹后，走在走廊上的我在部室前发现了一个熟悉的人。"
+    "在超自然部活动室旁边的卫生间擦掉血迹后，走在走廊上的我在活动室前发现了一个熟悉的人。"
 
 # game/chapter1.rpy:2693
 translate schinese chapter1_2_90172f75:
@@ -6102,7 +6102,7 @@ translate schinese chapter1_2_62172ebe:
     # voice "voices/ha5.ogg"
     # 현지 "“어라. 거기 있었네요, 선배. 부실 안에 있을 줄 알았는데.”"
     voice "voices/ha5.ogg"
-    현지 "“哎，原来在那里啊，前辈。还以为在部室里面呢。”"
+    현지 "“哎，原来在那里啊，前辈。还以为在活动室里面呢。”"
 
 # game/chapter1.rpy:2697
 translate schinese chapter1_2_69eb2592:
@@ -6110,7 +6110,7 @@ translate schinese chapter1_2_69eb2592:
     # voice ""
     # "같이 하교하기 위해 교실에서 찾았을 땐 보이지 않았던 현지가 자신의 휴대용 태블릿을 만지작거리며 오컬트부실 문 앞에서 서성이고 있었다."
     voice ""
-    "本来打算一起放学，去教室时却找不到的贤智，现在正抚摸着自己的平板电脑在超自然部室门前徘徊。"
+    "本来打算一起放学，去教室时却找不到的贤智，现在正抚摸着自己的平板电脑在超自然部活动室门前徘徊。"
 
 # game/chapter1.rpy:2700
 translate schinese chapter1_2_8f04d464:
@@ -6164,13 +6164,13 @@ translate schinese chapter1_2_58b336d3:
     # voice ""
     # "나의 외침이 무색하게도, 현지는 이미 부실의 문을 연 뒤였다."
     voice ""
-    "让我的呐喊感到丢脸的是，贤智已经打开了部室的门。"
+    "让我的呐喊感到丢脸的是，贤智已经打开了活动室的门。"
 
 # game/chapter1.rpy:2724
 translate schinese chapter1_2_7fc186f9:
 
     # "급히 현지를 가로막고는 오컬트부실 안을 살폈는데."
-    "我连忙挡住贤智，朝超自然部室里看去。"
+    "我连忙挡住贤智，朝超自然部活动室里看去。"
 
 # game/chapter1.rpy:2726
 translate schinese chapter1_2_4ff63118_1:
@@ -6210,7 +6210,7 @@ translate schinese chapter1_2_92c1c9ab:
 translate schinese chapter1_2_30878384:
 
     # "오컬트부실 안으로 발걸음을 내디뎠지만, 아무런 인기척도 느껴지지 않았다."
-    "虽然走进了超自然部室，却感觉不到任何人的动静。"
+    "虽然走进了超自然部活动室，却感觉不到任何人的动静。"
 
 # game/chapter1.rpy:2737
 translate schinese chapter1_2_a7731e2d:
@@ -6238,7 +6238,7 @@ translate schinese chapter1_2_068bf3c8:
     # voice ""
     # "내가 소녀를 발견한 곳은 부실 한편에 놓인 책상 뒤쪽에서였다."
     voice ""
-    "我在部室另一侧的桌子后面找到了少女。"
+    "我在活动室另一侧的桌子后面找到了少女。"
 
 # game/chapter1.rpy:2746
 translate schinese chapter1_2_37b2aeeb:
@@ -6306,7 +6306,7 @@ translate schinese chapter1_2_e2eda789:
     # voice ""
     # "현지의 목소리가 가까워지자, 소녀는 허둥지둥하는 기색을 보이며 급히 오컬트부실 맨 구석 모퉁이로 반쯤 기어가듯 향했다."
     voice ""
-    "随着贤智的声音越来越近，少女以慌慌张张的样子急忙爬向了超自然部室的角落。"
+    "随着贤智的声音越来越近，少女以慌慌张张的样子急忙爬向了超自然部活动室的角落。"
 
 # game/chapter1.rpy:2767
 translate schinese chapter1_2_b148c4d6:
@@ -6378,7 +6378,7 @@ translate schinese chapter1_2_e373bef0:
 translate schinese chapter1_2_a59b12ce:
 
     # "하지만 현지는 이번에도 나를 이해한다는 표정과 함께 부실 밖으로 자리를 옮겼다."
-    "但这一次，贤智也带着理解我的表情同时去了部室外面。"
+    "但这一次，贤智也带着理解我的表情同时去了活动室外面。"
 
 # game/chapter1.rpy:2800
 translate schinese chapter1_2_eed80de9:
@@ -6400,7 +6400,7 @@ translate schinese chapter1_2_3b64241e:
     # voice ""
     # "나는 부실에 홀로 남아있을 소녀에게, 조심스레 말을 건넸다."
     voice ""
-    "面对单独留在部室里的少女，我小心翼翼地说。"
+    "面对单独留在活动室里的少女，我小心翼翼地说。"
 
 # game/chapter1.rpy:2805
 translate schinese chapter1_2_b0c4b7c4:
@@ -6430,7 +6430,7 @@ translate schinese chapter1_2_f2673879:
 translate schinese chapter1_2_8bc23f8f:
 
     # "일단은 소녀를 뒤로 한 채, 나는 현지를 따라 부실 밖으로 발걸음을 옮겼다."
-    "把少女抛在身后，我跟着贤智向部室外走去。"
+    "把少女抛在身后，我跟着贤智向活动室外走去。"
 
 # game/chapter1.rpy:2825
 translate schinese chapter1_2_5140cfcf:
@@ -6480,7 +6480,7 @@ translate schinese chapter1_2_38f52dca:
 translate schinese chapter1_2_8c9502ea:
 
     # 나 "“그러는 너는, 이 시간에 동아리 부실에는 왜 온 거야？”"
-    나 "“那你呢，怎么这个时候来社团部室了？”"
+    나 "“那你呢，怎么这个时候来社团活动室了？”"
 
 # game/chapter1.rpy:2847
 translate schinese chapter1_2_e2c0c416:
@@ -6598,7 +6598,7 @@ translate schinese chapter1_2_5d9082ac:
     # voice "voices/ha20.ogg"
     # 현지 "“그래서, 부실에서는 무슨 일이 있었던 건가요？”"
     voice "voices/ha20.ogg"
-    현지 "“所以，部室里发生了什么？”"
+    현지 "“所以，活动室里发生了什么？”"
 
 # game/chapter1.rpy:2908
 translate schinese chapter1_2_620635a1:
@@ -6712,7 +6712,7 @@ translate schinese chapter1_2_2c4bcb43:
 translate schinese chapter1_2_63914d8e:
 
     # 나 "“아, 그래서 말인데. 오컬트부실엔 웬일이었어？”"
-    나 "“啊，所以我的意思是，超自然部室是什么回事？”"
+    나 "“啊，所以我的意思是，超自然部活动室是什么回事？”"
 
 # game/chapter1.rpy:2970
 translate schinese chapter1_2_5e0ce4f1:
@@ -7072,7 +7072,7 @@ translate schinese chapter1_2_c288d86c:
 translate schinese chapter1_2_3cd1e42b:
 
     # 나 "“먼저 들어가. 난 부실에 들렀다가 그 유령 여자애랑 같이 갈 테니까.”"
-    나 "“你先回去吧。我要去一趟部室，然后和那个幽灵少女一起回家。”"
+    나 "“你先回去吧。我要去一趟活动室，然后和那个幽灵少女一起回家。”"
 
 # game/chapter1.rpy:3133
 translate schinese chapter1_2_cc7c87c6:
@@ -7268,13 +7268,13 @@ translate schinese chapter1_2_ac6aebee:
 translate schinese chapter1_2_f66583b7:
 
     # "오컬트부실로 돌아왔을 땐, 소녀의 모습을 곧바로 찾을 수 있었다."
-    "回到超自然部室时，就能找到少女的身影。"
+    "回到超自然部活动室时，就能找到少女的身影。"
 
 # game/chapter1.rpy:3215
 translate schinese chapter1_2_e68cc7ef:
 
     # "유령 소녀는 부실 한편의 의자에 앉아, 테루테루인형을 품에 안은 채 새근새근 잠들어 있었다."
-    "幽灵少女坐在部室的一张椅子上，抱着一个晴天娃娃，安静地睡着了。"
+    "幽灵少女坐在活动室的一张椅子上，抱着一个晴天娃娃，安静地睡着了。"
 
 # game/chapter1.rpy:3217
 translate schinese chapter1_2_82b94fb0:
@@ -7330,7 +7330,7 @@ translate schinese chapter1_2_a1b11988:
 translate schinese chapter1_2_689e162a:
 
     # "부실 밖으로 나오려는데, 자리에서 일어난 소녀가 머뭇대며 발걸음을 옮기지 않고 있었다."
-    "正打算走出部室时，却发现从座位上站起来的少女踌躇不前。"
+    "正打算走出活动室时，却发现从座位上站起来的少女踌躇不前。"
 
 # game/chapter1.rpy:3240
 translate schinese chapter1_2_b691f7e2:

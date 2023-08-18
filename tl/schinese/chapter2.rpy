@@ -132,7 +132,7 @@ translate schinese chapter2_146b329e:
 translate schinese chapter2_49b1748f:
 
     # "집에 도착한 소녀가 가장 먼저 한 일은 오컬트부실에서 그랬던 것처럼, 주변을 이리저리 살피는 것이었다."
-    "少女到家后做的第一件事就是打量四周，就像在超自然部室里一样。"
+    "少女到家后做的第一件事就是打量四周，就像在超自然部活动室里一样。"
 
 # game/chapter2.rpy:96
 translate schinese chapter2_4a63bb43:
@@ -161,7 +161,7 @@ translate schinese chapter2_7823077e:
     # voice "voices/gb4.ogg"
     # 소녀 "“…… 오컬트부실이랑 비슷한 분위기네요.”"
     voice "voices/gb4.ogg"
-    소녀 "“……和超自然部室的氛围很像呢。”"
+    소녀 "“……和超自然部活动室的氛围很像呢。”"
 
 # game/chapter2.rpy:112
 translate schinese chapter2_04f388ff:
@@ -1067,13 +1067,13 @@ translate schinese chapter2_ac02d759:
 translate schinese chapter2_ac356822:
 
     # "아까 전, 오컬트부실에서 보았던 것처럼―"
-    "就像我之前在超自然部室里看到的——"
+    "就像我之前在超自然部活动室里看到的——"
 
 # game/chapter2.rpy:496
 translate schinese chapter2_7ada6ef6:
 
     # 나 "“아, 맞다. 그러고 보니 아까 오컬트부실에서 있었던 일 말인데.”"
-    나 "“啊，对了。刚才在超自然部室里发生的事。”"
+    나 "“啊，对了。刚才在超自然部活动室里发生的事。”"
 
 # game/chapter2.rpy:498
 translate schinese chapter2_8a420edf:
@@ -1463,7 +1463,7 @@ translate schinese chapter2_ea5e0f6b:
 translate schinese chapter2_65c96191:
 
     # "낮에 오컬트부실에서 보았던 새근새근 잠들어 있는 소녀의 모습이 얼핏 떠오른다. "
-    "这让我想起了白天在超自然部室里看到的那个昏昏欲睡的少女。"
+    "这让我想起了白天在超自然部活动室里看到的那个昏昏欲睡的少女。"
 
 # game/chapter2.rpy:658
 translate schinese chapter2_d3fd2282:
