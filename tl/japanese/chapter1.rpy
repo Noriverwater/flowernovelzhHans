@@ -7198,7 +7198,7 @@ translate japanese chapter1_2_ae76c041:
     # voice "voices/ha46.ogg"
     # 현지 "“흐음, 냉정하시네요.”"
     voice "voices/ha46.ogg"
-    현지 "「ふむ、冷静だね。」"
+    현지 "「ふむ、冷徹だね。」"
 
 # game/chapter1.rpy:3180
 translate japanese chapter1_2_b96d4244:
@@ -7230,7 +7230,7 @@ translate japanese chapter1_2_336e76ad:
     # voice "voices/ha48.ogg"
     # 현지 "“냉정한 게 아니라, 친절한 거라고 해야 할까요?”"
     voice "voices/ha48.ogg"
-    현지 "「冷静じゃなくて、優しいって言った方がいいかな？」"
+    현지 "「冷徹じゃなくて、優しいって言った方がいいかな？」"
 
 # game/chapter1.rpy:3189
 translate japanese chapter1_2_afc22be7:
