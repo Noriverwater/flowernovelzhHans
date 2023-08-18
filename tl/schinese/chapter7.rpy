@@ -11941,7 +11941,7 @@ translate schinese chapter7_2_8f24ee11:
 translate schinese chapter7_2_a4e6aa0e:
 
     # 나o "“여태껏 한 것도 없으면서, 여기까지 올라온 건 순전히 내 덕분이잖아?”"
-    나o "“到目前为止你们明明什么都没干，能走到这里不就纯粹是托我的福吗？”"
+    나o "“你们明明什么都没干，能走到这里不就纯粹是托我的福吗？”"
 
 # game/chapter7.rpy:5050
 translate schinese chapter7_2_ee28f093:
