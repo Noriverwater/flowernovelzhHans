@@ -2623,7 +2623,7 @@ translate schinese chapter7_6d0b80dd:
 translate schinese chapter7_6e124b78:
 
     # "굳이 말을 꺼내지 않아도, ‘왜 그래요?’라고 걱정스레 묻는 듯한 그 표정 말이다. "
-    "即使不说出来，也分明是“怎么了？”的表情。"
+    "即使不说出来，也像是担心地问“怎么了？”的表情。"
 
 # game/chapter7.rpy:1101
 translate schinese chapter7_152032a7:
@@ -2703,13 +2703,13 @@ translate schinese chapter7_0b42c5c5:
 translate schinese chapter7_a06c6874:
 
     # "그런 소녀의 시선이, 정말 지금이 꿈일지도 모르겠다는 생각을 문득 들게 했다. "
-    "少女的眼神，让我更加确信实在做梦。"
+    "那少女的视线，让我一下子明白了，可能真的是一场梦。"
 
 # game/chapter7.rpy:1145
 translate schinese chapter7_6d0f821a:
 
     # "잠시 후면 깨어나야 할, 길었던 꿈 말이다."
-    "这是一会儿就要醒来的，漫长的梦。"
+    "是一会儿就要醒来的，漫长的梦。"
 
 # game/chapter7.rpy:1147
 translate schinese chapter7_4f7304db:
@@ -2785,7 +2785,7 @@ translate schinese chapter7_f65af503:
     # voice "voices/gg69.ogg"
     # 소녀 "“무슨 소리예요, 지금 바로 앞에도 지나가고 있는걸요? 불그죽죽한 죽음의 색으로 그려진 두 사람이.”"
     voice "voices/gg69.ogg"
-    소녀 "“说什么呢？现在前面也有过往的行人，有两个人的死亡之色还是红色。”"
+    소녀 "“说什么呢，现在前面也有过往的行人哦？死亡之色被描绘成红色的两个人。”"
 
 # game/chapter7.rpy:1184
 translate schinese chapter7_85297318:
@@ -2793,7 +2793,7 @@ translate schinese chapter7_85297318:
     # voice ""
     # "소녀의 시선이 허공을 훑는다. "
     voice ""
-    "少女的视线扫向虚空。"
+    "少女的视线扫向半空。"
 
 # game/chapter7.rpy:1187
 translate schinese chapter7_a7eb947a:
@@ -2823,7 +2823,7 @@ translate schinese chapter7_9927ac83:
 translate schinese chapter7_494fe3e8:
 
     # "소녀는 홀로 덩그러니 무인의 세계에 놓여버린 나를, 멍하니 바라보았다. "
-    "少女呆呆地看着陷入无人世界的我。"
+    "少女面向陷入无人世界的我，呆呆地看着。"
 
 # game/chapter7.rpy:1202
 translate schinese chapter7_e3715655:
@@ -2903,7 +2903,7 @@ translate schinese chapter7_19aba81f:
 translate schinese chapter7_455b80c9:
 
     # "아니, 어쩌면 소녀는 이미 그런 세계를 알고 있었던 건지도 모르겠다. "
-    "不，也许少女已经看到那个世界了。"
+    "不，也许少女已经知道那样的世界了。"
 
 # game/chapter7.rpy:1235
 translate schinese chapter7_94ee63df:
