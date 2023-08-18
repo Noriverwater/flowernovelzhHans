@@ -2254,7 +2254,7 @@ translate english ecg2_label_2a73540b:
 translate english ecg2_label_7716b0f3:
 
     # "차라리 3000이나 4000 정도의 숫자가 적혀 있었다면 대규모의 몰래카메라라고 생각할 수는 있지 않았을까."
-    "If it was something like 3000 or 4000, maybe I could think it was a large-scale hidden camera."
+    "If it was something like 3000 or 4000, maybe I could think it was a large-scale practical joke."
 
 # game/chapter1.rpy:1140
 translate english ecg2_label_d9cbc321:
@@ -2360,7 +2360,7 @@ translate english ecg2_label_31d98d55:
     # voice ""
     # "단순한 우연이라고 하기엔 너무 편의주의적 상황이 아닐까."
     voice ""
-    "It seemed too convenient to be a simple coincidence."
+    "How can this be a simple coincidence when the situation is so superficial?"
 
 # game/chapter1.rpy:1186
 translate english ecg2_label_d27ea355:
