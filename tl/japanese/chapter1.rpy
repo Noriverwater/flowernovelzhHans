@@ -2138,7 +2138,7 @@ translate japanese ecg2_label_5a60db17:
 translate japanese ecg2_label_8e39497f:
 
     # "내가 알지 못하는 대규모의 몰래카메라가 아니라면, 나는 분명 시간여행을 한 것이겠지."
-    "私が知らない大規模な隠しカメラでなければ、俺は確かに時間旅行をしたことになるだろう。"
+    "俺が知らない大規模な隠しカメラでなければ、俺は確かに時間旅行をしたことになるだろう。"
 
 # game/chapter1.rpy:1099
 translate japanese ecg2_label_0ca8b75a:
@@ -2174,7 +2174,7 @@ translate japanese ecg2_label_5d32c9cf:
 translate japanese ecg2_label_a680f3b7:
 
     # "내 생각을 읽기라도 한 것인지, 현재의 시간과 날짜만을 표시하고 있던 잠금 화면이 저절로 해제되었다."
-    "私の考えを読んだかのように、現在の時間と日付だけを表示していたロック画面が自動的に解除された。"
+    "俺の考えを読んだかのように、現在の時間と日付だけを表示していたロック画面が自動的に解除された。"
 
 # game/chapter1.rpy:1107
 translate japanese ecg2_label_58cf0183:
@@ -2186,7 +2186,7 @@ translate japanese ecg2_label_58cf0183:
 translate japanese ecg2_label_be42b5ef:
 
     # "다시 한번 내가 다른 사람의 몸에 들어와 있다는 것을 실감하는 순간이었다."
-    "もう一度、私は他人の体に入ってしまったということを実感する瞬間だった。"
+    "もう一度、俺は他人の体に入ってしまったということを実感する瞬間だった。"
 
 # game/chapter1.rpy:1109
 translate japanese ecg2_label_8ef0c787:
@@ -2254,7 +2254,7 @@ translate japanese ecg2_label_2a73540b:
 translate japanese ecg2_label_7716b0f3:
 
     # "차라리 3000이나 4000 정도의 숫자가 적혀 있었다면 대규모의 몰래카메라라고 생각할 수는 있지 않았을까."
-    "むしろ3000や4000くらいの数字が書いてあったら、大規模な隠しカメラだと思えるかもしれなかった。"
+    "むしろ3000や4000くらいの数字が書いてあったら、大規模なドッキリと思えるかもしれなかった。"
 
 # game/chapter1.rpy:1140
 translate japanese ecg2_label_d9cbc321:
@@ -2266,7 +2266,7 @@ translate japanese ecg2_label_d9cbc321:
 translate japanese ecg2_label_6e44280e:
 
     # "나는 다시 태블릿을 켜 날짜를 확인해보았다."
-    "私は再びタブレットをつけて日付を確認してみた。"
+    "俺は再びタブレットをつけて日付を確認してみた。"
 
 # game/chapter1.rpy:1144
 translate japanese ecg2_label_a2e510eb:
@@ -2290,7 +2290,7 @@ translate japanese ecg2_label_48b86aad:
 translate japanese ecg2_label_95061460:
 
     # "나는 장장 2,000년이라는 세월을 거슬러 올라온 걸까?"
-    "私はなんと2000年という歳月を遡ってきたのだろうか？"
+    "俺はなんと2000年という歳月を遡ってきたのだろうか？"
 
 # game/chapter1.rpy:1152
 translate japanese ecg2_label_619550e8:
@@ -2344,7 +2344,7 @@ translate japanese ecg2_label_f3f64def:
 translate japanese ecg2_label_ef72ca13:
 
     # "내 옆에서 익숙한 목소리가 들려오기 전까지는 말이다."
-    "私の隣から聞き覚えのある声が聞こえるまでは、だ。"
+    "俺の隣から聞き覚えのある声が聞こえるまでは、だ。"
 
 # game/chapter1.rpy:1182
 translate japanese ecg2_label_2530fee9:
@@ -2366,13 +2366,13 @@ translate japanese ecg2_label_31d98d55:
 translate japanese ecg2_label_d27ea355:
 
     # "나의 곁에 다가온 갈색 머리 여학생은 당연하다는 듯 내 옆자리에 가방을 내려놓았다."
-    "私のそばに近づいた茶色の髪の女子生徒は当然のように私の隣席にカバンを置いた。"
+    "俺のそばに近づいた茶色の髪の女子生徒は当然のように俺の隣席にカバンを置いた。"
 
 # game/chapter1.rpy:1187
 translate japanese ecg2_label_053a65f3:
 
     # "반갑게 손을 흔드는 유미에게, 나는 어안이 벙벙한 얼굴로 인사를 건넸다."
-    "嬉しそうに手を振るユミに、私はぽかんとした顔で挨拶を返した。"
+    "嬉しそうに手を振るユミに、俺はぽかんとした顔で挨拶を返した。"
 
 # game/chapter1.rpy:1189
 translate japanese ecg2_label_2f9f7ae7:
@@ -2388,7 +2388,7 @@ translate japanese ecg2_label_b463a64e:
     # voice ""
     # "유미는 상냥하기 그지없는 미소를 띤 채, 내게 한 발짝 다가왔다."
     voice ""
-    "ユミは優しくてとてもな笑顔で、私に一歩近づいた。"
+    "ユミは優しくてとてもな笑顔で、俺に一歩近づいた。"
 
 # game/chapter1.rpy:1194
 translate japanese ecg2_label_d476a779:
@@ -2404,7 +2404,7 @@ translate japanese ecg2_label_8032ed61:
     # voice ""
     # 나 "“아, 그게…… 내가 좀 멀리서 학교를 배정받아서. 근처에 아는 게 없어서 찾아보고 있었던 거야.”"
     voice ""
-    나 "「あ、それは……僕はちょっと遠くから学校を配属されて。近くに知ってるのがなくて調べてたんだ。」"
+    나 "「あ、それは……俺はちょっと遠くから学校を配属されて。近くに知ってるのがなくて調べてたんだ。」"
 
 # game/chapter1.rpy:1199
 translate japanese ecg2_label_78dc3f45:
@@ -2450,7 +2450,7 @@ translate japanese ecg2_label_5b04e46b:
 translate japanese ecg2_label_3155008a:
 
     # "본의 아니게 나의 행동에 당위성이 부여된다."
-    "思わず僕の行動に正当性が与えられる。"
+    "思わず俺の行動に正当性が与えられる。"
 
 # game/chapter1.rpy:1212
 translate japanese ecg2_label_f6849466:
@@ -2490,13 +2490,13 @@ translate japanese ecg2_label_5a743214:
 translate japanese ecg2_label_e68d71ed:
 
     # "그 뒤로, 유미는 항상 나와 붙어 다니게 되었다."
-    "その後、ユミはいつも私と一緒にいるようになった。"
+    "その後、ユミはいつも俺と一緒にいるようになった。"
 
 # game/chapter1.rpy:1231
 translate japanese ecg2_label_36f37dda:
 
     # "학교에서도, 집으로 돌아가는 길에도, 그녀는 나와 함께였다."
-    "学校でも、家に帰る道でも、彼女は私と一緒だった。"
+    "学校でも、家に帰る道でも、彼女は俺と一緒だった。"
 
 # game/chapter1.rpy:1232
 translate japanese ecg2_label_bef21bb6:
@@ -2556,7 +2556,7 @@ translate japanese ecg2_label_f49d68a9:
 translate japanese ecg2_label_dd4121b4:
 
     # "어쨌거나, 나는 원래의 내 몸으로 돌아갈 방법을 열심히 모색해 보았다."
-    "とにかく、私は元の私の体に戻る方法を一生懸命探してみた。"
+    "とにかく、俺は元の俺の体に戻る方法を一生懸命探してみた。"
 
 # game/chapter1.rpy:1261
 translate japanese ecg2_label_bd535257:
@@ -2568,13 +2568,13 @@ translate japanese ecg2_label_bd535257:
 translate japanese ecg2_label_0b48a9ab:
 
     # "그렇게 136이라는 숫자가 137로 바뀔 동안에도, 나는 원래의 세계로 돌아가지 못했다."
-    "そうして136という数字が137に変わる間にも、私は元の世界に戻れなかった。"
+    "そうして136という数字が137に変わる間にも、俺は元の世界に戻れなかった。"
 
 # game/chapter1.rpy:1265
 translate japanese ecg2_label_da35bc1e:
 
     # "그러는 동안, 나는 유미 덕분에 새로운 세계에서의 생활에 제법 빠르게 적응해가고 있었다."
-    "その間、私はユミのおかげで新しい世界での生活にかなり早く慣れていった。"
+    "その間、俺はユミのおかげで新しい世界での生活にかなり早く慣れていった。"
 
 # game/chapter1.rpy:1266
 translate japanese ecg2_label_1498c775:
@@ -2586,7 +2586,7 @@ translate japanese ecg2_label_1498c775:
 translate japanese ecg2_label_7f1d3a93:
 
     # "그렇게 유미와 내가 둘도 없는 사이가 된 건, 두말할 필요도 없는 사실이었다."
-    "そうしてユミと私が二人きりの仲になったのは、言うまでもない事実だった。"
+    "そうしてユミと俺が二人きりの仲になったのは、言うまでもない事実だった。"
 
 # game/chapter1.rpy:1269
 translate japanese ecg2_label_464a2a98:
@@ -2610,7 +2610,7 @@ translate japanese ecg2_label_a8fb2fc3:
 translate japanese ecg2_label_d273f64f:
 
     # "나는 그 무의식의 외침을 연어의 회귀 본능 같은 것이라 생각하고 있었다."
-    "私はその無意識の叫びを鮭の回帰本能みたいなものだと思っていた。"
+    "俺はその無意識の叫びを鮭の回帰本能みたいなものだと思っていた。"
 
 # game/chapter1.rpy:1280
 translate japanese ecg2_label_d4658a5a:
@@ -2704,7 +2704,7 @@ translate japanese ecg2_label_b0e9db24:
     # voice ""
     # "내 미적지근한 반응이 마음에 들지 않았는지, 유미는 삐진 척 반대편으로 고개를 돌렸지만, 잠시뿐이었다."
     voice ""
-    "私のぬるい反応が気に入らなかったのか、ユミはぶすっと反対側に顔を向けたが、それも束の間だった。"
+    "俺のぬるい反応が気に入らなかったのか、ユミはぶすっと反対側に顔を向けたが、それも束の間だった。"
 
 # game/chapter1.rpy:1314
 translate japanese ecg2_label_c6765552:
@@ -2716,7 +2716,7 @@ translate japanese ecg2_label_c6765552:
 translate japanese ecg2_label_02ccdbc1:
 
     # "그러고는, 나에게 넌지시 말을 건넸다."
-    "そして、私にそっと話しかけた。"
+    "そして、俺にそっと話しかけた。"
 
 # game/chapter1.rpy:1321
 translate japanese ecg2_label_971db50e:
@@ -2754,7 +2754,7 @@ translate japanese ecg2_label_797b391c:
 translate japanese ecg2_label_404843b0:
 
     # "나도, 유미도, 각자 다른 이유로 잠시 생각에 빠진다."
-    "私も、ユミも、それぞれの理由でしばらく考えにふけった。"
+    "俺も、ユミも、それぞれの理由でしばらく考えにふけった。"
 
 # game/chapter1.rpy:1331
 translate japanese ecg2_label_79f089ed:
@@ -2834,7 +2834,7 @@ translate japanese ecg2_label_c29309e1:
 translate japanese ecg2_label_9ce4fc9a:
 
     # "건널목에서 신호를 기다리는 동안, 나는 휴대용 태블릿을 꺼내 현재 시각을 확인해보았다."
-    "信号を待っている間、私は携帯用タブレットを取り出して現在の時刻を確認した。"
+    "信号を待っている間、俺は携帯用タブレットを取り出して現在の時刻を確認した。"
 
 # game/chapter1.rpy:1361
 translate japanese ecg2_label_d0669c9a:
@@ -2930,7 +2930,7 @@ translate japanese ecg2_label_9f57b863:
 translate japanese ecg2_label_d22e9239:
 
     # "난 30분이나 지나서 답장을 보냈는데."
-    "私は30分も経ってから返信を送ったのに。"
+    "俺は30分も経ってから返信を送ったのに。"
 
 # game/chapter1.rpy:1395
 translate japanese ecg2_label_4231da44:
@@ -3002,7 +3002,7 @@ translate japanese ecg2_label_29727ecf:
 translate japanese ecg2_label_99503b4d:
 
     # "나를 바라보는 한 소녀가 있었다."
-    "私を見つめる一人の少女がいた。"
+    "俺を見つめる一人の少女がいた。"
 
 # game/chapter1.rpy:1423
 translate japanese ecg2_label_7b8878df:
@@ -3026,19 +3026,19 @@ translate japanese ecg2_label_c5ebc35b:
 translate japanese ecg2_label_c033d841:
 
     # "이번에도 나는 무언가에 홀린 듯, 소녀가 사라진 골목길로 발걸음을 돌렸다."
-    "今回も私は何かに憑かれたように、少女が消えた路地に足を向けた。"
+    "今回も俺は何かに憑かれたように、少女が消えた路地に足を向けた。"
 
 # game/chapter1.rpy:1432
 translate japanese ecg2_label_219af7da:
 
     # "이유는 나도 알 수 없었다."
-    "理由は私にもわからなかった。"
+    "理由は俺にもわからなかった。"
 
 # game/chapter1.rpy:1433
 translate japanese ecg2_label_1d427f41:
 
     # "나를 바라보는 이름조차 모를 그 소녀의 눈빛이 마음에 걸려서였을까."
-    "私を見つめる名前も知らないあの少女の眼差しが気になっていたのだろうか。"
+    "俺を見つめる名前も知らないあの少女の眼差しが気になっていたのだろうか。"
 
 # game/chapter1.rpy:1434
 translate japanese ecg2_label_5fce23fc:
