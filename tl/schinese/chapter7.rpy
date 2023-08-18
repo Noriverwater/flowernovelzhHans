@@ -5767,7 +5767,7 @@ translate schinese chapter7_deddcf03:
     # voice "voices/yg17.ogg"
     # 유미 "“그러니까 말이야. 휴우, 요즘은 멘토링도 못하고 있어. 바쁜데다가 부모님까지 그런 쓸데없는 봉사활동 하지 말고 다른 공부나 하라고 하셔서…….”"
     voice "voices/yg17.ogg"
-    유미 "“就是啊。呼，最近连辅导都没有。再加上父母让我不要做那些没用的志愿活动，让我学习其他的东西……”"
+    유미 "“就是啊。呼，最近连辅导都没有。再加上父母让我不要做那些没用的志愿活动，把精力放在学习上……”"
 
 # game/chapter7.rpy:2495
 translate schinese chapter7_2146e58e:
@@ -5835,7 +5835,7 @@ translate schinese chapter7_51a5a26f:
     # voice ""
     # 나 "“으음…… 뭐가?”"
     voice ""
-    나 "“嗯……？”"
+    나 "“嗯……什么？”"
 
 # game/chapter7.rpy:2521
 translate schinese chapter7_d6bf230e:
@@ -5891,7 +5891,7 @@ translate schinese chapter7_dc8294c7:
     # voice "voices/yg23.ogg"
     # 유미 "“그건 네가 학기 말 성적이 30등 이내로 나오면 그러기로 한 거잖아. 너무 김칫국부터 마신 거 아냐?”"
     voice "voices/yg23.ogg"
-    유미 "“那不是你的期末成绩在30名以内才行吗？你是不是泡菜汤喝多了？”"
+    유미 "“那不是你的期末成绩在30名以内才行吗。你是不是泡菜汤喝多了？”"
 
 # game/chapter7.rpy:2545
 translate schinese chapter7_c27948c2:
@@ -5993,7 +5993,7 @@ translate schinese chapter7_b0351a02:
     # voice ""
     # "남아있던 물을 한 모금 마신 현지는 이야기를 마저 이어갔다. "
     voice ""
-    "喝了一口水的贤智接着说。"
+    "喝了一口剩下的水，贤智接着说。"
 
 # game/chapter7.rpy:2582
 translate schinese chapter7_e87206cd:
@@ -6001,7 +6001,7 @@ translate schinese chapter7_e87206cd:
     # voice "voices/hg47.ogg"
     # 현지 "“그치만, 싫은 티 내면 안 되는 거겠죠? 선배는 있어야 하는 곳으로 돌아가는 거니까. 그리고 저는 제 임무를 완수하는 거니까.”"
     voice "voices/hg47.ogg"
-    현지 "“是啊，不能表现出讨厌的样子吧？前辈是要回到原来的地方。我是在完成我的任务。”"
+    현지 "“是啊，不能表现出讨厌的样子吧？前辈是要回到原来的地方。因为我要完成我的任务。”"
 
 # game/chapter7.rpy:2584
 translate schinese chapter7_f807cd43:
@@ -6009,7 +6009,7 @@ translate schinese chapter7_f807cd43:
     # voice ""
     # 나 "“용케도 사라져야 하는 사람이랑, 가까이 지냈었네.”"
     voice ""
-    나 "“跟要消失的人相处得很近啊。”"
+    나 "“跟要消失的人，相处得很近啊。”"
 
 # game/chapter7.rpy:2587
 translate schinese chapter7_ae5c768e:
@@ -6049,7 +6049,7 @@ translate schinese chapter7_5e008c29:
     # voice "voices/hg50.ogg"
     # 현지 "“좋았어요. 오래오래 기억하고 싶은, 기분 좋은 꿈처럼요.”"
     voice "voices/hg50.ogg"
-    현지 "“很好。就像一场美好的梦，我想我会永远记住你的。”"
+    현지 "“很好。就像做了一个久久不能忘怀的，愉快的美梦。”"
 
 # game/chapter7.rpy:2601
 translate schinese chapter7_d4a01d5e:
@@ -6071,7 +6071,7 @@ translate schinese chapter7_9c3608dd:
     # voice "voices/hg51.ogg"
     # 현지 "“모레, 학교 옥상에서 다시 만나요.”"
     voice "voices/hg51.ogg"
-    현지 "“后天在学校屋顶再见吧。”"
+    현지 "“后天，在学校屋顶再见吧。”"
 
 # game/chapter7.rpy:2612
 translate schinese chapter7_06e254d0:
@@ -6121,7 +6121,7 @@ translate schinese chapter7_1b745e9e:
 translate schinese chapter7_e8fd76c7:
 
     # "소녀는 기다렸다는 듯 나에게 뺨을 기대며, 말을 건넸다. "
-    "少女好像在等我似的，靠着我的脸颊，说道。"
+    "少女好像在等我似的，靠近我的脸颊，说道。"
 
 # game/chapter7.rpy:2638
 translate schinese chapter7_92df0eb2:
@@ -6161,7 +6161,7 @@ translate schinese chapter7_c5962ec0:
     # voice "voices/gg111.ogg"
     # 소녀 "“우선은 한 달 동안 있었던 간단한 일들을, 이틀 만에 해 보는 거예요. 그리고, 미처 못 해봤던 시시콜콜한 것들을 거기다가 덧붙이는 거죠.”"
     voice "voices/gg111.ogg"
-    소녀 "“首先，把一个月内完成过的事情，在两天内重做一遍。然后加上那些我们没来得及做的琐碎的事情。”"
+    소녀 "“首先，把一个月内完成过的事情，在两天内重做一遍。然后，加上那些我们没来得及做的琐碎的事情。”"
 
 # game/chapter7.rpy:2651
 translate schinese chapter7_2141cd9d:
@@ -6369,7 +6369,7 @@ translate schinese chapter7_8376e7e7:
     # voice "voices/gg118.ogg"
     # 소녀 "“좋아하는 데에 이유를 붙인다는 건 힘든 일이라고요. 그러는 당신은, 이런 불행투성이 역귀가 좋은 이유를 세 가지만 말해주세요.”"
     voice "voices/gg118.ogg"
-    소녀 "“为喜欢的东西加上理由是很难的事情。所以，请告诉我，你能给出三个喜欢我的理由吗？”"
+    소녀 "“为喜欢的东西加上理由是很难的事情。所以，请告诉我，能给出三个喜欢我的理由吗？”"
 
 # game/chapter7.rpy:2734
 translate schinese chapter7_5f1c8d30:
@@ -6461,7 +6461,7 @@ translate schinese chapter7_f78df7e8:
 translate schinese chapter7_4d0e02c5:
 
     # "이렇게 늦은 시간에 열차를 타고 어디론가 가자고 말하기라도 하려는 걸까?"
-    "这么晚了还想坐列车去哪儿？"
+    "这么晚了还想坐列车去哪儿吗？"
 
 # game/chapter7.rpy:2776
 translate schinese chapter7_44344eb0:
@@ -6497,7 +6497,7 @@ translate schinese chapter7_25670b4a:
     # voice "voices/gg123.ogg"
     # 소녀 "“그리고 보시다시피, 별로 집으로 돌아가고 싶지 않은 기분이에요.”"
     voice "voices/gg123.ogg"
-    소녀 "“正如你所看到的，我不太想回家。”"
+    소녀 "“正如你所看到的，感觉不太想回家。”"
 
 # game/chapter7.rpy:2793
 translate schinese chapter7_4d24a2ff:
@@ -6789,7 +6789,7 @@ translate schinese chapter7_8d2df239:
 translate schinese chapter7_4d24bf16:
 
     # "숨이 차오르기 시작할 무렵, 나는 강변 한쪽에 자전거를 세우고 벤치에 앉아 잠시 숨을 골랐다. "
-    "气喘吁吁的时候，我把自行车停在河边，坐在长椅上略微休息。"
+    "气喘吁吁的时候，我就把自行车停在河边，坐在长椅上略微休息。"
 
 # game/chapter7.rpy:2927
 translate schinese chapter7_4cf31b5f:
@@ -6897,7 +6897,7 @@ translate schinese chapter7_b9749f20:
     # voice "voices/gg139.ogg"
     # 소녀 "“…… 그렇지만, 저는 그저 그때 같이 그 책을 읽었던 그 순간이 너무 행복한 기억으로 남아있어요.”"
     voice "voices/gg139.ogg"
-    소녀 "“……但是，我只是觉得当时一起读那本书的瞬间是非常幸福的记忆。”"
+    소녀 "“……但是，我只是觉得当时一起读那本书的瞬间，对我来说是非常幸福的记忆。”"
 
 # game/chapter7.rpy:2983
 translate schinese chapter7_eb36165c:
@@ -6913,7 +6913,7 @@ translate schinese chapter7_b39e3db6:
     # voice "voices/gg140.ogg"
     # 소녀 "“그러니까요, 저는 이 이야기의 결말이 어떻든. 그저 이렇게 함께 있었던 시간만을 행복하다며 기억할 거예요.”"
     voice "voices/gg140.ogg"
-    소녀 "“就是啊，不管这个故事的结局如何，我都会记住，只有这样在一起的时间才是幸福的。”"
+    소녀 "“就是啊，不管这个故事的结局如何，我只是记得我们一起度过的幸福时光。”"
 
 # game/chapter7.rpy:2988
 translate schinese chapter7_ff35112e:
@@ -6953,7 +6953,7 @@ translate schinese chapter7_b42651ef:
     # voice ""
     # "목 끝까지 올라온 마지막이라는 단어를, 나는 겨우겨우 참아낼 수 있었다. "
     voice ""
-    "嗓子眼里的最后一个词被我咽下去了。"
+    "嗓子眼里涌上的‘最后’一词，被我勉强咽下去了。"
 
 # game/chapter7.rpy:3008
 translate schinese chapter7_5ace23f8:
@@ -7129,7 +7129,7 @@ translate schinese ecg15_label_73c43f00:
 translate schinese ecg15_label_7db746b0:
 
     # "아직 어리광을 부리고 싶다는 듯. "
-    "好像还在撒娇一样。"
+    "好像还在撒娇。"
 
 # game/chapter7.rpy:3097
 translate schinese ecg15_label_86067eeb:
@@ -7175,7 +7175,7 @@ translate schinese ecg15_label_19e6329a:
 translate schinese ecg15_label_66618121:
 
     # "마치 소원을 빌듯, 차분한 투로. "
-    "用平静的语气，就像许愿一样。"
+    "用平静的语气，像许愿一样。"
 
 # game/chapter7.rpy:3121
 translate schinese ecg15_label_024aa113:
@@ -7233,7 +7233,7 @@ translate schinese ecg15_label_0c8d5a07:
 translate schinese ecg15_label_6a010903:
 
     # "소리가 들려온 곳을 향해 고개를 돌리자, 그곳에서는 쏘아 올려진 불꽃 하나가 궤적을 그리고 있었다. "
-    "转向声音传来的地方，那里有一束火焰正在划着轨迹。"
+    "转向声音传来的地方，那里有一束花火正在天空中划着轨迹。"
 
 # game/chapter7.rpy:3161
 translate schinese ecg15_label_91a2cfbf:
