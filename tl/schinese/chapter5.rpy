@@ -588,19 +588,19 @@ translate schinese chapter5_7606d75a:
 translate schinese chapter5_44ef55a6:
 
     # shnvl "발걸음을 돌려 뒤를 바라보았지만, 그 소리는 착각처럼 나의 귓가를 맴돌았다. "
-    shnvl "转身向后看，那声音却像错觉一样在我耳边盘旋。"
+    shnvl "停下脚步回头看了看，那声音却像错觉一样在我耳边盘旋。"
 
 # game/chapter5.rpy:255
 translate schinese chapter5_4183fe4e:
 
     # shnvl "한 걸음, 발걸음을 내딛자 흙바닥과 신발 밑창이 맞부딪히는 소리가 들려왔다. "
-    shnvl "刚迈出一步，就听到鞋底与泥泞的地板碰撞的声音。"
+    shnvl "刚迈出一步，我就听到鞋底与泥泞的土地碰撞的声音。"
 
 # game/chapter5.rpy:257
 translate schinese chapter5_05c4366d:
 
     # shnvl "흐릿해져 있던 기억 조각 중 하나가 빛을 되찾으려는 신호였다. "
-    shnvl "这是模糊的记忆碎片中的一片，是恢复光明的信号。"
+    shnvl "这是模糊的记忆碎片中的一片，是试图恢复光明的信号。"
 
 # game/chapter5.rpy:261
 translate schinese chapter5_096a2ca3_1:
@@ -1560,13 +1560,13 @@ translate schinese chapter5_c96f830b:
 translate schinese chapter5_94dc19cb:
 
     # "소녀도 내 제안이 싫지는 않았는지, 바라보던 곳을 향해 도로 시선을 옮겼다. "
-    "少女似乎也不讨厌我的提议，把视线转向了所注视的地方。 "
+    "少女似乎也不讨厌我的提议，把视线转向了她原来所注视的地方。 "
 
 # game/chapter5.rpy:645
 translate schinese chapter5_cceb1bec:
 
     # "위와 아래가 뒤바뀐 듯한 풍경이었다. "
-    "好像是上下颠倒的风景。"
+    "那好像是一幅上下颠倒的风景。"
 
 # game/chapter5.rpy:646
 translate schinese chapter5_f11e4a6f:
@@ -1614,7 +1614,7 @@ translate schinese chapter5_7d043c88:
     # voice "voices/ge44.ogg"
     # 소녀 "“{color=#00ccff}당신은 제가 유령이라는 걸, 알고 있었던 건가요？{/color}”"
     voice "voices/ge44.ogg"
-    소녀 "“{color=#00ccff}你一开始就知道我是幽灵吗？{/color}”"
+    소녀 "“{color=#00ccff}你一开始就知道，我是幽灵吗？{/color}”"
 
 # game/chapter5.rpy:659
 translate schinese chapter5_d710c370:
@@ -1634,7 +1634,7 @@ translate schinese chapter5_beb81728:
 translate schinese chapter5_1dd7a293:
 
     # "흩날리는 소녀의 머리카락을 바라보고 있던 나는 그대로 소녀와 시선을 마주친다. "
-    "凝视着少女飘逸的短发的我，就这样与她对视。"
+    "凝视着少女飘逸的短发的我，就这样与她对视了。"
 
 # game/chapter5.rpy:665
 translate schinese chapter5_7d4b1a96:
@@ -6068,7 +6068,7 @@ translate schinese ecg10_label_10b00796:
 translate schinese ecg10_label_be70442a:
 
     # "이대로라면 눈동자를 허락하는 것만으로 모든 생각을 읽혀버리는 건 아닐까 하는 생각이 들 정도로, 유미의 눈동자는 투명하게 빛났다. "
-    "优美的眼睛晶莹剔透，如果照此下去，是不是只用眼睛就能读出我的所有想法呢？。"
+    "优美的眼睛晶莹剔透，如果照此下去，是不是只用眼睛就能读出我的所有想法呢？"
 
 # game/chapter5.rpy:2754
 translate schinese ecg10_label_8e8457f1:
