@@ -6564,7 +6564,7 @@ translate schinese ecg8_label_cb5950e1:
 translate schinese ecg8_label_c93ba411:
 
     # "솜사탕에서 비가 쏟아진다면 이런 느낌일까, 하는 생각이 들게 하는 향기였다. "
-    "这香气让人怀疑，如果棉花糖里下雨的话会是这种感觉吗？"
+    "这香气让人怀疑，如果棉花糖里下雨的话会是这种感觉吗。"
 
 # game/chapter4.rpy:2869
 translate schinese ecg8_label_537f969f:
@@ -6678,7 +6678,7 @@ translate schinese ecg8_label_7018611a:
 translate schinese ecg8_label_567e8b39:
 
     # "달콤한 향이 입안을 가득 메우고, 아주 잠깐 머릿속이 감정 대신 감각으로 물든다. "
-    "甜甜的香气填满了嘴里，短时间内感觉代替了感情。"
+    "甜甜的香气填满了嘴里，短时间内脑海中感觉代替了感情。"
 
 # game/chapter4.rpy:2913
 translate schinese ecg8_label_5bd5dd5a:
@@ -6754,7 +6754,7 @@ translate schinese ecg8_label_b51502c2:
 translate schinese ecg8_label_0af42909:
 
     # "꽤나 밝아 보이는, 네댓 살 정도의 나이 차가 있어 보이는 남매의 모습 같았다. "
-    "看起来很开心的，大概有四岁左右的年龄差的兄妹模样。"
+    "是看起来很开心的，大概有四岁左右的年龄差的兄妹模样。"
 
 # game/chapter4.rpy:2938
 translate schinese ecg8_label_25d7dc59:
@@ -7702,7 +7702,7 @@ translate schinese ecg8_label_ba105d33:
     # voice ""
     # "그렇다는 건, 소녀는 누군가에게 살해당한 뒤 강에 버려졌다는 걸까. "
     voice ""
-    "这意味着， 少女被人杀害后扔到河里了吗？"
+    "这意味着，少女被人杀害后扔到河里了吗？"
 
 # game/chapter4.rpy:3289
 translate schinese ecg8_label_3360ad9f:
@@ -8012,7 +8012,7 @@ translate schinese ecg8_label_3283b6fe:
 translate schinese ecg8_label_1ef55832:
 
     # "유령이 되어 버린 소녀도 그건 매한가지였는지, 반짝이는 시선이 고양이를 향하고 있었다. "
-    "成为幽灵的少女也一样，闪闪发亮的眼睛注视着猫。"
+    "成为幽灵的少女也一样，用闪闪发亮的眼睛注视着猫。"
 
 # game/chapter4.rpy:3418
 translate schinese ecg8_label_ed72ed26:
