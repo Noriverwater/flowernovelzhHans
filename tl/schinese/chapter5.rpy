@@ -266,7 +266,7 @@ translate schinese chapter5_ebc6eb78:
 translate schinese chapter5_188041c6:
 
     # "셔터가 내려져 있는 약국을 지나다 말고, 길을 걷던 소녀가 내게 말을 건넸다. "
-    "经过一家铺着百叶窗的药店，走在路上的少女问我："
+    "经过一家铺着百叶窗的药店，走在路上的少女问我。"
 
 # game/chapter5.rpy:118
 translate schinese chapter5_2008bbb4:
@@ -306,7 +306,7 @@ translate schinese chapter5_e28a9bbe:
     # voice "voices/ge12.ogg"
     # 소녀 "“아, 맞다. 그때 어렴풋이 봤던 기억이 나요. 범인은 아직 수배중이라고 했던가요.”"
     voice "voices/ge12.ogg"
-    소녀 "“啊对。依稀记得看过。你是说凶手还在通缉当中吗？”"
+    소녀 "“啊，对。依稀记得看过。你是说凶手还在通缉当中吗？”"
 
 # game/chapter5.rpy:131
 translate schinese chapter5_a01d75a5:
@@ -970,7 +970,7 @@ translate schinese chapter5_0a882be7:
 translate schinese chapter5_f0e0b61c:
 
     # "뭐, 어차피 사람이 없으니 무슨 용도였든 상관은 없겠지만 말이다. "
-    "反正没有人，不管什么用途都无所谓了。"
+    "嘛，反正没有人，不管什么用途都无所谓了。"
 
 # game/chapter5.rpy:431
 translate schinese chapter5_fda046b3:
@@ -1000,7 +1000,7 @@ translate schinese chapter5_daa0f374:
 translate schinese chapter5_ff63968e:
 
     # "나는 서머 카디건을 벗어 두려다 말고 마음을 바꿔 다시 서머 카디건을 몸에 걸쳤다. "
-    "我不想脱掉夏季开衫，但改变主意，又重新把夏季开衫披在背上。"
+    "我想脱掉夏季开衫，但又改变了主意，重新把夏季开衫披在背上。"
 
 # game/chapter5.rpy:438
 translate schinese chapter5_b6ddf034:
@@ -1216,7 +1216,7 @@ translate schinese chapter5_03328dc4:
     # voice "voices/ge33.ogg"
     # 소녀 "“혼자 있으면 좀 그렇단 말이에요.”"
     voice "voices/ge33.ogg"
-    소녀 "“独自一个人稍微有点那样。”"
+    소녀 "“独自一个人稍微有点寂寞。”"
 
 # game/chapter5.rpy:520
 translate schinese chapter5_8fc53323:
@@ -3252,7 +3252,7 @@ translate schinese chapter5_b5806a98:
     # voice ""
     # 나 "“그건 1층에 있으려나. 내가 내려갔다 오면 돼?”"
     voice ""
-    나 "“那个会在1楼吗？我下去就行了吗？”"
+    나 "“那个会在一楼吗？我下去就行了吗？”"
 
 # game/chapter5.rpy:1358
 translate schinese chapter5_70bb4078:
