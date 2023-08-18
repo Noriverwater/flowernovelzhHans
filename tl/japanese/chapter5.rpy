@@ -954,13 +954,13 @@ translate japanese chapter5_2feebff5:
 translate japanese chapter5_c646e4cd:
 
     # "주변에서 마땅히 하루를 넘길만한 장소를 찾기 시작한 지 십여 분 만에, 나와 소녀는 근처의 마을 회관을 발견할 수 있었다. "
-    "周りで一日を過ごせそうな場所を探し始めて十分ほどで、俺と少女は近くの村の会館を見つけることができた。"
+    "周りで一日を過ごせそうな場所を探し始めて十分ほどで、俺と少女は近くの町村会館を見つけることができた。"
 
 # game/chapter5.rpy:425
 translate japanese chapter5_357df6e6:
 
     # "마을 회관 내부에는 제법 넓으면서도 깔끔하게 정돈된 방이 한 칸 있었다. "
-    "村の会館の中には、かなり広くてきちんと整理された部屋が一つあった。"
+    "町村会館の中には、かなり広くてきちんと整理された部屋が一つあった。"
 
 # game/chapter5.rpy:426
 translate japanese chapter5_0a882be7:
@@ -1076,7 +1076,7 @@ translate japanese chapter5_77e870b3:
     # voice ""
     # "어느새 마을 회관 밖으로 나온 소녀가 밤하늘을 바라보고 있었다. "
     voice ""
-    "いつの間にか村の会館の外に出た少女が夜空を見上げていた。"
+    "いつの間にか町村会館の外に出た少女が夜空を見上げていた。"
 
 # game/chapter5.rpy:471
 translate japanese chapter5_6ec2ebbb:
@@ -1094,7 +1094,7 @@ translate japanese chapter5_ff234071:
 translate japanese chapter5_fba07c38:
 
     # "나는 마을 회관에 들어오며 눈여겨 봐두었던 자판기 쪽으로 소녀와 함께 걸어갔다. "
-    "俺は村の会館に入るときに目をつけておいた自動販売機の方に少女と一緒に歩いて行った。"
+    "俺は町村会館に入るときに目をつけておいた自動販売機の方に少女と一緒に歩いて行った。"
 
 # game/chapter5.rpy:477
 translate japanese chapter5_06709661:
@@ -1282,7 +1282,7 @@ translate japanese chapter5_a94b40be:
 translate japanese chapter5_c18a334b:
 
     # "마을 회관에서 고작 한 블록 정도 떨어진 곳에서, 나는 4층짜리 건물 하나를 발견할 수 있었다. "
-    "村の会館からほんの一ブロックほど離れたところで、俺は四階建ての建物を見つけることができた。"
+    "町村会館からほんの一ブロックほど離れたところで、俺は四階建ての建物を見つけることができた。"
 
 # game/chapter5.rpy:545
 translate japanese chapter5_1c3d1639:
@@ -1946,7 +1946,7 @@ translate japanese chapter5_654c0146:
 translate japanese chapter5_055bee04:
 
     # "폐전신국에서 빠져나와 마을 회관으로 돌아가는 동안에도 심장 박동은 가라앉을 생각이 없어 보였다. "
-    "廃電信局から抜け出して村会館に戻る間も、心臓の鼓動は収まる気配がなかった。"
+    "廃電信局から抜け出して町村会館に戻る間も、心臓の鼓動は収まる気配がなかった。"
 
 # game/chapter5.rpy:790
 translate japanese chapter5_26fd803c:
@@ -2048,7 +2048,7 @@ translate japanese chapter5_a1bb62c0:
 translate japanese chapter5_c66910f6:
 
     # "마을 회관에 다시 돌아온 우리는 곧장 이부자리에 누워 잠을 청했다. "
-    "村会館に戻った僕たちはすぐに寝床に横になって眠りについた。"
+    "町村会館に戻った僕たちはすぐに寝床に横になって眠りについた。"
 
 # game/chapter5.rpy:831
 translate japanese chapter5_9429fb09:
@@ -3176,7 +3176,7 @@ translate japanese chapter5_9f335f44:
 translate japanese chapter5_3fb7dfd8:
 
     # "하룻밤 머물렀던 마을 회관을 기점으로 모퉁이를 돌자 그날 밤 보았던 폐전신국이 모습을 보였다. "
-    "一晩泊まった村の会館を目印に角を曲がると、あの夜見た廃電信局が姿を見せた。"
+    "一晩泊まった町村会館を目印に角を曲がると、あの夜見た廃電信局が姿を見せた。"
 
 # game/chapter5.rpy:1327
 translate japanese chapter5_28f5a164:
