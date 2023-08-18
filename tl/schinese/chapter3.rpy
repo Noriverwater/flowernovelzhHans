@@ -1696,7 +1696,7 @@ translate schinese chapter3_7c14a19c:
     # voice "voices/gc31.ogg"
     # 소녀 "“그곳에서 죽음의 색을 보고 난 뒤로 기억이 조금씩 되돌아왔어요. 제가 화재 현장에서 죽지 못했다는 것도, 맨 처음 우리가 갔던 건물에서 떠올렸던 죽음의 색이 제 것이 아니라는 것도.”"
     voice "voices/gc31.ogg"
-    소녀 "“在那里看到死亡的颜色后，记忆渐渐恢复了。我没死在火灾现场，也就是说，我们第一次去的建筑物里看到的死亡颜色不是我的。”"
+    소녀 "“在那里看到死亡的颜色后，记忆渐渐恢复了。我竟然没死在火灾现场，也就是说，我们第一次去的建筑物里看到的死亡颜色不是我的。”"
 
 # game/chapter3.rpy:646
 translate schinese chapter3_3f617317:
@@ -1704,7 +1704,7 @@ translate schinese chapter3_3f617317:
     # voice ""
     # "죽지 못했다니."
     voice ""
-    "没死。"
+    "竟然没死。"
 
 # game/chapter3.rpy:648
 translate schinese chapter3_ffce3416:
@@ -1910,7 +1910,7 @@ translate schinese chapter3_90134969:
 translate schinese chapter3_6b04be4a:
 
     # "어색하게 고개를 돌려, 내 옆에 멍하니 서 있는 소녀를 힐긋힐긋 바라본다."
-    "尴尬地回头，偷看站在我旁边发呆的少女。"
+    "尴尬地回头，偷偷地注视着站在我旁边发呆的少女。"
 
 # game/chapter3.rpy:708
 translate schinese chapter3_a2ebe616:
@@ -2008,7 +2008,7 @@ translate schinese chapter3_fa6e7f69:
     # voice "voices/gc42.ogg"
     # 소녀 "“이거 완전, 사람이 아니라 괴물이네요.”"
     voice "voices/gc42.ogg"
-    소녀 "“完全不是人而是怪物啊。”"
+    소녀 "“完全不是人，而是怪物啊。”"
 
 # game/chapter3.rpy:738
 translate schinese chapter3_82130915:
