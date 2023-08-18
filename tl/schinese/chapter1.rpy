@@ -2254,7 +2254,7 @@ translate schinese ecg2_label_2a73540b:
 translate schinese ecg2_label_7716b0f3:
 
     # "차라리 3000이나 4000 정도의 숫자가 적혀 있었다면 대규모의 몰래카메라라고 생각할 수는 있지 않았을까."
-    "相反，如果写了大约3000或4000之类的数字，我可能会认为这是一个大型骗局。"
+    "相反，如果写了大约3000或4000之类的数字，我可能会认为这是在开一个国际玩笑。"
 
 # game/chapter1.rpy:1138
 translate schinese ecg2_label_d9cbc321:
@@ -2332,7 +2332,7 @@ translate schinese ecg2_label_97b780f4:
 translate schinese ecg2_label_151b96f1:
 
     # "136년이라는 현실감 없는 숫자가 와닿지는 않았지만, 그래도 원래의 내 몸과 바뀐 몸 사이의 연관성 정도는 찾을 수 있진 않을까."
-    "虽然我对136年这种没有现实感的数字没有概念，但是能找到我原来的身体和变化的身体之间的关联性吗？"
+    "虽然我对136年这种没有现实感的数字没有概念，但是能找到我原来的身体和变化的身体之间的关联性吗。"
 
 # game/chapter1.rpy:1171
 translate schinese ecg2_label_f3f64def:
@@ -2352,7 +2352,7 @@ translate schinese ecg2_label_2530fee9:
     # voice "voices/ya65.ogg"
     # 유미 "“안녕, 또 만났네？!”"
     voice "voices/ya65.ogg"
-    유미 "“你好，又见面了！”"
+    유미 "“你好，又见面了？！”"
 
 # game/chapter1.rpy:1182
 translate schinese ecg2_label_31d98d55:
@@ -2360,7 +2360,7 @@ translate schinese ecg2_label_31d98d55:
     # voice ""
     # "단순한 우연이라고 하기엔 너무 편의주의적 상황이 아닐까."
     voice ""
-    "若是单纯地说是偶然，是不是太便宜主义了呢？"
+    "若是单纯地说是偶然，是不是太便宜主义了呢？（译者注：편의주의（便宜主義）是指一种不寻找原因，而是临时敷衍的方法或总是出于自己的方便和利益为标准的思维方式）"
 
 # game/chapter1.rpy:1184
 translate schinese ecg2_label_d27ea355:
@@ -2372,7 +2372,7 @@ translate schinese ecg2_label_d27ea355:
 translate schinese ecg2_label_053a65f3:
 
     # "반갑게 손을 흔드는 유미에게, 나는 어안이 벙벙한 얼굴로 인사를 건넸다."
-    "我目瞪口呆地向热情招手的优美打招呼。"
+    "向着热情招手的优美，我傻傻地愣着打招呼。"
 
 # game/chapter1.rpy:1187
 translate schinese ecg2_label_2f9f7ae7:
