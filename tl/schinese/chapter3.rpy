@@ -2178,7 +2178,7 @@ translate schinese chapter3_f90a65e2:
 translate schinese chapter3_6ceaf897:
 
     # "양이 한 마리, 양이 두 마리……."
-    "一只羊两只羊……"
+    "一只羊，两只羊……"
 
 # game/chapter3.rpy:799
 translate schinese chapter3_6a19e466:
@@ -2192,7 +2192,7 @@ translate schinese chapter3_65ae6f01:
     # voice "voices/gc43.ogg"
     # 소녀 "“…… 자요？”"
     voice "voices/gc43.ogg"
-    소녀 "“……睡觉了吗？”"
+    소녀 "“……睡了吗？”"
 
 # game/chapter3.rpy:806
 translate schinese chapter3_3a14071c:
@@ -2208,7 +2208,7 @@ translate schinese chapter3_8907214d:
     # voice "voices/gc44.ogg"
     # 소녀 "“정말 자는 거 맞죠？”"
     voice "voices/gc44.ogg"
-    소녀 "“你真的在睡觉吗？”"
+    소녀 "“真的在睡觉吗？”"
 
 # game/chapter3.rpy:812
 translate schinese chapter3_b9d9877e:
@@ -2222,31 +2222,31 @@ translate schinese chapter3_b9d9877e:
 translate schinese chapter3_5d269880:
 
     # "곧이어 나의 얼굴 위로 희미한 손길이 느껴졌다."
-    "不久之后，我感到脸上有一丝淡淡的触感。"
+    "不久之后，我感到脸上有一丝轻微的触感。"
 
 # game/chapter3.rpy:815
 translate schinese chapter3_ec52915c:
 
     # "아마도 소녀가 나의 얼굴 위로 손을 흔들어 보이고 있는 모양이었다."
-    "也许是少女在我脸上抚摸。"
+    "也许是少女在我的脸前挥动她的手。"
 
 # game/chapter3.rpy:816
 translate schinese chapter3_1710dfb7:
 
     # "하마터면 미간을 움츠릴 뻔했지만, 다행히 그런 일은 없었다."
-    "差点儿皱起眉头，幸好没发生。"
+    "差点儿皱起眉头，但幸好没发生。"
 
 # game/chapter3.rpy:818
 translate schinese chapter3_12a3bce1:
 
     # "스르륵 소녀가 몸을 일으키는 소리가 들렸다."
-    "听见少女哧溜一声站了起来。"
+    "我听见少女哧溜一声站了起来的声音。"
 
 # game/chapter3.rpy:819
 translate schinese chapter3_2b91c39f:
 
     # "눈을 감고 있었지만, 나로부터 조금 떨어진 곳에서 희미한 웃음소리를 찾을 수 있었다."
-    "虽然闭着眼睛，但在离我稍远的地方发出了微弱的笑声。"
+    "虽然闭着眼睛，却可以听到在离我稍远的地方发出了微弱的笑声。"
 
 # game/chapter3.rpy:820
 translate schinese chapter3_347c44d4:
@@ -2316,7 +2316,7 @@ translate schinese chapter3_1ec81d5e:
 translate schinese chapter3_89b24d53:
 
     # "사람이 없는 거리를, 혼자 걷고 있었다."
-    "独自走在无人的街道上。"
+    "在无人的街道上，我独自走着。"
 
 # game/chapter3.rpy:846
 translate schinese chapter3_616216d7:
@@ -2340,7 +2340,7 @@ translate schinese chapter3_7cc141b6:
 translate schinese chapter3_0fd9e78a:
 
     # "당연히 그래야 한다는 것처럼, 유미도, 현지도, 그리고 이름 모를 소녀도……."
-    "好像理所当然。优美、贤智，和不知名的少女……"
+    "好像理所当然。优美也是、贤智也是，还有不知名的少女也是……"
 
 # game/chapter3.rpy:853
 translate schinese chapter3_81340f99:
@@ -2430,13 +2430,13 @@ translate schinese chapter3_656d2c17:
 translate schinese chapter3_5e6dbb37:
 
     # "다시 이부자리로 돌아와 잠을 청하려는데, 침대에서 들려오던 소녀의 숨소리가 미묘하게나마 거칠게 느껴졌다."
-    "我回到被褥里想继续睡觉，但从床上传来的少女的呼吸声却有些刺耳。"
+    "再次回到被褥里想继续睡觉，但从床上传来的少女的呼吸声却有些刺耳。"
 
 # game/chapter3.rpy:880
 translate schinese chapter3_f0cab02d:
 
     # "나는 그대로 몸을 누이려다 말고, 침대 위에서 잠들어 있을 소녀에게 조심스레 다가가 보았다."
-    "我没有躺下，而是小心翼翼地靠近睡在床上的少女。"
+    "我没有像之前那样躺下，而是小心翼翼地靠近睡在床上的少女。"
 
 # game/chapter3.rpy:882
 translate schinese chapter3_96d9c3c9:
@@ -2454,7 +2454,7 @@ translate schinese chapter3_cc10809e:
 translate schinese chapter3_7effe37f:
 
     # "기분 탓일 거라 생각했던 거친 숨소리도, 확실히 불안정한 주기로 소녀의 입에서 새어나오고 있었다."
-    "以为是心情所致的粗重地呼吸，也确实以不稳定的周期从少女的口中流出。"
+    "以为是心情所致的粗重的呼吸，也确实以不稳定的周期从少女的口中流出。"
 
 # game/chapter3.rpy:886
 translate schinese chapter3_7cee1373:
@@ -2466,13 +2466,13 @@ translate schinese chapter3_7cee1373:
 translate schinese chapter3_7a558066:
 
     # "하지만 유령이 감기나 몸살에 걸린다니, 그런 이야기는 들어 본 적이 없는 것 같았다."
-    "但是幽灵感冒或身体不适，好像没见过。"
+    "但是幽灵感冒或身体不适，好像没听说过那样的故事。"
 
 # game/chapter3.rpy:888
 translate schinese chapter3_c9ae4e81:
 
     # "그러다 문득, 지금의 상황이 언젠가 겪어 본 듯한 기분이 들었다."
-    "突然，我觉得自己好像有一天经历了现在的情况。"
+    "突然，我觉得自己好像有一天经历过现在的情况。"
 
 # game/chapter3.rpy:890
 translate schinese chapter3_5b04aee4:
@@ -2484,7 +2484,7 @@ translate schinese chapter3_5b04aee4:
 translate schinese chapter3_bec54a86:
 
     # "어딘가 익숙하다 했더니, 소녀가 이곳에 온 첫날 밤과 똑같은 상황이었다."
-    "当时觉得有点熟悉，却发现这和少女来到这里的第一夜是一样的情况。"
+    "说是觉得有点熟悉，却发现和少女来到这里的第一夜是一样的情况。"
 
 # game/chapter3.rpy:893
 translate schinese chapter3_ba99cfdf:
@@ -2502,7 +2502,7 @@ translate schinese chapter3_8f060db6:
 translate schinese chapter3_2a308ef2:
 
     # "나는 냉장고에서 한 컵의 물을 더 따라와서는 소녀를 조심스럽게 깨워 보았다."
-    "我从冰箱里多倒了一杯水，小心翼翼地叫醒了少女。"
+    "我从冰箱里多倒了一杯水，小心翼翼地试图叫醒少女。"
 
 # game/chapter3.rpy:899
 translate schinese chapter3_7ff543aa:
@@ -2524,25 +2524,25 @@ translate schinese chapter3_cf2e513e:
     # voice ""
     # "소녀는 나의 조심스러운 부름에도 여전히 잠에서 깨어나지 못하고는 악몽 속을 헤맸다."
     voice ""
-    "即使我小心翼翼地呼唤，少女依然无法从噩梦中醒来。"
+    "即使我小心翼翼地呼唤，少女依然在从噩梦中徘徊，无法醒来。"
 
 # game/chapter3.rpy:905
 translate schinese chapter3_7b52ffee:
 
     # "왜 진작 괜찮냐는 말을 건네지 못했던 걸까."
-    "为什么不早点告诉我做噩梦啊？"
+    "为什么不早点告诉我做噩梦呢。"
 
 # game/chapter3.rpy:909
 translate schinese chapter3_437ede44:
 
     # "죽음의 색을 마주할 때마다 소녀로부터 느껴지던 흐릿한 위화감."
-    "少女面对死亡之色时，我已经注意到存在隐隐约约的违和感。"
+    "每次面对死亡的颜色，我都从那个少女身上感受到了模糊的不安。"
 
 # game/chapter3.rpy:913
 translate schinese chapter3_de311fb7:
 
     # "여러 색이 뒤섞이면 새까매지는 것과는 달리, 감정이란 뒤섞이면 뒤섞일수록 빛처럼 새하얘져 버리는 걸까."
-    "与各种颜色混在一起就会变黑的情况不同，感情混在一起就会像光一样变白。"
+    "与各种颜色混在一起就会变黑的情况不同，感情混在一起就会像光一样变白吗？"
 
 # game/chapter3.rpy:914
 translate schinese chapter3_5b34c986:
@@ -2554,13 +2554,13 @@ translate schinese chapter3_5b34c986:
 translate schinese chapter3_7302e05f:
 
     # "금세 잠에서 깨어났던 그 날과는 달리, 피곤해서인지 소녀는 깊은 잠에 빠진 듯해 보였다."
-    "与那天不同，可能是因为太累了，少女看起来像是睡着了。"
+    "和那天很快就从睡梦中醒来不同，也许是因为太累了，少女似乎陷入了沉睡。"
 
 # game/chapter3.rpy:918
 translate schinese chapter3_88f5dd49:
 
     # "소녀를 흔들어 깨워야 하나, 아니면 그냥 이부자리로 돌아가는 수밖에 없으려나."
-    "是努力摇醒少女，还是只能回到被褥里？"
+    "是努力摇醒少女，还是别无选择，只能回到被褥里？"
 
 # game/chapter3.rpy:919
 translate schinese chapter3_c57885cb:
@@ -2602,7 +2602,7 @@ translate schinese chapter3_a13a4c66:
 translate schinese chapter3_f8f0e923:
 
     # "소녀의 옆에 잠시 앉아, 그녀의 머리를 쓰다듬으며."
-    "在少女的旁边坐了一会儿，抚摸她的头发。"
+    "在少女的旁边坐了一会儿，我抚摸着她的头发。"
 
 # game/chapter3.rpy:928
 translate schinese chapter3_0a01f6bf:
@@ -2614,7 +2614,7 @@ translate schinese chapter3_0a01f6bf:
 translate schinese chapter3_045b3827:
 
     # "모든 것이 다 괜찮아질 거라는 멜로디가 소녀의 귓가에 연주되고, 나의 손은 샴푸 향이 여전히 남아있는 그녀의 머리카락을 천천히 쓰다듬는다."
-    "少女耳边演奏着一切都会好起来的旋律，我的手慢慢地抚摸着她残留着洗发水香气的头发。"
+    "一切都会好起来的旋律在少女的耳边奏响，我的手轻轻地抚摸着她还留着洗发水香气的头发。"
 
 # game/chapter3.rpy:931
 translate schinese chapter3_e8264a51:
@@ -2632,19 +2632,19 @@ translate schinese chapter3_d6cf2ea2:
 translate schinese chapter3_8e713878:
 
     # "화들짝 놀라 잠에서 깨어난 뒤에야 오늘은 일요일에다가 방학식을 한 뒤라는 것을 깨닫고는 안도했다."
-    "在震惊中醒来后，意识到今天是假期，我松了口气。"
+    "在震惊中醒来后，意识到今天是星期天，而且是放假典礼之后的第一天，我才松了口气。"
 
 # game/chapter3.rpy:941
 translate schinese chapter3_b8906a5f:
 
     # "더 볼 것도 없이, 해는 중천에 떠 있었다."
-    "没什么可看的，太阳在天空正中央。"
+    "不用看就知道，太阳在天空正中央。"
 
 # game/chapter3.rpy:942
 translate schinese chapter3_582d0263:
 
     # "새벽에 잠시 깨버려서 그런가, 팔자 좋게 늦잠을 자 버린 모양이었다."
-    "可能是凌晨醒了一会儿，睡了一个好觉。"
+    "可能是在黎明醒了一会儿后，睡了一个好觉。"
 
 # game/chapter3.rpy:943
 translate schinese chapter3_307bc818:
@@ -2656,7 +2656,7 @@ translate schinese chapter3_307bc818:
 translate schinese chapter3_c3ad0764:
 
     # "옆을 바라보자 소녀는 지난 새벽에 있었던 일은 아무것도 알아채지 못한 듯 잠에서 막 깨어난 나를 빤히 들여다보고 있을 뿐이었다."
-    "看着旁边，少女好像没察觉到凌晨发生的事情，只是盯着刚睡醒的我。"
+    "看着旁边，少女好像没察觉到凌晨发生的事情，只是呆呆地盯着刚睡醒的我。"
 
 # game/chapter3.rpy:947
 translate schinese chapter3_afe00b26:
@@ -2766,7 +2766,7 @@ translate schinese chapter3_2b508a67:
 translate schinese chapter3_f6dea031:
 
     # "아무 생각 없이 냉장고를 열었다가 잊고 있었던 것이 떠올랐다."
-    "漫不经心地打开冰箱，突然想起忘得一干二净的东西。"
+    "漫不经心地打开冰箱，突然想起了忘得一干二净的事。"
 
 # game/chapter3.rpy:981
 translate schinese chapter3_c4f897ca:
@@ -2784,25 +2784,25 @@ translate schinese chapter3_bcf8445f:
 translate schinese chapter3_e76bedc2:
 
     # "빈손으로 방으로 돌아오자 소녀의 시선이 그런 나의 뒤를 말없이 따라붙었다."
-    "空手回到房间，少女的默默地跟着我。"
+    "空着双手回到房间，觉得少女的视线在背后默默地跟着我。"
 
 # game/chapter3.rpy:989
 translate schinese chapter3_06f6ff8a:
 
     # 나 "“생각해보니 냉장고에 남아있는 게 아무것도 없어서. 마트 금방 갔다 올게.”"
-    나 "“仔细想想，冰箱里什么都没有了。我马上去超市。”"
+    나 "“才想起来，冰箱里什么都没有了。我去趟超市就回来。”"
 
 # game/chapter3.rpy:991
 translate schinese chapter3_9a64440e:
 
     # "대충 외출복으로 갈아입은 나는 얼른 마트로 향했다."
-    "我换了件衣服，向超市出发。"
+    "迅速换了外出服的我，赶紧向超市出发。"
 
 # game/chapter3.rpy:992
 translate schinese chapter3_e79b106c:
 
     # "현관을 나선 뒤에야 뒤늦게 소녀에게 점심으로는 뭘 먹고 싶은지 물어볼걸, 하는 생각이 들었지만, 돌아올 대답은 ‘뭐든지 괜찮아요’ 같은 세상에서 가장 간단하면서도 난해한 문장일 게 뻔했다."
-    "离开前门后，我才想到问少女她午餐想吃什么，但我得到的答案可能是世界上最简单，也是最令人费解的一句话，那就是“什么都可以”。"
+    "离开玄关后才想到问少女中午想吃什么，但我得到的答案果然是世界上最简单，也是最令人费解的一句话，那就是“什么都可以”。"
 
 # game/chapter3.rpy:1000
 translate schinese chapter3_87192e40:
@@ -2832,7 +2832,7 @@ translate schinese chapter3_58d8d422:
 translate schinese chapter3_3b5dace2:
 
     # "비교하자면 이곳은 있을 건 다 있을 곳이고, 대형 쇼핑몰은 없어도 될 것까지 다 있는 곳이라고나 할까."
-    "相比之下，在这里你需要的一切都应有尽有，本该没有的大型购物中心也没有的东西甚至也有。"
+    "相比之下，需要的一切在这里都应有尽有，而大型购物中心可以说连不需要的东西甚至也有。"
 
 # game/chapter3.rpy:1013
 translate schinese chapter3_4b77ce83:
@@ -2850,13 +2850,13 @@ translate schinese chapter3_3cf0ce3f:
 translate schinese chapter3_195a65fe:
 
     # "여태껏 익숙해져 있던 몸의 궤적에 나도 모르게 기대어 있던 것이겠지."
-    "不知不觉中我也依赖上了已经变得熟悉的身体的轨迹。"
+    "一定是不知不觉中我也依赖上了身体已经熟悉的轨迹。"
 
 # game/chapter3.rpy:1022
 translate schinese chapter3_3543b49a:
 
     # "잠깐 시야를 의식적으로 넓혀 유령 소녀가 좋아할 만한 것들을 찾아 주변을 둘러보았다."
-    "暂时有意识地拓宽视野，寻找幽灵少女喜欢的东西，环顾四周。"
+    "我暂时有意识地拓宽视野，为了寻找幽灵少女喜欢的东西而环顾四周。"
 
 # game/chapter3.rpy:1024
 translate schinese chapter3_611751c8:
@@ -2868,13 +2868,13 @@ translate schinese chapter3_611751c8:
 translate schinese chapter3_5e993214:
 
     # "익숙해져 있던 몸의 궤적을 잠시 비틀어볼까 하고 다른 쪽으로 카트를 돌리려는 순간."
-    "想暂时改变身体的运动轨迹，将车子推到另一个方向。"
+    "就在我准备偏离身体熟悉的轨迹，将小车转向另一个方向时……"
 
 # game/chapter3.rpy:1027
 translate schinese chapter3_584ace0c:
 
     # "나는 다른 쪽 쇼핑 코너에서 걸어오던 누군가와 우연히 눈이 마주친다."
-    "就在这时，我和从另一个购物区走来的某个人偶然相遇。"
+    "我和从另一个购物区走来的某个人对视了。"
 
 # game/chapter3.rpy:1035
 translate schinese chapter3_da995e78:
@@ -2906,7 +2906,7 @@ translate schinese chapter3_84487b04:
     # voice ""
     # "나 역시 웃는 얼굴로 그녀에게 인사를 건네지 않을 이유가 없었다."
     voice ""
-    "我也没有理由不用微笑着向她打招呼。"
+    "我没有理由不微笑着回应她的问候。"
 
 # game/chapter3.rpy:1050
 translate schinese chapter3_9e8f0a4c:
@@ -2952,7 +2952,7 @@ translate schinese chapter3_0530e6d9:
 translate schinese chapter3_69bb16ca:
 
     # "방금 막 일어난 터라 나의 시간 감각을 기준으로 말을 꺼냈었는데, 유미와 나는 하루의 출발점이 다르다는 것을 잊고 있었던 것이다."
-    "我刚刚醒来，所以我下意识地以为现在是早晨，但忘记了我和优美一天的起点不同。"
+    "刚刚醒来的我下意识地以为现在是早晨，但忘记了我和优美一天的起点不同。"
 
 # game/chapter3.rpy:1067
 translate schinese chapter3_d91c141c:
@@ -3086,7 +3086,7 @@ translate schinese chapter3_575e73c6:
     # voice "voices/yc7.ogg"
     # 유미 "“그러게. 아무래도 부모님은 그런 쪽으로 전공을 정하길 바라는 것 같아서. 요즘 교사한다고 하면 다들 뜯어말리잖아.”"
     voice "voices/yc7.ogg"
-    유미 "“是啊。不管怎么说，父母都希望我成为这个。最近一说将来要教别人，大家都会劝阻我。”"
+    유미 "“是啊。不管怎么说，父母似乎希望我选择那个方向的专业。这些年来一说要成为教师，大家都会劝阻我。”"
 
 # game/chapter3.rpy:1124
 translate schinese chapter3_b7cce17b:
@@ -3106,7 +3106,7 @@ translate schinese chapter3_80e17a3f:
 translate schinese chapter3_7e62c75d:
 
     # "항상 꿈을 이야기할 때면 묻어나오는 기분 좋은 두근거림은 마치 내게 딱 맞는 주파수처럼 들렸다."
-    "谈论梦想的时候，那种让人心情愉悦的心跳感觉就像最适合我的频率一样。"
+    "当她谈论梦想的时候，那种让人心情愉悦的心跳，感觉就像是与我完美契合的频率。"
 
 # game/chapter3.rpy:1129
 translate schinese chapter3_24f12c9e:
@@ -3166,7 +3166,7 @@ translate schinese chapter3_f1683dd5:
     # voice ""
     # 나 "“뻔한 대답이지만, 네가 행복할 수 있는 선택을 했으면 좋겠네.”"
     voice ""
-    나 "“虽然是老套的回答，但希望你能做出让你幸福的选择。”"
+    나 "“虽然是老套的回答，但希望你能做出让自己幸福的选择。”"
 
 # game/chapter3.rpy:1152
 translate schinese chapter3_40d586c5:
@@ -3182,7 +3182,7 @@ translate schinese chapter3_24d38efd:
     # voice ""
     # 나 "“그리고 무언가를 좋아한다는 건, 그 사람에게 있어 엄청 특별한 거니까.”"
     voice ""
-    나 "“还有，每个人喜欢做的事情都是特殊的。”"
+    나 "“还有喜欢的东西，每一个人都不一样。”"
 
 # game/chapter3.rpy:1158
 translate schinese chapter3_d7b2c48b:
@@ -4076,13 +4076,13 @@ translate schinese chapter3_f7209602:
 translate schinese chapter3_483b2427:
 
     # "운동장에서는 마침 학교 간의 친선 야구 경기가 열리고 있었던 모양인지, 응원하는 학생들이 가득 들어차 있었다."
-    "运动场上好像正在举行学校间的友谊棒球比赛，挤满了助威的学生。"
+    "操场上好像正在举行学校间的友谊棒球比赛，挤满了助威的学生。"
 
 # game/chapter3.rpy:1541
 translate schinese chapter3_f00c7a97:
 
     # "교문을 사이에 두고 나는 잠시 발걸음을 멈춰 세운 채 운동장을 바라보았다."
-    "隔着校门，我停下脚步望着操场。"
+    "我暂时停下脚步，看着操场和中间的校门。"
 
 # game/chapter3.rpy:1545
 translate schinese chapter3_d6995602:
@@ -4124,7 +4124,7 @@ translate schinese chapter3_0a5d6e0c:
 translate schinese chapter3_50388a61:
 
     # "{color=#00ccff}익숙한 느낌의 운동장과 그 전경이었다.{/color}"
-    "{color=#00ccff}这是有熟悉感觉的运动场及其全景。{/color}"
+    "{color=#00ccff}这是有熟悉感觉的操场及其全景。{/color}"
 
 # game/chapter3.rpy:1557
 translate schinese chapter3_c1d70984:
@@ -4188,19 +4188,19 @@ translate schinese chapter3_8a00f9c5:
 translate schinese chapter3_0d85d1e6:
 
     # "여느 때 보다 치열했고, 누구보다 간절했던 그 순간이었으련만, 어째서인지 그 기억은 흐릿하게 남아 막연한 감정만을 남겨 두고 있었다."
-    "当时的比赛比任何时候都激烈，比任何人都恳切，但不知为什么，那记忆已变得模糊，只留下了茫然的感情。"
+    "当时的比赛比任何时候都激烈，我比任何人都恳切，但不知为什么，那记忆已变得模糊，只留下了茫然的感情。"
 
 # game/chapter3.rpy:1578
 translate schinese chapter3_2e46540c:
 
     # "망각의 마법에라도 걸린 것처럼 흐릿해져 가는 2년 전의 기억을 움켜잡았다."
-    "仿佛被遗忘的魔法所迷惑，抓住了两年前的记忆。"
+    "仿佛被遗忘的魔法所迷惑，抓住了两年前模糊的记忆。"
 
 # game/chapter3.rpy:1580
 translate schinese chapter3_1abdb23c:
 
     # "마치 수천 년 전의 기억 같은 그 여름의 일들이 어렴풋이 떠올랐다."
-    "那个夏天的事情，像是千年前的记忆，依稀浮现在脑海。"
+    "那个夏天的事情，像是千年前的记忆，依稀在脑海浮现。"
 
 # game/chapter3.rpy:1582
 translate schinese chapter3_6ed0611f:
@@ -4240,7 +4240,7 @@ translate schinese chapter3_8a327af7:
 translate schinese chapter3_72bff69a:
 
     # 나 "“저기서 공 던지는 학생, 멋있어 보이지 않아？”"
-    나 "“在那里投球的学生看起来很帅吧？”"
+    나 "“在那里投球的学生，看起来很帅吧？”"
 
 # game/chapter3.rpy:1607
 translate schinese chapter3_34708149:
@@ -4284,7 +4284,7 @@ translate schinese chapter3_84d9a685:
     # voice ""
     # 나 "“야구, 좋아했거든. 잘하기도 했고.”"
     voice ""
-    나 "“我喜欢棒球。打得不错。”"
+    나 "“我喜欢，棒球。打得不错。”"
 
 # game/chapter3.rpy:1620
 translate schinese chapter3_6dec7e6c:
@@ -4490,7 +4490,7 @@ translate schinese chapter3_befb4457:
 translate schinese chapter3_807a28ad:
 
     # "나는 목적지 없이 아무렇게나 내딛던 발걸음을, 한 디저트 카페 앞에서 멈춰 세웠다."
-    "我漫无目的地迈出的步伐，在一家甜点咖啡厅前停下了脚步。"
+    "我漫无目的地迈出的步伐，在一家甜点咖啡馆前停下了脚步。"
 
 # game/chapter3.rpy:1755
 translate schinese chapter3_f3c55c12:
@@ -4564,7 +4564,7 @@ translate schinese chapter3_eab00c65:
 translate schinese chapter3_65dbde55:
 
     # "애초에 평일 낮의 디저트 카페이니, 하교 시간이 다 될 때까지는 사람도 없을 것이다."
-    "首先平时白天的甜点咖啡厅，不到放学时间应该不会有人。"
+    "首先工作日下午的甜点咖啡馆，不到放学时间应该不会有什么人。"
 
 # game/chapter3.rpy:1780
 translate schinese chapter3_d472c964:
@@ -4578,7 +4578,7 @@ translate schinese chapter3_73944a58:
     # voice "voices/gc81.ogg"
     # 소녀 "“그럼, 들어가요.”"
     voice "voices/gc81.ogg"
-    소녀 "“那就进去吧。”"
+    소녀 "“那就，进去吧。”"
 
 # game/chapter3.rpy:1793
 translate schinese chapter3_a719a476:
@@ -4646,7 +4646,7 @@ translate schinese chapter3_6522bee4:
     # voice ""
     # "일행도 없이 혼자서 디저트 카페에 오는 것은 아무래도 드문 일이었는지, 점원은 마치 내 옆에 서 있던 소녀의 존재를 인정해 주기라도 하려는 것처럼 내게 재차 질문을 건넸다."
     voice ""
-    "不知是不是因为一个人到甜点咖啡厅是很少见的事情，店员像是让我想承认站在我旁边的少女的存在一样，再次向我提出了问题。"
+    "不知是不是因为一个人到甜点咖啡馆是很少见的事情，店员像是让我想承认站在我旁边的少女的存在一样，再次向我提出了问题。"
 
 # game/chapter3.rpy:1817
 translate schinese chapter3_241e4b21:
@@ -4658,25 +4658,25 @@ translate schinese chapter3_241e4b21:
 translate schinese chapter3_6d4e883a:
 
     # "다른 손님이 거의 없는 카페는 꽤나 조용했다."
-    "几乎没有其他客人的咖啡厅相当安静。"
+    "几乎没有其他客人的咖啡馆相当安静。"
 
 # game/chapter3.rpy:1826
 translate schinese chapter3_58ef90fb:
 
     # "항상 유미와 함께 왔던 시끌벅적한 디저트 카페와는 확실히 다른 분위기였다."
-    "这与经常和优美一起去的热闹的甜点咖啡厅的氛围确实不同。"
+    "这与经常和优美一起去的热闹的甜点咖啡馆的氛围确实不同。"
 
 # game/chapter3.rpy:1831
 translate schinese chapter3_d59cddb0:
 
     # "카페의 미묘한 고요함이 전혀 어울리지 않을 것 같던 소녀와도 묘하게 어우러지는 것 같았으니까."
-    "因为咖啡厅微妙的寂静与看上去似乎完全不搭的少女也巧妙地融合在一起。"
+    "因为咖啡馆微妙的寂静与看上去似乎完全不搭的少女也巧妙地融合在一起。"
 
 # game/chapter3.rpy:1832
 translate schinese chapter3_54668a4a:
 
     # "아무래도 소녀가 말한 디저트 카페와 어울리지 않는 쪽은 나였던 모양이다."
-    "不管怎么说，与少女所说的甜点咖啡厅完全不搭的是我。"
+    "不管怎么说，与少女所说的甜点咖啡馆完全不搭的是我。"
 
 # game/chapter3.rpy:1834
 translate schinese chapter3_88ddfda6:
@@ -4791,7 +4791,7 @@ translate schinese chapter3_bd9471db:
 translate schinese chapter3_9c39620a:
 
     # "나의 발걸음이 굳이 디저트 카페 앞에서 멈춰 선 것도, 유미가 디저트 카페를 좋아해서라는 이유를 포함하고 있었다."
-    "我在甜点店前停下脚步，也是托优美喜欢甜点店的福。"
+    "我在甜点咖啡馆前停下脚步，也是托优美喜欢甜点咖啡馆的福。"
 
 # game/chapter3.rpy:1886
 translate schinese chapter3_949e3c7a:
@@ -5015,7 +5015,7 @@ translate schinese chapter3_fe9d82cd:
 translate schinese chapter3_e99fa4aa:
 
     # "시간이 흘러 카페에 한 명씩 사람이 들어차기 시작하자, 우리는 예정했던 대로 자리에서 일어나 밖으로 향했다."
-    "随着时间的流逝，人们开始一个个地挤进咖啡馆，我们按计划起身出发。"
+    "随着时间的流逝，人们开始一个个地挤进咖啡馆，我们也按计划起身，走了出去。"
 
 # game/chapter3.rpy:2013
 translate schinese chapter3_6a89e092:
@@ -5039,19 +5039,19 @@ translate schinese chapter3_cb2eb22b:
 translate schinese chapter3_bed6176c:
 
     # "사람을 피해 카페 밖으로 나온 거라고 하기엔, 거리에도 제법 많은 사람들이 걸어다니고 있었다."
-    "虽说是为了躲避人而走出咖啡屋，但街上也有相当多的人在走动。"
+    "虽说是为了躲避人而走出咖啡馆，但街上也有相当多的人在走动。"
 
 # game/chapter3.rpy:2023
 translate schinese chapter3_48718c50:
 
     # "인파에 섞여 길을 걸으며, 소녀는 이리저리 고개를 돌려 자신을 스쳐 지나가는 시선을 피했다."
-    "我们在人群中穿行，少女一边转动着头，一边躲避着那些擦肩而过的目光。"
+    "穿行在人群中的街道上，少女把头转来转去，躲避着那些擦肩而过的目光。"
 
 # game/chapter3.rpy:2028
 translate schinese chapter3_f1909ea3:
 
     # "그러다 잠시, 이곳저곳 타인의 시선이 닿지 않는 장소를 향하던 소녀의 눈길이 어느 한 자리에 머무른다."
-    "这时，少女的目光移到了某个别人视线看不到的地方。"
+    "这时，少女那寻找着不会被别人注意到的地方的目光，停留在了某个地方。"
 
 # game/chapter3.rpy:2029
 translate schinese chapter3_09ef7d5a:
