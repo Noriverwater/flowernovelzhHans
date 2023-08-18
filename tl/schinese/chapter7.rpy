@@ -340,7 +340,7 @@ translate schinese chapter7_fd9c2493:
 translate schinese chapter7_2f510c8b:
 
     # "그리고 그 볶음밥이 소녀 자신이 남겨 두었던 레시피로 만들어졌다는 것을, 눈치채지 못할 리가 없었다. "
-    "而且，炒饭是用少女自己留下的食谱制作的，不可能不注意到。"
+    "而且，那个炒饭是用少女自己留下的食谱制作的，不可能不注意到。"
 
 # game/chapter7.rpy:162
 translate schinese chapter7_c06d5389:
@@ -7815,7 +7815,7 @@ translate schinese chapter7_2_c18e4979:
 translate schinese chapter7_2_1f1d415b:
 
     # naro "열네 살 무렵의 나는 늦은 밤거리가 익숙했고, 아슬아슬하게 자정이 지나기 전까지 집에 도착할 생각으로 바삐 걸음을 옮기고 있었다. "
-    naro "十四岁左右的我，对深夜的街头已经非常熟悉，出于在子正前提心吊胆地赶到家的想法，急匆匆挪动步伐。"
+    naro "十四岁左右的我，对深夜的街头已经非常熟悉。出于在午夜前提心吊胆地赶到家的想法，急匆匆挪动步伐。"
 
 # game/chapter7.rpy:3454
 translate schinese chapter7_2_765a4734:
@@ -8123,7 +8123,7 @@ translate schinese chapter7_2_3a13238b:
 translate schinese chapter7_2_c9a1d6ea:
 
     # naro "하지만, 나는 여전히 그 학생의 이름을 알 수 없었다. "
-    naro "但是，我仍然不知道那个学生的名字。"
+    naro "但是，我仍然不能知道那个学生的名字。"
 
 # game/chapter7.rpy:3564
 translate schinese chapter7_2_f688fa89:
@@ -8135,7 +8135,7 @@ translate schinese chapter7_2_f688fa89:
 translate schinese chapter7_2_fefaf7e5:
 
     # naro "그녀가 여전히 학교에 나오는지도 알 수 없었다. "
-    naro "也不知道她是否还会来上学。"
+    naro "也不知道她是否还能来上学。"
 
 # game/chapter7.rpy:3568
 translate schinese chapter7_2_ff0d3801:
