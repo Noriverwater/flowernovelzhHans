@@ -446,7 +446,7 @@ translate schinese chapter6_150dff88:
     # voice ""
     # "그건 운명에 휘말린 게 아니라 서로의 운명이 얽혀있는 거라는 말장난같은 이야기를 꺼내려다 말고, 나는 그대로 그 말을 삼켜버렸다. "
     voice ""
-    "那不是卷入了命运，而是彼此的命运交缠在了一起，但我不想开这种玩笑，还是把这句话咽下去了。"
+    "我想要说的是我们没有被命运所左右，而是我们的命运相互交织在一起这样的玩笑话，但我却把这句话咽了下去。"
 
 # game/chapter6.rpy:160
 translate schinese chapter6_00074634:
@@ -516,7 +516,7 @@ translate schinese chapter6_bc3a1256:
 translate schinese chapter6_b99ad139:
 
     # "그리고 그 인형은, 말 그대로 현지의 운명 속에 휘말려버린 것이고 말이다. "
-    "还有那个人偶，字面上地，被卷入了贤智的命运。"
+    "还有那个人偶，字面上地，被贤智的命运所左右。"
 
 # game/chapter6.rpy:202
 translate schinese chapter6_58d38792:
@@ -592,7 +592,7 @@ translate schinese chapter6_03d1467f:
     # voice "voices/hf15.ogg"
     # 현지 "“선배, 선배가 그 유령을 만난 건 그냥 우연일까요?”"
     voice "voices/hf15.ogg"
-    현지 "“前辈遇到那个幽灵只是偶然吗？”"
+    현지 "“前辈，前辈遇到那个幽灵只是偶然吗？”"
 
 # game/chapter6.rpy:225
 translate schinese chapter6_520ed44d:
@@ -600,7 +600,7 @@ translate schinese chapter6_520ed44d:
     # voice ""
     # 나 "“우연과 필연을 구분하지 못하는 게 사람이라면서?”"
     voice ""
-    나 "“你刚说了人不能区分偶然和必然，”"
+    나 "“你不是刚说了人不能区分偶然和必然？”"
 
 # game/chapter6.rpy:228
 translate schinese chapter6_76f0e601:
@@ -660,7 +660,7 @@ translate schinese chapter6_5b6feb68:
 translate schinese chapter6_c707a384:
 
     # 나 "“여태껏 궁금했는데, 유미랑은 언제 친해진 거야?”"
-    나 "“到现在都很好奇，你什么时候和优美变得那么亲近了？”"
+    나 "“一直很好奇，你什么时候和优美变得那么亲近了？”"
 
 # game/chapter6.rpy:259
 translate schinese chapter6_41bb06d0:
@@ -704,7 +704,7 @@ translate schinese chapter6_c20fd83f:
 translate schinese chapter6_810f29d7:
 
     # "손을 흔들기 위해 몸을 돌리려는데, 현지가 나의 앞에 폴짝 다가와서는 눈을 동그랗게 뜨고선 나를 올려다보았다. "
-    "为了挥手，想要转身时，贤智却一下子靠近我，瞪着圆圆的眼睛。"
+    "为了挥手，想要转身时，贤智却突然走上前来，抬起头瞪起圆圆的眼睛看着我。"
 
 # game/chapter6.rpy:277
 translate schinese chapter6_46d4e123:
@@ -7916,7 +7916,7 @@ translate schinese ecg14_label_41a83c7a:
     # voice "voices/gf101_1.ogg"
     # 소녀 "“괜찮아요. 이건, 죗값이니까요. 살아생전에 큰 죄를 지었던, 제게 주어진 죗값.”"
     voice "voices/gf101_1.ogg"
-    소녀 "“没关系。这是赎罪。活着的时候犯了大罪，给我的罪付出的代价。”"
+    소녀 "“没关系。这是赎罪。活着的时候犯了大罪，为我的罪付出的代价。”"
 
 # game/chapter6.rpy:2828
 translate schinese ecg14_label_910b3950:
