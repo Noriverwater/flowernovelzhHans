@@ -6361,7 +6361,7 @@ translate schinese chapter7_fc6db2f2:
     # voice ""
     # "소녀는 자기가 그런 이유를 붙여 놓고도 뭔가가 마음에 들지 않았는지, 괜히 투정 부리는 듯한 표정을 지어 보였다."
     voice ""
-    "少女似乎对自己的理由很不满意，摆出了一副矫情的样子。"
+    "少女虽然自己找了这样的理由，却好像不满意什么，故意摆出了一副矫情的样子。"
 
 # game/chapter7.rpy:2732
 translate schinese chapter7_8376e7e7:
@@ -6369,7 +6369,7 @@ translate schinese chapter7_8376e7e7:
     # voice "voices/gg118.ogg"
     # 소녀 "“좋아하는 데에 이유를 붙인다는 건 힘든 일이라고요. 그러는 당신은, 이런 불행투성이 역귀가 좋은 이유를 세 가지만 말해주세요.”"
     voice "voices/gg118.ogg"
-    소녀 "“为喜欢的东西加上理由是很难的事情。所以，请告诉我，能给出三个喜欢我的理由吗？”"
+    소녀 "“为喜欢的东西找理由是很难的事情。你这样的人，为什么会喜欢我这样不幸的疫鬼，说出三个理由来吧。”"
 
 # game/chapter7.rpy:2734
 translate schinese chapter7_5f1c8d30:
