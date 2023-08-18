@@ -4238,7 +4238,7 @@ translate schinese ecg12_label_543b5691:
 translate schinese ecg12_label_3e29bd21:
 
     # 나 "“…… 나를 반겨줄 거라고도 생각 안 했어.”"
-    나 "“……没想到会欢迎我。”"
+    나 "“……也没想过会欢迎我。”"
 
 # game/chapter6.rpy:1583
 translate schinese ecg12_label_4bd62253:
@@ -4302,7 +4302,7 @@ translate schinese ecg12_label_9ac10b6d:
     # voice "voices/yf112.ogg"
     # 유미 "“그래서 그랬던 거구나. 비품 창고에서 멍하니 있었던 것도, 내가 뭐라 이야기를 꺼내려는데 멍하니 있던 것도.”"
     voice "voices/yf112.ogg"
-    유미 "“原来是因为这个原因啊。怪不得你在仓库里发呆。”"
+    유미 "“原来是因为这个原因啊。怪不得你在仓库里发呆，我想说点什么也发呆。”"
 
 # game/chapter6.rpy:1599
 translate schinese ecg12_label_5be52426:
@@ -4316,7 +4316,7 @@ translate schinese ecg12_label_5be52426:
 translate schinese ecg12_label_4f3129a7:
 
     # "기나긴 이야기가 끝나고 발걸음을 멈춰 세웠을 땐, 어느새 익숙한 장소에 서 있는 나를 발견할 수 있었다. "
-    "漫长的故事结束后，不知不觉间就来到了熟悉的地方。"
+    "当我结束了冗长的故事，停下脚步时，发现自己站在一个熟悉的地方。"
 
 # game/chapter6.rpy:1606
 translate schinese ecg12_label_314d2407:
@@ -4360,13 +4360,13 @@ translate schinese ecg12_label_5addef63:
     # voice ""
     # "그 별을 찾아내는 것보다 아침이 밝는 게 더 빠를 줄로만 생각했는데, 유미는 나의 말을 기다렸다는 듯 하늘의 한구석을 가리키며 말했다. "
     voice ""
-    "比起寻找那颗星星，我以为天亮会更快，但优美指着天空的一个角落说。"
+    "我以为黎明的到来会比找到那颗星星更快，但优美却指着天空的一角，似乎一直在等我的话。"
 
 # game/chapter6.rpy:1619
 translate schinese ecg12_label_421d78a9:
 
     # "별을 헤아리던 나는 고개를 돌려 의아한 눈치를 유미에게 보냈다. "
-    "数着星星，我转过头，好奇地看向优美。"
+    "我一边数着星星，一边转过头困惑地看了一眼优美。"
 
 # game/chapter6.rpy:1621
 translate schinese ecg12_label_0ac124ab:
@@ -4382,7 +4382,7 @@ translate schinese ecg12_label_fdde6d83:
     # voice ""
     # 나 "“아, 그게…… 저렇게 많은 별들 사이에서 그 별을 어떻게 다시 찾았나 해서.”"
     voice ""
-    나 "“啊，那个……我想你是怎么在那么多星星之间找到那颗星星的。”"
+    나 "“啊，那个……我在想你是怎么在那么多星星之间找到那颗星星的。”"
 
 # game/chapter6.rpy:1626
 translate schinese ecg12_label_63a90f70:
@@ -4410,7 +4410,7 @@ translate schinese ecg12_label_c1700853:
 translate schinese ecg12_label_75f48953:
 
     # 나 "“북극성이라면, 폴라리스를 이야기하는 거겠네.”"
-    나 "“如果是北极星的话应该是在说普拉利斯（polaris）（译者注：指勾陈一）吧。”"
+    나 "“如果是北极星的话应该是在说普拉利斯（polaris）吧。（译者注：指我们现在的北极星，勾陈一）”"
 
 # game/chapter6.rpy:1636
 translate schinese ecg12_label_71798e1b:
@@ -4438,7 +4438,7 @@ translate schinese ecg12_label_df136b4c:
 translate schinese ecg12_label_e55df454:
 
     # "그러자 유미가 알았다는 듯, 가볍게 손뼉을 마주치며 해답을 제시했다. "
-    "优美似乎明白了，轻轻地拍手做出了解释。"
+    "优美轻轻地拍了拍手，好像明白了一样做出了解释。"
 
 # game/chapter6.rpy:1644
 translate schinese ecg12_label_3793821e:
