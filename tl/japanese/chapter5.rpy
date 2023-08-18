@@ -6564,19 +6564,19 @@ translate japanese ecg11_label_036b82c2:
 translate japanese ecg11_label_916792e3:
 
     # "나는 정신을 잃기 전 마지막으로 보았던 장면을 찬찬히 떠올렸다. "
-    "私は意識を失う前に最後に見た光景をゆっくりと思い出した。"
+    "俺は意識を失う前に最後に見た光景をゆっくりと思い出した。"
 
 # game/chapter5.rpy:2922
 translate japanese ecg11_label_05e373be:
 
     # "그 녀석, 분명 내 주변에 기름을 뿌렸었지. "
-    "あいつ、確か私の周りに油をまき散らしていた。"
+    "あいつ、確か俺の周りに油をまき散らしていた。"
 
 # game/chapter5.rpy:2923
 translate japanese ecg11_label_b8bca98f:
 
     # "그리고 내 위로 라이터를 떨어트리려는 찰나, 나는 그 녀석의 등 뒤에서 붉은색 빛을 보았다. "
-    "そして私の上にライターを落とそうとする瞬間、私はあいつの背中から赤い光を見た。"
+    "そして俺の上にライターを落とそうとする瞬間、俺はあいつの背中から赤い光を見た。"
 
 # game/chapter5.rpy:2924
 translate japanese ecg11_label_6a387c27:
