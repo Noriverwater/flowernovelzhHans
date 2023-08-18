@@ -6588,7 +6588,7 @@ translate english ecg11_label_6a387c27:
 translate english ecg11_label_f25ac095:
 
     # "그건 분명, 살기였다. "
-    "It was definitely life force."
+    "It was definitely murderous."
 
 # game/chapter5.rpy:2929
 translate english ecg11_label_d414d0fa:
