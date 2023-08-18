@@ -176,7 +176,7 @@ translate schinese chapter7_dd1e66b7:
 translate schinese chapter7_a9ea65f1:
 
     # "꿈속에서 뒤척이는 듯한 소리가 나의 목에서 터져 나온다. "
-    "梦里翻腾般的声音从我的喉咙里迸发出来。"
+    "梦里翻腾的声音从我的喉咙里迸发出来。"
 
 # game/chapter7.rpy:80
 translate schinese chapter7_be49f88f:
@@ -7469,7 +7469,7 @@ translate schinese chapter7_1_48b59a32:
     # voice "voices/gg144.ogg"
     # 소녀 "“행복한 꿈이었어요. 행복한 한여름 밤의 꿈이요.”"
     voice "voices/gg144.ogg"
-    소녀 "“是幸福的梦。幸福的仲夏夜之梦。”"
+    소녀 "“是幸福的梦啊。幸福的仲夏夜之梦。”"
 
 # game/chapter7.rpy:3342
 translate schinese chapter7_1_9e5f3519:
@@ -7477,7 +7477,7 @@ translate schinese chapter7_1_9e5f3519:
     # voice "voices/gg145.ogg"
     # 소녀 "“이런 행복한 꿈을 꿀 수 있게 해줘서, 정말 고마워요.”"
     voice "voices/gg145.ogg"
-    소녀 "“能让我做这样幸福的梦，真的很感谢。”"
+    소녀 "“能让我做这样幸福的梦，真的谢谢你。”"
 
 # game/chapter7.rpy:3344
 translate schinese chapter7_1_bf114843:
@@ -12257,13 +12257,13 @@ translate schinese chapter7_3_a22e6fea:
 translate schinese chapter7_3_8d249c25:
 
     # "정확히는 집으로 돌아오지 않은 것이 아니라, 돌아오지 못한 것이겠지만. "
-    "确切地说不是没回家，而是没能回家。"
+    "确切地说不是没回家，而是没能回家吧。"
 
 # game/chapter7.rpy:5169
 translate schinese chapter7_3_0040ca0d:
 
     # "경찰은 가장 먼저 나와 함께 경기를 뛰었던 다른 학생들에게 나의 행방을 물은 듯했다. "
-    "警察似乎最先讯问了和我一起比赛的其他学生。"
+    "警察似乎首先向和我一起参加比赛的其他学生询问了我的下落。"
 
 # game/chapter7.rpy:5171
 translate schinese chapter7_3_199e6ed3:
@@ -12365,13 +12365,13 @@ translate schinese chapter7_3_f563b227:
 translate schinese chapter7_3_45ec5843:
 
     # "근신 처분이 풀려 학교에 나타난 학생들의 대화에, 가연은 한 발치 떨어진 곳에서 조용히 집중하고 있었다. "
-    "佳妍藏在一个地方集中精神，偷听因解除停学处分而重新出现在学校的学生们的对话。"
+    "在因解除停学处分而重新出现在学校的学生们的谈话中，佳妍在稍远一点的地方静静地关注着。"
 
 # game/chapter7.rpy:5208
 translate schinese chapter7_3_ddfaf666:
 
     # who "“우리 아빠가 높으신 분이잖아~ 금방 수습해주더라고.”"
-    who "“我爸爸不是高人嘛~ 很快就帮我收拾了。”"
+    who "“我爸爸不是大人物嘛~ 很快就帮我收拾了。”"
 
 # game/chapter7.rpy:5210
 translate schinese chapter7_3_740fbcc6:
@@ -12383,7 +12383,7 @@ translate schinese chapter7_3_740fbcc6:
 translate schinese chapter7_3_00ad6aa1:
 
     # "그녀의 눈동자에 내비쳐진 새빨간 살기가, 그 뒤의 일을 짐작케 했다. "
-    "她眼睛里透出鲜红的杀气，不难想象后面发生了什么事。"
+    "她眼睛里透出鲜红的杀气，不难想象后面发生的事。"
 
 # game/chapter7.rpy:5215
 translate schinese chapter7_3_56c2ef58:
@@ -12395,7 +12395,7 @@ translate schinese chapter7_3_56c2ef58:
 translate schinese chapter7_3_2b793e51:
 
     # "사건의 당사자 중 한 명으로부터 휴대폰을 훔친 가연은 한밤중에 다른 두 명에게 급한 일이 있으니 학교 운동장으로 나오라는 메시지를 보냈다. "
-    "佳妍从事件当事人中的一人那里偷到了手机，在深夜向其他两人发送了“有急事，到学校运动场来吧”的信息。"
+    "佳妍从事件当事人中的一人那里偷到了手机，在深夜向其他两人发送了“有急事，到学校操场来吧”的信息。"
 
 # game/chapter7.rpy:5218
 translate schinese chapter7_3_853e64a2:
@@ -12467,7 +12467,7 @@ translate schinese chapter7_3_9c67cceb:
 translate schinese chapter7_3_1c45dc01:
 
     # "그 뒤로, 무슨 일이 일어났는지는 알 수 없다. "
-    "之后，不知道发生了什么事。"
+    "之后，就不知道发生了什么事。"
 
 # game/chapter7.rpy:5256
 translate schinese chapter7_3_469e8e4f:
@@ -12523,7 +12523,7 @@ translate schinese chapter7_3_0eb48703:
     # voice ""
     # 나 "“그래야 한다면, 몇 번이고 나쁜 사람이 될 수 있어.”"
     voice ""
-    나 "“要是这样的话，我会一次又一次地成为坏人。”"
+    나 "“要是这样，我会一次又一次地成为坏人。”"
 
 # game/chapter7.rpy:5271
 translate schinese chapter7_3_c121ea44:
