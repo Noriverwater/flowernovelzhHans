@@ -5262,13 +5262,13 @@ translate schinese ecg13_label_0839dede:
 translate schinese ecg13_label_207c4b98:
 
     # "힘없이 돌린 고개를 무기력하게 들어 올린 소녀가 무언가를 중얼거린다. "
-    "少女无力地抬起头，喃喃自语。"
+    "少女无力地转过头，又无精打采地抬起头喃喃自语。"
 
 # game/chapter6.rpy:1918
 translate schinese ecg13_label_1b5656d0:
 
     # "그 한 마디보다 먼저, 내겐 소녀의 떨리는 숨결이 닿는다. "
-    "比起那一句话，少女颤抖的气息更明显。"
+    "比起她的话，少女颤抖的呼吸更早地触碰了我。"
 
 # game/chapter6.rpy:1921
 translate schinese ecg13_label_c1da86bd:
@@ -5284,25 +5284,25 @@ translate schinese ecg13_label_5f8bb517:
     # voice ""
     # "소녀의 일렁이는 목소리가 힘겹게, 느릿느릿 내게 도착한다. "
     voice ""
-    "少女吃力地说，缓缓地向我走来。"
+    "少女飘忽不定的声音，沉重而缓慢地传到我耳边。"
 
 # game/chapter6.rpy:1925
 translate schinese ecg13_label_ade3fbca:
 
     # "그 한 마디뿐이었다. "
-    "只丢下那一句话。"
+    "只是那一句话。"
 
 # game/chapter6.rpy:1926
 translate schinese ecg13_label_80b87022:
 
     # "다시금 떨리는 두 명의 숨결만이 텅 빈 공간을 희미하게 메워주고 있었다. "
-    "只有两人颤抖的呼吸，模糊地填满了空荡荡的空间。"
+    "再一次，只有两人颤抖的呼吸，微弱地充斥了空荡荡的空间。"
 
 # game/chapter6.rpy:1927
 translate schinese ecg13_label_5d844eba:
 
     # "무엇을 모르겠다는 걸까? "
-    "不知道什么呢？"
+    "她不知道什么呢？"
 
 # game/chapter6.rpy:1928
 translate schinese ecg13_label_e78c1df6:
@@ -5350,7 +5350,7 @@ translate schinese ecg13_label_18b6001e:
 translate schinese ecg13_label_149ae2a4:
 
     # "물방울져가던 소녀의 모습이 뺨을 타고 흘러내리기 직전, 한 발짝 걸음을 떼려던 그녀를 향해 그렇게 말한다. "
-    "在水珠从少女的脸颊流下之前，对想要迈出一步的她这样说。"
+    "在水珠从少女的脸颊流下之前，我对想要迈出一步的她说了那样的话。"
 
 # game/chapter6.rpy:1941
 translate schinese ecg13_label_d5b3f3c7:
@@ -5362,13 +5362,13 @@ translate schinese ecg13_label_d5b3f3c7:
 translate schinese ecg13_label_f0052175:
 
     # "이번엔 내가 한 걸음, 소녀를 향해 다가간다. "
-    "这次我一步一步走向少女。"
+    "这次我一步一步，走向少女。"
 
 # game/chapter6.rpy:1945
 translate schinese ecg13_label_939a6491:
 
     # "바스라지듯 들려온 나의 발걸음 소리에, 어쩔 수 없다는 것처럼 소녀가 고개를 돌린다. "
-    "听到我破碎的脚步声，少女不得不回头。"
+    "听到我沙沙作响的破碎的脚步声，少女不得不回头。"
 
 # game/chapter6.rpy:1946
 translate schinese ecg13_label_bc13dfcd:
@@ -5404,7 +5404,7 @@ translate schinese ecg13_label_ed08f187:
     # voice "voices/gf20.ogg"
     # 소녀 "“어째서 저 같은 살인귀를 붙잡고 있는 건가요?!”"
     voice "voices/gf20.ogg"
-    소녀 "“为什么要执着我这样的杀人鬼不放呢？”"
+    소녀 "“为什么要执着于我这样的杀人鬼不放呢？！”"
 
 # game/chapter6.rpy:1957
 translate schinese ecg13_label_e449b8ca:
@@ -5412,7 +5412,7 @@ translate schinese ecg13_label_e449b8ca:
     # voice ""
     # "쏟아지는 별빛에 휩싸인 소녀의 눈동자가, 조금만 건드려도 울음을 터뜨릴 것처럼 반짝이고 있었다. "
     voice ""
-    "少女被倾泻而下的星光笼罩着，眼睛闪闪发光，仿佛一碰就要哭出来。"
+    "少女的瞳孔被倾泻的星光笼罩着，一眨一眨的，仿佛轻轻一碰就会哭出来。"
 
 # game/chapter6.rpy:1959
 translate schinese ecg13_label_f6e04bc2:
@@ -5424,13 +5424,13 @@ translate schinese ecg13_label_f6e04bc2:
 translate schinese ecg13_label_8d2414be:
 
     # "손을 뻗어 닿는다면 알 수 있었을 텐데. "
-    "伸出手就知道了。"
+    "只要伸出手就能知道了。"
 
 # game/chapter6.rpy:1961
 translate schinese ecg13_label_09e4727b:
 
     # "나는 다만 차분히 숨을 고르며, 소녀의 들려올 목소리를 기다렸다. "
-    "我只是屏息凝神，等着少女的感情倾泻而出。"
+    "我只是屏息凝神，等着少女的声音传达过来。"
 
 # game/chapter6.rpy:1963
 translate schinese ecg13_label_396673fa_1:
@@ -5572,7 +5572,7 @@ translate schinese ecg13_label_e4bf1f28:
 translate schinese ecg13_label_9eb9877e:
 
     # "시간이 멈춘 것처럼, 나도, 소녀도, 움직임을 멈춘다. "
-    "就像时间停止了一样，我和少女，也停止了行动。"
+    "就像时间停止了一样，我也是，少女也是，停止了行动。"
 
 # game/chapter6.rpy:2006
 translate schinese ecg13_label_0382d536:
@@ -5622,7 +5622,7 @@ translate schinese ecg13_label_c41cdb04:
     # voice ""
     # "본래라면 거절을 나타내야 할 그 한 마디는, 때늦은 철 떨어지는 여린 봄꽃처럼, 힘없이 나풀거렸다. "
     voice ""
-    "本应表示拒绝的那句话，却如晚秋凋零的春花一般，无力地飘扬着。"
+    "本应表示拒绝的那句话，却如晚秋凋零的春花，无力地飘扬着。"
 
 # game/chapter6.rpy:2024
 translate schinese ecg13_label_4ec43dc6:
@@ -5652,7 +5652,7 @@ translate schinese ecg13_label_8dd817a1:
     # voice "voices/gf28.ogg"
     # 소녀 "“그렇게 되면, 저도 붙잡고 싶어져 버리잖아요…….”"
     voice "voices/gf28.ogg"
-    소녀 "“不那样的话，我也想紧抱住你……”"
+    소녀 "“不那样的话，我也想紧紧拥抱你……”"
 
 # game/chapter6.rpy:2034
 translate schinese ecg13_label_8eb1f729:
@@ -5660,13 +5660,13 @@ translate schinese ecg13_label_8eb1f729:
     # voice ""
     # "해석하기엔 너무 많은 감정들이었다. "
     voice ""
-    "无法解释的感情太多了。"
+    "难以解释的感情太多了。"
 
 # game/chapter6.rpy:2036
 translate schinese ecg13_label_fc85c600:
 
     # "내가 할 수 있는 일이라고는 한 가지 정도뿐이라는 걸, 나도 잘 알고 있다. "
-    "我也很清楚，我能做的只有一件事。"
+    "我也很清楚，我能做到的只有一件事。"
 
 # game/chapter6.rpy:2037
 translate schinese ecg13_label_ab3c27f0:
