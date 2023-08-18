@@ -7186,7 +7186,7 @@ translate schinese chapter1_2_69f3383f:
     # voice ""
     # 나 "“아니거든. 게다가 우리가 해줘야 할 일은 그 애를 무사히 사라지게 하는 건데, 너무 친해지기도 좀 그렇고…….”"
     voice ""
-    나 "“不。而且我们要做的事情是让她平安地消失，也不能太亲近……”"
+    나 "“不。而且我们要做的事情是让她平安地消失，太亲密了也不好意思……”"
 
 # game/chapter1.rpy:3171
 translate schinese chapter1_2_0efafa99:
@@ -7200,7 +7200,7 @@ translate schinese chapter1_2_ae76c041:
     # voice "voices/ha46.ogg"
     # 현지 "“흐음, 냉정하시네요.”"
     voice "voices/ha46.ogg"
-    현지 "“嗯，很冷静啊。”"
+    현지 "“嗯，很冷情啊。”"
 
 # game/chapter1.rpy:3178
 translate schinese chapter1_2_b96d4244:
@@ -7232,7 +7232,7 @@ translate schinese chapter1_2_336e76ad:
     # voice "voices/ha48.ogg"
     # 현지 "“냉정한 게 아니라, 친절한 거라고 해야 할까요？”"
     voice "voices/ha48.ogg"
-    현지 "“不是冷静，而是亲切？”"
+    현지 "“应该不是冷情，而是亲切吗？”"
 
 # game/chapter1.rpy:3187
 translate schinese chapter1_2_afc22be7:
@@ -7268,7 +7268,7 @@ translate schinese chapter1_2_ac6aebee:
 translate schinese chapter1_2_f66583b7:
 
     # "오컬트부실로 돌아왔을 땐, 소녀의 모습을 곧바로 찾을 수 있었다."
-    "当我回到超自然部室时，我立刻就找到了那个少女。"
+    "回到超自然部室时，就能找到少女的身影。"
 
 # game/chapter1.rpy:3215
 translate schinese chapter1_2_e68cc7ef:
