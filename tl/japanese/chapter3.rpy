@@ -10,7 +10,7 @@ translate japanese chapter3_b8f6b81f:
 translate japanese chapter3_21c525c2:
 
     # "사그라들 기미가 보이지 않는 열기 속으로 발걸음을 내디디며, 나는 반쯤 농담조로 중얼거렸다."
-    "萎れる気配が見えない熱気の中に足を踏み入れながら、僕は半分冗談めかして呟いた。"
+    "萎れる気配が見えない熱気の中に足を踏み入れながら、俺は半分冗談めかして呟いた。"
 
 # game/chapter3.rpy:15
 translate japanese chapter3_d838c90f:
@@ -98,7 +98,7 @@ translate japanese chapter3_062a32a4:
 translate japanese chapter3_76b36823:
 
     # "그랬으면 좋겠네, 라고 생각하며, 나는 진심으로 그 두 사람을 향해 행운을 빌어 주었다."
-    "そうだったらいいね、と思いながら、僕は心からあの二人に幸運を祈ってあげた。"
+    "そうだったらいいね、と思いながら、俺は心からあの二人に幸運を祈ってあげた。"
 
 # game/chapter3.rpy:50
 translate japanese chapter3_4c316b84:
@@ -266,7 +266,7 @@ translate japanese chapter3_08746cdd:
 translate japanese chapter3_60821b9a:
 
     # "두어 블록 정도를 더 걸어가서, 나와 소녀는 화재가 일어났던 것으로 추정되는 장소에 다다를 수 있었다."
-    "2、3ブロックほど歩いて行って、私と少女は火事が起きたと推測される場所に辿り着くことができた。"
+    "2、3ブロックほど歩いて行って、俺と少女は火事が起きたと推測される場所に辿り着くことができた。"
 
 # game/chapter3.rpy:121
 translate japanese chapter3_dbed4a05:
@@ -278,7 +278,7 @@ translate japanese chapter3_dbed4a05:
 translate japanese chapter3_3607383b:
 
     # "여전히 불에 그을린 흔적이 남아있는 벽면을 힐긋 바라보며, 나는 소녀에게 물었다."
-    "まだ火に焦げた跡が残っている壁面をチラッと見ながら、私は少女に尋ねた。"
+    "まだ火に焦げた跡が残っている壁面をチラッと見ながら、俺は少女に尋ねた。"
 
 # game/chapter3.rpy:125
 translate japanese chapter3_e0472636:
@@ -324,7 +324,7 @@ translate japanese chapter3_16fecc88:
 translate japanese chapter3_0666619c:
 
     # "어쩌면 그 정겨운 것처럼 느껴지는 감각을, 나는 그리워하고 있었는지도 모르겠다."
-    "もしかしたらその懐かしいように感じられる感覚を、私は恋しく思っていたのかもしれない。"
+    "もしかしたらその懐かしいように感じられる感覚を、俺は恋しく思っていたのかもしれない。"
 
 # game/chapter3.rpy:142
 translate japanese chapter3_ab561af0:
@@ -336,7 +336,7 @@ translate japanese chapter3_ab561af0:
 translate japanese chapter3_c63df49a:
 
     # "나와 소녀의 발걸음이 짙은 회색의 상처가 끊어진 지점에서 멈춰 섰다."
-    "私と少女の足は濃い灰色の傷が途切れたところで止まった。"
+    "俺と少女の足は濃い灰色の傷が途切れたところで止まった。"
 
 # game/chapter3.rpy:145
 translate japanese chapter3_94435433:
@@ -354,7 +354,7 @@ translate japanese chapter3_acf31ba4:
 translate japanese chapter3_495c00e1:
 
     # "나는 다시금 시선을 무채색의 공간 속으로 옮겼다."
-    "私は再び視線を無彩色の空間の中に移した。"
+    "俺は再び視線を無彩色の空間の中に移した。"
 
 # game/chapter3.rpy:150
 translate japanese chapter3_bda82192:
@@ -382,7 +382,7 @@ translate japanese chapter3_c63441d8:
 translate japanese chapter3_01a4ea32:
 
     # "나는 소녀가 반쯤 폐가처럼 변한 집으로 들어가는 것을 확인하고는, 슬며시 고개를 돌려 벽에 몸을 기대었다."
-    "私は少女が半分廃屋になった家に入っていくのを確認してから、そっと頭を振って壁に身を寄せた。"
+    "俺は少女が半分廃屋になった家に入っていくのを確認してから、そっと頭を振って壁に身を寄せた。"
 
 # game/chapter3.rpy:164
 translate japanese chapter3_a6469bee:
@@ -400,7 +400,7 @@ translate japanese chapter3_a610636f:
 translate japanese chapter3_8b2f33ea:
 
     # "내가 그리워하던 감각이란 이런 것이었을까."
-    "私が恋しく思っていた感覚というのはこんなものだったのだろうか。"
+    "俺が恋しく思っていた感覚というのはこんなものだったのだろうか。"
 
 # game/chapter3.rpy:168
 translate japanese chapter3_26f78543:
@@ -454,7 +454,7 @@ translate japanese chapter3_07025c68:
 translate japanese chapter3_6346637c:
 
     # "나의 몸이 아니지만, 나는 나다."
-    "俺の体ではないけれど、私は私だ。"
+    "俺の体ではないけれど、私は俺だ。"
 
 # game/chapter3.rpy:185
 translate japanese chapter3_b0445de2:
@@ -466,7 +466,7 @@ translate japanese chapter3_b0445de2:
 translate japanese chapter3_4779f5c5:
 
     # "그렇다면 원래의 나는 어떻게 된 걸까?"
-    "それなら元の私はどうなったんだろう？"
+    "それなら元の俺はどうなったんだろう？"
 
 # game/chapter3.rpy:190
 translate japanese chapter3_837d6f22:
@@ -496,7 +496,7 @@ translate japanese chapter3_1e270fb3:
 translate japanese chapter3_b1090ef5:
 
     # "플라나리아처럼 내 영혼이 두 쪽이 나 갈라진 게 아니라면, 껍데기만 남은 내 몸체는 분명 죽은 것이나 다름없겠지."
-    "プラナリアのように私の魂が二つに割れたわけではないなら、殻だけになった私の本体はきっと死んだものと変わらないだろう。"
+    "プラナリアのように俺の魂が二つに割れたわけではないなら、殻だけになった私の本体はきっと死んだものと変わらないだろう。"
 
 # game/chapter3.rpy:198
 translate japanese chapter3_1cb09df5:
@@ -580,7 +580,7 @@ translate japanese chapter3_f50c2633:
 translate japanese chapter3_d5a382cb:
 
     # "기억 속의 나는 불길 속에서 왼손을 뻗어, 누군가의 손을 붙잡았다."
-    "記憶の中の私は炎の中から左手を伸ばして、誰かの手を掴んだ。"
+    "記憶の中の俺は炎の中から左手を伸ばして、誰かの手を掴んだ。"
 
 # game/chapter3.rpy:231
 translate japanese chapter3_2e8c4425:
@@ -610,7 +610,7 @@ translate japanese chapter3_b718546e:
 translate japanese chapter3_b2bcdcce:
 
     # "그을린 벽을 바라보며, 나는 난데없이 떠오른 기억 하나를 멍하니 곱씹었다."
-    "焦げた壁を見ながら、私はふと思い浮かんだ記憶をぼんやりと噛みしめた。"
+    "焦げた壁を見ながら、俺はふと思い浮かんだ記憶をぼんやりと噛みしめた。"
 
 # game/chapter3.rpy:252
 translate japanese chapter3_923db7fc:
@@ -626,7 +626,7 @@ translate japanese chapter3_42d3ac6b:
     # voice ""
     # "나를 부르는 또렷한 목소리에 고개를 돌린다."
     voice ""
-    "私を呼ぶはっきりとした声に頭を振る。"
+    "俺を呼ぶはっきりとした声に頭を振る。"
 
 # game/chapter3.rpy:257
 translate japanese chapter3_d6ccdecf:
@@ -654,7 +654,7 @@ translate japanese chapter3_1c970703:
     # voice ""
     # "나는 벽에 기대어 있던 자세를 고쳐 잡았다."
     voice ""
-    "私は壁にもたれていた姿勢を直した。"
+    "俺は壁にもたれていた姿勢を直した。"
 
 # game/chapter3.rpy:267
 translate japanese chapter3_2cc636f1:
@@ -752,7 +752,7 @@ translate japanese chapter3_396673fa_1:
 translate japanese chapter3_abbc0548:
 
     # "나를 이상하다는 듯 빤히 쳐다보는 한 여학생."
-    "私を変だというようにじっと見ている一人の女子生徒。"
+    "俺を変だというようにじっと見ている一人の女子生徒。"
 
 # game/chapter3.rpy:309
 translate japanese chapter3_77062e61:
@@ -764,7 +764,7 @@ translate japanese chapter3_77062e61:
 translate japanese chapter3_a1d8df5a:
 
     # "이번에도 내 주변을 스쳐 지나가는 사람 중 한 명이겠거니 하고 생각하고는, 명패에 가져대려던 손을 내리곤 아무 일도 없었다는 듯 시선을 돌렸다."
-    "今回も私の周りをすり抜けていく人の中の一人だろうと思って、名札に手を伸ばそうとしていた手を下ろして何事もなかったように視線をそらした。"
+    "今回も俺の周りをすり抜けていく人の中の一人だろうと思って、名札に手を伸ばそうとしていた手を下ろして何事もなかったように視線をそらした。"
 
 # game/chapter3.rpy:311
 translate japanese chapter3_792af692:
