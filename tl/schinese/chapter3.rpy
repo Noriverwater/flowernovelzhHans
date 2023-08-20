@@ -96,7 +96,7 @@ translate schinese chapter3_062a32a4:
 translate schinese chapter3_76b36823:
 
     # "그랬으면 좋겠네, 라고 생각하며, 나는 진심으로 그 두 사람을 향해 행운을 빌어 주었다."
-    "但愿如此，我真心地为那她们两个祈福。"
+    "但愿如此，我真心地为她们两个祈福。"
 
 # game/chapter3.rpy:49
 translate schinese chapter3_4c316b84:
@@ -2772,7 +2772,7 @@ translate schinese chapter3_f6dea031:
 translate schinese chapter3_c4f897ca:
 
     # "아 맞다."
-    "啊对。"
+    "啊，对了。"
 
 # game/chapter3.rpy:982
 translate schinese chapter3_bcf8445f:
@@ -2832,7 +2832,7 @@ translate schinese chapter3_58d8d422:
 translate schinese chapter3_3b5dace2:
 
     # "비교하자면 이곳은 있을 건 다 있을 곳이고, 대형 쇼핑몰은 없어도 될 것까지 다 있는 곳이라고나 할까."
-    "相比之下，需要的一切在这里都应有尽有，而大型购物中心可以说连不需要的东西甚至也有。"
+    "相比之下，需要的一切在这里都应有尽有，而大型购物中心可以说是连不需要的东西甚至也有。"
 
 # game/chapter3.rpy:1013
 translate schinese chapter3_4b77ce83:
