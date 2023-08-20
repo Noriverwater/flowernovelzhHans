@@ -2082,7 +2082,7 @@ translate schinese chapter3_7e141a6e:
 translate schinese chapter3_97913dfb:
 
     # "옆을 슬쩍 돌아보니, 소녀도 티는 내지 않으려 하고 있었지만 분명 얼굴에는 피곤한 기색이 역력해 보였다."
-    "往旁边一看，少女也在尽力掩盖疲倦的神色。"
+    "往旁边一看，虽然少女也不想表现出来，但脸上明显流露出疲惫的神色。"
 
 # game/chapter3.rpy:770
 translate schinese chapter3_510ec741:
@@ -2154,7 +2154,7 @@ translate schinese chapter3_9dde6206:
 translate schinese chapter3_09dd50fe:
 
     # "내가 잠에 들면 소녀도 나를 조금은 덜 신경 쓰지 않을까 하는 생각에서였다."
-    "因为我想如果我睡着了，少女也会少关心我一点。"
+    "我想着如果我睡着了，少女也许会少关心我一点。"
 
 # game/chapter3.rpy:795
 translate schinese chapter3_0863965c:
