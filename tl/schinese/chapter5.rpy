@@ -8240,7 +8240,7 @@ translate schinese ecg11_label_cf09be93:
 translate schinese ecg11_label_7e900421:
 
     # "내가 병원에 있는 동안 부실은 학예제를 위한 단장을 어느 정도 끝마치고 마무리 단계만을 남겨 둔 것으로 보였다. "
-    "我在医院的时候，活动室室一定程度上结束了为学艺祭的装潢工作，只剩下收尾环节。"
+    "我在医院的时候，活动室一定程度上结束了为学艺祭的装潢工作，只剩下收尾环节。"
 
 # game/chapter5.rpy:3513
 translate schinese ecg11_label_6415eda7:
@@ -8414,7 +8414,7 @@ translate schinese ecg11_label_70eb1e6f:
 translate schinese ecg11_label_2cfdee94:
 
     # 나 "“그나저나, 보이지도 않았는데 친해 보였다는 건 무슨 말이야.”"
-    나 "“话说回来，‘虽然我看不见，但你们两人看起来非常亲密’，这是什么意思？”"
+    나 "“话说回来，‘虽然我看不见，但你们两人看起来非常亲密’，是什么话啊。”"
 
 # game/chapter5.rpy:3569
 translate schinese ecg11_label_d7f9c69c:
@@ -8422,7 +8422,7 @@ translate schinese ecg11_label_d7f9c69c:
     # voice "voices/he90.ogg"
     # 현지 "“아, 그건…… 선배는 그런 적 없어요?”"
     voice "voices/he90.ogg"
-    현지 "“啊那个……前辈没有那样过吗？”"
+    현지 "“啊，那个……前辈没有那样过吗？”"
 
 # game/chapter5.rpy:3571
 translate schinese ecg11_label_4738d387:
@@ -8700,7 +8700,7 @@ translate schinese ecg11_label_d517b19f:
     # voice ""
     # 나 "“자신이 없어서 그래. 질 자신이…… 여하튼 넌 다른 사람 앞에서는 함부로 내기 이야기 꺼내지 마라.”"
     voice ""
-    나 "“因为没有自信。输的自信……总之，你不要在别人面前随便提起打赌。”"
+    나 "“因为没有自信。输的自信……总之，不要在别人面前随便提起打赌。”"
 
 # game/chapter5.rpy:3664
 translate schinese ecg11_label_c0c7e451:
