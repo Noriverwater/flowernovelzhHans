@@ -1684,7 +1684,7 @@ translate schinese chapter7_4820c7b1:
 translate schinese chapter7_9ff56ef5:
 
     # "이 순간만큼은 자신이 영원을 떠돌던 유령이라는 사실을 잊기라도 한 건지."
-    "这一刻，或许她忘记了自己是一个永远漂泊的幽灵。"
+    "这一刻，或许她忘记了自己事实上是一个永远漂泊的幽灵。"
 
 # game/chapter7.rpy:683
 translate schinese chapter7_1c1ba541:
@@ -1724,13 +1724,13 @@ translate schinese chapter7_c4b824ba:
 translate schinese chapter7_128e642e:
 
     # "그런 무책임한 말을 나도 모르게 내뱉었다는 사실에 놀랐다. "
-    "我自己也不知道为怎么就说出了如此不负责任的话，对此我很吃惊。"
+    "我对自己不知不觉说出这样不负责任的话感到惊讶。"
 
 # game/chapter7.rpy:695
 translate schinese chapter7_77c2d0bc:
 
     # "소녀는 만약 내가 그녀가 사라지지 않았다는 걸 깨달았을 때 안도감을 느꼈다는 사실을 알게 된다면, 뭐라고 반응할까? "
-    "如果我让她知道我发现她没失踪才如释重负，她会有什么反应？"
+    "如果少女知道我发现她没失踪才如释重负，她会有什么反应？"
 
 # game/chapter7.rpy:696
 translate schinese chapter7_b3b2ec23:
