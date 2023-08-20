@@ -686,19 +686,19 @@ translate schinese chapter3_ab7277c8:
 translate schinese chapter3_afa0baf3:
 
     # "주변을 아무리 훑어보아도 나는 발견할 수 없는 색이겠지만, 소녀의 말대로 그녀가 방금 둘러보고 나온 집에서는 아무런 색채도 느껴지지 않았다."
-    "不管我怎么环顾四周，我肯定找不到颜色，但正如少女所说，刚刚的房子里没有颜色。"
+    "不管我怎么环顾四周，我肯定找不到颜色，但正如少女所说，刚才看到的房子里没有任何颜色。"
 
 # game/chapter3.rpy:277
 translate schinese chapter3_06ddbf1e:
 
     # "실처럼 이어진 목소리가 들려오긴 했지만, 소녀가 느꼈던 그 색채와는 전혀 다른 무언가였겠지."
-    "虽然传来了像线一样连绵不断的声音，但它与少女所感受到的色彩完全不同。"
+    "虽然传来了像线一样连绵不断的声音，但它一定与少女所感受到的色彩完全不同吧。"
 
 # game/chapter3.rpy:278
 translate schinese chapter3_2b717863:
 
     # "소녀가 바라본 그 색채가 궁금하긴 했지만, 애써 알고 싶지는 않았다."
-    "虽然对少女眼中的色彩很好奇，但也不想刻意去了解。"
+    "虽然对少女眼中的色彩很好奇，但也不很想刻意去了解。"
 
 # game/chapter3.rpy:285
 translate schinese chapter3_39f04aae:
@@ -706,7 +706,7 @@ translate schinese chapter3_39f04aae:
     # voice "voices/gc16.ogg"
     # 소녀 "“그럼, 저쪽으로 한 번 갔다 와볼게요.”"
     voice "voices/gc16.ogg"
-    소녀 "“那我去那边看看吧。”"
+    소녀 "“那，我去那边看看吧。”"
 
 # game/chapter3.rpy:292
 translate schinese chapter3_088d0688:
@@ -714,13 +714,13 @@ translate schinese chapter3_088d0688:
     # voice ""
     # "불길의 흔적이 이어진 옆집으로 몇 걸음 정도 더 걸어가, 이번에도 인기척이 전혀 느껴지지 않는 집 안으로 들어가는 소녀의 뒷모습을 바라보았다."
     voice ""
-    "往火势蔓延的隔壁房子挪动脚步，少女走进了完全感觉不到动静的房子。"
+    "往火灾痕迹蔓延到的隔壁房子挪动脚步，我看见了少女走进完全感觉不到动静的房子的背影。"
 
 # game/chapter3.rpy:294
 translate schinese chapter3_bf90730d:
 
     # "천천히 무채색의 세계 속으로 사라지는 소녀의 뒷모습에서는, 묘하게 쌀쌀한 기운이 감돌았다."
-    "少女慢慢消失在无色的世界里，她的背影伴随着一股奇妙的凉意。"
+    "少女慢慢消失在无色的世界里，她的背影隐约伴随着一股奇妙的凉意。"
 
 # game/chapter3.rpy:295
 translate schinese chapter3_a88528b0:
@@ -732,13 +732,13 @@ translate schinese chapter3_a88528b0:
 translate schinese chapter3_1450b4ae:
 
     # "초인종 옆에는 잔뜩 그을려 글씨를 알아볼 수 없는 명패가 걸려 있었다."
-    "门铃旁边挂着被熏得认不出字的铭牌。"
+    "在门铃旁边，挂着一个烧得字迹都看不清的铭牌。"
 
 # game/chapter3.rpy:300
 translate schinese chapter3_f99649d4:
 
     # "혹시나 새까맣게 묻어있는 그을음을 손으로 지워내 보면 이름을 확인할 수 있지 않을까 하는 생각과 함께 명패로 손을 뻗으려는데, 옆에서 시선이 느껴졌다."
-    "我正想伸出手去，用手擦掉黑色的烟灰，却感觉有人在附近看着我。"
+    "我想着，如果用手擦掉铭牌上黑乎乎的烟灰，也许能看到名字，正要伸手去摸，却感觉到旁边有人在看我。"
 
 # game/chapter3.rpy:302
 translate schinese chapter3_396673fa_1:
@@ -824,13 +824,13 @@ translate schinese chapter3_19f85936:
 translate schinese chapter3_b501945a:
 
     # 나 "“아…… 그게. 실은, 예전에 여기 살던 여자애랑 같은 반 친구였거든.”"
-    나 "“啊……那个……其实，我和以前住在这里的女生是同班同学。”"
+    나 "“啊……那个。其实，我和以前住在这里的女生是同班同学。”"
 
 # game/chapter3.rpy:333
 translate schinese chapter3_75278cac:
 
     # "무의식적으로 여자아이의 시선을 마주 보는 것을 피하고선, 나는 그렇게 말했다."
-    "我这么说着，下意识地避开了女孩的目光。"
+    "我不自觉地避开了女孩的眼神，然后说了那样的话。"
 
 # game/chapter3.rpy:334
 translate schinese chapter3_d973c175:
@@ -872,7 +872,7 @@ translate schinese chapter3_0138c967:
     # voice "voices/c4.ogg"
     # who "“그런데 왜 그쪽 주변을 서성이고 있던 거예요？”"
     voice "voices/c4.ogg"
-    who "“那你为什么在那里徘徊？”"
+    who "“那你为什么在那里徘徊呀？”"
 
 # game/chapter3.rpy:351
 translate schinese chapter3_33ea8265:
@@ -1312,7 +1312,7 @@ translate schinese chapter3_e246405f_1:
     # voice ""
     # 나 "“아, 으응…….”"
     voice ""
-    나 "“啊，好……”"
+    나 "“啊，嗯……”"
 
 # game/chapter3.rpy:514
 translate schinese chapter3_409a45ff:
@@ -1404,7 +1404,7 @@ translate schinese chapter3_41443c66:
     # voice ""
     # "솔직한 대답이었다."
     voice ""
-    "是坦率的回答。"
+    "这是一个诚实的回答。"
 
 # game/chapter3.rpy:543
 translate schinese chapter3_72831887:
@@ -1450,13 +1450,13 @@ translate schinese chapter3_b0fe6813:
 translate schinese chapter3_bcb39c9a:
 
     # "이번에도 솔직한 대답이었다."
-    "这次也是坦率的回答。"
+    "这也是一个诚实的回答。"
 
 # game/chapter3.rpy:554
 translate schinese chapter3_81318a3e:
 
     # "다만 아까의 대답과 다른 점이라면, ‘그러게’라고 대답해도 충분할 만한 이야기에 굳이 사족을 덧붙였다는 것 정도."
-    "但是和刚才的回答不同的地方就是在肯定的情况下，特意画蛇添足。"
+    "但是和刚才的回答不同的地方就是在一个只要说‘是啊’就够了的话题上，特意画蛇添足。"
 
 # game/chapter3.rpy:560
 translate schinese chapter3_a73d94f3:
@@ -1480,7 +1480,7 @@ translate schinese chapter3_03cf3c22:
 translate schinese chapter3_5101aad5:
 
     # "눈동자에 죽음이 투영된다는 건, 상상하기 힘든 그림이다."
-    "眼睛里映射出死亡，这是很难想象的一副画面。"
+    "眼睛里映射出死亡，是很难想象的一副画面。"
 
 # game/chapter3.rpy:571
 translate schinese chapter3_649af7de:
@@ -1488,7 +1488,7 @@ translate schinese chapter3_649af7de:
     # voice "voices/gc24.ogg"
     # 소녀 "“여기서 저랑 이야기하다간 정말 이상한 사람으로 보이지 않을까요？”"
     voice "voices/gc24.ogg"
-    소녀 "“在这里和我聊天的话会不会看起来很奇怪呢？”"
+    소녀 "“在这里和我聊天，会不会被别人当成怪人呢？”"
 
 # game/chapter3.rpy:573
 translate schinese chapter3_75e35eb3:
@@ -1508,13 +1508,13 @@ translate schinese chapter3_42840289:
 translate schinese chapter3_23c0ef6a:
 
     # "굳이 그럴 필요까진 없었지만, 소녀에게 정말 괜찮다는 것을 어필하고 싶었던 게 아니었을까 한다."
-    "虽然不一定非要这样，但对少女来说可能真的很不错。"
+    "虽然没有必要那样做，但是不是想向女孩证明自己真的没关系呢。"
 
 # game/chapter3.rpy:581
 translate schinese chapter3_76c4a930:
 
     # "소녀는 그런 나를 바라보며 잠깐이지만 가벼운 웃음을 지어 보였다."
-    "少女就那样看着我，轻轻地笑了笑。"
+    "少女就那样看着我，短暂地笑了。"
 
 # game/chapter3.rpy:583
 translate schinese chapter3_1729816d:
@@ -1544,7 +1544,7 @@ translate schinese chapter3_7e403c40:
     # voice "voices/gc26.ogg"
     # 소녀 "“제가 이렇게 이야기해도, 감 안 잡히겠죠？”"
     voice "voices/gc26.ogg"
-    소녀 "“我这么说，你不会明白的，对吧？”"
+    소녀 "“我这么说，你不会明白吧？”"
 
 # game/chapter3.rpy:598
 translate schinese chapter3_0c92bf83:
@@ -1560,7 +1560,7 @@ translate schinese chapter3_29c1d205:
     # voice "voices/gc27.ogg"
     # 소녀 "“불길 속에서 죽음을 기다리는 거, 되게 끔찍한 일이었나 봐요.”"
     voice "voices/gc27.ogg"
-    소녀 "“在火焰中等待死亡是非常可怕的事情。”"
+    소녀 "“在火海中等待死亡，是非常可怕的事情。”"
 
 # game/chapter3.rpy:602
 translate schinese chapter3_cf2a54d8:
@@ -1648,7 +1648,7 @@ translate schinese chapter3_e558db51:
 translate schinese chapter3_6d99bc9a:
 
     # "열차가 선로에 멈춰 서고, 나와 소녀는 함께 안으로 발걸음을 내디뎠다."
-    "列车停在轨道上，我和少女一起上车。"
+    "列车停在轨道上，我和少女一起向里迈步。"
 
 # game/chapter3.rpy:630
 translate schinese chapter3_c4a9021a:
@@ -1820,7 +1820,7 @@ translate schinese chapter3_29c0c950:
 translate schinese chapter3_ef38c78e:
 
     # "무표정한 얼굴로 그런 이야기를 또박또박 건네는 소녀의 모습은, 마치 자신과는 아무런 상관없는 남의 이야기를 하는 것처럼 보이기도 했다."
-    "说出这样故事的少女面无表情，仿佛在谈论一个与自己无关的人。"
+    "少女一脸无表情地说着这样的话，就像是在说和自己没有任何关系的别人的故事一样。"
 
 # game/chapter3.rpy:684
 translate schinese chapter3_ab4cfb13:
@@ -1924,7 +1924,7 @@ translate schinese chapter3_f4fa6b41:
     # voice "voices/gc39.ogg"
     # 소녀 "“화재로 가족이 죽었다는 이야기를 이렇게 아무렇지도 않게 하다니. 저, 진짜 이상하죠？”"
     voice "voices/gc39.ogg"
-    소녀 "“家人因火灾遇难，我竟然这么漠不关心。很奇怪吧？”"
+    소녀 "“家人因火灾遇难，却竟然这么漠不关心。我，很奇怪吧？”"
 
 # game/chapter3.rpy:713
 translate schinese chapter3_03ef37ee:
@@ -1932,13 +1932,13 @@ translate schinese chapter3_03ef37ee:
     # voice ""
     # "나의 생각을 읽기라도 한듯, 소녀가 먼저 말을 꺼냈다."
     voice ""
-    "少女似乎读懂了我的想法，先开口了。"
+    "似乎读懂了我的想法，少女先开口了。"
 
 # game/chapter3.rpy:716
 translate schinese chapter3_1e9b9f9c:
 
     # 나 "“아니, 그런 건 아닌데.”"
-    나 "“不，不对。”"
+    나 "“不，不是那样。”"
 
 # game/chapter3.rpy:718
 translate schinese chapter3_19d15f66:
@@ -1958,7 +1958,7 @@ translate schinese chapter3_c17155ce:
     # voice "voices/gc40.ogg"
     # 소녀 "“분명 죽음의 색에는 그 당시의 감정도 묻어있을 텐데 말이죠.”"
     voice "voices/gc40.ogg"
-    소녀 "“在死亡之色里肯定包含了当时的感情。”"
+    소녀 "“在死亡之色里肯定包含了那时的感情吧。”"
 
 # game/chapter3.rpy:723
 translate schinese chapter3_1fbf0303:
@@ -2016,7 +2016,7 @@ translate schinese chapter3_82130915:
     # voice ""
     # "‘사라져야 할 이유가 하나 더 생긴 것 같아요’라고 말하는 듯한 얼굴로, 소녀가 나를 빤히 바라보았다."
     voice ""
-    "少女盯着我，脸上仿佛写着“好像又多了一个成佛的理由”。"
+    "少女盯着我，脸上仿佛写着“好像又多了一个消失的理由”。"
 
 # game/chapter3.rpy:740
 translate schinese chapter3_83c034a6:
@@ -2034,19 +2034,19 @@ translate schinese chapter3_15772b53:
 translate schinese chapter3_9b04741b:
 
     # "조용히 차창 너머의 풍경만을 바라보고 있자니, 여태껏 무뎌져 있던 감각이 조금씩 원래대로 되돌아오기 시작했다."
-    "静静地看着车窗外的风景，迟钝的感觉开始渐渐消退。"
+    "只是静静地看着车窗外的风景，麻木的感觉开始渐渐消退了。"
 
 # game/chapter3.rpy:743
 translate schinese chapter3_9fd374f6:
 
     # "꼬박 몇 시간을 걸어서 그런가, 가장 먼저 다리 뒤쪽 근육이 욱신거렸다."
-    "可能是连续走了几个小时的关系，最先是腿后面的肌肉变得酸痛。"
+    "可能是连续走了几个小时的关系，腿后面的肌肉最先变得酸痛。"
 
 # game/chapter3.rpy:747
 translate schinese chapter3_5185b2c6:
 
     # "그 뒤로는 이것저것 찝찝한 감각들이 밀려 들어왔다."
-    "之后是各种不舒服的感觉。"
+    "之后，是各种不舒服的感觉。"
 
 # game/chapter3.rpy:748
 translate schinese chapter3_5250a1a2:
@@ -2130,7 +2130,7 @@ translate schinese chapter3_a53f94c0:
 translate schinese chapter3_60035b9c:
 
     # "따뜻한 물에 하루종일 혹사된 몸을 맡기고 있자니, 이대로 몇 시간이고 따뜻한 물을 뒤집어쓰고 있고 싶다는 생각이 나를 방해하긴 했지만."
-    "虽然劳累的身体想就这样泡上几个小时温水，但是我不能这样做。"
+    "把一整天受苦的身体都交给温水，我就想着要这样泡上几个小时，但这个想法让我很难安心。"
 
 # game/chapter3.rpy:782
 translate schinese chapter3_4df9208f:
@@ -2228,13 +2228,13 @@ translate schinese chapter3_5d269880:
 translate schinese chapter3_ec52915c:
 
     # "아마도 소녀가 나의 얼굴 위로 손을 흔들어 보이고 있는 모양이었다."
-    "也许是少女在我的脸前挥动她的手。"
+    "也许是少女在我的脸前挥舞着她的手。"
 
 # game/chapter3.rpy:816
 translate schinese chapter3_1710dfb7:
 
     # "하마터면 미간을 움츠릴 뻔했지만, 다행히 그런 일은 없었다."
-    "差点儿皱起眉头，但幸好没发生。"
+    "差点儿皱起眉头，但幸好没发生那个事。"
 
 # game/chapter3.rpy:818
 translate schinese chapter3_12a3bce1:
@@ -2260,7 +2260,7 @@ translate schinese chapter3_e75fbffa:
     # voice "voices/gc45.ogg"
     # 소녀 "“자는 척하는 거라면, 고마워요.”"
     voice "voices/gc45.ogg"
-    소녀 "“如果你是在装睡，谢谢。”"
+    소녀 "“如果是在装睡，谢谢你。”"
 
 # game/chapter3.rpy:825
 translate schinese chapter3_f49db346:
@@ -2602,7 +2602,7 @@ translate schinese chapter3_a13a4c66:
 translate schinese chapter3_f8f0e923:
 
     # "소녀의 옆에 잠시 앉아, 그녀의 머리를 쓰다듬으며."
-    "在少女的旁边坐了一会儿，我抚摸着她的头发。"
+    "在少女的旁边坐了一会儿，我抚摸起她的头发。"
 
 # game/chapter3.rpy:928
 translate schinese chapter3_0a01f6bf:
@@ -4741,7 +4741,7 @@ translate schinese chapter3_2c5067db:
 translate schinese chapter3_67eac37e:
 
     # 나 "“몽블랑 말이야, 먹어 본 기억 있어？”"
-    나 "“你吃过勃朗峰吗？”"
+    나 "“勃朗峰之类的，记得吃过吗？”"
 
 # game/chapter3.rpy:1865
 translate schinese chapter3_49b089c3:

@@ -1154,7 +1154,7 @@ translate schinese chapter5_3d095f5c:
 translate schinese chapter5_681f025a:
 
     # "빈 캔을 쓰레기통에 던져 넣고서는 별빛에 윤곽이 드러난 도로로 발걸음을 내딛으려는데, 소녀는 곧장 나의 옆을 따라붙었다. "
-    "将空罐子扔进垃圾桶，我正想向星光勾勒出的道路迈出脚步，少女立刻跟了上来。"
+    "将空罐子扔进垃圾桶，我正想向星光勾勒出的道路迈出脚步，少女却立即跟了上来。"
 
 # game/chapter5.rpy:499
 translate schinese chapter5_9b4db638:
@@ -3886,7 +3886,7 @@ translate schinese chapter5_a1d3df58:
 translate schinese chapter5_979bc44a:
 
     # "사람은 일정 선의 고통을 받을 때까지 살려 달라는 말을 하지만, 그 선을 넘어가게 되는 순간 죽여 달라는 말을 한다고. "
-    "人通常会说“救救我，直到承受一定程度的痛苦为止”，但如果越过这一程度，就会说“请杀了我”。"
+    "人们在承受一定程度的痛苦时会说要活下去，但是一旦超过了那个界限，就会说要死掉。"
 
 # game/chapter5.rpy:1640
 translate schinese chapter5_358fd344:
@@ -3916,7 +3916,7 @@ translate schinese chapter5_862b0b44:
 translate schinese chapter5_45d3bf8b:
 
     # "완곡한 표현으로 이루어진 설명이었지만, 무슨 말을 하려는 건지는 분명히 알 수 있었다. "
-    "这是一个委婉的说法，但我清楚地知道要说什么。"
+    "虽然是用委婉的表达来说明的，但是想要说什么很明显能看出来。"
 
 # game/chapter5.rpy:1653
 translate schinese chapter5_44b5ad90:
@@ -4098,13 +4098,13 @@ translate schinese chapter5_e348ed16:
 translate schinese chapter5_2f9a8905:
 
     # "소녀가 느끼는 감정 중 극히 일부분만이 내게 전이되었다 하더라도, 나의 모든 감각이 그 감정의 조각들에게 압도되는 듯했다. "
-    "我的全部感觉似乎都被那些感情碎片压倒了，即使少女的感情只有一小部分转移到了我身上。"
+    "即使少女的感情只有一小部分转移到了我身上，我的全部感觉似乎也都被那些感情碎片压倒了。"
 
 # game/chapter5.rpy:1730
 translate schinese chapter5_2105c202:
 
     # "소녀에게 가까이 다가가는 그 순간이 너무나도 길게 느껴졌다. "
-    "走近少女的那一瞬感觉太长了。"
+    "走近少女的那一瞬，感觉太长了。"
 
 # game/chapter5.rpy:1731
 translate schinese chapter5_52b1cfaa:
@@ -4112,7 +4112,7 @@ translate schinese chapter5_52b1cfaa:
     # voice "voices/ge83.ogg"
     # 소녀 "“…… 연쇄 살인범이라고 했었나요.”"
     voice "voices/ge83.ogg"
-    소녀 "“……我说过是连环杀人犯吗？”"
+    소녀 "“……我说过是连环杀人犯吗。”"
 
 # game/chapter5.rpy:1736
 translate schinese chapter5_d802ecba:
@@ -4374,7 +4374,7 @@ translate schinese chapter5_550c96d8:
     # voice ""
     # 나 "“진짜 네 모습이라니, 지금 네 모습이 진짜 네 모습이잖아?”"
     voice ""
-    나 "“怎么能说到底是什么呢，现在你的样子不就是你真正的样子吗？”"
+    나 "“什么真正的样子啊，现在你的样子不就是你真正的样子吗？”"
 
 # game/chapter5.rpy:1848
 translate schinese chapter5_a65e740f:
@@ -4438,7 +4438,7 @@ translate schinese chapter5_f6b69f79:
     # voice "voices/ge100_2.ogg"
     # 소녀 "“저는 제가 죽인 사람들 중 한 명의 모습을 하고 이곳을 떠돌아다니는 거예요. 영원히 타인의 죽음을 먹으며, 죄책감 속에서 살아가야 하는 벌을 받은 거라고요.”"
     voice "voices/ge100_2.ogg"
-    소녀 "“我在这儿以我杀死的人的面貌四处游荡。受到了永远直面别人的死亡，在负罪感中度日的惩罚。”"
+    소녀 "“我在这儿以我杀死的人的面貌四处游荡。受到了必须永远吞噬别人的死亡，在负罪感中度日的惩罚。”"
 
 # game/chapter5.rpy:1882
 translate schinese chapter5_7e2afa8c:
@@ -4446,7 +4446,7 @@ translate schinese chapter5_7e2afa8c:
     # voice ""
     # 나 "“…… 일단 돌아가서 조금 숨을 가라앉히고 생각해보자. 차분하게 생각해봐야 할 것 같아.”"
     voice ""
-    나 "“……先深呼吸，回去再想想吧。我想我们应该冷静地思考一下。”"
+    나 "“……先回去，稍微平复一下呼吸，再想想吧。我想应该冷静地思考一下。”"
 
 # game/chapter5.rpy:1887
 translate schinese chapter5_4d9ae0f0:
@@ -4462,7 +4462,7 @@ translate schinese chapter5_19f293ed:
     # voice ""
     # "차분히 호흡하며 머릿속을 비워갔다. "
     voice ""
-    "平静地呼吸着，脑海中一片空白。"
+    "平静地呼吸着，慢慢地清空了头脑。"
 
 # game/chapter5.rpy:1895
 translate schinese chapter5_7f0d0b42:
@@ -4474,7 +4474,7 @@ translate schinese chapter5_7f0d0b42:
 translate schinese chapter5_8469ce13:
 
     # "손을 뻗어 소녀의 이마에 손을 갖다댔다. "
-    "伸手去碰少女的额头。"
+    "伸手去触摸少女的额头。"
 
 # game/chapter5.rpy:1904
 translate schinese chapter5_aa2b3c5d:
@@ -4814,7 +4814,7 @@ translate schinese chapter5_d13701c8:
 translate schinese chapter5_485088bb:
 
     # "다만, 한 가지. "
-    "但有一点。"
+    "但，有一点。"
 
 # game/chapter5.rpy:2019
 translate schinese chapter5_0751faba:
@@ -5036,7 +5036,7 @@ translate schinese chapter5_e8646e1e:
 translate schinese chapter5_bb265369:
 
     # 나 "“받아 준다니까?!”"
-    나 "“我都说了会接的？！”"
+    나 "“都说了会接住的？！”"
 
 # game/chapter5.rpy:2111
 translate schinese chapter5_5439802d:
@@ -5116,7 +5116,7 @@ translate schinese chapter5_ddc3c635:
     # voice "voices/he44.ogg"
     # 현지 "“선배――――――”"
     voice "voices/he44.ogg"
-    현지 "“前辈——”"
+    현지 "“前辈――――――”"
 
 # game/chapter5.rpy:2148
 translate schinese chapter5_89c7bdd5:
@@ -6160,7 +6160,7 @@ translate schinese ecg10_label_23c11fcb:
 translate schinese ecg10_label_90aa76a5:
 
     # 나 "“아, 여, 여태껏 숨겼던 것도 그렇고, 직접 이야기 못 했던 것도 그렇고…….”"
-    나 "“啊，啊，一直以来隐瞒的也好，没能直接说出来的也好……”"
+    나 "“啊，啊，一直以来隐瞒的也好，没能直率地说出来的也好……”"
 
 # game/chapter5.rpy:2778
 translate schinese ecg10_label_00cb4116:
@@ -6184,7 +6184,7 @@ translate schinese ecg10_label_3a53e983:
     # voice "voices/ye8.ogg"
     # 유미 "“나도 솔직하게 이야기 못 했으니까.”"
     voice "voices/ye8.ogg"
-    유미 "“因为我也没说实话。”"
+    유미 "“因为我也没直率地说出来。”"
 
 # game/chapter5.rpy:2786
 translate schinese ecg10_label_c2cd7612:
@@ -6220,7 +6220,7 @@ translate schinese ecg10_label_0717e69a:
 translate schinese ecg10_label_4286211a:
 
     # "침묵이 일었다. "
-    "沉默。"
+    "沉默了。"
 
 # game/chapter5.rpy:2795
 translate schinese ecg10_label_a1fbb4e1:
@@ -6232,7 +6232,7 @@ translate schinese ecg10_label_a1fbb4e1:
 translate schinese ecg10_label_a8d427c7:
 
     # 나 "“아, 그러고 보니 현지는 어딨어?!”"
-    나 "“啊，这样看来，贤智在哪里？”"
+    나 "“啊，这样看来，贤智去哪了？”"
 
 # game/chapter5.rpy:2799
 translate schinese ecg10_label_bf78219d:
@@ -6318,7 +6318,7 @@ translate schinese ecg11_label_17a397c4:
     # voice "voices/he52.ogg"
     # 현지 "“살아있는 거 맞죠?! 걱정했다고요, 이대로 영영 안 일어나는 줄 알고…….”"
     voice "voices/he52.ogg"
-    현지 "“还活着的吧？！我很担心，以为就这样再也不会醒来了……”"
+    현지 "“还活着吧？！好担心，以为就这样再也不会醒来了……”"
 
 # game/chapter5.rpy:2838
 translate schinese ecg11_label_10db0655:
@@ -6556,7 +6556,7 @@ translate schinese ecg11_label_5af4510b:
 translate schinese ecg11_label_036b82c2:
 
     # "도망친 게 아니라, 정말 사라져버린 게 아닐까. "
-    "不是逃跑而是真的消失了。"
+    "不是逃跑，而是真的消失了。"
 
 # game/chapter5.rpy:2911
 translate schinese ecg11_label_916792e3:
@@ -6666,7 +6666,7 @@ translate schinese ecg11_label_49608667:
     # voice "voices/he60.ogg"
     # 현지 "“텔레이도스코프를 설치할 장소가 필요하다는 거, 다 거짓말이에요. 사실 텔레이도스코프는 이미 완성 됐다고요. 그치만 그런 이야기를 했다간 선배가 그냥 훌쩍 과거로 돌아가버릴 거 같아서…….”"
     voice "voices/he60.ogg"
-    현지 "“需要一个安装远华镜的地方是骗人的。其实远华镜已经准备好了，但是如果说那样的话，我觉得前辈可能会选择一下子回到过去……”"
+    현지 "“需要一个安装远华镜的地方，是骗人的。其实远华镜已经准备好了，但是如果说那样的话，我觉得前辈可能会选择一下子回到过去……”"
 
 # game/chapter5.rpy:2957
 translate schinese ecg11_label_1fbf0303_1:
