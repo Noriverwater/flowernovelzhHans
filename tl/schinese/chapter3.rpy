@@ -140,7 +140,7 @@ translate schinese chapter3_4e4da672:
     # voice ""
     # "고개를 희미하게 끄덕이는 소녀의 표정에서는 진한 쌉싸름함이 묻어났다."
     voice ""
-    "少女的脸上带着深深的苦涩，微微地点了点头。"
+    "少女微微地点了点头，可以看出脸上带着深深的苦涩。"
 
 # game/chapter3.rpy:71
 translate schinese chapter3_379b699b:
@@ -172,7 +172,7 @@ translate schinese chapter3_a2f3ddf2:
     # voice ""
     # "한여름의 쌀쌀한 기분이란 어떤 것일지, 좀처럼 감이 잡히지 않았다."
     voice ""
-    "很难体会到凉飕飕的盛夏是什么感觉。"
+    "凉飕飕的盛夏是什么感觉，很难体会到。"
 
 # game/chapter3.rpy:87
 translate schinese chapter3_09f48090:
@@ -180,7 +180,7 @@ translate schinese chapter3_09f48090:
     # voice "voices/gc9.ogg"
     # 소녀 "“그럼 이제, 어디로 가야 하나요？”"
     voice "voices/gc9.ogg"
-    소녀 "“那么现在该去哪里呢？”"
+    소녀 "“那么现在，该去哪里呢？”"
 
 # game/chapter3.rpy:92
 translate schinese chapter3_0f854cb1:
@@ -194,13 +194,13 @@ translate schinese chapter3_0f854cb1:
 translate schinese chapter3_1902dc05:
 
     # "어쩌다 보니 제법 무거워져 버린 분위기를 풀고자 하는 소녀 나름대로의 노력이었으리라."
-    "这一定是少女为了缓解沉重的气氛而做出的努力。"
+    "这一定是少女为了缓解不知为何变得沉重的气氛而做出的努力。"
 
 # game/chapter3.rpy:96
 translate schinese chapter3_15ba224b:
 
     # 나 "“마지막으로 근처에 있는 주택가 쪽으로 가 보려고. 그쪽에서도 1년 전에 화재가 일어났거든.”"
-    나 "“最后，去附近的住宅区。一年前那里也发生了火灾。”"
+    나 "“最后，我想去附近的住宅区看看。一年前那里也发生了火灾。”"
 
 # game/chapter3.rpy:98
 translate schinese chapter3_f497c104:
@@ -240,7 +240,7 @@ translate schinese chapter3_8d678abe:
 translate schinese chapter3_bcc2caaa:
 
     # "주택가에 도착하자, 늘어져 있는 3층 정도 높이의 맨션과 허름해 보이는 주택들이 눈에 들어왔다."
-    "一到住宅区，就看到了3层的公寓楼和看起来破旧的住宅。"
+    "一到住宅区，就看到了一排排3层的公寓楼和看起来破旧的住宅。"
 
 # game/chapter3.rpy:115
 translate schinese chapter3_2dcfa736:
