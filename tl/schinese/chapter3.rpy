@@ -96,7 +96,7 @@ translate schinese chapter3_062a32a4:
 translate schinese chapter3_76b36823:
 
     # "그랬으면 좋겠네, 라고 생각하며, 나는 진심으로 그 두 사람을 향해 행운을 빌어 주었다."
-    "但愿如此，我真心地为那两个人祈福。"
+    "但愿如此，我真心地为那她们两个祈福。"
 
 # game/chapter3.rpy:49
 translate schinese chapter3_4c316b84:
