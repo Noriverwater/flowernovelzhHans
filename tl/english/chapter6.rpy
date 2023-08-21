@@ -5352,7 +5352,7 @@ translate english ecg13_label_18b6001e:
 translate english ecg13_label_149ae2a4:
 
     # "물방울져가던 소녀의 모습이 뺨을 타고 흘러내리기 직전, 한 발짝 걸음을 떼려던 그녀를 향해 그렇게 말한다. "
-    "Just as the image of the girl, about to drip down my cheek like a droplet of water, was about to take a step forward, I say so to her."
+    "Just before the water droplets dripping from the girl’s face ran down her cheeks, I said that to her as she was about to take a step."
 
 # game/chapter6.rpy:1942
 translate english ecg13_label_d5b3f3c7:
