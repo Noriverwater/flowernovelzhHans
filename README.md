@@ -1,9 +1,9 @@
 # flowernovelJPtranslations
 
-This is a Japanese translation of the visual novel Flowers Blooming at the End of Summer, translated by Bing AI, edited by [GalTransl](https://github.com/XD2333/GalTransl/).
+これは、Bing AIによって翻訳され、「[GalTransl](https://github.com/XD2333/GalTransl/)」によって編集されたビジュアルノベル「여름의 끝에 피는 꽃（夏の終わりに咲く花）」の日本語訳です。
 
-The translation has good readability, and the grammatical structure, Chinese character words and tone correspond almost exactly to the original.
+翻訳は読みやすく、文法構造、漢字語、文調はほぼ原文に忠実です。
 
-However, a serious problem is the inconsistency of personal pronouns across characters. I'm hoping that someone who is a fan of this visual novel and is familiar with Japanese and Korean will be able to help with this problem.
+しかし、深刻な問題は、登場人物間の一人称の不統一です。このビジュアルノベルのファンで、日本語と韓国語に精通している方がこの問題を解決してくれることを願っています。
 
-You can take the translation and do whatever you'd like, such as improving the quality of the translation or making a Japanese translation patch.
+翻訳を自由に使っていただいて構いません。翻訳の品質を向上させたり、日本語訳パッチを作成したりすることができます。
