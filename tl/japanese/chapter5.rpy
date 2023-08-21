@@ -18,7 +18,7 @@ translate japanese chapter5_89e61f5c:
     # voice "voices/ge1.ogg"
     # 소녀 "“아마 여길 넘어간 것 같아요.”"
     voice "voices/ge1.ogg"
-    소녀 "「多分ここを越えたと思います。」"
+    소녀 "「多分ここを越えたと思います」"
 
 # game/chapter5.rpy:16
 translate japanese chapter5_13b8e726:
@@ -72,7 +72,7 @@ translate japanese chapter5_475e51d6:
     # voice ""
     # 나 "“아마도.”"
     voice ""
-    나 "「多分ね。」"
+    나 "「多分ね」"
 
 # game/chapter5.rpy:32
 translate japanese chapter5_c5f0c2f1:
@@ -80,7 +80,7 @@ translate japanese chapter5_c5f0c2f1:
     # voice "voices/ge3.ogg"
     # 소녀 "“위험하지 않을까요? 이렇게 철조망도 쳐져 있잖아요.”"
     voice "voices/ge3.ogg"
-    소녀 "「危険じゃないですか？こんなに鉄条網も張ってあるんですから。」"
+    소녀 "「危険じゃないですか？こんなに鉄条網も張ってあるんですから」"
 
 # game/chapter5.rpy:34
 translate japanese chapter5_a250e50a:
@@ -88,7 +88,7 @@ translate japanese chapter5_a250e50a:
     # voice ""
     # 나 "“괜찮을 거야. 아마 안에는 아무도 없을 테니까.”"
     voice ""
-    나 "「大丈夫だよ。多分中には誰もいないだろうから。」"
+    나 "「大丈夫だよ。多分中には誰もいないだろうから」"
 
 # game/chapter5.rpy:36
 translate japanese chapter5_a6c0f094:
@@ -104,7 +104,7 @@ translate japanese chapter5_e736ae24:
     # voice ""
     # 나 "“으응, 여기로 들어가면 E구역이 나오지 않을까 싶은데.”"
     voice ""
-    나 "「うん、ここに入ればE区域が出てくるんじゃないかなと思うけど。」"
+    나 "「うん、ここに入ればE区域が出てくるんじゃないかなと思うけど」"
 
 # game/chapter5.rpy:41
 translate japanese chapter5_61cb9e17:
@@ -142,7 +142,7 @@ translate japanese chapter5_903c5a80:
     # voice "voices/ge5.ogg"
     # 소녀 "“조용하네요.”"
     voice "voices/ge5.ogg"
-    소녀 "「静かですね。」"
+    소녀 "「静かですね」"
 
 # game/chapter5.rpy:54
 translate japanese chapter5_085c8575:
@@ -150,7 +150,7 @@ translate japanese chapter5_085c8575:
     # voice ""
     # 나 "“그러게.”"
     voice ""
-    나 "「そうだね。」"
+    나 "「そうだね」"
 
 # game/chapter5.rpy:59
 translate japanese chapter5_52dc4328:
@@ -194,7 +194,7 @@ translate japanese chapter5_6dd5e70f:
     # voice "voices/ge6.ogg"
     # 소녀 "“꼭 영화 세트장을 둘러보고 있는 것 같아요.”"
     voice "voices/ge6.ogg"
-    소녀 "「まるで映画のセットを見ているみたいです。」"
+    소녀 "「まるで映画のセットを見ているみたいです」"
 
 # game/chapter5.rpy:79
 translate japanese chapter5_bb13245c:
@@ -208,7 +208,7 @@ translate japanese chapter5_bb13245c:
 translate japanese chapter5_2ba67473:
 
     # 나 "“내일 곧장 세계가 멸망한다면 이런 모습이려나.”"
-    나 "「明日いきなり世界が滅亡したらこんな感じなのかな。」"
+    나 "「明日いきなり世界が滅亡したらこんな感じなのかな」"
 
 # game/chapter5.rpy:86
 translate japanese chapter5_ea1b4c07:
@@ -216,7 +216,7 @@ translate japanese chapter5_ea1b4c07:
     # voice "voices/ge7.ogg"
     # 소녀 "“그럴지도요. 어쩌면 머나먼 미래의 모습일지도 모르고요.”"
     voice "voices/ge7.ogg"
-    소녀 "「そうかもしれません。あるいは遥か未来の姿なのかもしれないし。」"
+    소녀 "「そうかもしれません。あるいは遥か未来の姿なのかもしれないし」"
 
 # game/chapter5.rpy:88
 translate japanese chapter5_82dcbd77:
@@ -232,7 +232,7 @@ translate japanese chapter5_61367755:
     # voice "voices/ge8.ogg"
     # 소녀 "“만약 이런 곳에 혼자 들어왔다면 견디지 못했을 거예요.”"
     voice "voices/ge8.ogg"
-    소녀 "「もしもこんなところに一人で入ってきたら耐えられなかったでしょうね。」"
+    소녀 "「もしもこんなところに一人で入ってきたら耐えられなかったでしょうね」"
 
 # game/chapter5.rpy:93
 translate japanese chapter5_ef5f6732:
@@ -248,7 +248,7 @@ translate japanese chapter5_876bab06:
     # voice "voices/ge9.ogg"
     # 소녀 "“왠지 예행연습이 되어버리는 것 같잖아요.”"
     voice "voices/ge9.ogg"
-    소녀 "「なんだか予行演習になってしまうみたいだから。」"
+    소녀 "「なんだか予行演習になってしまうみたいだから」"
 
 # game/chapter5.rpy:99
 translate japanese chapter5_1fbf0303:
@@ -256,7 +256,7 @@ translate japanese chapter5_1fbf0303:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:108
 translate japanese chapter5_ebc6eb78:
@@ -276,7 +276,7 @@ translate japanese chapter5_2008bbb4:
     # voice "voices/ge10.ogg"
     # 소녀 "“아까 나머지 사건 두 개는 여기서 일어난 거라고 했잖아요.”"
     voice "voices/ge10.ogg"
-    소녀 "「さっき残りの事件二つはここで起きたって言ってたじゃないですか。」"
+    소녀 "「さっき残りの事件二つはここで起きたって言ってたじゃないですか」"
 
 # game/chapter5.rpy:121
 translate japanese chapter5_80581c71:
@@ -284,7 +284,7 @@ translate japanese chapter5_80581c71:
     # voice ""
     # 나 "“그랬었지.”"
     voice ""
-    나 "「そうだったな。」"
+    나 "「そうだったな」"
 
 # game/chapter5.rpy:124
 translate japanese chapter5_b3bede6f:
@@ -300,7 +300,7 @@ translate japanese chapter5_e874ffaf:
     # voice ""
     # 나 "“둘 다 살인 사건이었어. 연쇄 살인 사건.”"
     voice ""
-    나 "「両方とも殺人事件だったよ。連続殺人事件。」"
+    나 "「両方とも殺人事件だったよ。連続殺人事件」"
 
 # game/chapter5.rpy:129
 translate japanese chapter5_e28a9bbe:
@@ -308,7 +308,7 @@ translate japanese chapter5_e28a9bbe:
     # voice "voices/ge12.ogg"
     # 소녀 "“아, 맞다. 그때 어렴풋이 봤던 기억이 나요. 범인은 아직 수배중이라고 했던가요.”"
     voice "voices/ge12.ogg"
-    소녀 "「あ、そうだ。その時ぼんやり見た記憶があります。犯人はまだ手配中だって言ってましたよね。」"
+    소녀 "「あ、そうだ。その時ぼんやり見た記憶があります。犯人はまだ手配中だって言ってましたよね」"
 
 # game/chapter5.rpy:132
 translate japanese chapter5_a01d75a5:
@@ -326,7 +326,7 @@ translate japanese chapter5_e5f7b101:
 translate japanese chapter5_068461a1:
 
     # 나 "“으응. 범행 현장을 태워 버리는 바람에 흔적도 거의 안 남아서, 신원도 제대로 안 밝혀졌나 봐.”"
-    나 "「うん。現場を焼き尽くす風に、痕跡もほとんど残らなくて、身元もちゃんとはわからなかったみたいだよ。」"
+    나 "「うん。現場を焼き尽くす風に、痕跡もほとんど残らなくて、身元もちゃんとはわからなかったみたいだよ」"
 
 # game/chapter5.rpy:136
 translate japanese chapter5_ff8288fc:
@@ -334,7 +334,7 @@ translate japanese chapter5_ff8288fc:
     # voice "voices/ge13.ogg"
     # 소녀 "“그래도 어쨌거나 이젠 그 범행 현장을 둘러볼 수 있게 된 거네요.”"
     voice "voices/ge13.ogg"
-    소녀 "「でもとにかく今はその現場を見回ることができるようになったんですね。」"
+    소녀 "「でもとにかく今はその現場を見回ることができるようになったんですね」"
 
 # game/chapter5.rpy:138
 translate japanese chapter5_65341a66:
@@ -350,7 +350,7 @@ translate japanese chapter5_691120c8:
     # voice "voices/ge14.ogg"
     # 소녀 "“그래야만 하는 거니까요.”"
     voice "voices/ge14.ogg"
-    소녀 "「そうしなければならないんですから。」"
+    소녀 "「そうしなければならないんですから」"
 
 # game/chapter5.rpy:143
 translate japanese chapter5_d28cea33:
@@ -384,7 +384,7 @@ translate japanese chapter5_b9b3f085:
     # voice "voices/ge15.ogg"
     # 소녀 "“저기 봐요, 아까 그 고양이예요.”"
     voice "voices/ge15.ogg"
-    소녀 "「あそこ見てください、さっきの猫ですよ。」"
+    소녀 "「あそこ見てください、さっきの猫ですよ」"
 
 # game/chapter5.rpy:165
 translate japanese chapter5_078442e4:
@@ -398,7 +398,7 @@ translate japanese chapter5_078442e4:
 translate japanese chapter5_03a67e2c:
 
     # 나 "“어디? 어라, 정말이네.”"
-    나 "「どこ？あら、本当だね。」"
+    나 "「どこ？あら、本当だね」"
 
 # game/chapter5.rpy:174
 translate japanese chapter5_edb654a6:
@@ -472,7 +472,7 @@ translate japanese chapter5_3508ebea:
     # voice ""
     # 나 "“응, 고양이도 안으로 들어갔잖아.”"
     voice ""
-    나 "「うん、猫も中に入ったじゃないか。」"
+    나 "「うん、猫も中に入ったじゃないか」"
 
 # game/chapter5.rpy:198
 translate japanese chapter5_886e8ecb:
@@ -528,7 +528,7 @@ translate japanese chapter5_e1ccf5ac:
     # voice "voices/ge18.ogg"
     # 소녀 "“아, 저기 있어요. 고양이.”"
     voice "voices/ge18.ogg"
-    소녀 "「あ、あそこにいますよ。猫。」"
+    소녀 "「あ、あそこにいますよ。猫」"
 
 # game/chapter5.rpy:223
 translate japanese chapter5_ebe71c08:
@@ -664,7 +664,7 @@ translate japanese chapter5_7c20dc8d:
     # voice "voices/ge19.ogg"
     # 소녀 "“여기 좀 보세요. 꽃이 피어 있어요.”"
     voice "voices/ge19.ogg"
-    소녀 "「ここちょっと見てください。花が咲いていますよ。」"
+    소녀 "「ここちょっと見てください。花が咲いていますよ」"
 
 # game/chapter5.rpy:302
 translate japanese chapter5_ea0e9436:
@@ -678,7 +678,7 @@ translate japanese chapter5_ea0e9436:
 translate japanese chapter5_7c28851d:
 
     # 나 "“정말이네. 사람의 손이 안 닿아서 그런가.”"
-    나 "「本当だね。人の手が届かないからなのかな。」"
+    나 "「本当だね。人の手が届かないからなのかな」"
 
 # game/chapter5.rpy:309
 translate japanese chapter5_effd6859:
@@ -698,7 +698,7 @@ translate japanese chapter5_31292319:
     # voice "voices/ge20.ogg"
     # 소녀 "“예뻐요.”"
     voice "voices/ge20.ogg"
-    소녀 "「きれいです。」"
+    소녀 "「きれいです」"
 
 # game/chapter5.rpy:313
 translate japanese chapter5_6b95ba78:
@@ -714,7 +714,7 @@ translate japanese chapter5_924fc7ce:
     # voice "voices/ge21.ogg"
     # 소녀 "“한 송이밖에 안 피어 있는 게 조금 아쉽지만요.”"
     voice "voices/ge21.ogg"
-    소녀 "「一輪しか咲いていないのが少し残念ですけどね。」"
+    소녀 "「一輪しか咲いていないのが少し残念ですけどね」"
 
 # game/chapter5.rpy:317
 translate japanese chapter5_884dba61:
@@ -728,7 +728,7 @@ translate japanese chapter5_884dba61:
 translate japanese chapter5_b2dfb4c0:
 
     # 나 "“이제 슬슬 돌아가 봐야 할 것 같아.”"
-    나 "「そろそろ帰らないといけないみたいだよ。」"
+    나 "「そろそろ帰らないといけないみたいだよ」"
 
 # game/chapter5.rpy:322
 translate japanese chapter5_b1a378a3:
@@ -788,7 +788,7 @@ translate japanese chapter5_d50566b6:
 translate japanese chapter5_ce00f6b3:
 
     # 나 "“큰일났네.”"
-    나 "「大変だね。」"
+    나 "「大変だね」"
 
 # game/chapter5.rpy:346
 translate japanese chapter5_348848ca:
@@ -840,7 +840,7 @@ translate japanese chapter5_f63fc570:
 translate japanese chapter5_4d341c0b:
 
     # 나 "“…… 그런 것 같네.”"
-    나 "「……そうみたいだね。」"
+    나 "「……そうみたいだね」"
 
 # game/chapter5.rpy:371
 translate japanese chapter5_b7f00ba6:
@@ -852,7 +852,7 @@ translate japanese chapter5_b7f00ba6:
 translate japanese chapter5_1adb3ebd:
 
     # 나 "“어두워지니까 어디가 어디였는지 기억이 하나도 안 나.”"
-    나 "「暗くなるとどこがどこだったか覚えが全然ないよ。」"
+    나 "「暗くなるとどこがどこだったか覚えが全然ないよ」"
 
 # game/chapter5.rpy:375
 translate japanese chapter5_4292d046:
@@ -868,7 +868,7 @@ translate japanese chapter5_3b6f2a71:
     # voice ""
     # 나 "“보다시피. 완전 먹통이야.”"
     voice ""
-    나 "「見ての通り。完全にお手上げだよ。」"
+    나 "「見ての通り。完全にお手上げだよ」"
 
 # game/chapter5.rpy:381
 translate japanese chapter5_c626b100:
@@ -928,7 +928,7 @@ translate japanese chapter5_a1c33e02:
     # voice "voices/ge25.ogg"
     # 소녀 "“…… 여기서 더 헤맸다간 날이 밝아서도 길을 못 찾을 수 있으니 근처에서 잠을 잘 만한 곳을 찾아보죠.”"
     voice "voices/ge25.ogg"
-    소녀 "「……ここでさらに迷ってしまったら日が明けても道が見つからないかもしれないので、近くで寝られるようなところを探しましょう。」"
+    소녀 "「……ここでさらに迷ってしまったら日が明けても道が見つからないかもしれないので、近くで寝られるようなところを探しましょう」"
 
 # game/chapter5.rpy:407
 translate japanese chapter5_8cc9bff6:
@@ -936,7 +936,7 @@ translate japanese chapter5_8cc9bff6:
     # voice ""
     # 나 "“그래야겠다.”"
     voice ""
-    나 "「そうだね。」"
+    나 "「そうだね」"
 
 # game/chapter5.rpy:415
 translate japanese chapter5_f469cbdb:
@@ -1008,7 +1008,7 @@ translate japanese chapter5_ff63968e:
 translate japanese chapter5_b6ddf034:
 
     # 나 "“잠깐 좀 나갔다 올게.”"
-    나 "「ちょっと出てくるよ。」"
+    나 "「ちょっと出てくるよ」"
 
 # game/chapter5.rpy:440
 translate japanese chapter5_cf43fcee:
@@ -1024,7 +1024,7 @@ translate japanese chapter5_738a4dd1:
     # voice ""
     # 나 "“어디 가려는 건 아니고, 그냥 근처만 둘러보려고.”"
     voice ""
-    나 "「どこに行こうというんじゃなくて、ただ近くを見て回ろうと思って。」"
+    나 "「どこに行こうというんじゃなくて、ただ近くを見て回ろうと思って」"
 
 # game/chapter5.rpy:445
 translate japanese chapter5_bc062ea0:
@@ -1068,7 +1068,7 @@ translate japanese chapter5_ba65dc0c:
     # voice "voices/ge27.ogg"
     # 소녀 "“별빛이 되게 밝네요.”"
     voice "voices/ge27.ogg"
-    소녀 "「星の光がすごく明るいですね。」"
+    소녀 "「星の光がすごく明るいですね」"
 
 # game/chapter5.rpy:468
 translate japanese chapter5_77e870b3:
@@ -1082,7 +1082,7 @@ translate japanese chapter5_77e870b3:
 translate japanese chapter5_6ec2ebbb:
 
     # 나 "“그러게. 나도 처음 봐. 밤하늘에 저렇게 별이 많이 떠 있는 건.”"
-    나 "「そうだね。俺も初めて見るよ。夜空にあんなに星がたくさん浮かんでいるのは。」"
+    나 "「そうだね。俺も初めて見るよ。夜空にあんなに星がたくさん浮かんでいるのは」"
 
 # game/chapter5.rpy:475
 translate japanese chapter5_ff234071:
@@ -1112,7 +1112,7 @@ translate japanese chapter5_532f0ce0:
 translate japanese chapter5_e35e19bf:
 
     # 나 "“어제 비가 그쳐서 그런지, 하늘이 더 맑나 봐.”"
-    나 "「昨日雨がやんだからなのか、空がもっと澄んでるみたいだね。」"
+    나 "「昨日雨がやんだからなのか、空がもっと澄んでるみたいだね」"
 
 # game/chapter5.rpy:486
 translate japanese chapter5_602a5758:
@@ -1120,7 +1120,7 @@ translate japanese chapter5_602a5758:
     # voice "voices/ge28.ogg"
     # 소녀 "“여기서 길을 잃지 않았다면, 이런 예쁜 풍경도 못 봤겠어요.”"
     voice "voices/ge28.ogg"
-    소녀 "「ここで道に迷わなかったら、こんなきれいな風景も見られなかったでしょうね。」"
+    소녀 "「ここで道に迷わなかったら、こんなきれいな風景も見られなかったでしょうね」"
 
 # game/chapter5.rpy:488
 translate japanese chapter5_80c1608b:
@@ -1128,7 +1128,7 @@ translate japanese chapter5_80c1608b:
     # voice ""
     # 나 "“그렇긴 하네.”"
     voice ""
-    나 "「そうだね。」"
+    나 "「そうだね」"
 
 # game/chapter5.rpy:490
 translate japanese chapter5_e0e7a437:
@@ -1136,7 +1136,7 @@ translate japanese chapter5_e0e7a437:
     # voice "voices/ge29.ogg"
     # 소녀 "“…… 다행이에요.”"
     voice "voices/ge29.ogg"
-    소녀 "「……よかったです。」"
+    소녀 "「……よかったです」"
 
 # game/chapter5.rpy:492
 translate japanese chapter5_65adcf06:
@@ -1164,7 +1164,7 @@ translate japanese chapter5_9b4db638:
     # voice "voices/ge30.ogg"
     # 소녀 "“잠깐만요, 같이 가요.”"
     voice "voices/ge30.ogg"
-    소녀 "「ちょっと待ってください、一緒に行きます。」"
+    소녀 "「ちょっと待ってください、一緒に行きます」"
 
 # game/chapter5.rpy:502
 translate japanese chapter5_72c8bbd2:
@@ -1172,7 +1172,7 @@ translate japanese chapter5_72c8bbd2:
     # voice ""
     # 나 "“피곤할 텐데, 굳이 안 따라와도 괜찮아.”"
     voice ""
-    나 "「疲れてるんだろう、わざわざついてこなくてもいいよ。」"
+    나 "「疲れてるんだろう、わざわざついてこなくてもいいよ」"
 
 # game/chapter5.rpy:504
 translate japanese chapter5_01efccf7:
@@ -1188,7 +1188,7 @@ translate japanese chapter5_c3100393:
     # voice ""
     # 나 "“생각보다 별빛이 밝아서 괜찮을 것 같아. 그리고 실족사라니, 그건 좀…….”"
     voice ""
-    나 "「思ったより星の光が明るくて大丈夫そうだよ。それに転んで死ぬなんて、それはちょっと……。」"
+    나 "「思ったより星の光が明るくて大丈夫そうだよ。それに転んで死ぬなんて、それはちょっと……」"
 
 # game/chapter5.rpy:508
 translate japanese chapter5_6b1ed04f:
@@ -1196,7 +1196,7 @@ translate japanese chapter5_6b1ed04f:
     # voice "voices/ge32.ogg"
     # 소녀 "“그렇지만 죽음은 생각보다 가까이에 있는걸요. 그리고…….”"
     voice "voices/ge32.ogg"
-    소녀 "「でも死は思ったより近くにあるものですよ。それに……。」"
+    소녀 "「でも死は思ったより近くにあるものですよ。それに……」"
 
 # game/chapter5.rpy:510
 translate japanese chapter5_61a1d03e:
@@ -1218,7 +1218,7 @@ translate japanese chapter5_03328dc4:
     # voice "voices/ge33.ogg"
     # 소녀 "“혼자 있으면 좀 그렇단 말이에요.”"
     voice "voices/ge33.ogg"
-    소녀 "「一人でいるとちょっと寂しいんです。」"
+    소녀 "「一人でいるとちょっと寂しいんです」"
 
 # game/chapter5.rpy:521
 translate japanese chapter5_8fc53323:
@@ -1248,7 +1248,7 @@ translate japanese chapter5_31b122d9:
     # voice ""
     # 나 "“그냥 요 근처만 둘러보려는 거야.”"
     voice ""
-    나 "「ただこの辺りを見て回ろうと思ってるだけだよ。」"
+    나 "「ただこの辺りを見て回ろうと思ってるだけだよ」"
 
 # game/chapter5.rpy:533
 translate japanese chapter5_274333bd:
@@ -1264,7 +1264,7 @@ translate japanese chapter5_e4012c88:
     # voice ""
     # 나 "“그렇기도 하고.”"
     voice ""
-    나 "「そういうのもあるけど。」"
+    나 "「そういうのもあるけど」"
 
 # game/chapter5.rpy:538
 translate japanese chapter5_12bcbebf:
@@ -1322,7 +1322,7 @@ translate japanese chapter5_3c28d5a9:
     # voice ""
     # 나 "“응. 확인할 게 있어서.”"
     voice ""
-    나 "「うん。確認したいことがあって。」"
+    나 "「うん。確認したいことがあって」"
 
 # game/chapter5.rpy:568
 translate japanese chapter5_986d52ee:
@@ -1370,7 +1370,7 @@ translate japanese chapter5_38adb0c1:
     # voice "voices/ge38.ogg"
     # 소녀 "“네, 기억나요.”"
     voice "voices/ge38.ogg"
-    소녀 "「はい、覚えてます。」"
+    소녀 "「はい、覚えてます」"
 
 # game/chapter5.rpy:584
 translate japanese chapter5_528a6605:
@@ -1378,7 +1378,7 @@ translate japanese chapter5_528a6605:
     # voice ""
     # 나 "“그걸 설치할만한 장소를 찾아야 해서. 마침 이 건물 옥상이 괜찮아 보였거든.”"
     voice ""
-    나 "「それを設置できる場所を探さなきゃいけなくて。ちょうどこの建物の屋上がいい感じに見えたんだ。」"
+    나 "「それを設置できる場所を探さなきゃいけなくて。ちょうどこの建物の屋上がいい感じに見えたんだ」"
 
 # game/chapter5.rpy:586
 translate japanese chapter5_b0fe575e:
@@ -1394,7 +1394,7 @@ translate japanese chapter5_deff33b6:
     # voice ""
     # 나 "“플랜 B라고나 할까. 나도 원리는 잘 모르지만, 들은 대로라면 그 기계로 너를 소멸시킬 수 있을지도 몰라.”"
     voice ""
-    나 "「プランBとでも言おうか。俺も原理はよくわからないけど、聞いたところではその機械で君を消滅させることができるかもしれない。」"
+    나 "「プランBとでも言おうか。俺も原理はよくわからないけど、聞いたところではその機械で君を消滅させることができるかもしれない」"
 
 # game/chapter5.rpy:591
 translate japanese chapter5_36f81954:
@@ -1430,7 +1430,7 @@ translate japanese chapter5_e3e15a4f:
     # voice "voices/ge41.ogg"
     # 소녀 "“꼭 귀신이라도 튀어나올 것 같은 분위기네요.”"
     voice "voices/ge41.ogg"
-    소녀 "「まるで鬼神でも飛び出してきそうな雰囲気ですね。」"
+    소녀 "「まるで鬼神でも飛び出してきそうな雰囲気ですね」"
 
 # game/chapter5.rpy:604
 translate japanese chapter5_9c88c5bd:
@@ -1438,7 +1438,7 @@ translate japanese chapter5_9c88c5bd:
     # voice ""
     # 나 "“네가 그런 말 하니까 뭔가 이상한데.”"
     voice ""
-    나 "「君がそんなこと言うと何か変だよ。」"
+    나 "「君がそんなこと言うと何か変だよ」"
 
 # game/chapter5.rpy:610
 translate japanese chapter5_5a4dea14:
@@ -1532,7 +1532,7 @@ translate japanese chapter5_47c39201:
     # voice ""
     # 나 "“으응. 사진은 다 찍었고, 애초에 금방 돌아가려 했었어.”"
     voice ""
-    나 "「うん。写真は全部撮ったし、元々すぐに戻ろうと思ってたんだ。」"
+    나 "「うん。写真は全部撮ったし、元々すぐに戻ろうと思ってたんだ」"
 
 # game/chapter5.rpy:638
 translate japanese chapter5_4c2261e8:
@@ -1550,7 +1550,7 @@ translate japanese chapter5_1ede7f86:
 translate japanese chapter5_107fa7d1:
 
     # 나 "“그치만 잠시 바람 쐬다 가는 것도 나쁘진 않겠다.”"
-    나 "「でもちょっと風に当たってから行くのも悪くないかもしれない。」"
+    나 "「でもちょっと風に当たってから行くのも悪くないかもしれない」"
 
 # game/chapter5.rpy:643
 translate japanese chapter5_c96f830b:
@@ -1642,7 +1642,7 @@ translate japanese chapter5_1dd7a293:
 translate japanese chapter5_7d4b1a96:
 
     # 나 "“아니. 난 애초에 그날 너를 처음 봤는걸.”"
-    나 "「いや。俺は元々あの日君を初めて見たんだ。」"
+    나 "「いや。俺は元々あの日君を初めて見たんだ」"
 
 # game/chapter5.rpy:668
 translate japanese chapter5_bdc1fbf9:
@@ -1670,7 +1670,7 @@ translate japanese chapter5_c4aef8a0:
     # voice ""
     # 나 "“그건 아냐. 설명하긴 좀 복잡하지만.”"
     voice ""
-    나 "「それは違うよ。説明するのはちょっと複雑だけど。」"
+    나 "「それは違うよ。説明するのはちょっと複雑だけど」"
 
 # game/chapter5.rpy:675
 translate japanese chapter5_d1be985e:
@@ -1678,7 +1678,7 @@ translate japanese chapter5_d1be985e:
     # voice "voices/ge46.ogg"
     # 소녀 "“그런가요.”"
     voice "voices/ge46.ogg"
-    소녀 "「そうなの。」"
+    소녀 "「そうなの」"
 
 # game/chapter5.rpy:678
 translate japanese chapter5_767a9273:
@@ -1690,7 +1690,7 @@ translate japanese chapter5_767a9273:
 translate japanese chapter5_eec1b9a2:
 
     # 나 "“어라, 생각보다 빨리 믿네.”"
-    나 "「おや、意外とすぐに信じるんだな。」"
+    나 "「おや、意外とすぐに信じるんだな」"
 
 # game/chapter5.rpy:681
 translate japanese chapter5_b8444ed5:
@@ -1698,7 +1698,7 @@ translate japanese chapter5_b8444ed5:
     # voice "voices/ge47.ogg"
     # 소녀 "“그쪽이 거짓말을 할 거라고는 생각하지 않는걸요.”"
     voice "voices/ge47.ogg"
-    소녀 "「あちらが嘘をつくとは思わないんですよ。」"
+    소녀 "「あちらが嘘をつくとは思わないんですよ」"
 
 # game/chapter5.rpy:683
 translate japanese chapter5_2292a48a:
@@ -1706,7 +1706,7 @@ translate japanese chapter5_2292a48a:
     # voice ""
     # 나 "“그런가.”"
     voice ""
-    나 "「そうか。」"
+    나 "「そうか」"
 
 # game/chapter5.rpy:686
 translate japanese chapter5_9a9ce465:
@@ -1756,7 +1756,7 @@ translate japanese chapter5_99ac9177:
     # voice ""
     # 나 "“그럴 리가 없잖아.”"
     voice ""
-    나 "「そんなわけないじゃないか。」"
+    나 "「そんなわけないじゃないか」"
 
 # game/chapter5.rpy:702
 translate japanese chapter5_81319c62:
@@ -1778,7 +1778,7 @@ translate japanese chapter5_b4e4f2c5:
     # voice "voices/ge50.ogg"
     # 소녀 "“하지만, 꼭 운명 같았으니까요. 여지껏 있었던 모든 일이요.”"
     voice "voices/ge50.ogg"
-    소녀 "「でも、まるで運命みたいでしたよね。今まであったすべてのことが。」"
+    소녀 "「でも、まるで運命みたいでしたよね。今まであったすべてのことが」"
 
 # game/chapter5.rpy:710
 translate japanese chapter5_ee32513c:
@@ -1798,7 +1798,7 @@ translate japanese chapter5_86e41d83:
 translate japanese chapter5_27f317f3:
 
     # 나 "“그러게. 왜 하필 나였을까. 너를 볼 수 있는 사람이.”"
-    나 "「そうだな。どうして偶然俺だったんだろう。君を見ることができる人が。」"
+    나 "「そうだな。どうして偶然俺だったんだろう。君を見ることができる人が」"
 
 # game/chapter5.rpy:721
 translate japanese chapter5_79674b0c:
@@ -1806,7 +1806,7 @@ translate japanese chapter5_79674b0c:
     # voice "voices/ge51.ogg"
     # 소녀 "“…… 제가 평범했던 일상을 깨버린 거네요.”"
     voice "voices/ge51.ogg"
-    소녀 "「……私が平凡だった日常を壊してしまったんですね。」"
+    소녀 "「……私が平凡だった日常を壊してしまったんですね」"
 
 # game/chapter5.rpy:723
 translate japanese chapter5_80a681ce:
@@ -1814,7 +1814,7 @@ translate japanese chapter5_80a681ce:
     # voice ""
     # 나 "“그럴 의도로 한 말 아니거든. 그냥, 궁금했던 거니까. 너와는 아무런 접점도 없었을 내가 왜 너를 볼 수 있는 건지 말이야. 그땐 짚이는 게 한 가지 있기는 했었는데, 다시 생각해보니까 잘 모르겠어.”"
     voice ""
-    나 "「そういうつもりで言ったわけじゃないんだ。ただ、気になっただけだから。君とは何の関係もなかった俺がどうして君を見ることができるのかっていうね。その時は引っ掛かることが一つあったけど、また考えてみるとよくわからなくなってきた。」"
+    나 "「そういうつもりで言ったわけじゃないんだ。ただ、気になっただけだから。君とは何の関係もなかった俺がどうして君を見ることができるのかっていうね。その時は引っ掛かることが一つあったけど、また考えてみるとよくわからなくなってきた」"
 
 # game/chapter5.rpy:725
 translate japanese chapter5_2f4fa124:
@@ -1830,7 +1830,7 @@ translate japanese chapter5_a426a765:
     # voice ""
     # 나 "“응. 그런 게 있어.”"
     voice ""
-    나 "「うん。そんなのがあるよ。」"
+    나 "「うん。そんなのがあるよ」"
 
 # game/chapter5.rpy:733
 translate japanese chapter5_ec736cec:
@@ -1850,7 +1850,7 @@ translate japanese chapter5_1e676bb4:
     # voice "voices/ge53.ogg"
     # 소녀 "“글쎄요, 그때도 운명이라 생각했던 걸까요.”"
     voice "voices/ge53.ogg"
-    소녀 "「さあ、あの時も運命だと思ったのかもしれません。」"
+    소녀 "「さあ、あの時も運命だと思ったのかもしれません」"
 
 # game/chapter5.rpy:738
 translate japanese chapter5_1f32584f:
@@ -1866,7 +1866,7 @@ translate japanese chapter5_e85bd71e:
     # voice "voices/ge54.ogg"
     # 소녀 "“그러게요.”"
     voice "voices/ge54.ogg"
-    소녀 "「そうですね。」"
+    소녀 "「そうですね」"
 
 # game/chapter5.rpy:746
 translate japanese chapter5_dbedf7e8:
@@ -1934,7 +1934,7 @@ translate japanese chapter5_eb36b35a:
 translate japanese chapter5_b89ca16f:
 
     # 나 "“이제 슬슬 돌아가자.”"
-    나 "「もうそろそろ帰ろう。」"
+    나 "「もうそろそろ帰ろう」"
 
 # game/chapter5.rpy:784
 translate japanese chapter5_654c0146:
@@ -1972,7 +1972,7 @@ translate japanese chapter5_ecfdb39b:
     # voice "voices/ge55.ogg"
     # 소녀 "“분명 누구의 기억 속에도 남지 않기로 했었는데. 저도 모르게 그 약속을 어기게 되네요.”"
     voice "voices/ge55.ogg"
-    소녀 "「確か誰の記憶の中にも残らないようにしようとしたのに。私も知らず知らずにその約束を破ってしまいましたね。」"
+    소녀 "「確か誰の記憶の中にも残らないようにしようとしたのに。私も知らず知らずにその約束を破ってしまいましたね」"
 
 # game/chapter5.rpy:799
 translate japanese chapter5_98a7276a:
@@ -1988,7 +1988,7 @@ translate japanese chapter5_a10ff176:
     # voice "voices/ge56.ogg"
     # 소녀 "“그렇지만, 분명 언젠간 잊혀지게 될 테니까요.”"
     voice "voices/ge56.ogg"
-    소녀 "「でも、きっといつかは忘れられるでしょうね。」"
+    소녀 "「でも、きっといつかは忘れられるでしょうね」"
 
 # game/chapter5.rpy:806
 translate japanese chapter5_94488e8e:
@@ -2036,7 +2036,7 @@ translate japanese chapter5_e5ec4bb6:
 translate japanese chapter5_ce4a73d4:
 
     # 나 "“그런 건 나중에 생각해도 되잖아.”"
-    나 "「そんなのは後で考えてもいいじゃないか。」"
+    나 "「そんなのは後で考えてもいいじゃないか」"
 
 # game/chapter5.rpy:826
 translate japanese chapter5_a1bb62c0:
@@ -2134,7 +2134,7 @@ translate japanese chapter5_02a4bdab:
     # voice "voices/ge58.ogg"
     # 소녀 "“우음…….”"
     voice "voices/ge58.ogg"
-    소녀 "「うーん……。」"
+    소녀 "「うーん……」"
 
 # game/chapter5.rpy:856
 translate japanese chapter5_a373d87f:
@@ -2148,7 +2148,7 @@ translate japanese chapter5_a373d87f:
 translate japanese chapter5_fa2ef543:
 
     # 소녀 "“…….”"
-    소녀 "「……。」"
+    소녀 "「……」"
 
 # game/chapter5.rpy:861
 translate japanese chapter5_0889ab0c:
@@ -2316,7 +2316,7 @@ translate japanese chapter5_40ffe441:
     # voice "voices/he2.ogg"
     # 현지 "“음, 이런 곳이라면 충분할 것 같아요.”"
     voice "voices/he2.ogg"
-    현지 "「うん、こんなところなら十分だと思います。」"
+    현지 "「うん、こんなところなら十分だと思います」"
 
 # game/chapter5.rpy:932
 translate japanese chapter5_99dd6f94:
@@ -2340,7 +2340,7 @@ translate japanese chapter5_dc014b2e:
     # voice ""
     # 나 "“잠깐만 기다려, 위치를 보내 줄게.”"
     voice ""
-    나 "「ちょっと待って、位置を送ってあげる。」"
+    나 "「ちょっと待って、位置を送ってあげる」"
 
 # game/chapter5.rpy:943
 translate japanese chapter5_32cb53f3:
@@ -2366,7 +2366,7 @@ translate japanese chapter5_09ca4dc5:
     # voice "voices/he4.ogg"
     # 현지 "“에엣, 여긴 출입 금지 구역이잖아요.”"
     voice "voices/he4.ogg"
-    현지 "「ええっ、ここは立ち入り禁止区域じゃないですか。」"
+    현지 "「ええっ、ここは立ち入り禁止区域じゃないですか」"
 
 # game/chapter5.rpy:955
 translate japanese chapter5_2ca83425:
@@ -2386,7 +2386,7 @@ translate japanese chapter5_abb36e74:
 translate japanese chapter5_1e638d52:
 
     # 나 "“그렇긴 한데…….”"
-    나 "「そうだけど……。」"
+    나 "「そうだけど……」"
 
 # game/chapter5.rpy:961
 translate japanese chapter5_97f87ad5:
@@ -2402,7 +2402,7 @@ translate japanese chapter5_8a9634c2:
     # voice ""
     # 나 "“우연히 들어가는 길을 찾은 것뿐이야. 그리고 딱히 위험한 곳도 아니고…….”"
     voice ""
-    나 "「偶然入る道を見つけただけだよ。それに別に危険なところでもないし……。」"
+    나 "「偶然入る道を見つけただけだよ。それに別に危険なところでもないし……」"
 
 # game/chapter5.rpy:968
 translate japanese chapter5_c185b012:
@@ -2418,7 +2418,7 @@ translate japanese chapter5_3b19e6b3:
     # voice ""
     # 나 "“아침 열 시 쯤, 그때 터미널 앞에서 만나자.”"
     voice ""
-    나 "「朝10時ぐらい、そのときターミナルの前で会おう。」"
+    나 "「朝10時ぐらい、そのときターミナルの前で会おう」"
 
 # game/chapter5.rpy:972
 translate japanese chapter5_3f58584c:
@@ -2456,7 +2456,7 @@ translate japanese chapter5_d50853a7:
     # voice ""
     # 나 "“그거야 당연히…….”"
     voice ""
-    나 "「それはもちろん……。」"
+    나 "「それはもちろん……」"
 
 # game/chapter5.rpy:987
 translate japanese chapter5_2537c86b:
@@ -2492,7 +2492,7 @@ translate japanese chapter5_bfc0c4c0:
     # voice "voices/ge61.ogg"
     # 소녀 "“괜찮아요. 잠깐인걸요.”"
     voice "voices/ge61.ogg"
-    소녀 "「大丈夫です。ちょっとだけですから。」"
+    소녀 "「大丈夫です。ちょっとだけですから」"
 
 # game/chapter5.rpy:1001
 translate japanese chapter5_17334cc2:
@@ -2522,7 +2522,7 @@ translate japanese chapter5_a920ac2a:
     # voice ""
     # 나 "“아, 전에 봤던 그 후배 여학생이야. 내일 같이 가자고 했어.”"
     voice ""
-    나 "「あ、前に会ったあの後輩の女子生徒だよ。明日一緒に行こうと言ったんだ。」"
+    나 "「あ、前に会ったあの後輩の女子生徒だよ。明日一緒に行こうと言ったんだ」"
 
 # game/chapter5.rpy:1014
 translate japanese chapter5_f44d1f2e:
@@ -2576,7 +2576,7 @@ translate japanese chapter5_2fd4b092:
     # voice "voices/ge64.ogg"
     # 소녀 "“아, 아니에요. 문제 없어요.”"
     voice "voices/ge64.ogg"
-    소녀 "「あ、いいえ。問題ありません。」"
+    소녀 "「あ、いいえ。問題ありません」"
 
 # game/chapter5.rpy:1049
 translate japanese chapter5_4d7f0dcd:
@@ -2626,7 +2626,7 @@ translate japanese chapter5_386f66c9:
 translate japanese chapter5_6939add1:
 
     # 나 "“여기야. 여기.”"
-    나 "「ここだよ。ここ。」"
+    나 "「ここだよ。ここ」"
 
 # game/chapter5.rpy:1072
 translate japanese chapter5_92764be7:
@@ -2644,7 +2644,7 @@ translate japanese chapter5_9e1dccc0:
 translate japanese chapter5_81631e24:
 
     # 나 "“생각보다 일찍 도착했네.”"
-    나 "「思ったより早く着いたね。」"
+    나 "「思ったより早く着いたね」"
 
 # game/chapter5.rpy:1089
 translate japanese chapter5_89d437c9:
@@ -2660,7 +2660,7 @@ translate japanese chapter5_d6d409bd:
     # voice ""
     # 나 "“평소에 12시나 돼서야 일어난다길래, 늦을 줄 알았지.”"
     voice ""
-    나 "「普段は12時になっても起きないって言ってたから、遅れると思ったよ。」"
+    나 "「普段は12時になっても起きないって言ってたから、遅れると思ったよ」"
 
 # game/chapter5.rpy:1095
 translate japanese chapter5_6a542b7f:
@@ -2668,7 +2668,7 @@ translate japanese chapter5_6a542b7f:
     # voice "voices/he9.ogg"
     # 현지 "“그럴 줄 알았으면 조금 늦게 나와도 괜찮을 뻔했네요.”"
     voice "voices/he9.ogg"
-    현지 "「そう思っていたら、もう少し遅く出ても大丈夫だったのに。」"
+    현지 "「そう思っていたら、もう少し遅く出ても大丈夫だったのに」"
 
 # game/chapter5.rpy:1106
 translate japanese chapter5_51cadc51:
@@ -2696,7 +2696,7 @@ translate japanese chapter5_1aa5b1d0:
     # voice "voices/he10.ogg"
     # 현지 "“앗, 갑자기 뭐예요.”"
     voice "voices/he10.ogg"
-    현지 "「あっ、急に何ですか。」"
+    현지 "「あっ、急に何ですか」"
 
 # game/chapter5.rpy:1126
 translate japanese chapter5_0442de2d:
@@ -2712,7 +2712,7 @@ translate japanese chapter5_9d62d639:
     # voice "voices/he11.ogg"
     # 현지 "“저 카라멜 마끼아또 아니면 안 마시는데…… 어라, 카라멜 마끼아또네요.”"
     voice "voices/he11.ogg"
-    현지 "「私はカラメルマキアートじゃないと飲まないのに……あら、カラメルマキアートですね。」"
+    현지 "「私はカラメルマキアートじゃないと飲まないのに……あら、カラメルマキアートですね」"
 
 # game/chapter5.rpy:1135
 translate japanese chapter5_78cd6015:
@@ -2734,7 +2734,7 @@ translate japanese chapter5_8701108c:
     # voice "voices/he12.ogg"
     # 현지 "“그나저나, 깜짝 놀랐어요. 부탁한지 하루 만에 그런 곳을 찾을 거라고는 생각도 못했다고요.”"
     voice "voices/he12.ogg"
-    현지 "「ところで、びっくりしましたよ。頼んでから一日であんなところを見つけるなんて思いもしなかったですよ。」"
+    현지 "「ところで、びっくりしましたよ。頼んでから一日であんなところを見つけるなんて思いもしなかったですよ」"
 
 # game/chapter5.rpy:1143
 translate japanese chapter5_7c0fd743:
@@ -2742,7 +2742,7 @@ translate japanese chapter5_7c0fd743:
     # voice ""
     # 나 "“그건 나도 그래.”"
     voice ""
-    나 "「それは俺もそうだよ。」"
+    나 "「それは俺もそうだよ」"
 
 # game/chapter5.rpy:1146
 translate japanese chapter5_d0ffb89f:
@@ -2796,7 +2796,7 @@ translate japanese chapter5_e7356c48:
     # voice "voices/ge65.ogg"
     # 소녀 "“…… 아, 신경…… 쓰지 마세요.”"
     voice "voices/ge65.ogg"
-    소녀 "「……あ、気に……しないでください。」"
+    소녀 "「……あ、気に……しないでください」"
 
 # game/chapter5.rpy:1167
 translate japanese chapter5_3f46e8f4:
@@ -2830,7 +2830,7 @@ translate japanese chapter5_1e5fec6d:
     # voice "voices/ge66.ogg"
     # 소녀 "“…… 바닥만 보고 걸으면 괜찮을 거예요.”"
     voice "voices/ge66.ogg"
-    소녀 "「……床だけ見て歩けば大丈夫でしょう。」"
+    소녀 "「……床だけ見て歩けば大丈夫でしょう」"
 
 # game/chapter5.rpy:1183
 translate japanese chapter5_bcea8067:
@@ -2866,7 +2866,7 @@ translate japanese chapter5_c0e542ce:
     # voice ""
     # 나 "“누구겠어, 유령이지.”"
     voice ""
-    나 "「誰だと思うよ、幽霊だよ。」"
+    나 "「誰だと思うよ、幽霊だよ」"
 
 # game/chapter5.rpy:1203
 translate japanese chapter5_d51eaa0a:
@@ -2882,7 +2882,7 @@ translate japanese chapter5_50843019:
     # voice ""
     # 나 "“응.”"
     voice ""
-    나 "「うん。」"
+    나 "「うん」"
 
 # game/chapter5.rpy:1207
 translate japanese chapter5_37309611:
@@ -2890,7 +2890,7 @@ translate japanese chapter5_37309611:
     # voice "voices/he16.ogg"
     # 현지 "“유령이랑 같이 나온다는 이야기는 없었잖아요.”"
     voice "voices/he16.ogg"
-    현지 "「幽霊と一緒に出るって話はなかったじゃないですか。」"
+    현지 "「幽霊と一緒に出るって話はなかったじゃないですか」"
 
 # game/chapter5.rpy:1209
 translate japanese chapter5_c6c7b30f:
@@ -2898,7 +2898,7 @@ translate japanese chapter5_c6c7b30f:
     # voice ""
     # 나 "“그건 굳이 이야기 안 해도 될 줄 알았지.”"
     voice ""
-    나 "「それはわざわざ話さなくてもいいと思ったよ。」"
+    나 "「それはわざわざ話さなくてもいいと思ったよ」"
 
 # game/chapter5.rpy:1212
 translate japanese chapter5_f6e45505:
@@ -2906,7 +2906,7 @@ translate japanese chapter5_f6e45505:
     # voice "voices/he17.ogg"
     # 현지 "“흐음…….”"
     voice "voices/he17.ogg"
-    현지 "「ふーん……。」"
+    현지 "「ふーん……」"
 
 # game/chapter5.rpy:1214
 translate japanese chapter5_f4685674:
@@ -2942,7 +2942,7 @@ translate japanese chapter5_c3883890:
     # voice ""
     # 나 "“어…… 으응. 그렇긴 하지.”"
     voice ""
-    나 "「あ……うーん。そうだね。」"
+    나 "「あ……うーん。そうだね」"
 
 # game/chapter5.rpy:1229
 translate japanese chapter5_a7f3e933:
@@ -2958,7 +2958,7 @@ translate japanese chapter5_1256df7c:
     # voice ""
     # 나 "“친해졌다고 해야 하나…….”"
     voice ""
-    나 "「仲良くなったと言えるのか……。」"
+    나 "「仲良くなったと言えるのか……」"
 
 # game/chapter5.rpy:1234
 translate japanese chapter5_30b92dc6:
@@ -2976,7 +2976,7 @@ translate japanese chapter5_1ca2c139:
 translate japanese chapter5_fb66c21d:
 
     # 나 "“아, 이러다 열차 출발하겠어. 빨리 들어가자.”"
-    나 "「あ、このままだと電車が出発しちゃうよ。早く入ろう。」"
+    나 "「あ、このままだと電車が出発しちゃうよ。早く入ろう」"
 
 # game/chapter5.rpy:1243
 translate japanese chapter5_2dea72b5:
@@ -3052,7 +3052,7 @@ translate japanese chapter5_f29b910d:
     # voice ""
     # 나 "“한 10분 정도만 더 걸으면 돼.”"
     voice ""
-    나 "「あと10分くらいで歩けばいいよ。」"
+    나 "「あと10分くらいで歩けばいいよ」"
 
 # game/chapter5.rpy:1267
 translate japanese chapter5_e161e42a:
@@ -3068,7 +3068,7 @@ translate japanese chapter5_3922efe4:
     # voice ""
     # 나 "“어…… 그 뒤에도 걸어야 하는데.”"
     voice ""
-    나 "「あ……その後も歩かなきゃだけど。」"
+    나 "「あ……その後も歩かなきゃだけど」"
 
 # game/chapter5.rpy:1271
 translate japanese chapter5_e055c8c3:
@@ -3076,7 +3076,7 @@ translate japanese chapter5_e055c8c3:
     # voice "voices/he22.ogg"
     # 현지 "“너무 가혹한데요…….”"
     voice "voices/he22.ogg"
-    현지 "「酷すぎますよ……。」"
+    현지 "「酷すぎますよ……」"
 
 # game/chapter5.rpy:1276
 translate japanese chapter5_eddd8404:
@@ -3116,7 +3116,7 @@ translate japanese chapter5_ce348222:
     # voice "voices/he23.ogg"
     # 현지 "“정말 비밀 통로 같은 분위기네요.”"
     voice "voices/he23.ogg"
-    현지 "「本当に秘密通路みたいな雰囲気ですね。」"
+    현지 "「本当に秘密通路みたいな雰囲気ですね」"
 
 # game/chapter5.rpy:1297
 translate japanese chapter5_df7c9a5a:
@@ -3156,7 +3156,7 @@ translate japanese chapter5_a14e4792:
     # voice "voices/he24.ogg"
     # 현지 "“와아.”"
     voice "voices/he24.ogg"
-    현지 "「わああ。」"
+    현지 "「わああ」"
 
 # game/chapter5.rpy:1314
 translate japanese chapter5_ef3d3f62:
@@ -3214,7 +3214,7 @@ translate japanese chapter5_25372c99:
     # voice "voices/he25.ogg"
     # 현지 "“생각했던 것보다 더 괜찮아 보여요.”"
     voice "voices/he25.ogg"
-    현지 "「思っていたよりもずっと大丈夫そうですよ。」"
+    현지 "「思っていたよりもずっと大丈夫そうですよ」"
 
 # game/chapter5.rpy:1342
 translate japanese chapter5_1ec60a44:
@@ -3230,7 +3230,7 @@ translate japanese chapter5_ed2f08d2:
     # voice "voices/he26.ogg"
     # 현지 "“아, 그전에 발전기부터 켜야 하지 않을까요.”"
     voice "voices/he26.ogg"
-    현지 "「あ、その前に発電機をつけないといけないんじゃないですか。」"
+    현지 "「あ、その前に発電機をつけないといけないんじゃないですか」"
 
 # game/chapter5.rpy:1350
 translate japanese chapter5_e9414496:
@@ -3238,7 +3238,7 @@ translate japanese chapter5_e9414496:
     # voice ""
     # 나 "“그러고 보니 그렇네. 전력 공급이 끊어졌었지, 참.”"
     voice ""
-    나 "「そういえばそうだった。電力供給が切れていたんだっけ、まったく。」"
+    나 "「そういえばそうだった。電力供給が切れていたんだっけ、まったく」"
 
 # game/chapter5.rpy:1355
 translate japanese chapter5_c4816f83:
@@ -3246,7 +3246,7 @@ translate japanese chapter5_c4816f83:
     # voice "voices/he27.ogg"
     # 현지 "“이런 전신국에는 만일을 대비한 자가 발전기가 있을 테니, 그걸 켜면 될 거예요.”"
     voice "voices/he27.ogg"
-    현지 "「こんな電信局には万一に備えた自家発電機があるはずだから、それをつければいいんですよ。」"
+    현지 "「こんな電信局には万一に備えた自家発電機があるはずだから、それをつければいいんですよ」"
 
 # game/chapter5.rpy:1357
 translate japanese chapter5_b5806a98:
@@ -3262,7 +3262,7 @@ translate japanese chapter5_70bb4078:
     # voice "voices/he28.ogg"
     # 현지 "“같이 내려가요. 어차피 안테나가 송수신할 주파수 조정도 해야 하니까 전산실도 들러야 할 거예요.”"
     voice "voices/he28.ogg"
-    현지 "「一緒に降りましょう。どうせアンテナが送受信する周波数の調整もしなきゃいけないから、電算室にも寄らなきゃいけないんですよ。」"
+    현지 "「一緒に降りましょう。どうせアンテナが送受信する周波数の調整もしなきゃいけないから、電算室にも寄らなきゃいけないんですよ」"
 
 # game/chapter5.rpy:1362
 translate japanese chapter5_fc1cd231:
@@ -3278,7 +3278,7 @@ translate japanese chapter5_5f454e20:
     # voice "voices/he29.ogg"
     # 현지 "“당연하죠. 이거 제법 섬세한 기계거든요.”"
     voice "voices/he29.ogg"
-    현지 "「当然でしょ。これは結構繊細な機械なんだから。」"
+    현지 "「当然でしょ。これは結構繊細な機械なんだから」"
 
 # game/chapter5.rpy:1370
 translate japanese chapter5_08c2a555:
@@ -3306,7 +3306,7 @@ translate japanese chapter5_ccaf16e4:
     # voice "voices/he30.ogg"
     # 현지 "“그땐 제가 미리 안테나 주파수를 조정해둬서 그랬던 거였죠.”"
     voice "voices/he30.ogg"
-    현지 "「その時は私が事前にアンテナの周波数を調整しておいたからそうだったんですよ。」"
+    현지 "「その時は私が事前にアンテナの周波数を調整しておいたからそうだったんですよ」"
 
 # game/chapter5.rpy:1378
 translate japanese chapter5_f813be9a:
@@ -3338,7 +3338,7 @@ translate japanese chapter5_6e1952be:
     # voice "voices/he32.ogg"
     # 현지 "“훔치는 것도 아니고, 잠시 빌리는 거니까 나쁜 짓은 아니라고요.”"
     voice "voices/he32.ogg"
-    현지 "「盗むわけじゃなくて、ちょっと借りるだけだから悪いことじゃないですよ。」"
+    현지 "「盗むわけじゃなくて、ちょっと借りるだけだから悪いことじゃないですよ」"
 
 # game/chapter5.rpy:1389
 translate japanese chapter5_13e23821:
@@ -3346,7 +3346,7 @@ translate japanese chapter5_13e23821:
     # voice ""
     # 나 "“네가 생각하는 나쁜 짓의 기준이 궁금해지네.”"
     voice ""
-    나 "「君が思う悪いことの基準が気になるね。」"
+    나 "「君が思う悪いことの基準が気になるね」"
 
 # game/chapter5.rpy:1392
 translate japanese chapter5_fc903ebe:
@@ -3362,7 +3362,7 @@ translate japanese chapter5_dd2f91d3:
     # voice ""
     # 나 "“특이한 기준이네.”"
     voice ""
-    나 "「変わった基準だね。」"
+    나 "「変わった基準だね」"
 
 # game/chapter5.rpy:1398
 translate japanese chapter5_49704d1f:
@@ -3382,7 +3382,7 @@ translate japanese chapter5_097bf65b:
     # voice "voices/he34.ogg"
     # 현지 "“그럼 이제 1층으로 내려가볼까요.”"
     voice "voices/he34.ogg"
-    현지 "「じゃあ、これで1階に降りてみましょう。」"
+    현지 "「じゃあ、これで1階に降りてみましょう」"
 
 # game/chapter5.rpy:1405
 translate japanese chapter5_882a94b9:
@@ -3452,7 +3452,7 @@ translate japanese chapter5_f77ddc04:
 translate japanese chapter5_30350198:
 
     # 나 "“어디 가봐야 할 데가 있어서.”"
-    나 "「行ってみたいところがあるんだ。」"
+    나 "「行ってみたいところがあるんだ」"
 
 # game/chapter5.rpy:1450
 translate japanese chapter5_de560b2b:
@@ -3468,7 +3468,7 @@ translate japanese chapter5_09d042f1:
     # voice ""
     # 나 "“뭐, 그렇지.”"
     voice ""
-    나 "「まあ、そうだね。」"
+    나 "「まあ、そうだね」"
 
 # game/chapter5.rpy:1456
 translate japanese chapter5_eca622da:
@@ -3696,7 +3696,7 @@ translate japanese chapter5_d2278fad:
 translate japanese chapter5_396673fa:
 
     # 나 "“…….”"
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:1566
 translate japanese chapter5_9aa3309c:
@@ -3742,7 +3742,7 @@ translate japanese chapter5_1e24c9d5:
     # voice ""
     # 나 "“아, 으응.”"
     voice ""
-    나 "「あ、うん。」"
+    나 "「あ、うん」"
 
 # game/chapter5.rpy:1584
 translate japanese chapter5_f94b6289:
@@ -3850,7 +3850,7 @@ translate japanese chapter5_c7f4bf0e:
     # voice ""
     # 나 "“그렇겠지.”"
     voice ""
-    나 "「そうだろうな。」"
+    나 "「そうだろうな」"
 
 # game/chapter5.rpy:1629
 translate japanese chapter5_e4ad6097:
@@ -3912,7 +3912,7 @@ translate japanese chapter5_862b0b44:
     # voice ""
     # 나 "“그렇구나.”"
     voice ""
-    나 "「そうなんだ。」"
+    나 "「そうなんだ」"
 
 # game/chapter5.rpy:1651
 translate japanese chapter5_45d3bf8b:
@@ -4088,7 +4088,7 @@ translate japanese chapter5_c3d97577:
 translate japanese chapter5_396673fa_1:
 
     # 나 "“…….”"
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:1730
 translate japanese chapter5_e348ed16:
@@ -4328,7 +4328,7 @@ translate japanese chapter5_1fbf0303_1:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:1820
 translate japanese chapter5_59690e8a:
@@ -4664,7 +4664,7 @@ translate japanese chapter5_a62778a8:
 translate japanese chapter5_fa2ef543_1:
 
     # 소녀 "“…….”"
-    소녀 "「……。」"
+    소녀 "「……」"
 
 # game/chapter5.rpy:1961
 translate japanese chapter5_553c8d8f:
@@ -5454,7 +5454,7 @@ translate japanese chapter5_2e358c6d:
 translate japanese chapter5_34e593d3:
 
     # whol "“역시, 여기 있었구나. 미안, 오늘 보충 수업이 있어서 경기 못 보러 왔어.”"
-    whol "「やっぱり、ここにいたんだ。ごめん、今日補習授業があって試合見に来れなかったよ。」"
+    whol "「やっぱり、ここにいたんだ。ごめん、今日補習授業があって試合見に来れなかったよ」"
 
 # game/chapter5.rpy:2275
 translate japanese chapter5_acfadcc0:
@@ -5478,7 +5478,7 @@ translate japanese chapter5_6142eff6:
 translate japanese chapter5_a7990e3b:
 
     # whol "“또 우산 안 들고 왔지? 그럴 줄 알았다니까.”"
-    whol "「また傘持って来なかったでしょ？そういうところ分かってるからさ。」"
+    whol "「また傘持って来なかったでしょ？そういうところ分かってるからさ」"
 
 # game/chapter5.rpy:2303
 translate japanese chapter5_92aeafb1:
@@ -5700,13 +5700,13 @@ translate japanese chapter5_aaa1d927:
 translate japanese chapter5_5087a1eb:
 
     # whol "“그때 기억해? 네가 나랑 처음 말 텄던 날, 거실에서 나 혼자 영화 보고 있었잖아.\n좋아하는 영화였다고 했는데, 그게 사실 이 영화였거든.”"
-    whol "「あの時覚えてる？君が僕と初めて話した日、リビングで僕一人で映画を見ていたじゃないか。\n好きな映画だと言ったけど、それが実はこの映画だったんだよ。」"
+    whol "「あの時覚えてる？君が僕と初めて話した日、リビングで僕一人で映画を見ていたじゃないか。\n好きな映画だと言ったけど、それが実はこの映画だったんだよ」"
 
 # game/chapter5.rpy:2583
 translate japanese chapter5_eaaa26fb:
 
     # whol "“지금처럼 레인 맨이라고 상상 속에 존재하던 따스한 사람이 정말 짜잔하고 모습을 드러내는 거 있지?\n그것도 처음 보는 사람이 아니라 여태껏 알기만 한 사람……\n아차차, 더 이야기하면 스포일러니까 여기까지만 말할래.”"
-    whol "「今みたいにレインマンという想像の中に存在する温かい人が本当にジャジャーンと姿を現すことがあるでしょ？\nそれも初めて見る人じゃなくてずっと知っていただけの人……\nあちゃちゃ、もっと話すとネタバレになるからここまでにするね。」"
+    whol "「今みたいにレインマンという想像の中に存在する温かい人が本当にジャジャーンと姿を現すことがあるでしょ？\nそれも初めて見る人じゃなくてずっと知っていただけの人……\nあちゃちゃ、もっと話すとネタバレになるからここまでにするね」"
 
 # game/chapter5.rpy:2590
 translate japanese chapter5_024f4ce7:
@@ -5730,7 +5730,7 @@ translate japanese chapter5_71512bbd:
 translate japanese chapter5_75a02f14:
 
     # whol "“그러니까, 나도 그런 사람이 상상 속에만 있을 줄 알았는데. 진짜 바로 앞에 있었던 거야.”"
-    whol "「だから、僕もそんな人が想像の中にしかいないと思っていたけど。本当にすぐ目の前にいたんだよ。」"
+    whol "「だから、僕もそんな人が想像の中にしかいないと思っていたけど。本当にすぐ目の前にいたんだよ」"
 
 # game/chapter5.rpy:2619
 translate japanese chapter5_c3edfa02:
@@ -5748,7 +5748,7 @@ translate japanese chapter5_8ee1ce86:
 translate japanese chapter5_a76a227d:
 
     # whol "“비오니까 좋다.”"
-    whol "「雨が降って嬉しい。」"
+    whol "「雨が降って嬉しい」"
 
 # game/chapter5.rpy:2646
 translate japanese chapter5_b9f65dee:
@@ -5790,7 +5790,7 @@ translate japanese chapter5_33c57f21:
 translate japanese chapter5_0a2aac90:
 
     # 나o "“경기 끝나면 운동장 뒤편에서 보자. 할 말이 있어.”"
-    나o "「試合終わったら運動場の裏で会おう。話があるんだ。」"
+    나o "「試合終わったら運動場の裏で会おう。話があるんだ」"
 
 # game/chapter5.rpy:2656
 translate japanese chapter5_6244935c:
@@ -5856,7 +5856,7 @@ translate japanese chapter5_2_c04a37ed:
 translate japanese chapter5_2_396673fa:
 
     # 나 "“…….”"
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:2693
 translate japanese chapter5_2_34645258:
@@ -5898,7 +5898,7 @@ translate japanese chapter5_2_63612e51:
 translate japanese chapter5_2_2f1715ef:
 
     # 나 "‘어떻게 된 거지…….’"
-    나 "「どうなってるんだ……。」"
+    나 "「どうなってるんだ……」"
 
 # game/chapter5.rpy:2704
 translate japanese chapter5_2_5da065a4:
@@ -5916,7 +5916,7 @@ translate japanese chapter5_2_104c320f:
 translate japanese ecg10_label_67869de4:
 
     # 나 "“아야야.”"
-    나 "「あったたた。」"
+    나 "「あったたた」"
 
 # game/chapter5.rpy:2715
 translate japanese ecg10_label_700d7234:
@@ -5936,7 +5936,7 @@ translate japanese ecg10_label_907c5b9c:
     # voice "voices/ye1.ogg"
     # 유미 "“아, 일어났구나아…….”"
     voice "voices/ye1.ogg"
-    유미 "「あ、起きたんだね……。」"
+    유미 "「あ、起きたんだね……」"
 
 # game/chapter5.rpy:2724
 translate japanese ecg10_label_7cb3f8b0:
@@ -5990,7 +5990,7 @@ translate japanese ecg10_label_c9fb21dd:
     # voice ""
     # 나 "“음…… 그게, 왜 그런 거냐고 물으면…….”"
     voice ""
-    나 "「え……それは、どうしてそんなことするのって聞かれても……。」"
+    나 "「え……それは、どうしてそんなことするのって聞かれても……」"
 
 # game/chapter5.rpy:2738
 translate japanese ecg10_label_a34dcbb3:
@@ -6022,7 +6022,7 @@ translate japanese ecg10_label_c7d79a6b:
     # voice "voices/ye3.ogg"
     # 유미 "“다 들었어. 여태껏 있었던 일…… 현지한테.”"
     voice "voices/ye3.ogg"
-    유미 "「全部聞いたよ。今まであったこと……ヒョンジに。」"
+    유미 "「全部聞いたよ。今まであったこと……ヒョンジに」"
 
 # game/chapter5.rpy:2745
 translate japanese ecg10_label_1d50542d:
@@ -6038,7 +6038,7 @@ translate japanese ecg10_label_cac5a1eb:
     # voice "voices/ye4.ogg"
     # 유미 "“전부.”"
     voice "voices/ye4.ogg"
-    유미 "「全部。」"
+    유미 "「全部」"
 
 # game/chapter5.rpy:2749
 translate japanese ecg10_label_1fbf0303:
@@ -6046,7 +6046,7 @@ translate japanese ecg10_label_1fbf0303:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:2752
 translate japanese ecg10_label_1a1ba1e7:
@@ -6082,7 +6082,7 @@ translate japanese ecg10_label_8e8457f1:
 translate japanese ecg10_label_d082bf85:
 
     # 나 "“전부…….”"
-    나 "「全部……。」"
+    나 "「全部……」"
 
 # game/chapter5.rpy:2759
 translate japanese ecg10_label_b3801c89:
@@ -6090,7 +6090,7 @@ translate japanese ecg10_label_b3801c89:
     # voice "voices/ye5.ogg"
     # 유미 "“그래, 전부.”"
     voice "voices/ye5.ogg"
-    유미 "「そう、全部。」"
+    유미 "「そう、全部」"
 
 # game/chapter5.rpy:2761
 translate japanese ecg10_label_d4054522:
@@ -6098,7 +6098,7 @@ translate japanese ecg10_label_d4054522:
     # voice ""
     # 나 "“과거에서 왔다는 것도, 과거로 돌아갈 방법을 찾고 있었다는 것도…….”"
     voice ""
-    나 "「過去から来たってことも、過去に戻る方法を探していたってことも……。」"
+    나 "「過去から来たってことも、過去に戻る方法を探していたってことも……」"
 
 # game/chapter5.rpy:2763
 translate japanese ecg10_label_b1b36323:
@@ -6106,7 +6106,7 @@ translate japanese ecg10_label_b1b36323:
     # voice "voices/ye6.ogg"
     # 유미 "“그리고 네가 유령 여자아이를 도와주고 있다는 것도.”"
     voice "voices/ye6.ogg"
-    유미 "「そしてお前が幽霊の女の子を助けているってことも。」"
+    유미 "「そしてお前が幽霊の女の子を助けているってことも」"
 
 # game/chapter5.rpy:2765
 translate japanese ecg10_label_8c1a71af:
@@ -6114,7 +6114,7 @@ translate japanese ecg10_label_8c1a71af:
     # voice ""
     # 나 "“으음…….”"
     voice ""
-    나 "「うーん……。」"
+    나 "「うーん……」"
 
 # game/chapter5.rpy:2768
 translate japanese ecg10_label_6cd88160:
@@ -6144,7 +6144,7 @@ translate japanese ecg10_label_dc058e77:
 translate japanese ecg10_label_bdded139:
 
     # 나 "“미안.”"
-    나 "「ごめん。」"
+    나 "「ごめん」"
 
 # game/chapter5.rpy:2775
 translate japanese ecg10_label_b2211963:
@@ -6162,7 +6162,7 @@ translate japanese ecg10_label_23c11fcb:
 translate japanese ecg10_label_90aa76a5:
 
     # 나 "“아, 여, 여태껏 숨겼던 것도 그렇고, 직접 이야기 못 했던 것도 그렇고…….”"
-    나 "「あ、あの、今まで隠してたこともそうだし、直接話せなかったこともそうだし……。」"
+    나 "「あ、あの、今まで隠してたこともそうだし、直接話せなかったこともそうだし……」"
 
 # game/chapter5.rpy:2780
 translate japanese ecg10_label_00cb4116:
@@ -6186,7 +6186,7 @@ translate japanese ecg10_label_3a53e983:
     # voice "voices/ye8.ogg"
     # 유미 "“나도 솔직하게 이야기 못 했으니까.”"
     voice "voices/ye8.ogg"
-    유미 "「私も正直に話せなかったから。」"
+    유미 "「私も正直に話せなかったから」"
 
 # game/chapter5.rpy:2788
 translate japanese ecg10_label_c2cd7612:
@@ -6202,7 +6202,7 @@ translate japanese ecg10_label_099a04af:
     # voice "voices/ye9.ogg"
     # 유미 "“…… 운명, 이었던 거네.”"
     voice "voices/ye9.ogg"
-    유미 "「……運命、だったんだね。」"
+    유미 "「……運命、だったんだね」"
 
 # game/chapter5.rpy:2793
 translate japanese ecg10_label_96713053:
@@ -6242,7 +6242,7 @@ translate japanese ecg10_label_bf78219d:
     # voice "voices/ye10.ogg"
     # 유미 "“현지? 아까 전까지 옆에 있었는데. 눈 붙인 사이에 어디 잠깐 나갔나 봐.”"
     voice "voices/ye10.ogg"
-    유미 "「ヒョンジ？さっきまで隣にいたけど。目をつぶった間にどこかちょっと出たのかな。」"
+    유미 "「ヒョンジ？さっきまで隣にいたけど。目をつぶった間にどこかちょっと出たのかな」"
 
 # game/chapter5.rpy:2804
 translate japanese ecg10_label_782d635c:
@@ -6250,7 +6250,7 @@ translate japanese ecg10_label_782d635c:
     # voice ""
     # 나 "“그래……? 그럼 다행이고.”"
     voice ""
-    나 "「そう……？じゃあよかったけど。」"
+    나 "「そう……？じゃあよかったけど」"
 
 # game/chapter5.rpy:2807
 translate japanese ecg10_label_eb1a7a84:
@@ -6292,7 +6292,7 @@ translate japanese ecg11_label_261ae151:
     # voice "voices/he51.ogg"
     # 현지 "“선배애애애애…….”"
     voice "voices/he51.ogg"
-    현지 "「先輩ぇぇぇぇ……。」"
+    현지 "「先輩ぇぇぇぇ……」"
 
 # game/chapter5.rpy:2831
 translate japanese ecg11_label_f2d3cdb1:
@@ -6320,7 +6320,7 @@ translate japanese ecg11_label_17a397c4:
     # voice "voices/he52.ogg"
     # 현지 "“살아있는 거 맞죠?! 걱정했다고요, 이대로 영영 안 일어나는 줄 알고…….”"
     voice "voices/he52.ogg"
-    현지 "「生きてるんですよね？！心配したんですよ、このまま永遠に起きないんじゃないかと……。」"
+    현지 "「生きてるんですよね？！心配したんですよ、このまま永遠に起きないんじゃないかと……」"
 
 # game/chapter5.rpy:2840
 translate japanese ecg11_label_10db0655:
@@ -6328,7 +6328,7 @@ translate japanese ecg11_label_10db0655:
     # voice ""
     # 나 "“죽을 정도는 아니었거든…….”"
     voice ""
-    나 "「死ぬほどじゃなかったんだよ……。」"
+    나 "「死ぬほどじゃなかったんだよ……」"
 
 # game/chapter5.rpy:2843
 translate japanese ecg11_label_0fdcc3b5:
@@ -6342,7 +6342,7 @@ translate japanese ecg11_label_dbaf5b78:
     # voice "voices/he53.ogg"
     # 현지 "“하지만 충격을 받으면 유령이 반응하잖아요. 그, 그럼 이대로 선배가 다른 시공간으로 영영 날아가버려서 다시는 못 만나는 거니까……. 흐윽…….”"
     voice "voices/he53.ogg"
-    현지 "「でも衝撃を受けると幽霊が反応するじゃないですか。そ、そうしたら先輩が別の時空間に永遠に飛んで行ってしまって二度と会えなくなるんじゃないかと……。うええ……。」"
+    현지 "「でも衝撃を受けると幽霊が反応するじゃないですか。そ、そうしたら先輩が別の時空間に永遠に飛んで行ってしまって二度と会えなくなるんじゃないかと……。うええ……」"
 
 # game/chapter5.rpy:2847
 translate japanese ecg11_label_a209ca09:
@@ -6404,7 +6404,7 @@ translate japanese ecg11_label_a4fbb7a8:
     # voice "voices/ye11.ogg"
     # 유미 "“이틀 전에 갑자기 전화 왔을 때도 이렇게 말해서 알아듣기 힘들었다고.”"
     voice "voices/ye11.ogg"
-    유미 "「二日前に急に電話が来たときもこんな風に言って聞き取りにくかったんだよ。」"
+    유미 "「二日前に急に電話が来たときもこんな風に言って聞き取りにくかったんだよ」"
 
 # game/chapter5.rpy:2865
 translate japanese ecg11_label_61bdfd32:
@@ -6420,7 +6420,7 @@ translate japanese ecg11_label_0ecd8135:
     # voice "voices/ye12.ogg"
     # 유미 "“그래. 너, 이틀 동안이나 쓰러져 있었으니까.”"
     voice "voices/ye12.ogg"
-    유미 "「そう。お前、二日間も倒れていたんだから。」"
+    유미 "「そう。お前、二日間も倒れていたんだから」"
 
 # game/chapter5.rpy:2869
 translate japanese ecg11_label_650b9db8:
@@ -6444,7 +6444,7 @@ translate japanese ecg11_label_5af4088a:
     # voice ""
     # 나 "“아, 하긴…… 그렇네.”"
     voice ""
-    나 "「あ、そうか…… そうだな。」"
+    나 "「あ、そうか…… そうだな」"
 
 # game/chapter5.rpy:2877
 translate japanese ecg11_label_efb8a14d:
@@ -6470,7 +6470,7 @@ translate japanese ecg11_label_07fcee90:
     # voice "voices/ye14.ogg"
     # 유미 "“그건 모르겠어. 나는 F구역에서 너를 병원까지 데려온 것뿐이니까.”"
     voice "voices/ye14.ogg"
-    유미 "「それはわからないよ。私はF区域からお前を病院まで連れてきただけだから。」"
+    유미 "「それはわからないよ。私はF区域からお前を病院まで連れてきただけだから」"
 
 # game/chapter5.rpy:2886
 translate japanese ecg11_label_9c934d61:
@@ -6478,7 +6478,7 @@ translate japanese ecg11_label_9c934d61:
     # voice ""
     # 나 "“아…… 그렇구나.”"
     voice ""
-    나 "「あ…… そうか。」"
+    나 "「あ…… そうか」"
 
 # game/chapter5.rpy:2889
 translate japanese ecg11_label_10797182:
@@ -6508,7 +6508,7 @@ translate japanese ecg11_label_1b378348:
 translate japanese ecg11_label_4850df7a:
 
     # 현지 "“없어져…… 있었어요. 선배를 찾으러 갔을 때는요.”"
-    현지 "「消えて…… いました。先輩を探しに行ったときは。」"
+    현지 "「消えて…… いました。先輩を探しに行ったときは」"
 
 # game/chapter5.rpy:2896
 translate japanese ecg11_label_b3b9bc63:
@@ -6532,7 +6532,7 @@ translate japanese ecg11_label_444d528b:
     # voice "voices/ye15.ogg"
     # 유미 "“그럼 그 연쇄 살인범은 또 도망친 거겠네.”"
     voice "voices/ye15.ogg"
-    유미 "「じゃああの連続殺人犯はまた逃げたんだろうね。」"
+    유미 "「じゃああの連続殺人犯はまた逃げたんだろうね」"
 
 # game/chapter5.rpy:2904
 translate japanese ecg11_label_1fbf0303:
@@ -6540,7 +6540,7 @@ translate japanese ecg11_label_1fbf0303:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:2910
 translate japanese ecg11_label_3b6f9350:
@@ -6628,7 +6628,7 @@ translate japanese ecg11_label_505f443c:
 translate japanese ecg11_label_37983319:
 
     # 나 "“괜찮아, 괜찮다니까. 네가 미안해야 할 게 뭐 있어.”"
-    나 "「大丈夫だよ、大丈夫だって。お前が謝らなきゃいけることなんて何もない。」"
+    나 "「大丈夫だよ、大丈夫だって。お前が謝らなきゃいけることなんて何もない」"
 
 # game/chapter5.rpy:2947
 translate japanese ecg11_label_aa9a95eb:
@@ -6644,7 +6644,7 @@ translate japanese ecg11_label_5dfe49b0:
     # voice ""
     # 나 "“거기로 가자고 한 것도 내가 이야기 꺼낸 거잖아.”"
     voice ""
-    나 "「あそこに行こうとしたのも俺が話を切り出したんだろ。」"
+    나 "「あそこに行こうとしたのも俺が話を切り出したんだろ」"
 
 # game/chapter5.rpy:2951
 translate japanese ecg11_label_1bc32e0a:
@@ -6652,7 +6652,7 @@ translate japanese ecg11_label_1bc32e0a:
     # voice "voices/he59.ogg"
     # 현지 "“그, 그게, 그러니까…… 거짓말이에요.”"
     voice "voices/he59.ogg"
-    현지 "「そ、それが、だから…… 嘘です。」"
+    현지 "「そ、それが、だから…… 嘘です」"
 
 # game/chapter5.rpy:2954
 translate japanese ecg11_label_0f7b629c:
@@ -6676,7 +6676,7 @@ translate japanese ecg11_label_1fbf0303_1:
     # voice ""
     # 나 "“…….”"
     voice ""
-    나 "「……。」"
+    나 "「……」"
 
 # game/chapter5.rpy:2961
 translate japanese ecg11_label_9c1a40f9:
@@ -6692,7 +6692,7 @@ translate japanese ecg11_label_862b0b44:
     # voice ""
     # 나 "“그렇구나.”"
     voice ""
-    나 "「そうなんだ。」"
+    나 "「そうなんだ」"
 
 # game/chapter5.rpy:2966
 translate japanese ecg11_label_8f5d215f:
@@ -6728,7 +6728,7 @@ translate japanese ecg11_label_9d22411d:
     # voice ""
     # 나 "“알겠어. 무슨 말인지 이해했으니까.”"
     voice ""
-    나 "「わかったよ。何を言ってるのか理解したから。」"
+    나 "「わかったよ。何を言ってるのか理解したから」"
 
 # game/chapter5.rpy:2980
 translate japanese ecg11_label_d64cd634:
@@ -6764,7 +6764,7 @@ translate japanese ecg11_label_48172dc2:
     # voice "voices/ye16.ogg"
     # 유미 "“그럴 만도 하지. 이틀 밤낮을 꼬박 지새웠으니까.”"
     voice "voices/ye16.ogg"
-    유미 "「それも当然だろ。二日間も徹夜したんだから。」"
+    유미 "「それも当然だろ。二日間も徹夜したんだから」"
 
 # game/chapter5.rpy:2994
 translate japanese ecg11_label_dc3b173a:
@@ -6772,7 +6772,7 @@ translate japanese ecg11_label_dc3b173a:
     # voice ""
     # 나 "“…… 역시 미안해해야 할 쪽은 나였구나.”"
     voice ""
-    나 "「…… やっぱり謝らなきゃいけないのは俺だったな。」"
+    나 "「…… やっぱり謝らなきゃいけないのは俺だったな」"
 
 # game/chapter5.rpy:2997
 translate japanese ecg11_label_66b74586:
@@ -6794,7 +6794,7 @@ translate japanese ecg11_label_cddf57d0:
     # voice ""
     # 나 "“아냐, 괜찮아. 별로 안 불편해.”"
     voice ""
-    나 "「いや、大丈夫だよ。あんまり不便じゃない。」"
+    나 "「いや、大丈夫だよ。あんまり不便じゃない」"
 
 # game/chapter5.rpy:3003
 translate japanese ecg11_label_5db82fea:
@@ -6810,7 +6810,7 @@ translate japanese ecg11_label_9d12ea7a:
     # voice ""
     # 나 "“글쎄…… 진통제 때문인가. 지금은 잘 모르겠어.”"
     voice ""
-    나 "「さあ…… 鎮痛剤のせいかな。今はよくわからないや。」"
+    나 "「さあ…… 鎮痛剤のせいかな。今はよくわからないや」"
 
 # game/chapter5.rpy:3008
 translate japanese ecg11_label_a56dcedc:
@@ -6852,7 +6852,7 @@ translate japanese ecg11_label_d8578b7d:
     # voice "voices/ye20.ogg"
     # 유미 "“원래 있던 곳으로 돌아가야 하잖아.”"
     voice "voices/ye20.ogg"
-    유미 "「元いたところに戻らなきゃだろ。」"
+    유미 "「元いたところに戻らなきゃだろ」"
 
 # game/chapter5.rpy:3018
 translate japanese ecg11_label_24c4bce1:
@@ -6930,7 +6930,7 @@ translate japanese ecg11_label_ef8955ee:
     # voice "voices/ye23.ogg"
     # 유미 "“병원에서 말했어. 네 몸, 이미 내상이 너무 심해서 움직이는 게 신기할 정도라고.”"
     voice "voices/ye23.ogg"
-    유미 "「病院で言ったでしょ。お前の体、もう内傷がひどすぎて動くのが不思議なくらいだって。」"
+    유미 "「病院で言ったでしょ。お前の体、もう内傷がひどすぎて動くのが不思議なくらいだって」"
 
 # game/chapter5.rpy:3044
 translate japanese ecg11_label_025a1a80:
@@ -6938,7 +6938,7 @@ translate japanese ecg11_label_025a1a80:
     # voice ""
     # 나 "“음…… 제법 심하게 다쳤던 거였구나.”"
     voice ""
-    나 "「うん…… 結構ひどく怪我したんだな。」"
+    나 "「うん…… 結構ひどく怪我したんだな」"
 
 # game/chapter5.rpy:3047
 translate japanese ecg11_label_9f5657cd:
@@ -6970,7 +6970,7 @@ translate japanese ecg11_label_7d5644a6:
     # voice "voices/ye24.ogg"
     # 유미 "“아니, 그게 아니라. 이미 고장 나 있었다고. 이 일이 있기 전부터.”"
     voice "voices/ye24.ogg"
-    유미 "「いや、それじゃなくて。もう壊れてたんだよ。このことがある前から。」"
+    유미 "「いや、それじゃなくて。もう壊れてたんだよ。このことがある前から」"
 
 # game/chapter5.rpy:3059
 translate japanese ecg11_label_ebfcaf77:
@@ -7004,7 +7004,7 @@ translate japanese ecg11_label_ecce9f2f:
     # voice "voices/ye25.ogg"
     # 유미 "“그야 그 말 그대로지. 의사 선생님도 이런 사람은 처음 본다고 말했어.”"
     voice "voices/ye25.ogg"
-    유미 "「それはそのままだよ。医者さんもこんな人は初めて見たと言ってた。」"
+    유미 "「それはそのままだよ。医者さんもこんな人は初めて見たと言ってた」"
 
 # game/chapter5.rpy:3072
 translate japanese ecg11_label_56f348fd:
@@ -7094,7 +7094,7 @@ translate japanese ecg11_label_b21e39fb:
 translate japanese ecg11_label_69b73b81:
 
     # 나 "“멀쩡했어. 죽을 만큼 아프지도 않았고. 정말 가벼운 타박상이라고 생각했으니까. 뭐랄까, 그때는 아프다기보다는 남의 몸에 들어와 있다는 느낌이 더 강했거든.”"
-    나 "「元気だったよ。死ぬほど痛くもなかったし。本当に軽い打撲だと思ってたから。どういうわけか、そのときは痛いというよりは他人の体に入ってる感じが強かったんだ。」"
+    나 "「元気だったよ。死ぬほど痛くもなかったし。本当に軽い打撲だと思ってたから。どういうわけか、そのときは痛いというよりは他人の体に入ってる感じが強かったんだ」"
 
 # game/chapter5.rpy:3102
 translate japanese ecg11_label_198b593c:
@@ -7102,7 +7102,7 @@ translate japanese ecg11_label_198b593c:
     # voice "voices/ye29.ogg"
     # 유미 "“그랬구나.”"
     voice "voices/ye29.ogg"
-    유미 "「そうだったんだ。」"
+    유미 "「そうだったんだ」"
 
 # game/chapter5.rpy:3104
 translate japanese ecg11_label_94b24583:
@@ -7110,7 +7110,7 @@ translate japanese ecg11_label_94b24583:
     # voice ""
     # 나 "“그럼 지금 나는, 좀비 같은 건가? 아니, 소라게라고 하는 쪽이 더 가깝겠다.”"
     voice ""
-    나 "「じゃあ今の俺は、ゾンビみたいなものか？いや、サザエさんっていう方が近いかな。」"
+    나 "「じゃあ今の俺は、ゾンビみたいなものか？いや、サザエさんっていう方が近いかな」"
 
 # game/chapter5.rpy:3107
 translate japanese ecg11_label_181b1638:
@@ -7118,7 +7118,7 @@ translate japanese ecg11_label_181b1638:
     # voice "voices/ye30.ogg"
     # 유미 "“뭐야, 그게.”"
     voice "voices/ye30.ogg"
-    유미 "「なによ、それ。」"
+    유미 "「なによ、それ」"
 
 # game/chapter5.rpy:3113
 translate japanese ecg11_label_506f0fd6:
@@ -7180,7 +7180,7 @@ translate japanese ecg11_label_475aeed9:
     # voice "voices/ye32.ogg"
     # 유미 "“그리고, 몸은 죽었는데 정신만 깃들어 있는 상태라고 한다면. 너는 영원히 이 모습 그대로일 수도 있는 거라고.”"
     voice "voices/ye32.ogg"
-    유미 "「それに、体は死んでて精神だけ宿ってる状態だって言うなら。お前は永遠にこの姿のままかもしれないんだぞ。」"
+    유미 "「それに、体は死んでて精神だけ宿ってる状態だって言うなら。お前は永遠にこの姿のままかもしれないんだぞ」"
 
 # game/chapter5.rpy:3134
 translate japanese ecg11_label_c018b016:
@@ -7200,7 +7200,7 @@ translate japanese ecg11_label_ff579245:
 translate japanese ecg11_label_9c3b07b2:
 
     # 나 "“결국, 나는 원래의 나에게로 돌아가야 한다는 거네.”"
-    나 "「結局、私は元の私に戻らなきゃいけないってことだね。」"
+    나 "「結局、私は元の私に戻らなきゃいけないってことだね」"
 
 # game/chapter5.rpy:3141
 translate japanese ecg11_label_f555ed37:
@@ -7208,7 +7208,7 @@ translate japanese ecg11_label_f555ed37:
     # voice "voices/ye33.ogg"
     # 유미 "“그렇…… 겠지.”"
     voice "voices/ye33.ogg"
-    유미 "「そう…… だろうね。」"
+    유미 "「そう…… だろうね」"
 
 # game/chapter5.rpy:3143
 translate japanese ecg11_label_c4342713:
@@ -7216,7 +7216,7 @@ translate japanese ecg11_label_c4342713:
     # voice ""
     # 나 "“아아, 모르겠다. 생각을 더 해봐야 할 것 같아.”"
     voice ""
-    나 "「ああ、わからないよ。もっと考えてみないと。」"
+    나 "「ああ、わからないよ。もっと考えてみないと」"
 
 # game/chapter5.rpy:3146
 translate japanese ecg11_label_2666edcb:
@@ -7252,7 +7252,7 @@ translate japanese ecg11_label_291d623c:
     # voice "voices/ye35.ogg"
     # 유미 "“으응. 오늘 멘토링도 있고, 학예제 건으로 학생회 회의도 있는 날이라서.”"
     voice "voices/ye35.ogg"
-    유미 "「うん。今日はメンタリングもあるし、学芸祭の件で生徒会の会議もある日だから。」"
+    유미 "「うん。今日はメンタリングもあるし、学芸祭の件で生徒会の会議もある日だから」"
 
 # game/chapter5.rpy:3163
 translate japanese ecg11_label_d6389cd2:
@@ -7268,7 +7268,7 @@ translate japanese ecg11_label_f0b7cc61:
     # voice "voices/ye36.ogg"
     # 유미 "“근처에서 호버크라프트 잡아서 타고 가면 되니까 괜찮아.”"
     voice "voices/ye36.ogg"
-    유미 "「近くでホバークラフトを捕まえて乗ればいいから大丈夫だよ。」"
+    유미 "「近くでホバークラフトを捕まえて乗ればいいから大丈夫だよ」"
 
 # game/chapter5.rpy:3169
 translate japanese ecg11_label_06d87c98:
@@ -7312,7 +7312,7 @@ translate japanese ecg11_label_eafb8bc2:
     # voice "voices/ye38.ogg"
     # 유미 "“현지가 사 온 게 전부 아메리카노라서.”"
     voice "voices/ye38.ogg"
-    유미 "「ヒョンジが買ってきたのが全部アメリカーノだから。」"
+    유미 "「ヒョンジが買ってきたのが全部アメリカーノだから」"
 
 # game/chapter5.rpy:3186
 translate japanese ecg11_label_19de850f:
@@ -7332,7 +7332,7 @@ translate japanese ecg11_label_681a925f:
 translate japanese ecg11_label_3688a901:
 
     # 나 "“현지 나름대로 고민해서 사 온 거겠네.”"
-    나 "「ヒョンジも一生懸命考えて買ってきたんだろうね。」"
+    나 "「ヒョンジも一生懸命考えて買ってきたんだろうね」"
 
 # game/chapter5.rpy:3193
 translate japanese ecg11_label_30696711:
@@ -7348,7 +7348,7 @@ translate japanese ecg11_label_0aa5de3f:
     # voice ""
     # 나 "“아니, 좋아한다기보다는…… 뭐, 자주 마시긴 하지.”"
     voice ""
-    나 "「いや、好きというよりは…… まあ、よく飲むけど。」"
+    나 "「いや、好きというよりは…… まあ、よく飲むけど」"
 
 # game/chapter5.rpy:3198
 translate japanese ecg11_label_be7f0064:
@@ -7356,7 +7356,7 @@ translate japanese ecg11_label_be7f0064:
     # voice "voices/ye40.ogg"
     # 유미 "“그래? 나랑 있을 땐 아메리카노 마시는 거 한 번도 본 적 없는 것 같은데.”"
     voice "voices/ye40.ogg"
-    유미 "「そう？私といるときはアメリカーノ飲むの一度も見たことないけど。」"
+    유미 "「そう？私といるときはアメリカーノ飲むの一度も見たことないけど」"
 
 # game/chapter5.rpy:3200
 translate japanese ecg11_label_7a1342d8:
@@ -7378,7 +7378,7 @@ translate japanese ecg11_label_871b3294:
     # voice "voices/ye41.ogg"
     # 유미 "“어쨌든, 난 이만 가 볼게.”"
     voice "voices/ye41.ogg"
-    유미 "「とにかく、私はこれで行ってくるね。」"
+    유미 "「とにかく、私はこれで行ってくるね」"
 
 # game/chapter5.rpy:3209
 translate japanese ecg11_label_6ecaed41:
@@ -7386,7 +7386,7 @@ translate japanese ecg11_label_6ecaed41:
     # voice ""
     # 나 "“으응. 고마워.”"
     voice ""
-    나 "「うん。ありがとう。」"
+    나 "「うん。ありがとう」"
 
 # game/chapter5.rpy:3212
 translate japanese ecg11_label_bb06db30:
@@ -7402,7 +7402,7 @@ translate japanese ecg11_label_84073c6f:
     # voice ""
     # 나 "“이제 괜찮은 거 확인했으니까 걱정 안 해도 돼.”"
     voice ""
-    나 "「もう大丈夫だって確認したんだから心配しなくていいよ。」"
+    나 "「もう大丈夫だって確認したんだから心配しなくていいよ」"
 
 # game/chapter5.rpy:3217
 translate japanese ecg11_label_20a4c46b:
@@ -7418,7 +7418,7 @@ translate japanese ecg11_label_cf285e35:
     # voice ""
     # 나 "“네에, 네에.”"
     voice ""
-    나 "「はいはい、はいはい。」"
+    나 "「はいはい、はいはい」"
 
 # game/chapter5.rpy:3222
 translate japanese ecg11_label_e7c916a2:
@@ -7442,7 +7442,7 @@ translate japanese ecg11_label_fa7ac6ef:
 translate japanese ecg11_label_096d9f93:
 
     # 나 "‘아, 맞다. 소녀는 어떻게 된 걸까.’"
-    나 "「あ、そうだ。少女はどうなったんだろう。」"
+    나 "「あ、そうだ。少女はどうなったんだろう」"
 
 # game/chapter5.rpy:3228
 translate japanese ecg11_label_ae944911:
@@ -7472,7 +7472,7 @@ translate japanese ecg11_label_aaa390e7:
 translate japanese ecg11_label_4496099a:
 
     # 나 "“어, 일어나 있었네.”"
-    나 "「あ、起きてたんだ。」"
+    나 "「あ、起きてたんだ」"
 
 # game/chapter5.rpy:3243
 translate japanese ecg11_label_36bc60bb:
@@ -7488,7 +7488,7 @@ translate japanese ecg11_label_88ed74a4:
     # voice ""
     # 나 "“유미한테 들었어. 밤을 꼬박 샜다며? 피곤하면 저기 간이침대에서 자.”"
     voice ""
-    나 "「ユミから聞いたよ。一晩中起きてたんだって？疲れてるならあそこにある簡易ベッドで寝てよ。」"
+    나 "「ユミから聞いたよ。一晩中起きてたんだって？疲れてるならあそこにある簡易ベッドで寝てよ」"
 
 # game/chapter5.rpy:3248
 translate japanese ecg11_label_6813a5a6:
@@ -7496,7 +7496,7 @@ translate japanese ecg11_label_6813a5a6:
     # voice "voices/he65.ogg"
     # 현지 "“아뇨, 이젠 다 깼는걸요. 아, 선배. 목마를 텐데 이거 마셔요.”"
     voice "voices/he65.ogg"
-    현지 "「いえ、もうすっかり目が覚めました。あ、先輩。喉が渇くでしょうからこれ飲んでください。」"
+    현지 "「いえ、もうすっかり目が覚めました。あ、先輩。喉が渇くでしょうからこれ飲んでください」"
 
 # game/chapter5.rpy:3251
 translate japanese ecg11_label_863d7632:
@@ -7510,7 +7510,7 @@ translate japanese ecg11_label_863d7632:
 translate japanese ecg11_label_901c958e:
 
     # 나 "“고마워. 신경 써 줘서.”"
-    나 "「ありがとう。気にかけてくれて。」"
+    나 "「ありがとう。気にかけてくれて」"
 
 # game/chapter5.rpy:3256
 translate japanese ecg11_label_b2c71d32:
@@ -7534,7 +7534,7 @@ translate japanese ecg11_label_81cb9717:
 translate japanese ecg11_label_fb01f5ac:
 
     # 나 "“아직 약 기운이 남아있나 봐. 나중에 마실게.”"
-    나 "「まだ薬の効き目が残ってるみたいだ。後で飲むよ。」"
+    나 "「まだ薬の効き目が残ってるみたいだ。後で飲むよ」"
 
 # game/chapter5.rpy:3264
 translate japanese ecg11_label_b0a5a603:
@@ -7550,7 +7550,7 @@ translate japanese ecg11_label_5b7cda3a:
     # voice ""
     # 나 "“목이야 마르긴 하지만, 손이 안 움직이잖아?”"
     voice ""
-    나 "「喉は渇いてるけど、手が動かないじゃないか。」"
+    나 "「喉は渇いてるけど、手が動かないじゃないか」"
 
 # game/chapter5.rpy:3269
 translate japanese ecg11_label_c4ba0dac:
@@ -7558,7 +7558,7 @@ translate japanese ecg11_label_c4ba0dac:
     # voice "voices/he67.ogg"
     # 현지 "“그럼 선배, 아~ 해보세요.”"
     voice "voices/he67.ogg"
-    현지 "「じゃあ先輩、あーしてみてください。」"
+    현지 "「じゃあ先輩、あーしてみてください」"
 
 # game/chapter5.rpy:3272
 translate japanese ecg11_label_76fba9cc:
@@ -7580,7 +7580,7 @@ translate japanese ecg11_label_8c602708:
     # voice "voices/he68.ogg"
     # 현지 "“그, 그렇게 크게 말고요.”"
     voice "voices/he68.ogg"
-    현지 "「そ、そんなに大きくしなくてもいいですよ。」"
+    현지 "「そ、そんなに大きくしなくてもいいですよ」"
 
 # game/chapter5.rpy:3279
 translate japanese ecg11_label_6cd5f0b0:
@@ -7604,7 +7604,7 @@ translate japanese ecg11_label_86f3b2fa:
     # voice ""
     # 나 "“그거야 그렇지만…… 웁.”"
     voice ""
-    나 "「それはそうだけど…… うっ。」"
+    나 "「それはそうだけど…… うっ」"
 
 # game/chapter5.rpy:3290
 translate japanese ecg11_label_bac98ad5:
@@ -7618,7 +7618,7 @@ translate japanese ecg11_label_43686db5:
     # voice "voices/he70.ogg"
     # 현지 "“안 흘리게 조심조심 기울일 테니까 마셔요.”"
     voice "voices/he70.ogg"
-    현지 "「こぼさないように気をつけて傾けるから飲んでください。」"
+    현지 "「こぼさないように気をつけて傾けるから飲んでください」"
 
 # game/chapter5.rpy:3296
 translate japanese ecg11_label_306d7319:
@@ -7708,7 +7708,7 @@ translate japanese ecg11_label_f4ed5aff:
 translate japanese ecg11_label_5e0e51dd:
 
     # 나 "“언젠간 돌아가야겠지. 급한 건 아냐.”"
-    나 "「いつか帰らなきゃだろうね。急ぐことはないよ。」"
+    나 "「いつか帰らなきゃだろうね。急ぐことはないよ」"
 
 # game/chapter5.rpy:3323
 translate japanese ecg11_label_0562474f:
@@ -7724,7 +7724,7 @@ translate japanese ecg11_label_29c5fa5e:
     # voice ""
     # 나 "“괜찮을 거야. 여태껏 괜찮았잖아.”"
     voice ""
-    나 "「大丈夫だって。今まで大丈夫だったじゃないか。」"
+    나 "「大丈夫だって。今まで大丈夫だったじゃないか」"
 
 # game/chapter5.rpy:3328
 translate japanese ecg11_label_700724c6:
@@ -7740,7 +7740,7 @@ translate japanese ecg11_label_3572bc67:
     # voice ""
     # 나 "“그렇다니까.”"
     voice ""
-    나 "「そうだってば。」"
+    나 "「そうだってば」"
 
 # game/chapter5.rpy:3333
 translate japanese ecg11_label_29ce608a:
@@ -7772,7 +7772,7 @@ translate japanese ecg11_label_f0bc6f2e:
     # voice "voices/he74.ogg"
     # 현지 "“오래 걸릴 거예요. 선배 몸이 못 버틸 정도로 오래요.”"
     voice "voices/he74.ogg"
-    현지 "「時間がかかりますよ。先輩の体がもたないほど長くて。」"
+    현지 "「時間がかかりますよ。先輩の体がもたないほど長くて」"
 
 # game/chapter5.rpy:3344
 translate japanese ecg11_label_edce7f0a:
@@ -7788,7 +7788,7 @@ translate japanese ecg11_label_560d7e10:
     # voice "voices/he75.ogg"
     # 현지 "“선배 없이 혼자서는 못 만들어요.”"
     voice "voices/he75.ogg"
-    현지 "「先輩がいないと一人では作れません。」"
+    현지 "「先輩がいないと一人では作れません」"
 
 # game/chapter5.rpy:3349
 translate japanese ecg11_label_2292a48a:
@@ -7796,7 +7796,7 @@ translate japanese ecg11_label_2292a48a:
     # voice ""
     # 나 "“그런가.”"
     voice ""
-    나 "「そうか。」"
+    나 "「そうか」"
 
 # game/chapter5.rpy:3355
 translate japanese ecg11_label_83d9b0b6:
@@ -7852,7 +7852,7 @@ translate japanese ecg11_label_26cdd77b:
     # voice "voices/he76.ogg"
     # 현지 "“별로요. 습기도 차고…… 이래저래 귀찮아서요.”"
     voice "voices/he76.ogg"
-    현지 "「あまりです。湿気もするし……いろいろ面倒くさいです。」"
+    현지 "「あまりです。湿気もするし……いろいろ面倒くさいです」"
 
 # game/chapter5.rpy:3377
 translate japanese ecg11_label_a57da198:
@@ -7860,7 +7860,7 @@ translate japanese ecg11_label_a57da198:
     # voice "" 
     # 나 "“그렇구나.”"
     voice "" 
-    나 "「そうなんだ。」"
+    나 "「そうなんだ」"
 
 # game/chapter5.rpy:3380
 translate japanese ecg11_label_a85077d9:
@@ -7888,7 +7888,7 @@ translate japanese ecg11_label_4bd7b48a:
 translate japanese ecg11_label_60d44e67:
 
     # 나 "“―――하는 것 같아.”"
-    나 "「―――な気がする。」"
+    나 "「―――な気がする」"
 
 # game/chapter5.rpy:3397
 translate japanese ecg11_label_5535aa98:
@@ -7904,7 +7904,7 @@ translate japanese ecg11_label_b63898a0:
     # voice ""
     # 나 "“…… 그러게.”"
     voice ""
-    나 "「……そうだな。」"
+    나 "「……そうだな」"
 
 # game/chapter5.rpy:3402
 translate japanese ecg11_label_73bd6484:
@@ -7920,7 +7920,7 @@ translate japanese ecg11_label_ecdab333:
     # voice ""
     # 나 "“그런가 봐.”"
     voice ""
-    나 "「そうみたい。」"
+    나 "「そうみたい」"
 
 # game/chapter5.rpy:3407
 translate japanese ecg11_label_a75f75d5:
@@ -7942,7 +7942,7 @@ translate japanese ecg11_label_2ffcdb01:
     # voice ""
     # 나 "“고마워. 조심해서 들어가.”"
     voice ""
-    나 "「ありがとう。気をつけて帰ってね。」"
+    나 "「ありがとう。気をつけて帰ってね」"
 
 # game/chapter5.rpy:3420
 translate japanese ecg11_label_9428099e:
@@ -8248,7 +8248,7 @@ translate japanese ecg11_label_7e900421:
 translate japanese ecg11_label_6415eda7:
 
     # 나 "“이걸 혼자서 다 한 거야? 나 퇴원할 때까지 기다리지 그랬어.”"
-    나 "「これを一人でやったのか？俺が退院するまで待ってくれればよかったのに。」"
+    나 "「これを一人でやったのか？俺が退院するまで待ってくれればよかったのに」"
 
 # game/chapter5.rpy:3519
 translate japanese ecg11_label_bf27f0f9:
@@ -8256,7 +8256,7 @@ translate japanese ecg11_label_bf27f0f9:
     # voice "voices/he81.ogg"
     # 현지 "“퇴원하고 나서도 무리하지 말라고 병원에서 그랬잖아요.”"
     voice "voices/he81.ogg"
-    현지 "「退院してからも無理しないでって病院で言ってたじゃないですか。」"
+    현지 "「退院してからも無理しないでって病院で言ってたじゃないですか」"
 
 # game/chapter5.rpy:3521
 translate japanese ecg11_label_2c41bb51:
@@ -8264,7 +8264,7 @@ translate japanese ecg11_label_2c41bb51:
     # voice ""
     # 나 "“그래도 부실 꾸미는 것 정도는 무리 없이 할 수 있는데.”"
     voice ""
-    나 "「それでも部室飾り付けくらいは無理なくできるだろ。」"
+    나 "「それでも部室飾り付けくらいは無理なくできるだろ」"
 
 # game/chapter5.rpy:3523
 translate japanese ecg11_label_05597b98:
@@ -8272,7 +8272,7 @@ translate japanese ecg11_label_05597b98:
     # voice "voices/he82.ogg"
     # 현지 "“저도 부실 꾸미는 것 정도는 혼자서도 무리 없이 할 수 있다고요.”"
     voice "voices/he82.ogg"
-    현지 "「私も部室飾り付けくらいは一人でも無理なくできますよ。」"
+    현지 "「私も部室飾り付けくらいは一人でも無理なくできますよ」"
 
 # game/chapter5.rpy:3526
 translate japanese ecg11_label_59b716be:
@@ -8302,7 +8302,7 @@ translate japanese ecg11_label_914498d5:
     # voice ""
     # 나 "“아니, 없어.”"
     voice ""
-    나 "「いや、いないよ。」"
+    나 "「いや、いないよ」"
 
 # game/chapter5.rpy:3535
 translate japanese ecg11_label_b4f9f7d4:
@@ -8310,7 +8310,7 @@ translate japanese ecg11_label_b4f9f7d4:
     # voice "voices/he84.ogg"
     # 현지 "“그럼 오늘은 혼자 온 거였네요.”"
     voice "voices/he84.ogg"
-    현지 "「じゃあ今日は一人で来たんですね。」"
+    현지 "「じゃあ今日は一人で来たんですね」"
 
 # game/chapter5.rpy:3537
 translate japanese ecg11_label_30cc3286:
@@ -8318,7 +8318,7 @@ translate japanese ecg11_label_30cc3286:
     # voice ""
     # 나 "“응. 근데 앞으로도 없을 것 같아.”"
     voice ""
-    나 "「うん。でもこれからもいないと思うよ。」"
+    나 "「うん。でもこれからもいないと思うよ」"
 
 # game/chapter5.rpy:3540
 translate japanese ecg11_label_d692e3ff:
@@ -8334,7 +8334,7 @@ translate japanese ecg11_label_cf15d5c1:
     # voice ""
     # 나 "“그게…… 사라졌어. 집에 돌아와도 안 보이더라고.”"
     voice ""
-    나 "「それが……消えたんだ。家に帰っても見えなくなってた。」"
+    나 "「それが……消えたんだ。家に帰っても見えなくなってた」"
 
 # game/chapter5.rpy:3545
 translate japanese ecg11_label_52d00e0e:
@@ -8342,7 +8342,7 @@ translate japanese ecg11_label_52d00e0e:
     # voice "voices/he86.ogg"
     # 현지 "“말도 안 돼. 분명 보이지는 않았지만 둘이 엄청 친해 보였는데…….”"
     voice "voices/he86.ogg"
-    현지 "「嘘でしょ。確かに見えなかったけど、二人はすごく仲良く見えたのに……。」"
+    현지 "「嘘でしょ。確かに見えなかったけど、二人はすごく仲良く見えたのに……」"
 
 # game/chapter5.rpy:3548
 translate japanese ecg11_label_72614163:
@@ -8356,7 +8356,7 @@ translate japanese ecg11_label_72614163:
 translate japanese ecg11_label_d40ed6d1:
 
     # 나 "“어쩌면 그때 E구역에서 나랑 떨어지기로 마음먹었던 건 아닐까 생각해.”"
-    나 "「もしかしたら、あの時E区域で俺と離れることを決めていたのかもしれないと思うんだ。」"
+    나 "「もしかしたら、あの時E区域で俺と離れることを決めていたのかもしれないと思うんだ」"
 
 # game/chapter5.rpy:3555
 translate japanese ecg11_label_6755ca5f:
@@ -8372,7 +8372,7 @@ translate japanese ecg11_label_5a03fa4b:
     # voice ""
     # 나 "“글쎄, 왜 그랬는지는 잘 모르겠지만. 그런 이야기를 했거든. 자신은 살인자였음에 틀림 없다고.”"
     voice ""
-    나 "「さあ、なぜだったのかはよくわからないけど。そんな話をしたんだ。自分は殺人者だったに違いないと。」"
+    나 "「さあ、なぜだったのかはよくわからないけど。そんな話をしたんだ。自分は殺人者だったに違いないと」"
 
 # game/chapter5.rpy:3560
 translate japanese ecg11_label_bb83f6af:
@@ -8388,7 +8388,7 @@ translate japanese ecg11_label_2b5ba62a:
     # voice ""
     # 나 "“응. 살인자. 그리고 아마, 그 연쇄 살인범이 그곳에서 발견되지 않았던 것도, 그 유령 여자애가 시체를 처리했다고밖에는 다른 생각이 안 들어.”"
     voice ""
-    나 "「うん。殺人者。それに多分、あの連続殺人犯があそこで発見されなかったのも、あの幽露の女の子が死体を処理したからだとしか思えないんだ。」"
+    나 "「うん。殺人者。それに多分、あの連続殺人犯があそこで発見されなかったのも、あの幽露の女の子が死体を処理したからだとしか思えないんだ」"
 
 # game/chapter5.rpy:3564
 translate japanese ecg11_label_80bd4635:
@@ -8396,7 +8396,7 @@ translate japanese ecg11_label_80bd4635:
     # voice "voices/he89.ogg"
     # 현지 "“그, 그럼 그때 주변이 새까맣게 타 있었던 이유도…….”"
     voice "voices/he89.ogg"
-    현지 "「じ、じゃああの時周りが真っ黒に焼けていた理由も……。」"
+    현지 "「じ、じゃああの時周りが真っ黒に焼けていた理由も……」"
 
 # game/chapter5.rpy:3566
 translate japanese ecg11_label_e8ee47b4:
@@ -8404,19 +8404,19 @@ translate japanese ecg11_label_e8ee47b4:
     # voice ""
     # 나 "“맞아. 화마가 다 태워버린 거라고 하면 되려나. 그래서인 것 같아.”"
     voice ""
-    나 "「そうだよ。火事で全部焼き尽くしたんだろうな。だからそう思うんだ。」"
+    나 "「そうだよ。火事で全部焼き尽くしたんだろうな。だからそう思うんだ」"
 
 # game/chapter5.rpy:3568
 translate japanese ecg11_label_70eb1e6f:
 
     # 나 "“말없이 사라진 이유도 내가 더는 살인귀인 자신을 보지 않았으면 해서 나의 앞에서 사라진 게 아닐까, 그렇게 생각해…….”"
-    나 "「黙って消えた理由も、俺がもう殺人鬼だという自分を見ないでほしかったから、俺の前から消えたんじゃないかと思うんだ……。」"
+    나 "「黙って消えた理由も、俺がもう殺人鬼だという自分を見ないでほしかったから、俺の前から消えたんじゃないかと思うんだ……」"
 
 # game/chapter5.rpy:3569
 translate japanese ecg11_label_2cfdee94:
 
     # 나 "“그나저나, 보이지도 않았는데 친해 보였다는 건 무슨 말이야.”"
-    나 "「ところで、見えてもいなかったのに仲良く見えたってどういうことだよ。」"
+    나 "「ところで、見えてもいなかったのに仲良く見えたってどういうことだよ」"
 
 # game/chapter5.rpy:3571
 translate japanese ecg11_label_d7f9c69c:
@@ -8432,7 +8432,7 @@ translate japanese ecg11_label_4738d387:
     # voice ""
     # 나 "“없는데.”"
     voice ""
-    나 "「ないけど。」"
+    나 "「ないけど」"
 
 # game/chapter5.rpy:3576
 translate japanese ecg11_label_ec977837:
@@ -8440,7 +8440,7 @@ translate japanese ecg11_label_ec977837:
     # voice "voices/he91.ogg"
     # 현지 "“둔감하시네요, 선배.”"
     voice "voices/he91.ogg"
-    현지 "「鈍感ですね、先輩。」"
+    현지 "「鈍感ですね、先輩」"
 
 # game/chapter5.rpy:3579
 translate japanese ecg11_label_623b3645:
@@ -8454,7 +8454,7 @@ translate japanese ecg11_label_623b3645:
 translate japanese ecg11_label_e460ca1f:
 
     # 나 "“어쨌거나, 이제 텔레이도스코프로 유령을 없앨 방법은 고민 안 해도 될 것 같아.”"
-    나 "「とにかく、もうテレードスコープで幽霊を消す方法は考えなくてもいいようだな。」"
+    나 "「とにかく、もうテレードスコープで幽霊を消す方法は考えなくてもいいようだな」"
 
 # game/chapter5.rpy:3586
 translate japanese ecg11_label_4cf68546:
@@ -8470,7 +8470,7 @@ translate japanese ecg11_label_f741dc77:
     # voice ""
     # 나 "“뭐…… 유령도 사라졌으니까.”"
     voice ""
-    나 "「まあ……幽霊も消えたんだから。」"
+    나 "「まあ……幽霊も消えたんだから」"
 
 # game/chapter5.rpy:3593
 translate japanese ecg11_label_587367aa:
@@ -8488,7 +8488,7 @@ translate japanese ecg11_label_77b5fb1f:
 translate japanese ecg11_label_058b9536:
 
     # 나 "“그런데 말야, 그때 유령을 없애기 위해서도 출력이 더 필요하다고 했었잖아.”"
-    나 "「でもさ、あの時幽霊を消すためにも出力がもっと必要だって言ってたじゃないか。」"
+    나 "「でもさ、あの時幽霊を消すためにも出力がもっと必要だって言ってたじゃないか」"
 
 # game/chapter5.rpy:3600
 translate japanese ecg11_label_348dadb9:
@@ -8496,7 +8496,7 @@ translate japanese ecg11_label_348dadb9:
     # voice "voices/he93.ogg"
     # 현지 "“아, 헤헤…… 그것도 거짓말이었어요. 아직 유령을 없앨 공식이 완성되지 않은 건 맞는데, 출력은 충분했거든요.”"
     voice "voices/he93.ogg"
-    현지 "「あ、へへ……それも嘘だったんです。まだ幽霊を消す公式が完成していないのは本当なんですけど、出力は十分だったんですよ。」"
+    현지 "「あ、へへ……それも嘘だったんです。まだ幽霊を消す公式が完成していないのは本当なんですけど、出力は十分だったんですよ」"
 
 # game/chapter5.rpy:3602
 translate japanese ecg11_label_328b4947:
@@ -8504,7 +8504,7 @@ translate japanese ecg11_label_328b4947:
     # voice ""
     # 나 "“뭐야, 그런 건 솔직하게 이야기해도 되지 않았어?”"
     voice ""
-    나 "「なんだよ、そんなことは正直に言ってもいいじゃないか。」"
+    나 "「なんだよ、そんなことは正直に言ってもいいじゃないか」"
 
 # game/chapter5.rpy:3605
 translate japanese ecg11_label_9d833dfe:
@@ -8512,7 +8512,7 @@ translate japanese ecg11_label_9d833dfe:
     # voice "voices/he94.ogg"
     # 현지 "“그럼 텔레이도스코프를 설치할 장소를 찾는 일에 흥미가 떨어질지도 모르잖아요. 그럼 계획이 틀어지는 거였다고요.”"
     voice "voices/he94.ogg"
-    현지 "「だったらテレードスコープを設置する場所を探すことに興味がなくなるかもしれないじゃないですか。それじゃ計画が狂ってしまうんですよ。」"
+    현지 "「だったらテレードスコープを設置する場所を探すことに興味がなくなるかもしれないじゃないですか。それじゃ計画が狂ってしまうんですよ」"
 
 # game/chapter5.rpy:3607
 translate japanese ecg11_label_3c1285e4:
@@ -8520,7 +8520,7 @@ translate japanese ecg11_label_3c1285e4:
     # voice ""
     # 나 "“철두철미했구만.”"
     voice ""
-    나 "「徹底してるな。」"
+    나 "「徹底してるな」"
 
 # game/chapter5.rpy:3610
 translate japanese ecg11_label_a3e9db8f:
@@ -8528,7 +8528,7 @@ translate japanese ecg11_label_a3e9db8f:
     # voice "voices/he95.ogg"
     # 현지 "“헤헤헤…… 으음, 죄송해요 선배…….”"
     voice "voices/he95.ogg"
-    현지 "「へへへ……えーと、ごめんなさい先輩……。」"
+    현지 "「へへへ……えーと、ごめんなさい先輩……」"
 
 # game/chapter5.rpy:3612
 translate japanese ecg11_label_6bf91487:
@@ -8536,7 +8536,7 @@ translate japanese ecg11_label_6bf91487:
     # voice ""
     # 나 "“아, 아냐. 그러라고 이런 이야기 꺼낸 건 아닌데.”"
     voice ""
-    나 "「あ、いや。そういうこと言うためにこんな話を出したんじゃないんだけど。」"
+    나 "「あ、いや。そういうこと言うためにこんな話を出したんじゃないんだけど」"
 
 # game/chapter5.rpy:3615
 translate japanese ecg11_label_2f903dbd:
@@ -8554,7 +8554,7 @@ translate japanese ecg11_label_d3316933:
 translate japanese ecg11_label_f9e4b152:
 
     # 나 "“부스 예쁘네.”"
-    나 "「ブース綺麗だね。」"
+    나 "「ブース綺麗だね」"
 
 # game/chapter5.rpy:3622
 translate japanese ecg11_label_31037cb0:
@@ -8592,7 +8592,7 @@ translate japanese ecg11_label_3aa9e50f:
 translate japanese ecg11_label_970b3945:
 
     # 나 "“근데 인형은 내가 만든 게 더 예쁜 것 같은데.”"
-    나 "「でも人形は俺が作ったほうがもっと可愛いと思うけど。」"
+    나 "「でも人形は俺が作ったほうがもっと可愛いと思うけど」"
 
 # game/chapter5.rpy:3633
 translate japanese ecg11_label_93b447e8:
@@ -8614,7 +8614,7 @@ translate japanese ecg11_label_7c3d7e3d:
 translate japanese ecg11_label_d25a8267:
 
     # 나 "“내가 만든 인형이랑 네가 만든 인형, 딱 봐도 둘 중에 내가 만든 게 더 예쁘잖아.”"
-    나 "「俺が作った人形と君が作った人形、見ればわかるじゃないか。二つの中で俺が作ったほうがもっと可愛いって。」"
+    나 "「俺が作った人形と君が作った人形、見ればわかるじゃないか。二つの中で俺が作ったほうがもっと可愛いって」"
 
 # game/chapter5.rpy:3641
 translate japanese ecg11_label_24db3025:
@@ -8622,7 +8622,7 @@ translate japanese ecg11_label_24db3025:
     # voice "voices/he98.ogg"
     # 현지 "“선배, 미적 감각이 부족하시네요.”"
     voice "voices/he98.ogg"
-    현지 "「先輩、美的感覚が足りないですね。」"
+    현지 "「先輩、美的感覚が足りないですね」"
 
 # game/chapter5.rpy:3643
 translate japanese ecg11_label_9692c402:
@@ -8630,7 +8630,7 @@ translate japanese ecg11_label_9692c402:
     # voice ""
     # 나 "“아까 전까지 네가 꾸민 부스 예쁘다고 해준 사람한테 그게 뭐야.”"
     voice ""
-    나 "「さっきまで君が飾ったブース可愛いって言ってあげた人にそれは何だよ。」"
+    나 "「さっきまで君が飾ったブース可愛いって言ってあげた人にそれは何だよ」"
 
 # game/chapter5.rpy:3646
 translate japanese ecg11_label_e197ba6c:
@@ -8638,7 +8638,7 @@ translate japanese ecg11_label_e197ba6c:
     # voice "voices/he99.ogg"
     # 현지 "“그, 그럼 내기할래요? 누구 인형이 더 잘 팔리는지…….”"
     voice "voices/he99.ogg"
-    현지 "「じ、じゃあ賭けしましょうか？誰の人形がもっと売れるか……。」"
+    현지 "「じ、じゃあ賭けしましょうか？誰の人形がもっと売れるか……」"
 
 # game/chapter5.rpy:3649
 translate japanese ecg11_label_30be3ae6:
@@ -8686,7 +8686,7 @@ translate japanese ecg11_label_d3ecf7c9:
     # voice ""
     # 나 "“…… 안 할래.”"
     voice ""
-    나 "「……やだよ。」"
+    나 "「……やだよ」"
 
 # game/chapter5.rpy:3661
 translate japanese ecg11_label_7e4eb279:
@@ -8702,7 +8702,7 @@ translate japanese ecg11_label_d517b19f:
     # voice ""
     # 나 "“자신이 없어서 그래. 질 자신이…… 여하튼 넌 다른 사람 앞에서는 함부로 내기 이야기 꺼내지 마라.”"
     voice ""
-    나 "「自信がないからさ。負ける自信が……とにかく君は他の人の前では勝手に賭け話を出さないでくれ。」"
+    나 "「自信がないからさ。負ける自信が……とにかく君は他の人の前では勝手に賭け話を出さないでくれ」"
 
 # game/chapter5.rpy:3666
 translate japanese ecg11_label_c0c7e451:
@@ -8736,7 +8736,7 @@ translate japanese ecg11_label_f174acfb:
 translate japanese ecg11_label_b72f3409:
 
     # 나 "“뭐야, 왜 나한테만 그러는 건데.”"
-    나 "「なんだよ、なんで俺にだけそうするんだよ。」"
+    나 "「なんだよ、なんで俺にだけそうするんだよ」"
 
 # game/chapter5.rpy:3676
 translate japanese ecg11_label_8e79d561:
@@ -8744,7 +8744,7 @@ translate japanese ecg11_label_8e79d561:
     # voice "voices/he103.ogg"
     # 현지 "“음…… 그건…… 비밀이에요.”"
     voice "voices/he103.ogg"
-    현지 "「えーと……それは……秘密です。」"
+    현지 "「えーと……それは……秘密です」"
 
 # game/chapter5.rpy:3679
 translate japanese ecg11_label_f2256cb0:
@@ -8758,7 +8758,7 @@ translate japanese ecg11_label_f2256cb0:
 translate japanese ecg11_label_c0a9500c:
 
     # 나 "“그렇게 말하면 내가 호구 잡힌 것 같다는 생각을 안 할 수가 없잖냐.”"
-    나 "「そう言われると俺が騙されたみたいな気がしないわけがないだろ。」"
+    나 "「そう言われると俺が騙されたみたいな気がしないわけがないだろ」"
 
 # game/chapter5.rpy:3688
 translate japanese ecg11_label_cb8995ca:
@@ -8766,7 +8766,7 @@ translate japanese ecg11_label_cb8995ca:
     # voice "voices/he104.ogg"
     # 현지 "“그, 그런 건 아니거든요.”"
     voice "voices/he104.ogg"
-    현지 "「そ、そんなことはないんですよ。」"
+    현지 "「そ、そんなことはないんですよ」"
 
 # game/chapter5.rpy:3691
 translate japanese ecg11_label_d5d2e689:
@@ -8830,7 +8830,7 @@ translate japanese ecg11_label_b638a115:
     # voice ""
     # 나 "“됐어. 학예제 끝나면 내가 저녁이나 살 테니까.”"
     voice ""
-    나 "「いいよ。学芸祭終わったら俺が夕飯でも奢るから。」"
+    나 "「いいよ。学芸祭終わったら俺が夕飯でも奢るから」"
 
 # game/chapter5.rpy:3712
 translate japanese ecg11_label_d7f926c5:
@@ -8846,7 +8846,7 @@ translate japanese ecg11_label_e246405f:
     # voice ""
     # 나 "“아, 으응…….”"
     voice ""
-    나 "「あ、うん……。」"
+    나 "「あ、うん……」"
 
 # game/chapter5.rpy:3720
 translate japanese ecg11_label_9a4c254c:
