@@ -5508,7 +5508,7 @@ translate schinese chapter1_2_41b68fe5:
 translate schinese chapter1_2_222e9bcc:
 
     # "소녀는 부실 구석에 놓여있던 전자레인지 정도 크기의 물체를 가리키고 있었다."
-    "少女指着放在部活动室角落里的一个微波炉大小的物体。"
+    "少女指着放在活动室角落里的一个微波炉大小的物体。"
 
 # game/chapter1.rpy:2465
 translate schinese chapter1_2_0260de06:

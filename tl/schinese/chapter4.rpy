@@ -1806,7 +1806,7 @@ translate schinese chapter4_d7eacddc:
     # voice ""
     # "텔레이도스코프를 챙겨 오컬트부 부실에 놓아두고는, 근처 식당으로 향했다. "
     voice ""
-    "我收拾了远华镜并把它放在超自然部活动室动室，向附近的食堂走去。"
+    "我收拾了远华镜并把它放在超自然部活动室，向附近的食堂走去。"
 
 # game/chapter4.rpy:815
 translate schinese chapter4_54e805fe:
