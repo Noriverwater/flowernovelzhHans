@@ -8,7 +8,7 @@
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/2.0)
 
-## Other languages
+## Other languages? 
 
 [English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)    [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
 
@@ -63,7 +63,7 @@ A：我没玩过。这个DLC是开发早期赞助了94,900韩元以上众筹者�
 
 **Q：为什么游戏里的背景没有正常加载，只有文字能显示？**
 
-A：可能是因为您的音频服务不能正常工作，比如您没有可用的声音输出设备（音响，耳机）。
+A：可能是因为您的音频服务不能正常工作，比如没有可用的声音输出设备（音响，耳机）。
 
 **Q：我可以直播或录播这个补丁的内容吗？**
 
@@ -76,12 +76,12 @@ A：因为不符合[《Steam 规则及指引：讨论、评测以及用户生成
 
 **Q：这是制作组的第一部作品吗？**
 
-A：严格来说，这不是制作人的第一部作品。
+A：是制作组的第一部作品。但，这不是制作人和编剧的第一部作品。
 
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
-A：您大概率已经发现了，这里有一个同样是非官方的粉丝制作模组["다시, 기억의 끝자락에서 피는 꽃"](https://cafe.naver.com/midnightworks/2238)（再次，在记忆的末尾盛开的花）。
-它添加了优美和贤智的个人线路，**但您务必要在完全达成游戏本篇的结局后安装这个模组，因为这些是在游戏本篇结局后发生的故事**。作为一个非官方的作品，其中的设定应该只是模组团队剧本的想法，应该吧。
+A：您大概率已经发现了，这里有一个同样是非官方的粉丝开发模组[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2238)
+它添加了优美和贤智的个人线路，**但您务必要在完全达成游戏本篇的结局后安装这个模组，因为这些是在游戏本篇结局后发生的故事**。需要在安装后，在隐藏的控制台键入‘if’才能启用。作为一个非官方的作品，其中的设定应该只是模组团队编剧的想法，应该吧。
 
 好消息是，云恭雀正在翻译这个模组：[夏末盛开的花 同人if线 chapter1选项前剧情](https://www.bilibili.com/video/BV17g4y1W7Er/)。在这项工作完成之前，你可以采用[LunaTranslator](https://github.com/HIllya51/LunaTranslator)、[MisakaTranslator](
 https://github.com/hanmin0822/MisakaTranslator)等工具帮助你体验模组。在游戏中按下`Shift+C` 可以将当前台词复制到剪贴板。
