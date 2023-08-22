@@ -8,6 +8,10 @@
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/2.0)
 
+## Other languages
+
+[English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)    [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
+
 ## 构建补丁
 
 **准备**
