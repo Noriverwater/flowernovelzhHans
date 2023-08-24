@@ -2,7 +2,7 @@
 translate schinese chapter5_25eb0740:
 
     # "좁은 골목길을 얼마 정도 걸어 들어가자, 발걸음을 멈춰 세운 소녀의 뒷모습이 보였다. "
-    "在狭窄的小巷里走了一会，看到了少女停下脚步的背影。"
+    "在狭窄的小巷里走了多远呢，看到了少女停下脚步的背影。"
 
 # game/chapter5.rpy:8
 translate schinese chapter5_88be4407:
@@ -78,7 +78,7 @@ translate schinese chapter5_c5f0c2f1:
     # voice "voices/ge3.ogg"
     # 소녀 "“위험하지 않을까요？ 이렇게 철조망도 쳐져 있잖아요.”"
     voice "voices/ge3.ogg"
-    소녀 "“不是很危险吗？甚至还有带刺的铁丝网。”"
+    소녀 "“不危险吗？甚至还有带刺的铁丝网。”"
 
 # game/chapter5.rpy:33
 translate schinese chapter5_a250e50a:
@@ -102,31 +102,31 @@ translate schinese chapter5_e736ae24:
     # voice ""
     # 나 "“으응, 여기로 들어가면 E구역이 나오지 않을까 싶은데.”"
     voice ""
-    나 "“呃，我想进去的话，就会到达E区。”"
+    나 "“嗯，从这里进去就会来到E区吧。”"
 
 # game/chapter5.rpy:40
 translate schinese chapter5_61cb9e17:
 
     # "E구역이라는 말에, 소녀는 잠시 고민을 하는 눈치였다. "
-    "听到E区这个词，少女似乎有些苦恼。"
+    "听到E区这个词，少女似乎苦恼了一会儿。"
 
 # game/chapter5.rpy:41
 translate schinese chapter5_1ddf667f:
 
     # "결정을 내리기까지는 그리 오랜 시간이 걸리지 않았다. "
-    "做出决定没花太长时间。"
+    "下那个决定没花太长时间。"
 
 # game/chapter5.rpy:42
 translate schinese chapter5_759aa098:
 
     # "소녀는 철조망 쪽으로 한 발짝 다가섰다. "
-    "少女朝着铁丝网迈开步伐。"
+    "少女朝着铁丝网靠近了一步。"
 
 # game/chapter5.rpy:46
 translate schinese chapter5_be41b857:
 
     # "철조망을 통과해 몇 걸음을 내딛자, 인기척이라고는 전혀 느껴지지 않는 텅 빈 동네가 모습을 드러냈다. "
-    "穿过铁丝网迈出了几步，完全无声无息、空荡荡的小区得以显现。"
+    "通过铁丝网迈出了几步，完全无声无息、空荡荡的小区得以显现。"
 
 # game/chapter5.rpy:47
 translate schinese chapter5_4798d726:
@@ -184,7 +184,7 @@ translate schinese chapter5_0f9fe04b:
 translate schinese chapter5_5186b686:
 
     # "마치 종말을 맞이한 세계에 불시착한 것만 같은 느낌이었다. "
-    "就像是迫降到了末日来临的世界一样。"
+    "感觉就像是迫降到了末日尽头来临的世界一样。"
 
 # game/chapter5.rpy:76
 translate schinese chapter5_6dd5e70f:
@@ -192,7 +192,7 @@ translate schinese chapter5_6dd5e70f:
     # voice "voices/ge6.ogg"
     # 소녀 "“꼭 영화 세트장을 둘러보고 있는 것 같아요.”"
     voice "voices/ge6.ogg"
-    소녀 "“好像在参观电影摄影棚。”"
+    소녀 "“好像一直在参观电影摄影棚。”"
 
 # game/chapter5.rpy:78
 translate schinese chapter5_bb13245c:
@@ -206,7 +206,7 @@ translate schinese chapter5_bb13245c:
 translate schinese chapter5_2ba67473:
 
     # 나 "“내일 곧장 세계가 멸망한다면 이런 모습이려나.”"
-    나 "“如果明天世界灭亡的话，会是这样吗。”"
+    나 "“如果明天世界就灭亡，会是这样吗。”"
 
 # game/chapter5.rpy:85
 translate schinese chapter5_ea1b4c07:
@@ -214,7 +214,7 @@ translate schinese chapter5_ea1b4c07:
     # voice "voices/ge7.ogg"
     # 소녀 "“그럴지도요. 어쩌면 머나먼 미래의 모습일지도 모르고요.”"
     voice "voices/ge7.ogg"
-    소녀 "“也许吧。也许发生在遥远的未来。”"
+    소녀 "“也许吧。也许是遥远的未来的样子。”"
 
 # game/chapter5.rpy:87
 translate schinese chapter5_82dcbd77:
