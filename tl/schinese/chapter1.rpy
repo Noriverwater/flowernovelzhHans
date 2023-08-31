@@ -54,7 +54,7 @@ translate schinese chapter1_053a25a3:
     # voice ""
     # "한 손으로 이마에 맺힌 땀방울을 닦아내려는데, 옆에서는 무더위 따위는 잊은 듯한 달콤한 목소리가 들려왔다."
     voice ""
-    "用一只手拭去额头上凝结的汗水，旁边传来甜美的声音，好像让我忘记了炎热。"
+    "就在我用一只手拭去额头上凝结的汗珠时，旁边传来了好像忘记了炎热的甜美声音。"
 
 # game/chapter1.rpy:81
 translate schinese chapter1_106f18a8:
