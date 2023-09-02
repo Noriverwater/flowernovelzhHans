@@ -22,7 +22,7 @@ translate japanese strings:
     new "5次元"
 
     old "나"
-    new "私"
+    new "俺"
 
     old "소녀"
     new "少女"
