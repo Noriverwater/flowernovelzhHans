@@ -6136,7 +6136,7 @@ translate english ecg13_label_afd23e2a:
 translate english ecg13_label_1614a9b9:
 
     # 나 "“…… 많이 힘들었는지, 일어날 생각을 안 하네.”"
-    나 "“...She must be really tired. She doesn't seem to want to wake up.”"
+    나 "\"...She must be really tired. She doesn't seem to want to wake up.\""
 
 # game/chapter6.rpy:2197
 translate english ecg13_label_1a18bc88:
@@ -6144,7 +6144,7 @@ translate english ecg13_label_1a18bc88:
     # voice "voices/yf145.ogg"
     # 유미 "“그럼 집 앞까지 타고 갈래? 내가 여기 내려서 걸어갈게.”"
     voice "voices/yf145.ogg"
-    유미 "“Do you want a ride to your doorstep? I'll get off here and walk.”"
+    유미 "\"Do you want a ride to your doorstep? I'll get off here and walk.\""
 
 # game/chapter6.rpy:2199
 translate english ecg13_label_f9de1a4e:
@@ -6172,7 +6172,7 @@ translate english ecg13_label_d6ba7654:
     # voice "voices/yf146.ogg"
     # 유미 "“응? 왜 그래?”"
     voice "voices/yf146.ogg"
-    유미 "“Huh? What's up?”"
+    유미 "\"Huh? What's up?\""
 
 # game/chapter6.rpy:2210
 translate english ecg13_label_ed21913f:
@@ -6188,7 +6188,7 @@ translate english ecg13_label_0b3b678b:
     # voice "voices/yf147.ogg"
     # 유미 "“뭐야, 부끄럽게 그런 인사는.”"
     voice "voices/yf147.ogg"
-    유미 "“What are you saying? You're making me blush.”"
+    유미 "\"What are you saying? You're making me blush.\""
 
 # game/chapter6.rpy:2215
 translate english ecg13_label_f7e4e4b2:
@@ -6210,7 +6210,7 @@ translate english ecg13_label_c092636b:
     # voice "voices/yf148.ogg"
     # 유미 "“잘 가.”"
     voice "voices/yf148.ogg"
-    유미 "“Take care.”"
+    유미 "\"Bye.\""
 
 # game/chapter6.rpy:2235
 translate english ecg14_label_e9f725dd:
@@ -6726,7 +6726,7 @@ translate english ecg14_label_b57ea59c:
 translate english ecg14_label_b45db9c0:
 
     # "잠시 생각에 잠겨 눈을 깜빡이던 소녀가, 넌지시 내게 말을 건넸다. "
-    "The girl who had been momentarily lost in thought blinked and gently spoke to me."
+    "The girl who had been momentarily lost in thought blinked and then gently spoke to me."
 
 # game/chapter6.rpy:2405
 translate english ecg14_label_480199ab:
