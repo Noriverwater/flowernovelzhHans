@@ -36,10 +36,11 @@
 ## 贡献翻译或代码
 
 `tl/chinese`下是 Ren'py 的翻译文件，您可以直接修改其中的译文。screens_zh.rpy 在启动游戏后加载这些文件，以提供非官方的多语言支持，因此，这个项目不会替换原游戏的任何内容。
+
 欲贡献中文翻译，请前往[paratranz](https://paratranz.cn/projects/8203)
+
 其余情况，请提交 [pull request](https://github.com/Noriverwater/flowernovelzhHans/pulls).
 
-最初的时候，这只是一个在机器翻译基础上润色的项目。后来，虽然大多数翻译错误已经被更正，但仍然可能有不尽人意的地方没来得及改。欢迎您更正错误。或者增加新的功能，我会非常感激的。
 ## 译文许可证
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
