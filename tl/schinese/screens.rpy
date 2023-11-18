@@ -104,6 +104,9 @@
     old "마지막 소원"
     new "最后的愿望"
 
+    old "스크린샷 저장됨"
+    new "截图已保存"
+
 # TODO: Translation updated at 2023-05-04 15:27
 
 translate schinese strings:

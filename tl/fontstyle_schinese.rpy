@@ -34,10 +34,8 @@ translate schinese style dialogue_name_text: #serif
 
 translate schinese style dialogue_text: #rounded sans-serif
     font "mod/zhfonts/975maru.ttf"
-    language "korean-with-spaces"
     line_spacing 8
 
 translate schinese style dialogue_nvl_text: #serif
     font "mod/zhfonts/LxgwWenKai.ttf"
-    language "korean-with-spaces"
     line_spacing 8
