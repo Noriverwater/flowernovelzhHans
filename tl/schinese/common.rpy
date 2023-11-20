@@ -442,11 +442,11 @@
 
     # 00keymap.rpy:280
     old "Failed to save screenshot as %s."
-    new "截图保存到以下位置时失败：%s"
+    new "%s"
 
     # 00keymap.rpy:292
     old "Saved screenshot as %s."
-    new "截图已保存到以下位置：%s"
+    new "%s"
 
     # 00library.rpy:195
     old "Skip Mode"
@@ -1229,12 +1229,12 @@ translate schinese strings:
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "这是在其他电脑上生成的存档文件。{size=1}\n\n{/size}{size=23}不可信来源的存档文件可能会对电脑造成损害。\n如果Steam Cloud的存档文件是在其他电脑上生成的，你可能会看到这条信息。\n你是否信任这个存档文件，并继续进行？{/size}"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-
+    new "你是否信任这台电脑上的所有存档文件？\n{size=1}\n\n{/size}{size=23}只有在不是从不知道来源的网站下载的，\n而是在其他电脑上自己生成的存档文件的情况下，才按确认按钮继续。 \n按确认按钮后，以后这台电脑上生成的存档文件会不问直接加载。{/size}"
+    
     # renpy/common/00preferences.rpy:532
     old "audio when unfocused"
     new "audio when unfocused"
