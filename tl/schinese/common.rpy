@@ -1233,7 +1233,7 @@ translate schinese strings:
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "您要信任这台电脑上的所有存档文件吗？\n{size=1}\n\n{/size}{size=23}只有确认了是自己在其他电脑上生成的，而不是从未知来源的网站下载的存档文件，\n才能按下确认按钮继续。 \n按下确认按钮后，以后在这台电脑上生成的存档文件将直接加载。{/size}"
+    new "您要信任这台电脑上的所有存档文件吗？\n{size=1}\n\n{/size}{size=23}只有确认了是自己在其他电脑上生成的，\n而不是从未知来源的网站下载的存档文件，才能按下确认按钮继续。 \n按下确认按钮后，以后在这台电脑上生成的存档文件将直接加载。{/size}"
     
     # renpy/common/00preferences.rpy:532
     old "audio when unfocused"
