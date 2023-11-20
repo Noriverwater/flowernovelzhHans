@@ -1229,11 +1229,11 @@ translate schinese strings:
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "这是在其他电脑上生成的存档文件。{size=1}\n\n{/size}{size=23}不可信来源的存档文件可能会对电脑造成损害。\n如果Steam Cloud的存档文件是在其他电脑上生成的，你可能会看到这条信息。\n你是否信任这个存档文件，并继续进行？{/size}"
+    new "这是在其他设备上生成的存档文件。{size=1}\n\n{/size}{size=23}来源不明的存档文件可能会对电脑造成损害。\n如果Steam Cloud的存档文件是在其他电脑上生成的，您可能会看到这条信息。\n您要信任这个存档文件并继续吗？{/size}"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "你是否信任这台电脑上的所有存档文件？\n{size=1}\n\n{/size}{size=23}只有在不是从不知道来源的网站下载的，\n而是在其他电脑上自己生成的存档文件的情况下，才按确认按钮继续。 \n按确认按钮后，以后这台电脑上生成的存档文件会不问直接加载。{/size}"
+    new "您要信任这台电脑上的所有存档文件吗？\n{size=1}\n\n{/size}{size=23}只有确认了是自己在其他电脑上生成的，而不是从未知来源的网站下载的存档文件，\n才能按下确认按钮继续。 \n按下确认按钮后，以后在这台电脑上生成的存档文件将直接加载。{/size}"
     
     # renpy/common/00preferences.rpy:532
     old "audio when unfocused"
