@@ -310,7 +310,7 @@
 
     # 00director.rpy:708
     old "The interactive director is not enabled here."
-    new "互动导演模式未启动。"
+    new "交互式编导器未能在此处启动。"
 
     # 00director.rpy:1481
     old "⬆"
@@ -326,31 +326,31 @@
 
     # 00director.rpy:1561
     old "(statement)"
-    new "(statement)"
+    new "(语句)"
 
     # 00director.rpy:1562
     old "(tag)"
-    new "(tag)"
+    new "(标签)"
 
     # 00director.rpy:1563
     old "(attributes)"
-    new "(attributes)"
+    new "(属性)"
 
     # 00director.rpy:1564
     old "(transform)"
-    new "(transform)"
+    new "(变换)"
 
     # 00director.rpy:1589
     old "(transition)"
-    new "(transition)"
+    new "(转场)"
 
     # 00director.rpy:1601
     old "(channel)"
-    new "(channel)"
+    new "(轨道)"
 
     # 00director.rpy:1602
     old "(filename)"
-    new "(filename)"
+    new "(文件名)"
 
     # 00director.rpy:1631
     old "Change"
@@ -626,11 +626,11 @@
 
     # 00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "自动朗读将开始朗读“[renpy.display.tts.last]”。按 Alt+Shift+V 来关闭。"
+    new "机器朗读会朗读“[renpy.display.tts.last]”。按 Alt+Shift+V 来禁用。"
 
     # 00preferences.rpy:575
     old "Self-voicing enabled. Press 'v' to disable."
-    new "自动朗读已开启。按 V 来关闭。"
+    new "机器朗读已启用。按 V 来禁用。"
 
     # _compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -654,7 +654,7 @@
 
     # _developer/developer.rpym:43
     old "Interactive Director (D)"
-    new "互动导演 (D)"
+    new "交互式编导器 (D)"
 
     # _developer/developer.rpym:45
     old "Reload Game (Shift+R)"
