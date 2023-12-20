@@ -8,6 +8,13 @@
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/2.0)
 
+## 贡献翻译
+**我正在重新检查翻译，恳切需要您的帮助。如果您对汉化工作感兴趣，请前往 [paratranz](https://paratranz.cn/projects/8203)**
+
+## 贡献代码
+
+`tl/chinese`下是 Ren'py 的翻译文件，您可以直接修改其中的译文。screens_zh.rpy 在启动游戏后加载这些文件，以提供非官方的多语言支持，因此，这个项目不会替换原游戏的任何内容。有问题请考虑提 Issues 或 Pull requests
+
 ## Other languages? 
 
 [English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)    [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
@@ -33,13 +40,7 @@
     ```
 
 3. 构建发行版
-## 贡献翻译或代码
 
-`tl/chinese`下是 Ren'py 的翻译文件，您可以直接修改其中的译文。screens_zh.rpy 在启动游戏后加载这些文件，以提供非官方的多语言支持，因此，这个项目不会替换原游戏的任何内容。
-
-欲贡献中文翻译，请前往[paratranz](https://paratranz.cn/projects/8203)
-
-其余情况，请提交 [pull request](https://github.com/Noriverwater/flowernovelzhHans/pulls).
 
 ## 译文许可证
 
