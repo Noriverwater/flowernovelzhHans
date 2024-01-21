@@ -11745,7 +11745,7 @@ translate schinese chapter7_2_2ccdd338:
 translate schinese chapter7_2_6acf706c:
 
     # naro "그런 생각이 든다. "
-    naro "有过那种猜想。"
+    naro "有了那种猜想。"
 
 # game/chapter7.rpy:4965
 translate schinese chapter7_2_e54d9ca0:
@@ -11757,7 +11757,7 @@ translate schinese chapter7_2_e54d9ca0:
 translate schinese chapter7_2_6dc507ca:
 
     # naro "이윽고 텔레이도스코프에서는 미처 목소리로 떠올리지 못했던 기억 하나가, 어렴풋이 피어올랐다. "
-    naro "不一会儿，在远华镜的功用下，一个通过声音没想起来的记忆，依稀上升。"
+    naro "不一会儿，在远华镜的功用下，一个没通过声音想起来的记忆，依稀上升。"
 
 # game/chapter7.rpy:4972
 translate schinese chapter7_2_f85c1d2a:
@@ -12621,7 +12621,7 @@ translate schinese chapter7_3_9dfdf98b:
     # voice "voices/gh94.ogg"
     # 가연 "“결국 우리는 서로의 기억을 보고 있었던 거네.”"
     voice "voices/gh94.ogg"
-    가연 "“结果，我们看到了彼此的记忆。”"
+    가연 "“原来我们一直都在看彼此的记忆啊。”"
 
 # game/chapter7.rpy:5302
 translate schinese chapter7_3_fbfba747:
@@ -12635,7 +12635,7 @@ translate schinese chapter7_3_fbfba747:
 translate schinese chapter7_3_475ba795:
 
     # "서로의 기억 속에 언제나 서로가 존재했다는 트릭을, 나는 어째서 간파하지 못했던 걸까. "
-    "彼此的记忆中总是存在着彼此的假象，我怎么没看透呢。"
+    "彼此的记忆中总是有彼此的存在这个把戏，我怎么没能看破呢。"
 
 # game/chapter7.rpy:5309
 translate schinese chapter7_3_b862b225:
