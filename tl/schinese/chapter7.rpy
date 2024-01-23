@@ -3345,7 +3345,7 @@ translate schinese chapter7_030e45d5:
 translate schinese chapter7_60b5c193:
 
     # "지금 이 순간을, 그리고 여태껏 서로에게 기대왔던 그 순간들을. "
-    "现在这个瞬间，还有一直以来彼此期待的那些瞬间。"
+    "把现在这个瞬间，还有一直以来彼此期待的那些瞬间。"
 
 # game/chapter7.rpy:1411
 translate schinese chapter7_c829bb0a:
@@ -7313,13 +7313,13 @@ translate schinese chapter7_lastwish_log_c4365ffe:
 translate schinese chapter7_lastwish_log_f9c1b5f1:
 
     # 나l "“행복했으면 좋겠다.”"
-    나l "“如果幸福的话就好了。”"
+    나l "“希望你幸福。”"
 
 # game/chapter7.rpy:3281
 translate schinese chapter7_lastwish_log_72888fab:
 
     # 유미l "“응. 행복할 거야.”"
-    유미l "“嗯，你会幸福的。”"
+    유미l "“嗯，我会幸福的。”"
 
 # game/chapter7.rpy:3283
 translate schinese chapter7_lastwish_log_88ac5f47:
@@ -7331,7 +7331,7 @@ translate schinese chapter7_lastwish_log_88ac5f47:
 translate schinese chapter7_lastwish_log_92ade2a6:
 
     # 유미l "“여태껏 놓쳤던 것까지 전부, 앞으로는 붙잡을 수 있도록.”"
-    유미l "“至今为止放跑的全部，以后可要抓住。”"
+    유미l "“至今为止放跑的全部，以后要抓住的。”"
 
 # game/chapter7.rpy:3287
 translate schinese chapter7_lastwish_log_0627c428:
