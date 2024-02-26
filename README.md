@@ -2,7 +2,7 @@
 
 视觉小说[여름의 끝에 피는 꽃（Flowers blooming at the end of summer）](https://store.steampowered.com/app/1173010/)，译名《夏末盛开的花》的非官方，粉丝制作的简体中文化补丁。
 
-“夏末花开”一个旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
+“夏末花开”是一个旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
 
 ## 下载
 
@@ -10,7 +10,10 @@
 
 ## Other languages? 
 
-[English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)    [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
+~~[English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)~~
+Please use DDockson's English localisation patch! [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3143879011)
+
+[日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
 
 
 ## 译文许可证
