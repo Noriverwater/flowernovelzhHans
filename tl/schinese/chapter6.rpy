@@ -6841,9 +6841,9 @@ translate schinese ecg14_label_b7f9aa3a:
     "少女喃喃自语，好像她知道些什么似的。"
 
 # game/chapter6.rpy:2445
-translate schinese ecg14_label_cd9e5589:
+translate schinese ecg14_label_2e62dbc2:
 
-    # 나 "“맞아. 너랑 같이 학교 옥상에 올라갔을 때. 그날에서야 그 목소리와 너와 이어지고 있었다는 걸 알게 된 거지.”"
+    # 나 "“맞아. 너랑 같이 학교 옥상에 올라갔을 때. 그날에서야 그 목소리가 너와 이어지고 있었다는 걸 알게 된 거지.”"
     나 "“对。和你一起去学校楼顶的时候。直到那天，我才意识到那个声音和你连在一起。”"
 
 # game/chapter6.rpy:2446

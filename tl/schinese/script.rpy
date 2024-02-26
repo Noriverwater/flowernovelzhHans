@@ -580,3 +580,75 @@ translate schinese strings:
     old "남학생"
     new "男生"
 
+# TODO: Translation updated at 2024-02-22 20:50
+
+translate schinese strings:
+
+    # game/script.rpy:26
+    old "맨 처음부터 시작하기 > (Developer)"
+    new "맨 처음부터 시작하기 > (Developer)"
+
+    # game/script.rpy:26
+    old "챕터 임의 선택하기 > (Developer)"
+    new "챕터 임의 선택하기 > (Developer)"
+
+    # game/script.rpy:26
+    old " "
+    new " "
+
+    # game/script.rpy:26
+    old "{b}< 메인 화면으로 돌아가기 (Developer){/b}"
+    new "{b}< 메인 화면으로 돌아가기 (Developer){/b}"
+
+    # game/script.rpy:37
+    old "프롤로그 (Developer)"
+    new "프롤로그 (Developer)"
+
+    # game/script.rpy:37
+    old "1장부터 시작 (Developer)"
+    new "1장부터 시작 (Developer)"
+
+    # game/script.rpy:37
+    old "2장부터 시작 (Developer)"
+    new "2장부터 시작 (Developer)"
+
+    # game/script.rpy:37
+    old "3장부터 시작 (Developer)"
+    new "3장부터 시작 (Developer)"
+
+    # game/script.rpy:37
+    old "4장부터 시작 (Developer)"
+    new "4장부터 시작 (Developer)"
+
+    # game/script.rpy:37
+    old "5장부터 시작 (병원 직전까지 끝) (Developer)"
+    new "5장부터 시작 (병원 직전까지 끝) (Developer)"
+
+    # game/script.rpy:37
+    old "5장부터 시작 (병원부터) (Developer)"
+    new "5장부터 시작 (병원부터) (Developer)"
+
+    # game/script.rpy:37
+    old "6장부터 시작 (Developer)"
+    new "6장부터 시작 (Developer)"
+
+    # game/script.rpy:37
+    old "7장부터 시작(마지막 소원 컷신 이전) (Developer)"
+    new "7장부터 시작(마지막 소원 컷신 이전) (Developer)"
+
+    # game/script.rpy:37
+    old "마지막 소원 컷신 (Developer)"
+    new "마지막 소원 컷신 (Developer)"
+
+    # game/script.rpy:37
+    old "7장부터 시작 (마지막 소원 컷신 이후) (Developer)"
+    new "7장부터 시작 (마지막 소원 컷신 이후) (Developer)"
+
+    # game/script.rpy:37
+    old "7장부터 시작 (과거) (Developer)"
+    new "7장부터 시작 (과거) (Developer)"
+
+    # game/script.rpy:37
+    old "7장부터 시작 (다시 현재) (Developer)"
+    new "7장부터 시작 (다시 현재) (Developer)"
+

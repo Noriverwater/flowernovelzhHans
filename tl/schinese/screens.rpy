@@ -107,6 +107,15 @@
     old "스크린샷 저장됨"
     new "截图已保存"
 
+    old "이 프로그램에는 GNU Lesser General Public License를 비롯한\n여러 라이선스에 따라 라이선스가 부여된 무료 소프트웨어가 포함되어 있습니다.\n전체 소프트웨어 목록은 {a=http://www.renpy.org/doc/html/license.html}http://www.renpy.org/doc/html/license.html{/a}에서 확인할 수 있습니다."
+    new "本程序包含自由软件许可中的一些许可证,包括GNU宽通用公共许可证。\n完整的软件列表请参见{a=http://www.renpy.org/doc/html/license.html}http://www.renpy.org/doc/html/license.html{/a}。"
+
+    old "This program contains free software licensed under a number of licenses, including the GNU Lesser General Public License.\nA complete list of software is available at {a=http://www.renpy.org/doc/html/license.html}http://www.renpy.org/doc/html/license.html{/a}."
+    new "This program contains free software licensed under a number of licenses, including the GNU Lesser General Public License.\nA complete list of software is available at {a=http://www.renpy.org/doc/html/license.html}http://www.renpy.org/doc/html/license.html{/a}."
+
+    old "폴더에서 보기"
+    new "在文件夹中查看"
+
 # TODO: Translation updated at 2023-05-04 15:27
 
 translate schinese strings:
@@ -122,4 +131,32 @@ translate schinese strings:
     # game/screens.rpy:1813
     old "QUICKSAVE"
     new "QUICKSAVE"
+
+# TODO: Translation updated at 2024-02-22 20:50
+
+translate schinese strings:
+
+    # game/screens.rpy:475
+    old "{alpha=0.5}Console{/alpha}"
+    new "{alpha=0.5}Console{/alpha}"
+
+    # game/screens.rpy:1905
+    old "'마지막 소원'에서 다시 볼 수 있어요.\n'장면' 탭으로 바로 이동할까요?"
+    new "'마지막 소원'에서 다시 볼 수 있어요.\n'장면' 탭으로 바로 이동할까요?"
+
+    # game/screens.rpy:2616
+    old "Language Switch Shortcuts: ON"
+    new "Language Switch Shortcuts: ON"
+
+    # game/screens.rpy:2618
+    old "Language Switch Shortcuts: OFF"
+    new "Language Switch Shortcuts: OFF"
+
+    # game/screens.rpy:2632
+    old "Multi-language Subtitles: ON"
+    new "Multi-language Subtitles: ON"
+
+    # game/screens.rpy:2636
+    old "Multi-language Subtitles: OFF"
+    new "Multi-language Subtitles: OFF"
 

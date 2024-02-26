@@ -2,7 +2,7 @@
 translate schinese chapter4_2d3fe9b4:
 
     # voice "voices/hd1.ogg"
-    # 현지 "“먼저 와 있었네요, 선배. 아, 혹시 오래 기다리셨어요？”"
+    # 현지 "“먼저 와 있었네요, 선배. 아, 혹시 오래 기다리셨어요?”"
     voice "voices/hd1.ogg"
     현지 "“先来了啊，前辈。啊，等了很久吗？”"
 
@@ -53,7 +53,7 @@ translate schinese chapter4_52d3dbae:
 # game/chapter4.rpy:26
 translate schinese chapter4_b6fd5d66:
 
-    # 나 "“그나저나, 왜 굳이 학교 옥상에서 보자고 한 거야？”"
+    # 나 "“그나저나, 왜 굳이 학교 옥상에서 보자고 한 거야?”"
     나 "“话说回来，为什么非要在学校楼顶见面呢？”"
 
 # game/chapter4.rpy:27
@@ -81,7 +81,7 @@ translate schinese chapter4_90ce70b8:
 # game/chapter4.rpy:37
 translate schinese chapter4_d30675b6:
 
-    # 나 "“우왓, 제법 무겁네. 혹시 이거 때문에 여기로 부른 거였어？”"
+    # 나 "“우왓, 제법 무겁네. 혹시 이거 때문에 여기로 부른 거였어?”"
     나 "“哇，好重啊。你是因为这个才把我叫过来的？”"
 
 # game/chapter4.rpy:38
@@ -110,7 +110,7 @@ translate schinese chapter4_7f95ad24:
 translate schinese chapter4_e077e40d:
 
     # voice "voices/hd4.ogg"
-    # 현지 "“연결하는 거, 도와줄 수 있죠？”"
+    # 현지 "“연결하는 거, 도와줄 수 있죠?”"
     voice "voices/hd4.ogg"
     현지 "“能帮我，接起来吗？”"
 
@@ -151,7 +151,7 @@ translate schinese chapter4_ca20db4d:
 # game/chapter4.rpy:63
 translate schinese chapter4_cf54cb1f:
 
-    # 나 "“이 케이블, 빼도 괜찮으려나？”"
+    # 나 "“이 케이블, 빼도 괜찮으려나?”"
     나 "“拔出这个电缆真的没问题吗？”"
 
 # game/chapter4.rpy:64
@@ -185,7 +185,7 @@ translate schinese chapter4_09804dde:
 # game/chapter4.rpy:75
 translate schinese chapter4_6e95f8d0:
 
-    # 나 "“연결했어. 이제 다 됐어？”"
+    # 나 "“연결했어. 이제 다 됐어?”"
     나 "“连好了。现在好了吗？”"
 
 # game/chapter4.rpy:77
@@ -213,7 +213,7 @@ translate schinese chapter4_d49a109f:
 # game/chapter4.rpy:88
 translate schinese chapter4_b0b4d9dc:
 
-    # 나 "“뭐 하는 거야？”"
+    # 나 "“뭐 하는 거야?”"
     나 "“你在做什么？”"
 
 # game/chapter4.rpy:93
@@ -357,7 +357,7 @@ translate schinese chapter4_b8a86726:
 # game/chapter4.rpy:155
 translate schinese chapter4_45b4f782:
 
-    # "착각인 걸까？"
+    # "착각인 걸까?"
     "是错觉吗？"
 
 # game/chapter4.rpy:156
@@ -370,7 +370,7 @@ translate schinese chapter4_f499175e:
 translate schinese chapter4_ebcbbaad:
 
     # voice "voices/hd11.ogg"
-    # whohy "“저…… 오컬트부에 들어갈 수 있을까요？”"
+    # whohy "“저…… 오컬트부에 들어갈 수 있을까요?”"
     voice "voices/hd11.ogg"
     whohy "“我……能加入超自然部吗？”"
 
@@ -414,7 +414,7 @@ translate schinese chapter4_f7336473:
 translate schinese chapter4_3499da5f:
 
     # voice "voices/hd13.ogg"
-    # whohy "“선배가 오컬트부 부장인가요？”"
+    # whohy "“선배가 오컬트부 부장인가요?”"
     voice "voices/hd13.ogg"
     whohy "“前辈是超自然部部长吗？”"
 
@@ -476,7 +476,7 @@ translate schinese chapter4_dcc099b1:
 translate schinese chapter4_aef0c093:
 
     # voice "voices/hd15.ogg"
-    # 현지 "“부실 분위기가 되게 좋네요. 인테리어는 직접 꾸민 거죠？”"
+    # 현지 "“부실 분위기가 되게 좋네요. 인테리어는 직접 꾸민 거죠?”"
     voice "voices/hd15.ogg"
     현지 "“活动室的气氛很好啊。室内装饰是你亲自布置的吧？”"
 
@@ -514,7 +514,7 @@ translate schinese chapter4_2a733c8f:
 translate schinese chapter4_4352ec14:
 
     # voice "voices/hd17.ogg"
-    # 현지 "“그런데 다른 부원들은 언제 오나요？”"
+    # 현지 "“그런데 다른 부원들은 언제 오나요?”"
     voice "voices/hd17.ogg"
     현지 "“不过其他成员什么时候来？”"
 
@@ -606,7 +606,7 @@ translate schinese chapter4_9c7a3290:
 translate schinese chapter4_463b3421:
 
     # voice "voices/hd19.ogg"
-    # 현지 "“정말이죠……？”"
+    # 현지 "“정말이죠……?”"
     voice "voices/hd19.ogg"
     현지 "“真的吗……？”"
 
@@ -622,7 +622,7 @@ translate schinese chapter4_538e64fc:
 translate schinese chapter4_0a4d45b3:
 
     # voice "voices/hd20.ogg"
-    # 현지 "“아니, 그게 아니라 정말 폐부 안 되는 거 맞죠？”"
+    # 현지 "“아니, 그게 아니라 정말 폐부 안 되는 거 맞죠?”"
     voice "voices/hd20.ogg"
     현지 "“不，我的意思是真的不会废部吧？”"
 
@@ -660,7 +660,7 @@ translate schinese chapter4_1fbf0303:
 translate schinese chapter4_cb0e8481:
 
     # voice "voices/hd22.ogg"
-    # 현지 "“그럼 이제 여기서 뭘 하면 되나요？ 초능력？ 최면술？ 강령술？ 아니면…… 부두 인형 만들기라도？ 혹시 재미있는 도시전설이라도 조사하러 다니는 건가요？”"
+    # 현지 "“그럼 이제 여기서 뭘 하면 되나요? 초능력? 최면술? 강령술? 아니면…… 부두 인형 만들기라도? 혹시 재미있는 도시전설이라도 조사하러 다니는 건가요?”"
     voice "voices/hd22.ogg"
     현지 "“那我们现在在这里做什么？超能力？催眠术？降灵法？不……制作巫毒娃娃怎么样？还是调查一个有趣的都市传说？”"
 
@@ -676,7 +676,7 @@ translate schinese chapter4_b255d662:
 translate schinese chapter4_bca33cf6:
 
     # voice "voices/hd23.ogg"
-    # 현지 "“아, 그거 유체이탈 말하는 거죠？”"
+    # 현지 "“아, 그거 유체이탈 말하는 거죠?”"
     voice "voices/hd23.ogg"
     현지 "“啊，那是说灵魂出窍吧？”"
 
@@ -692,7 +692,7 @@ translate schinese chapter4_17c08643:
 translate schinese chapter4_5190fd15:
 
     # voice "voices/hd24.ogg"
-    # 현지 "“오컬트에 관심 많다고 했잖아요？”"
+    # 현지 "“오컬트에 관심 많다고 했잖아요?”"
     voice "voices/hd24.ogg"
     현지 "“不是说过对超自然很感兴趣嘛？”"
 
@@ -708,7 +708,7 @@ translate schinese chapter4_1aba3e66:
 translate schinese chapter4_a1329b96:
 
     # voice "voices/hd25.ogg"
-    # 현지 "“그래서, 이런 걸로 학년 말에 논문이라도 내려는 거예요？”"
+    # 현지 "“그래서, 이런 걸로 학년 말에 논문이라도 내려는 거예요?”"
     voice "voices/hd25.ogg"
     현지 "“所以，想用这些在学年末发表论文吗？”"
 
@@ -803,7 +803,7 @@ translate schinese chapter4_b57d2832:
 # game/chapter4.rpy:354
 translate schinese chapter4_42174d73:
 
-    # 나 "“그나저나 학예제에 인형 판매 부스를 연다니, 어쩌다 그런 생각을 한 거야？”"
+    # 나 "“그나저나 학예제에 인형 판매 부스를 연다니, 어쩌다 그런 생각을 한 거야?”"
     나 "“对了，你是怎么想到在学艺祭上开设人偶售卖亭的？”"
 
 # game/chapter4.rpy:358
@@ -998,7 +998,7 @@ translate schinese chapter4_4846289a:
 translate schinese chapter4_9a0aabc8:
 
     # voice ""
-    # 나 "“텔레이도스코프？ 처음 들어 보는데.”"
+    # 나 "“텔레이도스코프? 처음 들어 보는데.”"
     voice ""
     나 "“远华镜？我还是第一次听说。”"
 
@@ -1102,7 +1102,7 @@ translate schinese chapter4_31def1cb:
 translate schinese chapter4_7a68820e:
 
     # voice "voices/hd39.ogg"
-    # 현지 "“어때요？”"
+    # 현지 "“어때요?”"
     voice "voices/hd39.ogg"
     현지 "“怎么样？”"
 
@@ -1110,7 +1110,7 @@ translate schinese chapter4_7a68820e:
 translate schinese chapter4_013aa603:
 
     # voice ""
-    # 나 "“…… 뭐야, 이거？”"
+    # 나 "“…… 뭐야, 이거?”"
     voice ""
     나 "“……什么啊，这个？”"
 
@@ -1132,7 +1132,7 @@ translate schinese chapter4_8c8c3e8a:
 translate schinese chapter4_d011104b:
 
     # voice ""
-    # 나 "“…… 50초？”"
+    # 나 "“…… 50초?”"
     voice ""
     나 "“……50秒？”"
 
@@ -1158,7 +1158,7 @@ translate schinese chapter4_fac4ee1c:
 translate schinese chapter4_40dfd940:
 
     # voice "voices/hd41.ogg"
-    # 현지 "“50초 뒤의 미래로 오는 길에, 선배는 무엇을 봤나요？”"
+    # 현지 "“50초 뒤의 미래로 오는 길에, 선배는 무엇을 봤나요?”"
     voice "voices/hd41.ogg"
     현지 "“在去50秒后的未来的路上，前辈看到了什么？”"
 
@@ -1166,7 +1166,7 @@ translate schinese chapter4_40dfd940:
 translate schinese chapter4_fd01af7f:
 
     # voice ""
-    # 나 "“그게 무슨 소리야？”"
+    # 나 "“그게 무슨 소리야?”"
     voice ""
     나 "“那是在说啥？”"
 
@@ -1174,7 +1174,7 @@ translate schinese chapter4_fd01af7f:
 translate schinese chapter4_b91aa09a:
 
     # voice "voices/hd42.ogg"
-    # 현지 "“어라, 눈앞에 뭔가 보인 거 없었어요？”"
+    # 현지 "“어라, 눈앞에 뭔가 보인 거 없었어요?”"
     voice "voices/hd42.ogg"
     현지 "“哎呀，眼前没看到什么吗？”"
 
@@ -1218,7 +1218,7 @@ translate schinese chapter4_0a9fe094:
 translate schinese chapter4_0e238842:
 
     # voice ""
-    # 나 "“내가 정말 그곳에 있었다고？”"
+    # 나 "“내가 정말 그곳에 있었다고?”"
     voice ""
     나 "“我真的在那里？”"
 
@@ -1254,7 +1254,7 @@ translate schinese chapter4_6f107114:
 translate schinese chapter4_518059f1:
 
     # voice "voices/hd46.ogg"
-    # 현지 "“기억나는 거 있어요？ 뭘 봤는지 말이에요.”"
+    # 현지 "“기억나는 거 있어요? 뭘 봤는지 말이에요.”"
     voice "voices/hd46.ogg"
     현지 "“有想起来的什么吗？你看见什么了？”"
 
@@ -1294,7 +1294,7 @@ translate schinese chapter4_a7d9beca:
 translate schinese chapter4_d7df9234:
 
     # voice "voices/hd47.ogg"
-    # 현지 "“지금으로선 50초로 5개월 정도를 진동할 수 있는 것 같네요. 음, 이 정도면 첫 구동으로는 대만족인데요？”"
+    # 현지 "“지금으로선 50초로 5개월 정도를 진동할 수 있는 것 같네요. 음, 이 정도면 첫 구동으로는 대만족인데요?”"
     voice "voices/hd47.ogg"
     현지 "“现在来说，用50秒好像能振动5个月左右。嗯，第一次驱动就有这种程度，大满足了呢？”"
 
@@ -1339,7 +1339,7 @@ translate schinese chapter4_44f7efaa:
 # game/chapter4.rpy:601
 translate schinese chapter4_47604005:
 
-    # 나 "“…… 어떻게 만든 거야？”"
+    # 나 "“…… 어떻게 만든 거야?”"
     나 "“……是怎么做到的啊？”"
 
 # game/chapter4.rpy:603
@@ -1408,7 +1408,7 @@ translate schinese chapter4_7925c0a2:
 translate schinese chapter4_9875be4c:
 
     # voice ""
-    # 나 "“그거랑 방금 내가 경험한 유체이탈이랑, 어떤 상관이 있어？”"
+    # 나 "“그거랑 방금 내가 경험한 유체이탈이랑, 어떤 상관이 있어?”"
     voice ""
     나 "“这和我刚才经历的灵魂出窍有什么关系？”"
 
@@ -1432,7 +1432,7 @@ translate schinese chapter4_4b383b86:
 translate schinese chapter4_cd5b0558:
 
     # voice "voices/hd52.ogg"
-    # 현지 "“선배, 혹시 지금 그 유령이랑 같이 있어요？”"
+    # 현지 "“선배, 혹시 지금 그 유령이랑 같이 있어요?”"
     voice "voices/hd52.ogg"
     현지 "“前辈，你现在和那个幽灵在一起吗？”"
 
@@ -1508,7 +1508,7 @@ translate schinese chapter4_18354d5c:
 translate schinese chapter4_2146069a:
 
     # voice ""
-    # 나 "“…… 조금만 더 쉽게 설명해줄 수 있어？”"
+    # 나 "“…… 조금만 더 쉽게 설명해줄 수 있어?”"
     voice ""
     나 "“……能再简单地说明一下吗？”"
 
@@ -1583,13 +1583,13 @@ translate schinese chapter4_200e8f8c:
 # game/chapter4.rpy:716
 translate schinese chapter4_beb3a7d6:
 
-    # "그런 거 아닐까？ "
+    # "그런 거 아닐까? "
     "应该是那样吧？"
 
 # game/chapter4.rpy:722
 translate schinese chapter4_0f55bd15:
 
-    # 나 "“그럼 지금 내가 50초 전의 과거로 유체이탈을 할 수도 있어？”"
+    # 나 "“그럼 지금 내가 50초 전의 과거로 유체이탈을 할 수도 있어?”"
     나 "“那我现在能灵魂出窍到50秒前的过去吗？”"
 
 # game/chapter4.rpy:723
@@ -1620,7 +1620,7 @@ translate schinese chapter4_cfb7d80b:
 translate schinese chapter4_3cdae7e5:
 
     # voice ""
-    # 나 "“얼마 정도？”"
+    # 나 "“얼마 정도?”"
     voice ""
     나 "“还需要多长时间？”"
 
@@ -1650,7 +1650,7 @@ translate schinese chapter4_099b6b8d:
 translate schinese chapter4_cca1d36d:
 
     # voice "voices/hd64.ogg"
-    # 현지 "“그 유령이랑은 좀 진전이 있어요？”"
+    # 현지 "“그 유령이랑은 좀 진전이 있어요?”"
     voice "voices/hd64.ogg"
     현지 "“和那个幽灵有进展吗？”"
 
@@ -1658,7 +1658,7 @@ translate schinese chapter4_cca1d36d:
 translate schinese chapter4_c2139c3b:
 
     # voice ""
-    # 나 "“어느 정도는？”"
+    # 나 "“어느 정도는?”"
     voice ""
     나 "“什么进展？”"
 
@@ -1702,7 +1702,7 @@ translate schinese chapter4_7f197a6f:
 translate schinese chapter4_b5934eb8:
 
     # voice ""
-    # 나 "“이 시간에 갑자기……？”"
+    # 나 "“이 시간에 갑자기……?”"
     voice ""
     나 "“在这个时候……？”"
 
@@ -1727,7 +1727,7 @@ translate schinese chapter4_f830757d:
 # game/chapter4.rpy:778
 translate schinese chapter4_033c4f27:
 
-    # 나 "“점심 먹고 난 뒤에 만나려고 이 시간에 만나자고 한 거 아니었어？”"
+    # 나 "“점심 먹고 난 뒤에 만나려고 이 시간에 만나자고 한 거 아니었어?”"
     나 "“不是为了中午吃完饭后见面才约在这个时间的吗？”"
 
 # game/chapter4.rpy:779
@@ -1788,7 +1788,7 @@ translate schinese chapter4_85ff188e:
 translate schinese chapter4_238b3d86:
 
     # voice ""
-    # 나 "“그전에, 이 텔레이도스코프는 두고 갈 거야？”"
+    # 나 "“그전에, 이 텔레이도스코프는 두고 갈 거야?”"
     voice ""
     나 "“在那之前，你要把远华镜放在这里吗？”"
 
@@ -1796,7 +1796,7 @@ translate schinese chapter4_238b3d86:
 translate schinese chapter4_1390fe9e:
 
     # voice "voices/hd69.ogg"
-    # 현지 "“음…… 역시 부실에 놔두는 편이 안전하겠네요. 선배가 케이블 좀 뽑아올 수 있나요？”"
+    # 현지 "“음…… 역시 부실에 놔두는 편이 안전하겠네요. 선배가 케이블 좀 뽑아올 수 있나요?”"
     voice "voices/hd69.ogg"
     현지 "“嗯……还是放在活动室比较安全。前辈能帮我拔一下电缆吗？”"
 
@@ -1829,7 +1829,7 @@ translate schinese ecg6_label_4f698a44:
 # game/chapter4.rpy:830
 translate schinese ecg6_label_1c84321f:
 
-    # 나 "“평소에도 이때쯤 점심 먹는 거야？”"
+    # 나 "“평소에도 이때쯤 점심 먹는 거야?”"
     나 "“平时也是这时候吃午饭吗？”"
 
 # game/chapter4.rpy:836
@@ -1880,7 +1880,7 @@ translate schinese ecg6_label_d4fc0389:
 translate schinese ecg6_label_c444b9ba:
 
     # voice "voices/hd72.ogg"
-    # 현지 "“음…… 그 말 킵해놨다 다음에 써도 돼요？”"
+    # 현지 "“음…… 그 말 킵해놨다 다음에 써도 돼요?”"
     voice "voices/hd72.ogg"
     현지 "“嗯……我可以把这句话留起来以后再用吗？”"
 
@@ -1924,7 +1924,7 @@ translate schinese ecg6_label_d75db21d:
 translate schinese ecg6_label_675a4e62:
 
     # voice "voices/hd74.ogg"
-    # 현지 "“텔레이도스코프요？ 에이, 선배도 같이 만든 거잖아요. 조사해 둔 게 아니었더라면 못 만들었을 거예요.”"
+    # 현지 "“텔레이도스코프요? 에이, 선배도 같이 만든 거잖아요. 조사해 둔 게 아니었더라면 못 만들었을 거예요.”"
     voice "voices/hd74.ogg"
     현지 "“远华镜？诶，前辈不是也一起制作了嘛。如果没调查好，制作就不会成功。”"
 
@@ -1951,7 +1951,7 @@ translate schinese ecg6_label_7e28084c:
 # game/chapter4.rpy:895
 translate schinese ecg6_label_41df3510:
 
-    # 나 "“너는 별 감흥 없는 거야？ 유체이탈을 할 수 있는 도구를 만들었는데？”"
+    # 나 "“너는 별 감흥 없는 거야? 유체이탈을 할 수 있는 도구를 만들었는데?”"
     나 "“你不激动吗？制作出了能实现灵魂出窍的工具啊？”"
 
 # game/chapter4.rpy:900
@@ -2010,7 +2010,7 @@ translate schinese ecg6_label_0a86e412:
 translate schinese ecg6_label_e6a3b3e0:
 
     # voice ""
-    # 나 "“기억 상실？”"
+    # 나 "“기억 상실?”"
     voice ""
     나 "“丧失记忆？”"
 
@@ -2034,7 +2034,7 @@ translate schinese ecg6_label_bd919bfb:
 translate schinese ecg6_label_60ed875f:
 
     # voice ""
-    # 나 "“어느 정도？”"
+    # 나 "“어느 정도?”"
     voice ""
     나 "“失去多少？”"
 
@@ -2066,7 +2066,7 @@ translate schinese ecg6_label_469eae04:
 translate schinese ecg6_label_1b59bd6e:
 
     # voice ""
-    # 나 "“해결 방법은 없어？”"
+    # 나 "“해결 방법은 없어?”"
     voice ""
     나 "“没有解决办法吗？”"
 
@@ -2179,7 +2179,7 @@ translate schinese ecg6_label_d45624fc:
 # game/chapter4.rpy:1007
 translate schinese ecg6_label_8e046deb:
 
-    # 나 "“내가 정말 유체이탈을 해서 과거로 가게 되면, 여기 남겨진 몸은 어떻게 돼？”"
+    # 나 "“내가 정말 유체이탈을 해서 과거로 가게 되면, 여기 남겨진 몸은 어떻게 돼?”"
     나 "“如果我真的灵魂出窍回到过去的话留在这里的身体会怎么样？”"
 
 # game/chapter4.rpy:1010
@@ -3520,7 +3520,7 @@ translate schinese chapter4_5_013be1ed:
     # voice ""
     # 나 "“{color=#00ccff}유령은, 눈물을 흘려?{/color}”"
     voice ""
-    나 "“{color=#00ccff}幽灵，会流泪吗？{/color}”"
+    나 "“{color=#00ccff}幽灵，会流泪吗?{/color}”"
 
 # game/chapter4.rpy:1629
 translate schinese chapter4_5_46c3d913:
@@ -4235,7 +4235,7 @@ translate schinese ecg7_label_1177336c:
 # game/chapter4.rpy:1919
 translate schinese ecg7_label_83da6de7:
 
-    # 나 "“……？!”"
+    # 나 "“……?!”"
     나 "“……？!”"
 
 # game/chapter4.rpy:1921
@@ -7820,7 +7820,7 @@ translate schinese ecg8_label_1c94ceff:
     # voice "voices/gd108.ogg"
     # 소녀 "“…… 그치만, 억울하겠죠? {color=#00ccff}누군가에게 살해당했는데, 그 사람은 죗값조차 치르지 않고 멀쩡히 살아있다면.{/color}”"
     voice "voices/gd108.ogg"
-    소녀 "“……但是，很冤枉吧？{color=#00ccff}如果被别人杀害了，而这个人还活着好好地，连罪责都没承担。{/color}”"
+    소녀 "“……但是，很冤枉吧?{color=#00ccff}如果被别人杀害了，而这个人还活着好好地，连罪责都没承担。{/color}”"
 
 # game/chapter4.rpy:3339
 translate schinese ecg8_label_bc7cc408:
