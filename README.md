@@ -58,7 +58,7 @@ A：是制作组的第一部作品。但不是制作人和剧本的第一部作�
 
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
-A：这里有一个同样是非官方的粉丝开发模组[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2238)
+A：这里有一个同样是非官方的粉丝开发模组[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)
 
 
 ### 关于 《여름의 끝에 피는 꽃》
