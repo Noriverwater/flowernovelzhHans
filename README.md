@@ -58,16 +58,19 @@ A：是制作组的第一部作品。但不是制作人和剧本的第一部作�
 
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
-A：这里有一个同样是非官方的粉丝开发模组（韩文）[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)
+A：这里有一个同样是非官方的粉丝开发模组（韩文）[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)  
+有热心玩家翻译了优美线路，并放在Bilibili上了。但目前我还没有发现有贤智线路的汉化，您可以自行尝试使用翻译器。（在游戏中按下shift+c可以将当前对话复制到剪贴板。这是Ren'py引擎的一个小技巧）
 
 
-### 关于 《여름의 끝에 피는 꽃》
+### 关于 《夏花》
 
 **在观看完最终结局后（这很重要）**，这些内容非常值得一看：
 
 - 官方的后继故事：https://www.youtube.com/watch?v=sODHt1C2xPg
 
     有人传了中文字幕：https://www.bilibili.com/video/BV11B4y1e7Xz/
+
+- 我收集并翻译了一些制作人写的文章。您可以在这个仓库的article文件夹下看到。我认为阅读这些文章有助于帮您准确把握作品想要表达的东西，也可能对拉近玩家和开发者们的距离有帮助……
 
 - 此外，您可以关注官方的[Naver cafe （韩文）](https://cafe.naver.com/midnightworks/)。
 
