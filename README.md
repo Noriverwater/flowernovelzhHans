@@ -3,7 +3,6 @@
 视觉小说[여름의 끝에 피는 꽃（Flowers blooming at the end of summer）](https://store.steampowered.com/app/1173010/)，译名《夏末盛开的花》的非官方，粉丝制作的简体中文化补丁。
 
 “夏末花开”是一个旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
-
 ## 下载
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/2.0)
@@ -26,7 +25,7 @@ Please use DDockson's English localisation patch! [link](https://steamcommunity.
 
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-如果您发现了错误，想帮忙修改译文，请考虑提交issues并留下邮箱等联系方式。
+这个补丁肯定有许多错误和不足之处，如果您发现了错误，想帮忙修改译文，请考虑提交一下issues并留下邮箱等联系方式。
 
 ## Q&A
 
@@ -60,6 +59,10 @@ A：是制作组的第一部作品。但不是制作人和剧本的第一部作�
 
 A：这里有一个同样是非官方的粉丝开发模组（韩文）[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)  
 有热心玩家翻译了优美线路，并放在Bilibili上了。但目前我还没有发现有贤智线路的汉化，您可以自行尝试使用翻译器。（在游戏中按下shift+c可以将当前对话复制到剪贴板。这是Ren'py引擎的一个小技巧）
+
+**Q：我以前见过这部作品，似乎叫做“夏末花开”。那你为啥要改成“夏末盛开的花”呢？**
+
+A：“夏末花开”这个名字不是我创造的。在2021年9月，我为该作品制作了一个机器翻译补丁并发表了。在那时之前，这部作品已经收获了社区的关注并被称为“夏末花开”。所以我在制作机翻补丁的时候就沿用了“夏末花开”的名字。但是，这个名字不符合原始标题的结构，意思上也有细微差异。所以在一年后，我尽力更正了翻译错误、重制了补丁并修改了译名。在那之后又经过了许多改造，最终变成了现在的补丁。
 
 
 ### 关于 《夏花》
