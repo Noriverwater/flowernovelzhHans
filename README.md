@@ -29,6 +29,10 @@ Please use DDockson's English localisation patch! [link](https://steamcommunity.
 
 ## Q&A
 
+## **Q：我在第四章遇到了 [#3](https://github.com/Noriverwater/flowernovelzhHans/issues/3) 中提到的问题！**
+
+A：请用最新版本(for 3rd anniversary edition)的补丁，不要用2.0版本或者更早的补丁。如果您是从别的奇怪的地方而非本仓库获得的补丁，那么我无法对您遇到的任何问题负责。
+
 **Q：我买不到这个游戏的DLC *When the Lying Petals Scatter Into the Wind*。你玩过它吗？**
 
 <p align="center"><img src= "https://cdn.cloudflare.steamstatic.com/steam/apps/1521480/header.jpg?t=1625836179" alt="가짜 꽃잎이 바람에 흩날릴 때" width="230" height="107" /></a></p>
