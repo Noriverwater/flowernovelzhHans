@@ -2,16 +2,16 @@
 
 视觉小说[여름의 끝에 피는 꽃（Flowers blooming at the end of summer）](https://store.steampowered.com/app/1173010/)，译名《夏末盛开的花》的非官方，粉丝制作的简体中文化补丁。
 
-“夏末花开”是一个旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
+“夏末花开”是曾用过的旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
 ## 下载
 
 [Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/reboot)
 
 ## Other languages? 
 
-~~[English](https://github.com/Noriverwater/flowernovelzhHans/tree/English)~~
-Please use DDockson's English localisation patch! [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3143879011)
+我收集了这部作品的其他非官方语言补丁的链接：
 
+[English](https://steamcommunity.com/sharedfiles/filedetails/?id=3143879011)
 [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
 
 
@@ -25,13 +25,13 @@ Please use DDockson's English localisation patch! [link](https://steamcommunity.
 
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-这个补丁肯定有许多错误和不足之处，如果您发现了错误，想帮忙修改译文，请考虑提交一下issues并留下邮箱等联系方式。
+这个补丁肯定有许多错误和不足之处，如果您发现了错误，想帮忙修改译文，请考虑打开issue并留下邮箱等联系方式。
 
 ## Q&A
 
 ## **Q：我在第四章遇到了 [#3](https://github.com/Noriverwater/flowernovelzhHans/issues/3) 中提到的问题！**
 
-A：请用最新版本(for 3rd anniversary edition)的补丁，不要用2.0版本或者更早的补丁。如果您是从别的奇怪的地方而非本仓库获得的补丁，那么我无法对您遇到的任何问题负责。
+A：请用最新版本(For 3rd anniversary edition)的补丁，不要用2.0版本或者更早的补丁。如果您是从别的地方而非本仓库获得的补丁，那么我无法对您遇到的任何问题负责。
 
 **Q：我买不到这个游戏的DLC *When the Lying Petals Scatter Into the Wind*。你玩过它吗？**
 
@@ -53,12 +53,12 @@ A：因为不符合[《Steam 规则及指引：讨论、评测以及用户生成
 
 **Q：这是制作组的第一部作品吗？**
 
-A：是制作组的第一部作品。但不是制作人和脚本家的第一部作品。~~（所以说其实没有什么区别）~~
+A：是MidnightWorks的第一部作品。但不是制作人和剧本家的第一部作品。（所以说其实并不是第一部作品）
 
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
 A：这里有一个同样是非官方的粉丝开发模组（韩文）[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)  
-有热心玩家翻译了优美线路，并放在Bilibili上了。但目前我还没有发现有贤智线路的汉化，您可以自行尝试使用翻译器。（在游戏中按下shift+c可以将当前对话复制到剪贴板。这是Ren'py引擎的一个小技巧）
+有热心玩家翻译了优美线路，并放在[Bilibili](https://www.bilibili.com/video/BV1bv4y1j78F/)上了。但目前我还没有发现有贤智线路的汉化，您可以自行尝试使用翻译器。（在游戏中按下shift+c可以将当前对话复制到剪贴板。这是Ren'py引擎的一个小技巧）
 
 **Q：我以前见过这部作品，似乎叫做“夏末花开”。那你为啥要改成“夏末盛开的花”呢？**
 
@@ -67,13 +67,19 @@ A：“夏末花开”这个名字不是我创造的。在2021年9月，我为�
 
 ### 关于 《夏花》
 
-**在观看完最终结局后（这很重要）**，这些内容非常值得一看：
+**在观看完最终结局后（这很重要）**，这些内容值得一看。我认为观看这些内容有助于准确把握作品想要表达的东西，也可能对拉近玩家和开发者们的距离有帮助。虽然有一千个读者就有一千个哈姆雷特，但我觉得听听开发者的原本想法也很有意义。
 
 - 官方的后继故事：https://www.youtube.com/watch?v=sODHt1C2xPg
 
     有人传了中文字幕：https://www.bilibili.com/video/BV11B4y1e7Xz/
 
-- **我收集并翻译了一些制作人写的文章。您可以在这个仓库的article文件夹下看到。我认为阅读这些文章有助于帮您准确把握作品想要表达的东西，也可能对拉近玩家和开发者们的距离有帮助。**
+- 制作人Luet2P先生参与了由**前Talesshop剧本家，Zad先生**主持的“**介**绍**游**戏**开**发者(게.개.소)”系列访谈。链接如下（目前仅有韩文字幕）：
+
+    第一部分：https://www.youtube.com/watch?v=xAAr3Mhzi2c
+
+    第二部分：https://www.youtube.com/watch?v=lb0thUFQZOM
+
+- **我还收集并翻译了一些Luet2P先生写的文章。您可以在这个仓库的[article文件夹](https://github.com/Noriverwater/flowernovelzhHans/tree/main/article)下看到。**
 
 - 此外，您可以关注官方的[Naver cafe （韩文）](https://cafe.naver.com/midnightworks/)。
 
