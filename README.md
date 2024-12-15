@@ -58,7 +58,8 @@ A：是MidnightWorks的第一部作品。但不是制作人和剧本家的第一
 **Q：有DLC的替代品吗？好想知道两名女孩的故事啊，没有她们的线路真是太可惜了……**
 
 A：这里有一个同样是非官方的粉丝开发模组（韩文）[《다시, 기억의 끝자락에서 피는 꽃（再一次，在记忆的末尾盛开的花）》](https://steamcommunity.com/sharedfiles/filedetails/?id=2954417459)。[原帖链接](https://cafe.naver.com/midnightworks/2429)  
-有热心玩家翻译了优美线路，并放在[Bilibili](https://www.bilibili.com/video/BV1bv4y1j78F/)上了。但目前我还没有发现有贤智线路的汉化，您可以自行尝试使用翻译器。（在游戏中按下shift+c可以将当前对话复制到剪贴板。这是Ren'py引擎的一个小技巧）
+有热心玩家翻译了优美线路，并放在[Bilibili](https://www.bilibili.com/video/BV1bv4y1j78F/)上了。
+他也发布了补丁版：https://www.bilibili.com/opus/792438027713511428
 
 **Q：我以前见过这部作品，似乎叫做“夏末花开”。那你为啥要改成“夏末盛开的花”呢？**
 
