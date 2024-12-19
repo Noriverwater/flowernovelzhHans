@@ -4680,7 +4680,7 @@ translate schinese ecg7_label_2712019e:
 translate schinese ecg7_label_f3398def:
 
     # "나 또한, 그런 편의주의적인 흐름에 물든 사람 중 한 명이었고 말이다."
-    "我也是，被这种便宜主义义潮流所感染的人之一。"
+    "我也是，被这种便宜主义潮流所感染的人之一。"
 
 # game/chapter4.rpy:2108
 translate schinese ecg7_label_e9a2d505:
