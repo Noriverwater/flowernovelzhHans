@@ -13,7 +13,7 @@
 
 [English](https://steamcommunity.com/sharedfiles/filedetails/?id=3143879011)
 [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
-
+[Русский](https://steamcommunity.com/sharedfiles/filedetails/?id=3403093815)
 
 ## 译文许可证
 
