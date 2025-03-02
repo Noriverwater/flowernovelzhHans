@@ -260,6 +260,9 @@
     old "%b %d, %H:%M"
     new "%b%d日 %H:%M"
 
+    old "%Y %b %d,\n%H:%M:%S"
+    new "%Y年%b%d日\n%H时%M分%S秒"
+
     # 00action_file.rpy:353
     old "Save slot %s: [text]"
     new "保存存档 %s：[text]"
@@ -970,7 +973,7 @@
 
     # 00gltest.rpy:187
     old "Tearing"
-    new "画面撕裂"
+    new "允许画面撕裂"
 
     # 00gltest.rpy:203
     old "Changes will take effect the next time this program is run."
@@ -1175,10 +1178,6 @@ translate schinese strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2021-10-02 16:08
-
-translate schinese strings:
-
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
     new "高对比度文字"
@@ -1187,13 +1186,9 @@ translate schinese strings:
     old "high contrast text"
     new "高对比度文字"
 
-# TODO: Translation updated at 2023-05-04 15:27
-
-translate schinese strings:
-
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "打开 [text] 目录。"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
@@ -1206,10 +1201,6 @@ translate schinese strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
-# TODO: Translation updated at 2023-07-21 13:55
-
-translate schinese strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Voice Volume"
@@ -1229,11 +1220,11 @@ translate schinese strings:
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "这是在其他设备上生成的存档文件。{vspace=1}{size=23}来源不明的存档文件可能会对电脑造成损害。\n如果Steam Cloud的存档文件是在其他电脑上生成的，您可能会看到这条信息。\n您要信任这个存档文件并继续吗？{/size}"
+    new "这是在其他设备上生成的存档文件。{vspace=1}{size=23}来源不明的存档文件可能会对电脑造成损害。\n如果Steam云同步的存档文件是在其他电脑上生成的，您可能会看到这条信息。\n您要信任这个存档文件并继续吗？{/size}"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "您要信任这台电脑上的所有存档文件吗？{vspace=1}{size=23}只有确认了是自己在其他电脑上生成的，\n而不是从未知来源的网站下载的存档文件，才能按下确认按钮继续。 \n按下确认按钮后，以后在这台电脑上生成的存档文件将直接加载。{/size}"
+    new "您要信任这台电脑上的所有存档文件吗？{vspace=1}{size=23}只有确认了是自己在其他电脑上生成的，\n而不是从未知来源的网站下载的存档文件，才能按下确认按钮继续。 \n按下确认按钮后，以后将直接加载在这台电脑上生成的存档文件。{/size}"
     
     # renpy/common/00preferences.rpy:532
     old "audio when unfocused"
@@ -1249,7 +1240,7 @@ translate schinese strings:
 
     # renpy/common/00speechbubble.rpy:392
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "对话气泡编辑器"
 
     # renpy/common/00speechbubble.rpy:397
     old "(hide)"
@@ -1261,81 +1252,81 @@ translate schinese strings:
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "同步下载完成。"
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "无法连接到 Ren'Py 同步服务器。"
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Ren'Py 同步服务器已超时。"
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "在连接到 Ren'Py 同步服务器时发生了未知错误。"
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py 同步服务器没有该同步副本。同步 ID 可能无效，或者可能已经超时。"
 
     # renpy/common/00sync.rpy:412
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "请输入您生成的同步 ID。\n切勿输入并非由您创建的同步 ID。"
 
     # renpy/common/00sync.rpy:431
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "同步 ID 的格式不正确。"
 
     # renpy/common/00sync.rpy:451
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "无法解密该同步。"
 
     # renpy/common/00sync.rpy:474
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "该同步属于另一款游戏。"
 
     # renpy/common/00sync.rpy:479
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "该同步包含一个文件，其文件名无效。"
 
     # renpy/common/00sync.rpy:532
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "此操作将把您的存档上传到 {a=https://sync.renpy.org}Ren'Py 同步服务器{/a} 。\n您想要继续吗？"
 
     # renpy/common/00sync.rpy:540
     old "Yes"
-    new "Yes"
+    new "是"
 
     # renpy/common/00sync.rpy:541
     old "No"
-    new "No"
+    new "否"
 
     # renpy/common/00sync.rpy:561
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "输入同步 ID"
 
     # renpy/common/00sync.rpy:572
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "此操作将联系 {a=https://sync.renpy.org}Ren'Py 同步服务器{/a}。"
 
     # renpy/common/00sync.rpy:599
     old "Sync Success"
-    new "Sync Success"
+    new "同步成功"
 
     # renpy/common/00sync.rpy:602
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "同步 ID 是："
 
     # renpy/common/00sync.rpy:608
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "你可以使用此 ID 在另一设备上下载您的存档。\n此同步将在一小时后失效。\nRen'Py 同步由{a=https://www.renpy.org/sponsors.html}Ren'Py 赞助者{/a}赞助。"
 
     # renpy/common/00sync.rpy:612
     old "Continue"
-    new "Continue"
+    new "继续"
 
     # renpy/common/00sync.rpy:634
     old "Sync Error"
-    new "Sync Error"
+    new "同步错误"
 
