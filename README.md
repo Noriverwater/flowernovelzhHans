@@ -5,9 +5,6 @@
 # 《夏花》官方现在支持简体中文！
 
 “夏末花开”是曾用过的旧译名。虽然“夏末盛开的花”更加贴合原始标题，但怎么称呼完全取决于您。官方认可的简称是“夏花（여름꽃）”
-## 下载
-
-[Releases](https://github.com/Noriverwater/flowernovelzhHans/releases/tag/reboot)
 
 ## Other languages? 
 
@@ -15,7 +12,7 @@
 
 [English](https://steamcommunity.com/sharedfiles/filedetails/?id=3143879011)
 [日本語](https://github.com/Noriverwater/flowernovelzhHans/tree/Japanese)
-[Русский](https://steamcommunity.com/sharedfiles/filedetails/?id=3403093815)
+~[Русский](https://steamcommunity.com/sharedfiles/filedetails/?id=3403093815)~
 
 ## 译文许可证
 
