@@ -137,11 +137,14 @@
     old "자동 저장"
     new "自动保存"
 
+    old "최근 저장"
+    new "最近保存"
+
     old "퀵세이브"
     new "快速存档"
 
     old "Flowers Blooming: Main Game"
-    new "‘《夏末盛开的花》正篇"
+    new "《夏末盛开的花》正篇"
 
     old "You are currently running the Main Game of Flowers Blooming \nat the End of Summer. Thank you sincerely for your purchase and support."
     new "当前正在运行《夏末盛开的花》正篇。\n衷心感谢您购买并支持《夏花》。"
@@ -208,3 +211,6 @@
 
     old "잠들어 있었던 기억들 속에서,\n끝나지 않은 우리의 이야기."
     new "从曾永眠过的记忆中，\n我们的故事未能结束。"
+
+    old "The currently applied MOD file does not have a translation for this language ([lang_current]).\nText may appear broken.\nPlease download the latest version of the MOD or a MOD file translated to this language."
+    new "当前应用的MOD文件中不存在此语言（[lang_current]）的翻译。\n文本可能显示为乱码。\n请下载MOD的最新版本或已翻译成该语言的MOD文件。"
