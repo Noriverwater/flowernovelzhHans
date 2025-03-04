@@ -2,7 +2,7 @@
 
 ~视觉小说[여름의 끝에 피는 꽃（Flowers blooming at the end of summer）](https://store.steampowered.com/app/1173010/)，译名《夏末盛开的花》的非官方，粉丝制作的简体中文化补丁。~
 
-# 《夏花》官方现在支持简体中文！
+# 《夏花》官方现在支持简体中文，此仓库已归档。
 
 玩家交流QQ群：286398614
 
@@ -26,7 +26,6 @@
 
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-这个补丁肯定有许多错误和不足之处，如果您发现了错误，想帮忙修改译文，请考虑打开issue并留下邮箱等联系方式。
 
 ## Q&A
 
